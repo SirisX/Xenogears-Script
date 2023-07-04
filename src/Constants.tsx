@@ -5,6 +5,15 @@ import text00 from './text/00_Prologue.txt'
 import text01 from './text/01_Lahan_Village.txt'
 import text02 from './text/02_Mountain_Path.txt'
 import text03 from './text/03_House_On_a_Hill.txt'
+import text04 from './text/04_Fallen_Shadows.txt'
+import text05 from './text/05_Attack_on_Lahan.txt'
+import text06 from './text/06_Into_the_Woods.txt'
+import text07 from './text/07_Girl_in_Forest.txt'
+import text08 from './text/08_Broken_Silence.txt'
+import text09 from './text/09_Path_to_Aveh.txt'
+import text10 from './text/10_Dazil.txt'
+import text11 from './text/11_Desert_Attack!.txt'
+import text12 from './text/12_Stalactite_Cave.txt'
 
 export const DefaultChapters: Chapter[] = [
     {
@@ -35,6 +44,51 @@ export const DefaultChapters: Chapter[] = [
     {
         name: "House On a Hill",
         number: 3,
+        text: text03,
+    },
+    {
+        name: "Fallen Shadows",
+        number: 4,
+        text: text01,
+    },
+    {
+        name: "Attack on Lahan",
+        number: 5,
+        text: text02,
+    },
+    {
+        name: "Into the Woods",
+        number: 6,
+        text: text03,
+    },
+    {
+        name: "Girl in Forest",
+        number: 7,
+        text: text01,
+    },
+    {
+        name: "Broken Silence",
+        number: 8,
+        text: text02,
+    },
+    {
+        name: "Path to Aveh",
+        number: 9,
+        text: text03,
+    },
+    {
+        name: "Dazil",
+        number: 10,
+        text: text01,
+    },
+    {
+        name: "Desert Attack!",
+        number: 11,
+        text: text02,
+    },
+    {
+        name: "Stalactite Cave",
+        number: 12,
         text: text03,
     }
 ]
