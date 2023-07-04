@@ -5,6 +5,7 @@ html {
 
 .App {
     background-color: black;
-    padding: 48px;
+    padding: 64px;
     color: white;
+    font-size: 2rem;
 }
