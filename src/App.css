@@ -2,7 +2,7 @@
 .App {
     display: grid;
     justify-items: center;
-    padding: 64px 0 0 220px;
+    padding: 64px 0 0 200px;
     background-color: black;
     color: white;
 }
@@ -20,7 +20,7 @@
     position: fixed;
     height: 50%;
     min-height: 300px;
-    width: 160px;
+    width: 150px;
     left: 32px;
     border: white 2px solid;
     border-radius: 2%;

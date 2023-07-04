@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import { DefaultChapters } from "./Constants";
-import React from "react";
 import { Chapter } from "./Types";
 
 const App = () => {
-  // const [text, setText] = useState({});
   const [chapterText, setChapterText] = useState<string[]>([]);
 
+
+  // Load all chapter text files
   useEffect(() => {
     Promise.all(
       DefaultChapters.map(async (chapter: Chapter, index) => {
@@ -22,6 +22,8 @@ const App = () => {
     });
   }, []);
 
+
+  // Jump to certain spot in the page based on chapter number
   const handleGoToSection = (chapter: Chapter) => {
     window.location.replace(`/#chapter${chapter.number}`)
   }
