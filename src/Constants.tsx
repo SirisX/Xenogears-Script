@@ -14,6 +14,7 @@ import text09 from './text/09_Path_to_Aveh.txt'
 import text10 from './text/10_Dazil.txt'
 import text11 from './text/11_Desert_Attack.txt'
 import text12 from './text/12_Stalactite_Cave.txt'
+import text13 from './text/13_Pirates_Lair.txt'
 
 export const DefaultChapters: Chapter[] = [
     {
@@ -90,5 +91,10 @@ export const DefaultChapters: Chapter[] = [
         name: "Stalactite Cave",
         number: 12,
         text: text12,
+    },
+    {
+        name: "Pirate's Lair",
+        number: 13,
+        text: text13,
     }
 ]
