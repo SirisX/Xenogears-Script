@@ -4,5 +4,7 @@ html {
 
 
 .App {
+    background-color: black;
     padding: 48px;
+    color: white;
 }
