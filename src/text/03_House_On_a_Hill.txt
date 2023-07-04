@@ -1,0 +1,136 @@
+----------------------------------------------------------------------
+House On a Hill - Outside Citan's House Daytime - 0640
+----------------------------------------------------------------------
+
+"Injured, sick, all
+accepted. Come on in!
+But no deceased please."
+
+"The shiny farhead is the
+pruf of justis! Stop the
+njections, yew quack."
+
+----------------------------------------------------------------------
+House On a Hill - Citan's House - 0644
+----------------------------------------------------------------------
+
+Yui
+"Oh, welcome, Fei.
+What brings you
+here today?"
+
+Fei
+"Well,
+nothing in particular..."
+
+Yui
+"I see...
+Well, anyway, please
+make yourself at home."
+
+Midori
+"..."
+
+----------------------------------------------------------------------
+
+Yui
+"Oh Fei, welcome."
+
+Fei
+"Hello, Yui.
+Where's doc...?"
+
+Yui
+"My husband is tinkering
+with his junk out in the
+backyard."
+
+Fei
+"I should have guessed!
+Doesn't he ever get sick of
+playing with that stuff!"
+
+Fei
+"Well, okay then, I'll go
+out into the backyard and
+see if I can find him."
+
+Fei
+"Oh, I nearly forgot!
+Yui, I found this on
+the mountain path...
+Please use it to make
+a tasty egg dish for
+doc and Midori."
+
+Yui
+"Oh, what a nutritious
+looking egg! Thank you.
+I'll use it for dinner."
+
+Gave the egg you worked
+so hard for to Yui.
+
+Fei
+"Hi, Midori.
+It's a nice day
+to play outside.
+How about we feed
+the birds later?"
+
+Midori
+"..."
+
+----------------------------------------------------------------------
+House On a Hill - Outside Citan's House Daytime - 0640
+----------------------------------------------------------------------
+
+Fei
+"Where are you, doc?"
+
+Fei
+"W, what's going on?"
+
+Citan
+Ohhh! This is no good!
+Why do they use such
+inferior parts?
+This is why their
+intervention strat...
+
+Fei
+"Doc!!
+So that's where
+you were!"
+
+Citan
+"Oh, Fei!
+Good to see you."
+
+Fei
+"Are you alright, doc?
+What are you doing all
+the way up there?"
+
+Citan
+"I thought I would try to
+restore this Land Crab.
+Oh, and that explosion was
+nothing to worry about.
+It happens all the time.
+Ha, ha, ha...!"
+
+Citan
+"Could you wait a while?
+I am just about ready
+to call it a day.
+Oh, yes. There is
+something interesting
+in the storeroom...
+Why not take a look!?"
+
+Fei
+"Okay, doc, I will.
+But please hurry up.
+It will get dark
+before you know it."
