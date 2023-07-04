@@ -31,9 +31,9 @@ const App = () => {
     <div className="App">
       {showSidebar ? (
         <div className="sidebar">
-          <div className="sidebar-header">
-            <p>Nav</p>
-            <p className="x-button" onClick={() => setShowSidebar(false)}>
+          <div className="sidebar-header" onClick={() => setShowSidebar(false)}>
+            <p>Close</p>
+            <p className="x-button">
               X
             </p>
           </div>
@@ -65,11 +65,11 @@ const App = () => {
             showSidebar ? setShowSidebar(false) : setShowSidebar(true);
           }}
         >
-          {showSidebar ? "" : <p className="open-nav">Nav</p>}
+          {showSidebar ? "" : <p className="open-nav">Quick Jump</p>}
         </div>
       )}
 
-      <div className="text-container" style={{ paddingLeft: showSidebar ? "180px" : "0"}}>
+      <div className="text-container" style={{ paddingLeft: showSidebar ? "160px" : "0"}}>
         {chapterText.map((chapter: string, index) => {
           return (
             <div
