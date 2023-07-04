@@ -51,23 +51,36 @@ const App = () => {
           })}
         </div>
       ) : (
-        <div className="sidebar" style={{ opacity: 0, pointerEvents: "none", bottom: "-490px"  }}></div>
+        <div
+          className="sidebar"
+          style={{ opacity: 0, pointerEvents: "none", left: "-290px" }}
+        ></div>
       )}
-      <div className="bottomBar">
-        <div className="sidebar-header" onClick={() => {showSidebar ? setShowSidebar(false) : setShowSidebar(true)}}>
-          <p className="open-nav">Contents</p>
+      {showSidebar ? (
+        ""
+      ) : (
+        <div
+          className="sidebar-openbox"
+          onClick={() => {
+            showSidebar ? setShowSidebar(false) : setShowSidebar(true);
+          }}
+        >
+          {showSidebar ? "" : <p className="open-nav">Nav</p>}
         </div>
+      )}
+
+      <div className="text-container" style={{ paddingLeft: showSidebar ? "180px" : "0"}}>
+        {chapterText.map((chapter: string, index) => {
+          return (
+            <div
+              className="chapter-text"
+              id={`chapter${DefaultChapters[index].number}`}
+            >
+              <div className={`chapter-${index}`}>{chapter}</div>
+            </div>
+          );
+        })}
       </div>
-      {chapterText.map((chapter: string, index) => {
-        return (
-          <div
-            className="chapter-text"
-            id={`chapter${DefaultChapters[index].number}`}
-          >
-            <div className={`chapter-${index}`}>{chapter}</div>
-          </div>
-        );
-      })}
     </div>
   );
 };

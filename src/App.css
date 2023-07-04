@@ -8,6 +8,11 @@
 }
 
 /* CSS for the actual text */
+.text-container {
+    padding: 0;
+    transition: 0.2s padding ease-in;
+}
+
 .chapter-text {
     color: white;
     font-size: 1.1rem;
@@ -19,17 +24,15 @@
 .sidebar {
     position: fixed;
     height: 50%;
-    height: 80vh;
-    max-height: 600px;
+    height: 100vh;
     width: 150px;
-    right: 0px;
+    left: 0px;
     bottom: 0;
-    border: white 1px solid;
-    border-radius: 1px;
+    border-right: white 1px solid;
     background-color: black;
     z-index: 1;
     padding: 4px;
-    transition: 0.4s all ease-in;
+    transition: 0.2s all ease-in;
 }
 
 
@@ -55,6 +58,7 @@
 .sidebar-header p {
     font-weight: 800;
     margin: 0;
+    margin-top: 12px;
 }
 
 .x-button {
@@ -64,32 +68,25 @@
     font-size: 1.2rem;
     margin: 0px;
 }
+/*Button to open nav*/
+.sidebar-openbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 24px;
+    border: white 1px solid;
+    border-radius: 1px;
+    background-color: black;
+    display: grid;
+    justify-items: start;
+}
+
 
 .open-nav {
     cursor: pointer;
     /* padding: 4px; */
-    font-weight: 900;
-    font-size: 1.2rem;
-    margin: 0px;
-    text-shadow: 2px 2px 2px red;
+    font-weight: 800;
+    margin: 0;
     user-select: none;
     padding-right: 12px;
-}
-
-
-/* CSS for the bottom bar */
-.bottomBar {
-    position: fixed;
-    height: 32px;
-    /* height: 300px; */
-    width: 100vw;
-    right: 0;
-    bottom: 0;
-    border: white 1px solid;
-    border-radius: 1px;
-    background-color: black;
-    z-index: 1;
-    display: grid;
-    justify-items: end;
-    /* margin: 0 64px; */
 }
