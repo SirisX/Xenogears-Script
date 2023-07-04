@@ -27,6 +27,7 @@
     border-radius: 1px;
     background-color: black;
     z-index: 1;
+    padding: 4px;
 }
 
 
@@ -68,6 +69,7 @@
     font-weight: 900;
     font-size: 1.2rem;
     margin: 0px;
+    text-shadow: 2px 2px 2px red;
 }
 
 
