@@ -1,0 +1,1324 @@
+----------------------------------------------------------------------
+Stalactite Cave - Fei and Bart fall into underground cave - 0750
+----------------------------------------------------------------------
+
+Pirate
+"Hey, come down here now!
+I'm not gonna kill you.
+All I want is for you to
+leave this Gear... Huh?"
+
+Fei
+What?
+
+Pirate
+"Hey!?
+You're not an
+Aveh soldier?"
+
+Fei
+"I told you that in my
+intercom transmission
+earlier.
+You're the one who
+refused to listen to
+me, right?"
+
+Pirate
+"Hah, ha, ha. Sorry, sorry.
+Yes, I remember you were
+saying something like that.
+I went off half-cocked and
+thought you were the enemy.
+Uhh, ahem...
+My name is Bart.
+I'm the pirate that works
+this territory."
+
+Fei
+"My name is Fei.
+I was arrested for no
+apparent reason, shoved
+into that Aveh transport
+ship...
+...And was nearly going to
+be sent to a concentration
+camp until you went and
+blew the thing to blazes.
+Anyway...
+I'm just glad to have
+been able to survive."
+
+Bart
+"I see...
+Well, I'm glad I at least
+helped you out a little.
+But I didn't expect a
+civilian like you would
+be riding in a military
+Gear.
+Besides, this Gear is a
+brand new model.
+I've never seen this type
+before."
+
+Fei
+"Let's just say that
+a lot of things have
+happened...
+It wasn't like I
+wanted to pilot it!"
+
+Fei
+"Where are we anyway?
+Looks like we fell into
+one weird place.
+I've never heard of huge
+stalactite caves such as
+this existing under the
+desert before."
+
+Bart
+"What? You don't know
+anything, do you?
+Where are you from?
+The desert only covers
+around 1000 sharls of the
+outer layer of the earth.
+The stratum underneath
+that consists of igneous
+rock."
+
+Fei
+"From a sea of trees to
+a sea of sand...and now
+a stalactite cave...
+What's next...?"
+
+Bart
+"What are you
+talking about?"
+
+Fei
+"Oh, nothing...
+Never mind..."
+
+Bart
+"We're in trouble...
+Look, the hole we fell
+through has disappeared.
+We'd better find some
+other way out...
+So, you wanna call a
+truce for now?
+...At least until we
+find an exit and get
+out of here."
+
+Fei
+"Yes...
+agreed.
+First, we gotta find
+the way out of here...
+So, let's get going..."
+
+----------------------------------------------------------------------
+Stalactite Cave - On top of Yggdrasil - 1168
+----------------------------------------------------------------------
+
+Soldier 1
+Phew, thank god...
+I didn't wanna dry up and
+die up in the desert...
+
+Mechanic
+Hey, you!
+I know you're tired but
+don't go any further
+than there!
+
+Soldier 2
+Shut up!
+You sunk our ship!
+Don't you forget that!
+
+Man
+No, you shut up!
+Just be thankful that
+you were saved!
+
+Nurse
+Excuse me...
+
+Is there anyone who is
+almost dead, with no arms
+and legs, or in need of
+an abdominal operation!?
+
+No one...? 
+Well that's
+depressing...
+
+Citan
+"I see...
+So your 'young one' has
+not just been shooting
+at anything and every-
+thing then, Sigurd."
+
+Sigurd
+"Yes, he actually
+calculated this attack...
+...or so he says!
+As you can see...
+no one has died this
+time, either."
+
+Gear Pilot
+Sigurd, sir!
+The collection of the goods
+and soldiers from the Aveh
+transport is almost complete.
+We still can't locate the
+young master... General
+Maitreya's platoon will
+scout around again.
+
+Sigurd
+"Okay.
+I'm counting on you."
+
+Gear Pilot
+Yes, sir!
+Since I'm part of the unit
+I'll also excuse myself.
+
+Citan
+"So, what happened to
+this 'young one' you
+call 'master'?"
+
+Sigurd
+"He fell into an under-
+ground cave with that
+other guy in a Gear.
+It's near an old excavation
+site, and he is riding in a
+Gear, so he'll probably be
+able to come up somehow...
+We'll try to find him for a
+while, and if that doesn't
+work, then we'll wait for
+him at our meeting point."
+
+Citan
+"You seem to trust
+him a lot..."
+
+Sigurd
+"Trust him...
+Yeah, I trust he'll
+get us into trouble."
+
+Sigurd
+"But I never thought I
+would meet you here,
+'Hyu'..."
+
+Citan
+"It is not coincidence.
+It is an inevitable
+consequence...I assume."
+
+Sigurd
+"...Hyuga...
+Are you saying something
+is about to happen?"
+
+----------------------------------------------------------------------
+Stalactite Cave - Bolder blocks path - Great Hall - 0734
+----------------------------------------------------------------------
+
+Bart
+"Hey, Fei!
+My sensors are responding
+to something.
+There appears to be quite
+a large cavern on the
+other side of here."
+
+Bart
+"If we can get rid of this
+rock...but I don't think
+it's possible."
+
+----------------------------------------------------------------------
+
+Bart
+"Hey, this is huge.
+What can we do with this?
+I doubt you can break it."
+
+Fei
+"I guess we could
+try pushing it..."
+
+Bart
+"Wait, no matter how
+you look at it..."
+
+Fei
+"What the heck are you
+doing? Hurry up and
+help!!"
+
+Fei
+"We can get by if we help
+each other.
+Let's keep it up so we
+can get out of here."
+
+Bart
+"The hydromechanic pipe for
+my knee joint is on the
+verge of breaking down.
+It's all because of that
+fall from the ceiling...
+followed by pushing this
+mega-colossal boulder.
+It won't be funny if my
+Gear malfunctions in a
+huge cavern like this."
+
+Fei
+"Your friends won't
+come and help us?"
+
+Bart
+"It'd be a waste of time
+waiting. They probably
+won't come."
+
+Fei
+"But, aren't they your
+friends?"
+
+Bart
+"We believe in a
+liberal upbringing.
+They'll think we can
+escape by ourselves."
+
+Fei
+"I wonder if doc
+is okay."
+
+Bart
+"Don't worry about the
+man you were with.
+I'm sure our guys saved
+him by now."
+
+Fei
+"..."
+
+Bart
+"What is it?"
+
+Fei
+"...
+We wouldn't have fallen
+in here if you had only
+listened to me."
+
+Bart
+"Don't blame it on me!
+You should've surrendered
+instead of challenging me.
+All I wanted was your
+Gear."
+
+Fei
+"Don't be ridiculous!
+You're the one who blindly
+attacked me. What else was
+I supposed to do?
+I thought I might die if
+I didn't fight you."
+
+Bart
+"I was taking it easy on
+you. Couldn't you tell?
+Then you're a bit dense."
+
+Fei
+"Don't lie to me.
+I know you were serious."
+
+Bart
+"What! You want some!?
+Let's have it out!
+Right here!"
+
+Fei
+"..."
+
+Bart
+"Wait! Settling it
+right here comes first.
+I won't be able to get
+anything done until we
+settle this once and
+for all!"
+
+Fei
+"I thought you wanted a
+truce for now? Getting out
+of here should come first!
+Once we're out of here,
+then I'll fight you all
+you want. Let's hurry up
+and move on out of here!"
+
+Bart
+"I don't like you
+very much...
+Damn it!
+I'll get you when we
+get outta here."
+
+----------------------------------------------------------------------
+
+Fei
+"Looks like even a person
+couldn't fit through..."
+
+Detected amounts of falling sand
+above the standard safety figure.
+The sand barrier on the south
+wall of the Terrace Stones has
+been sealed to prevent sand from
+penetrating the excavation site.
+Until the barrier is reopened,
+please assemble at the safety
+shelter to the east of the
+barrier wall. Thank-you.
+
+----------------------------------------------------------------------
+Stalactite Cave - Outside Old Man Bal's Cave - 0738
+----------------------------------------------------------------------
+
+Bart
+"Who'd have thought there
+would be someone living
+in a place like this!
+Let's check it out!"
+
+----------------------------------------------------------------------
+Stalactite Cave - Old Man Balthazar's Cave - 0748
+----------------------------------------------------------------------
+
+Bart
+"Hey, Fei! This is a
+surprise! There's someone
+living in this place!"
+
+Old Man
+Hmm, it's been a while,
+but I thought I could hear
+the sound of Gears.
+I assume they are yours?
+Well anyway, come on back
+in here and make yourself
+at home.
+
+Old Man
+It's been a long time
+since my last visitor.
+What happened? Did you
+fall from the surface?
+
+Bart
+"I guess that's it."
+
+Old Man
+I see...
+That's too bad.
+I can tell from the sound
+that you both ride good
+Gears...
+But the legs seem to be
+playing up a bit.
+
+Fei
+"You mean, you can tell
+what's wrong just by the
+sound of its footsteps?"
+
+Old Man
+Ha ha ha.
+It's easy to know what's
+wrong with Gears by the
+sounds they make.
+My guess is that one
+of them needs a new
+hydromechanic pipe
+in its joints.
+It's making a
+nasty sound.
+It must be hard to
+walk with too.
+Oh, by the way, the
+name's Balthazar,
+but you can call me
+Ol' man Bal.
+
+Bart
+"Oh yeah? 
+So looks like we've got a
+real fanatic here, huh!"
+
+Bart
+"What's an old man like
+you doing in a place 
+like this?"
+
+Ol' man Bal
+"I guess you can call me a
+'fossicker' or a 'collector
+of things'.
+There is much to be found
+lying around in this here
+stalactite cavern."
+
+Bart
+"A collector, huh?
+Sounds interesting."
+
+Bart
+"The things on this shelf,
+are they some of the stuff
+you have found?"
+
+Ol' man Bal
+"You mean the fossils?
+They're one of the 
+things I collect.
+Feel free to have a
+look at them."
+
+Ol' man Bal
+"Around here you can dig up
+ancient machines along with
+human and animal fossils.
+Notice anything particular
+on these shelves? They go
+from oldest on the left,
+to newest on the right."
+
+Bart
+"Are you an archaeologist
+or something, old man?
+I don't quite see what
+you're talking about.
+They just look like a
+bunch of old bones to me.
+Fei, what do you think?"
+
+Fei
+"...Let me see.
+First, there are no
+human bones up to here.
+Then, from here on over
+to the right, something
+is slightly different...
+I guess."
+
+Ol' man Bal
+"Yes, from a certain point
+in time, human fossils
+suddenly no longer appear.
+That point is roughly
+10,000 years ago."
+
+Bart
+"What does that mean?"
+
+Ol' man Bal
+"Don't ask me.
+I don't know for sure...
+But my guess is, there
+were no humans on this
+planet before then.
+At least it appears so."
+
+Bart
+"How could that be?
+What about all that
+talk about evolution?"
+
+Ol' man Bal
+"You mean the theory of
+evolution as taught by
+the 'Ethos', right?
+You can't trust that!
+Rather, I believe in the
+old legends and myths."
+
+Fei
+"Legends?
+Myths?"
+
+Ol' man Bal
+"Haven't you heard
+of this story...?"
+
+Ol' man Bal
+"They say that humans and
+god lived together in a
+paradise in the sky.
+With god's protection,
+there was no fear of death
+and natural disasters were
+entirely unknown.
+Then one day, the humans
+ate a forbidden fruit
+which gave them incredible
+wisdom.
+But god drove mankind from
+the paradise for their sin.
+Bitter at having been
+driven out of paradise,
+humans used the wisdom they
+had gained to make giants.
+With these giants, they
+planned to challenge god
+himself. But god poured
+his wrath down on them.
+All who defied god were
+destroyed. 
+But god himself did not
+escape unharmed.
+Taking paradise with him,
+the wounded god buried
+himself deep beneath the
+ocean to sleep for eons.
+Before going to sleep, god
+used his remaining power to
+create right-hearted humans
+to live on this planet.
+These people are said to
+be...our ancestors."
+
+Ol' man Bal
+"Well, anyway, I'll
+stop my rambling now."
+
+Fei
+"By the way, does 
+this cave have..."
+
+Ol' man Bal
+"An exit?
+There is an exit in the
+excavation site beyond the
+sand barrier. You can get
+outside through there."
+
+Bart
+"Sand barrier? You mean
+that huge wall you can
+see from your entrance?"
+
+Ol' man Bal
+"Yes, that's it.
+On the other side is an
+old Aveh excavation site.
+They built the wall when
+Aveh was excavating here
+to keep the sand from
+falling in from above.
+But they've stopped work
+there now."
+
+Fei
+"So, how do we open such
+a huge thing like that?"
+
+Bart
+"If it's a wall,
+you can probably
+break it down."
+
+Ol' man Bal
+"Hold your horses
+there young'uns.
+No matter how good a Gear
+you have, you'll never
+break that wall down.
+It's much too strong.
+So...
+let's make a deal." 
+
+Bart
+"A deal?"
+
+Ol' man Bal
+"The wall was closed
+due to the reaction of
+the 'Sand Sensors'.
+Thanks to that, now I
+can't get through to
+the other side either.
+Maybe it happened when
+you two fell in here.
+Were you boys fighting
+up there or something?"
+
+Fei
+"You seem to be able
+to tell everything!
+Anyway, so what can
+we do about it?"
+
+Ol' man Bal
+"It's very simple.
+You just have to turn off
+the Sand Sensor switches.
+Doing that will keep the
+barrier from closing again.
+While you two are doing
+that, I'll open it up."
+
+Fei
+"Right, got it."
+
+Ol' man Bal
+"The sensors are in two
+places. You should see
+their flashing red lights.
+Well, good luck then." 
+
+Fei
+"Let's go Bart."
+
+Ol' man Bal
+"Oh, before you go...
+I can share some parts
+and fuel with you.
+Just talk to me whenever
+you need something, right."
+
+Bart
+"Thanks, old man.
+Well, we'll go and finish
+our part of the deal then!"
+
+----------------------------------------------------------------------
+
+Ol' man Bal
+"Now hurry and shut off
+the Sand Sensors.
+Or do you have something
+else you want to ask?"
+    Where are the sensors?
+    About Gear functions
+    Got any parts to sell?
+    Nothing
+
+Ol' man Bal
+"Hmm, which do you want?"
+    For Gear use
+    For character use
+
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items
+
+"It's been a while since
+I last serviced a Gear.
+This should be fun."
+
+Ol' man Bal
+"A Gear's strength changes
+with the parts equipped and
+how the pilot handles it.
+First, let's talk about
+the Engine.
+With a good Engine your
+Attack Power and fuel 
+capacity go up.
+HP depends on the Frame
+and Defense Ability on
+the Armor equipped.
+Here's a tip for when your
+fuel is low: use 'Charge'
+to replenish it a little
+as you defend yourself.
+When you are fighting a
+strong enemy, use 'Booster'
+to increase your mobility
+and power.
+If you use Booster too
+much though, your fuel
+will run out.
+So think carefully and
+try to find your own
+style of fighting."
+
+Ol' man Bal
+"First, changing the
+engine is a good idea."
+
+Ol' man Bal
+"First, try changing
+the engine."
+
+----------------------------------------------------------------------
+
+Fei
+"I don't know where they
+are. Can you tell me?"
+
+Ol' man Bal
+"One is up on the rock
+ledge above the boulder
+in the 'Great Hall'.
+You can find it by climbing
+the 'Terrace Stones' out
+there and heading into the
+passage on northwest wall.
+The other sensor is on
+the road from which you
+can see the waterfalls.
+You can get to it by going
+northwest from the place
+where the Gear is standing.
+It is on a rock ledge.
+You can tell that it is a
+Sand Sensor by its square
+shape and the flashing red
+light it emits."
+
+----------------------------------------------------------------------
+-AFTER- Shutting off the Great Hall Sand Sensor
+
+Ol' man Bal
+"You seem to have shut off
+the 'Sand Sensor' on the
+ledge in the Great Hall...
+But there's another 'Sand
+Sensor' on the road from
+which you can see the
+waterfalls.
+It's on a rock ledge,
+northwest of where my
+repair robot stands.
+Anything else you want?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing
+
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items
+	
+----------------------------------------------------------------------
+-AFTER- Shutting off the Waterfall Grotto Sand Sensor
+
+Ol' man Bal
+"You seem to have shut
+off the Sand Sensor in
+Waterfall Grotto.
+But there's still one more,
+above the big boulder in
+the Great Hall. I think
+you've seen it already.
+Anything else?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing
+
+----------------------------------------------------------------------
+Stalactite Cave - Great Hall Sand Sensor - 0734
+----------------------------------------------------------------------
+
+ - GREAT HALL SAND SENSOR -
+ 
+Disengaged!
+
+----------------------------------------------------------------------
+Stalactite Cave - Waterfall Grotto Sand Sensor - 0736
+----------------------------------------------------------------------
+
+ - WATERFALL GROTTO SAND SENSOR - 
+
+Disengaged!
+
+----------------------------------------------------------------------
+
+Detected amounts of falling sand
+above the standard safety figure.
+The sand barrier on the south
+wall of the Terrace Stones has
+been sealed to prevent sand from
+penetrating the excavation site.
+Until the barrier is reopened,
+please assemble at the safety
+shelter to the east of the
+barrier wall. Thank-you.
+
+- Aveh excavation sight#8 -
+-       Gear No. 3        -
+    Tell current situation
+    Surrounding area info.
+
+Sand barrier, being opened
+from outside terminal.
+
+Sand sensors have detected
+an abnormal amount of sand.
+The sand barrier south of
+'Terrace Stones' has been
+sealed to prevent sand from
+entering excavation site.
+
+There are two sand sensors.
+One is on top of the ledge
+located north-northwest
+of here.
+Another one is located at
+the end of the bridge you
+can see from here.
+You can get to the bridge
+from the northwest side
+of 'Terrace Stones'.
+
+There is a barrier wall in
+the southeast of 'Terrace
+Stones' that was built to
+stop the shifting of sand.
+Until the barrier reopens,
+please assemble at the
+shelter located to the
+east of the barrier wall.
+
+Bart
+"What's with this Gear?
+It's well maintained for
+a Gear just left lying
+around like this."
+
+----------------------------------------------------------------------
+Stalactite Cave - Old Man Balthazar's Cave - 0748
+----------------------------------------------------------------------
+
+Ol' man Bal
+"Oh, good timing.
+I was just about to open
+up the sand barrier now."
+
+----------------------------------------------------------------------
+
+Fei
+"Well done, old man!"
+
+Ol' man Bal
+"Our deal is done."
+
+Bart
+"Hey, old man.
+There's one thing I
+want to ask you."
+
+Ol' man Bal
+"What is it?"
+
+Bart
+"I've heard somewhere on
+this planet is a Gear far
+superior to all others.
+I've heard that it was
+called 'the god Gear' and
+was made in ancient times
+but hidden away somewhere.
+Do you know anything
+about it?"
+
+Ol' man Bal
+"A man-made god, created
+with the wisdom of god!
+Such a Gear would have the
+power of a thousand Gears.
+In a wave of its arm, it
+could destroy whole cities.
+Its battle cries would
+thunder in the heavens.
+You must be speaking of
+the 'Omnigear'."
+
+Bart
+"You know of it?
+Then perhaps it was what
+you were speaking about in
+that tale you told us of
+the battle with god..."
+
+Ol' man Bal
+"Goodness gracious,
+you too, boy?
+Those stories were made
+to inspire man's soul.
+But they're just legends.
+They don't really exist."
+
+Ol' man Bal
+"Anyway, allow me take
+a look at your Gears.
+It'll only take a
+little while, so
+wait here please."
+
+Bart
+"Hey, wait!
+Arhh, he's gone..."
+
+Fei
+"Hey Bart. Do you think the
+Gear in that story's buried
+in the ground somewhere?"
+
+Bart
+"I think that's
+what I've heard."
+
+Fei
+"Could one of the Gears we
+are using possibly be it?"
+
+Bart
+"Yeah, right!
+What are the chances
+of that happening?
+
+Fei
+"?"
+
+Bart
+"The Gears that are
+excavated lately...
+...are usually only a
+few hundred years old.
+Nowhere nearly as old as
+the Gear in that legend."
+
+Fei
+"Then why were they
+in the ground...?"
+
+Bart
+"I don't know.
+There are no records. 
+Except..."
+
+Fei
+"Except what?"
+
+Bart
+"There must be some truth
+in the tales that they were
+buried after a great war...
+The bullet wounds covering
+most of the Gear's armor
+would appear to confirm
+that."
+
+Fei
+"You mean that there are
+no records from the last
+several hundred years?
+How about before that?"
+
+Bart
+"None from either period.
+The 'Ethos' controls
+all the records from
+that time period.
+Maybe they have some very
+ancient records too...
+All we know about our
+history is from the
+little pieces that we
+find for ourselves."
+
+Bart
+"Anyway Fei, what do you
+make of the old man?"
+
+Fei
+"What do you mean...?"
+
+Bart
+"Why would such an old 
+man live all alone in
+this abandoned cave?"
+
+Fei
+"I don't know. Probably
+digging for ancient
+Gears or something?"
+
+Bart
+"Right!
+So you think so too?"
+
+Fei
+"Hey!
+I just said that as a joke.
+Don't take all that stuff 
+seriously. They're only
+legends, you know."
+
+Bart
+"No...that old man 
+is up to something!"
+
+Ol' man Bal
+"This can't be..."
+
+Fei
+"??"
+
+Bart
+"What's wrong, old man?"
+
+Ol' man Bal
+"Is this your Gear?"
+
+Fei
+"Well, 
+sort of..."
+
+Ol' man Bal
+"Where did you get it?"
+
+Fei
+"I'm just borrowing it."
+
+Ol' man Bal
+This is...
+
+the host for the spirit
+of the slayer of god...
+
+Fei
+"Wait a moment! 
+What did you just say?"
+
+Ol' man Bal
+"Nothing.
+I didn't say anything!!"
+
+Fei
+"No! I heard you!
+You said, slayer of god...
+That's what you said,
+isn't it old man!!"
+
+Ol' man Bal
+"Your Gears are fixed.
+You have no more
+business here.
+This is a bad time for me.
+Be on your way!"
+
+Fei
+"Be on our way...?
+Listen here, old man...!!"
+
+----------------------------------------------------------------------
+
+Ol' man Bal
+"I told you to leave!"
+    Tell us some more
+    Sell us Gear parts
+
+Ol' man Bal
+"I have nothing more to say
+to you, so just leave."
+
+Ol' man Bal
+"When Calamity beats you,
+I'll just get these parts
+back anyway...
+If you don't mind that then
+I'll sell them to you...!"
+    For Gear
+    For characters
+
+----------------------------------------------------------------------
+Stalactite Cave - Aveh Excavation Site - 0744
+----------------------------------------------------------------------
+
+Aveh excavation site
+main power generator.
+Currently, the main
+power is on.
+    Turn off the power
+    Leave it alone
+
+Main power was turned off.
+
+----------------------------------------------------------------------
+
+Aveh excavation site
+main power generator.
+Currently, the main power
+is off.
+    Turn on main power
+    As is
+
+Main power is turned on.
+Operating normally.
+
+Want to get on
+the gondola?
+    Yes
+    No
+
+----------------------------------------------------------------------
+Stalactite Cave - Boss Fight - Calamity
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Stalactite Cave - Post Calamity Fight - file13
+----------------------------------------------------------------------
+
+Bart
+"Huh! What an idiot.
+Trying to scare us with
+all show and no power,
+eh, Fei!"
+
+Fei
+"............"
+
+Bart
+"Anyway...looks like
+that's the exit.
+So, it'll soon be adios
+to this old cavern!"
+
+Fei
+"!?"
+
+Bart
+"What the...!?"
+
+Fei
+"Get out of the
+way, Bart!!"
+
+Bart
+"Woooh! What
+the hell did
+you just do?"
+
+Fei
+"......"
+
+Bart
+"Hey!!"
+
+Fei
+"......huh?"
+
+Bart
+"What do you mean
+'huh?'!? What in blazes
+was that?
+... Don't you know?"
+
+Fei
+"...No, I err,
+......I don't know."
+
+Bart
+"That was incredible!
+You just blew that huge
+thing to pieces!
+Why didn't you use
+that technique a bit
+earlier?"
+
+Fei
+"... I don't know that
+technique... I have no
+idea how I even did it!"
+
+Bart
+"Hmm. Oh well, I guess
+that doesn't matter.
+Anyway...
+thanks for helping
+me out!"
+
+Fei
+"........."
+
+Bart
+"So, now that we've got
+rid of that nuisance,
+let's get out of here,
+eh, Fei!"
+
+----------------------------------------------------------------------
+Stalactite Cave - Fei and Bart leave the underground caves - 0752
+----------------------------------------------------------------------
+
+Bart
+"Wow...
+I never thought we'd
+end up here..."
+
+Fei
+"Where are we?"
+
+Bart
+"You see the twin
+mountains way over there?
+That's where Bledavik, the
+Royal Capital of Aveh, and
+Fatima Castle are located.
+Currently, there's no king
+living there though.
+Anyway, that's my old home
+town."
+
+Fei
+"Home town..."
+
+Bart
+"I'd like to go ahead and
+settle our dispute but...
+considering how close we
+are to the capital of Aveh,
+we'd probably get caught."
+
+Fei
+"..."
+
+Bart
+"Hey, stop looking so
+glum, chum.
+I guess I'll have to get
+you back to your friend
+soon or you'll die from
+fretting or something.
+Anyway, the rendezvous
+point with the Yggdrasil
+is right over there.
+Don't worry, you'll be
+meeting your friend in
+no time at all."
