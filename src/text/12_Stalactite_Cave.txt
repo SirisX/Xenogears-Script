@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------
-Stalactite Cave - Fei and Bart fall into underground cave - 0750
+Stalactite Cave - Fei and Bart fall underground - 0750
 ----------------------------------------------------------------------
 
 Pirate
@@ -1274,7 +1274,7 @@ let's get out of here,
 eh, Fei!"
 
 ----------------------------------------------------------------------
-Stalactite Cave - Fei and Bart leave the underground caves - 0752
+Stalactite Cave - Fei and Bart leave the caves - 0752
 ----------------------------------------------------------------------
 
 Bart
