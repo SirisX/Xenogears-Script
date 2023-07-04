@@ -7,7 +7,6 @@ import { Chapter } from "./Types";
 const App = () => {
   // const [text, setText] = useState({});
   const [chapterText, setChapterText] = useState<string[]>([]);
-  const [chapters, setChapters] = useState<Chapter[]>(DefaultChapters);
 
   useEffect(() => {
     Promise.all(
@@ -30,17 +29,17 @@ const App = () => {
   return (
     <div className="App">
       <div className="sidebar">
-        {chapters.map((chapter: Chapter, index) => {
+        {DefaultChapters.map((chapter: Chapter) => {
           return (
             <div className="sidebar-link" onClick={() => handleGoToSection(chapter)}>
-              {`${chapter.number > 0 ? chapter.number : ""} ${chapter.name}`}
+              {`${chapter.number > 0 ? `${chapter.number}-` : ""}${chapter.name}`}
             </div>
           );
         })}
       </div>
       {chapterText.map((chapter: string, index) => {
         return (
-          <div className="chapter-text" id={`chapter${chapters[index].number}`}>
+          <div className="chapter-text" id={`chapter${DefaultChapters[index].number}`}>
             <div className={`chapter-${index}`}>{chapter}</div>
           </div>
         );

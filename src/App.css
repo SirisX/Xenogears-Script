@@ -1,8 +1,4 @@
-html {
-  
-}
-
-
+/* CSS for the main app containert */
 .App {
     display: grid;
     justify-items: center;
@@ -11,24 +7,27 @@ html {
     color: white;
 }
 
-
+/* CSS for the actual text */
 .chapter-text {
     color: white;
     font-size: 1.2rem;
     white-space: pre-wrap;
 }
 
+
+/* CSS for the sidebar container */
 .sidebar {
-    /* display: absolute; */
     position: fixed;
     height: 50%;
     min-height: 300px;
     width: 160px;
     left: 32px;
     border: white 2px solid;
-    border-radius: 2px;
+    border-radius: 2%;
 }
 
+
+/* CSS for the sidebar links */
 .sidebar-link {
     color: white;
     cursor: pointer;
