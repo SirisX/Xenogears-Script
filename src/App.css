@@ -12,8 +12,6 @@
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    margin-left: 12px;
-    margin-right: 12px;
 }
 
 
@@ -44,4 +42,18 @@
     color: rgba(255, 255, 255, 0.499);
     cursor: pointer;
     margin: 4px;
+}
+
+/* CSS for the bottom bar */
+.bottomBar {
+    position: fixed;
+    height: 32px;
+    /* height: 300px; */
+    width: 100vw;
+    left: 0px;
+    bottom: 0;
+    border: white 1px solid;
+    border-radius: 1px;
+    background-color: black;
+    z-index: 1;
 }

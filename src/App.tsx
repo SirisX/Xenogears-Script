@@ -40,6 +40,9 @@ const App = () => {
           );
         })}
       </div>
+      <div className="bottomBar">
+        OpenNav
+      </div>
       {chapterText.map((chapter: string, index) => {
         return (
           <div className="chapter-text" id={`chapter${DefaultChapters[index].number}`}>
