@@ -7,7 +7,7 @@ html {
     display: grid;
     justify-items: center;
     background-color: black;
-    padding: 64px 256px;
+    padding: 64px 25%;
     color: white;
     font-size: 1.5rem;
     white-space: pre-wrap;
