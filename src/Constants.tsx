@@ -25,4 +25,14 @@ export const DefaultChapters: Chapter[] = [
         number: 1,
         text: text01,
     }
+    {
+        name: "Mountain Path",
+        number: 2,
+        text: text02,
+    }
+{
+        name: "House On a Hill",
+        number: 3,
+        text: text03,
+    }
 ]
