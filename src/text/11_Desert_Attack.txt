@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------
-Desert Attack! - Fei rides motorcycle into the desert - 0712
+Desert Attack! - Fei runs into the desert - 0712
 ----------------------------------------------------------------------
 
 Fei
@@ -74,7 +74,7 @@ Aveh Soldier
  Hey, wa~it!
 
 ----------------------------------------------------------------------
-Desert Attack! - Fei riding motorcycle runs into Gears - 0714
+Desert Attack! - Fei runs into hostile Gears - 0714
 ----------------------------------------------------------------------
 
 Fei
@@ -598,7 +598,7 @@ It has to be the stolen
 Gear everyone is after!!
 
 ----------------------------------------------------------------------
-Desert Attack! - Yggdrasil - Bart and his crew's appearance - 1180
+Desert Attack! - Bart and his crew ready an attack - 1180
 ----------------------------------------------------------------------
 
 Bart
@@ -804,7 +804,7 @@ Citan
 "Whew, that was close."
 
 ----------------------------------------------------------------------
-Desert Attack! - Atop the Sand Cruiser, Fei runs to Weltall - 0724
+Desert Attack! - Escape to Weltall! - 0724
 ----------------------------------------------------------------------
 
 Fei
@@ -935,7 +935,7 @@ to die while you run away
 in a Gear, you know?
 
 ----------------------------------------------------------------------
-Desert Attack! - Bart Attacks Fei, Brigandier vs Weltall - file11
+Desert Attack! - Brigandier vs Weltall - file11
 ----------------------------------------------------------------------
 
 Fei
