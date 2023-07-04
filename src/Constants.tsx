@@ -49,46 +49,46 @@ export const DefaultChapters: Chapter[] = [
     {
         name: "Fallen Shadows",
         number: 4,
-        text: text01,
+        text: text04,
     },
     {
         name: "Attack on Lahan",
         number: 5,
-        text: text02,
+        text: text05,
     },
     {
         name: "Into the Woods",
         number: 6,
-        text: text03,
+        text: text06,
     },
     {
         name: "Girl in Forest",
         number: 7,
-        text: text01,
+        text: text07,
     },
     {
         name: "Broken Silence",
         number: 8,
-        text: text02,
+        text: text08,
     },
     {
         name: "Path to Aveh",
         number: 9,
-        text: text03,
+        text: text09,
     },
     {
         name: "Dazil",
         number: 10,
-        text: text01,
+        text: text10,
     },
     {
         name: "Desert Attack!",
         number: 11,
-        text: text02,
+        text: text11,
     },
     {
         name: "Stalactite Cave",
         number: 12,
-        text: text03,
+        text: text12,
     }
 ]
