@@ -12,7 +12,7 @@ import text07 from './text/07_Girl_in_Forest.txt'
 import text08 from './text/08_Broken_Silence.txt'
 import text09 from './text/09_Path_to_Aveh.txt'
 import text10 from './text/10_Dazil.txt'
-import text11 from './text/11_Desert_Attack!.txt'
+import text11 from './text/11_Desert_Attack.txt'
 import text12 from './text/12_Stalactite_Cave.txt'
 
 export const DefaultChapters: Chapter[] = [
