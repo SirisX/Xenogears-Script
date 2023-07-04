@@ -563,7 +563,6 @@ would break his poor old heart!
 You promise me that, Fei!?
 
 ----------------------------------------------------------------------
-
 -AFTER- After visiting Alice
 
 Timothy
@@ -2948,7 +2947,6 @@ Midori
 "..."
 
 ----------------------------------------------------------------------
-
 -AFTER- Gears fly overhead outside
 
 Yui
@@ -69007,18 +69005,6 @@ is the Fatima Jasper."
 Elly
 "What's up ahead...?"
 
-Error Dummytag
-(Bart is not in the
-correct order)
-
-Error  Dummytag
-(Bart is not in the
-correct order)
-
-Error  Dummytag
-(Bart is not in the
-correct order)
-
 Billy
 "...
 An angel statue..."
@@ -69122,11 +69108,6 @@ just shot out.
 something you shouldn't
 have done?"
 
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
 Fei
 "Don't try and fool me!
 What the heck did you
@@ -69142,21 +69123,6 @@ just shot out.
 something you shouldn't
 have done?"
 
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
 Citan
 "I assume it is locked."
 
@@ -69165,21 +69131,6 @@ Citan
 beam of light just now?
 ... I wonder what its
 heading was?"
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
 
 Billy
 "Is it locked?"
