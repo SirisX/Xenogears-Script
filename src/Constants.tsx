@@ -82,7 +82,7 @@ export const DefaultChapters: Chapter[] = [
         text: text10,
     },
     {
-        name: "Desert Attack!",
+        name: "Desert Attack",
         number: 11,
         text: text11,
     },
