@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------
-					XENOGEARS
+XENOGEARS
 ----------------------------------------------------------------------
 
 Xenogears Complete English Script
@@ -10,82 +10,82 @@ Text Arranged by Kenny Mitchell (Siris)
 6/29/2023
 
 ----------------------------------------------------------------------
-					CONTENTS
+CONTENTS
 ----------------------------------------------------------------------
 
-	Opening Movie
-	Prologue              
+Opening Movie
+Prologue              
 
-	-----DISC 1-----      
-	1. Lahan Village      
-	2. Mountain Path      
-	3. House On a Hill    
-	4. Fallen Shadows     
-	5. Attack on Lahan    
-	6. Into the Woods     
-	7. Girl in Forest     
-	8. Broken Silence     
-	9. Path to Aveh       
-	10. Dazil             
-	11. Desert Attack!    
-	12. Stalactite Cave   
-	13. Pirate's Lair     
-	14. Operation Aveh    
-	15. The Tournament    
-	16. Margie's Rescue   
-	17. Road to Nisan     
-	18. City of Peace     
-	19. Recapture Aveh    
-	20. Desert Despair    
-	21. Kislev Capital    
-	22. Brave Battlers    
-	23. Sewer Horror      
-	24. Battling Champ    
-	25. Gear Dock Raid    
-	26. Night Purge       
-	27. Secret Weapon     
-	28. Escape Ignas      
-	29. Adrift at Sea     
-	30. Men of the Sea    
-	31. Friends Again     
-	32. Betrayal          
-	33. Ramsus'Attack     
-	34. A Young Priest    
-	35. The Orphanage     
-	36. Reaper's Ship     
-	37. Burning Souls     
-	38. Ocean Floor       
-	39. Deep Sea Girl     
-	40. Babel Tower       
-	41. Sky City Shevat   
-	42. Intruder Alert!   
-	43. Raid of Shevat!   
-	44. Protect Nisan!    
-	45. Gate1 -Margie     
-	46. Gate2 -Babel      
-	47. Gate3 -The Deep   
-	48. Into Solaris      
-	49. Escape Solaris    
-	50. Lone Wolf         
-	51. Krelian's Lab     
-	52. Tears for Fears   
-	53. Fall of Solaris   
+-----DISC 1-----      
+1. Lahan Village      
+2. Mountain Path      
+3. House On a Hill    
+4. Fallen Shadows     
+5. Attack on Lahan    
+6. Into the Woods     
+7. Girl in Forest     
+8. Broken Silence     
+9. Path to Aveh       
+10. Dazil             
+11. Desert Attack!    
+12. Stalactite Cave   
+13. Pirate's Lair     
+14. Operation Aveh    
+15. The Tournament    
+16. Margie's Rescue   
+17. Road to Nisan     
+18. City of Peace     
+19. Recapture Aveh    
+20. Desert Despair    
+21. Kislev Capital    
+22. Brave Battlers    
+23. Sewer Horror      
+24. Battling Champ    
+25. Gear Dock Raid    
+26. Night Purge       
+27. Secret Weapon     
+28. Escape Ignas      
+29. Adrift at Sea     
+30. Men of the Sea    
+31. Friends Again     
+32. Betrayal          
+33. Ramsus'Attack     
+34. A Young Priest    
+35. The Orphanage     
+36. Reaper's Ship     
+37. Burning Souls     
+38. Ocean Floor       
+39. Deep Sea Girl     
+40. Babel Tower       
+41. Sky City Shevat   
+42. Intruder Alert!   
+43. Raid of Shevat!   
+44. Protect Nisan!    
+45. Gate1 -Margie     
+46. Gate2 -Babel      
+47. Gate3 -The Deep   
+48. Into Solaris      
+49. Escape Solaris    
+50. Lone Wolf         
+51. Krelian's Lab     
+52. Tears for Fears   
+53. Fall of Solaris   
 
-	-----DISC 2-----      
-	54. Shevat's Move     
-	55. Broken Ties       
-	56. Shot Down!        
-	57. Break the Seal    
-	58. Soul Vessel       
-	59. The Stars Know    
-	60. Above Mahanon     
-	61. Paradise          
-	62. Promised Land     
-	63. Waiting Death     
-	64. Merkava Calls     
-	65. Dreams...         
-	66. Fallen Star       
-	67. Xenogears Wakes   
-	68. First and Last    
+-----DISC 2-----      
+54. Shevat's Move     
+55. Broken Ties       
+56. Shot Down!        
+57. Break the Seal    
+58. Soul Vessel       
+59. The Stars Know    
+60. Above Mahanon     
+61. Paradise          
+62. Promised Land     
+63. Waiting Death     
+64. Merkava Calls     
+65. Dreams...         
+66. Fallen Star       
+67. Xenogears Wakes   
+68. First and Last    
 
 ----------------------------------------------------------------------
