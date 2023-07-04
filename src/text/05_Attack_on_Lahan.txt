@@ -1,0 +1,319 @@
+----------------------------------------------------------------------
+Attack on Lahan - Village Center - 0610
+----------------------------------------------------------------------
+
+Fei
+"No!
+Lahan's...!?"
+
+Citan
+"Alice!?
+Timothy!!"
+
+Alice
+"Doctor Uzuki!?
+Fei!!"
+
+Timothy
+"Doctor! They just came
+outta nowhere and landed
+right in our village...!"
+
+Citan
+"I know. What on earth
+are they doing starting
+a battle here...!?
+Are you all okay?"
+
+Alice
+"Yes!
+But it's Dan...
+We can't find him!!"
+
+Timothy
+"I'll go look one more
+time! Alice, go ahead and 
+get out of the village."
+
+Citan
+"No, Timothy, wait!!
+You, Alice and the
+rest of the villagers
+should evacuate to a
+safer location!"
+
+Timothy
+"Doc, you know I
+can't just leave
+Dan behind!"
+
+Alice
+"Timothy..."
+
+Citan
+"I understand how you feel,
+but leave the rest up to
+Fei and me!
+The primary thing you
+should be concerned with
+is your own safety...
+Timothy, your
+responsibility is
+to protect Alice!"
+
+Timothy
+"...
+But..."
+
+Fei
+"It's just as doc says.
+The two of you should get
+out of the village now!
+Don't worry about Dan.
+Knowing him, he has
+already evacuated and
+is waiting for you!"
+
+Timothy
+"...
+I guess you're right..."
+
+Timothy
+"Okay! Alice, let's let
+Doctor Uzuki and Fei
+handle it from here!"
+
+Alice
+"...
+Yes, okay.
+Thank you, Doctor!"
+
+Alice
+"But, Fei...
+Please look out for Dan!"
+
+Fei
+"Yeah, don't worry.
+If he still happens to be
+in the village, I'll be
+sure to save him!"
+
+Citan
+"Now, both of you,
+hurry!!"
+
+Citan
+"I will go check inside
+the houses to see if there
+is anyone left behind.
+Fei, please go around
+the village and guide
+the stragglers to a
+safe location!"
+
+Fei
+"Alright!
+But doc...
+You be careful, okay!!?"
+
+Citan
+"You too, Fei!"
+
+Fei
+"Whoa!!"
+
+Fei
+"...
+Ah...!?"
+
+----------------------------------------------------------------------
+Anime Cutscene as Fei gets into Weltall
+----------------------------------------------------------------------
+
+Citan
+"Huh...
+Fei!?"
+
+Citan
+"Wait, Fei!!"
+
+Fei
+"..."
+
+Citan
+"Do not do this, Fei!
+You must not
+fight here...!!"
+
+Citan
+"Fei!!"
+
+----------------------------------------------------------------------
+Attack on Lahan - Fei Fights in Weltall - file1 & file5
+----------------------------------------------------------------------
+
+.....XafbEWfadJZ.....
+...Linguistic Modifier
+       enabled.
+Identified:
+  Lamb, Ignas dialect
+No piloting exp.
+  Easy Mode Set
+Synchronizing
+ input interface
+ with pilot's normal
+ reflex time
+Warning to Pilot:
+  C O M B A T   M O D E
+About to enter combat!
+1200 units of fuel left
+Utilize Command Ring in
+upper left of screen to
+select ATTACK
+then
+ <T>,<S> and <X> buttons to
+commence auto-attack
+sequence.
+Power and fuel usage
+differs with type of
+attack (button):
+   <T>10   <S>20   <X>30
+(CHARGE restores
+        30 fuel units)
+
+WARNING!
+ Enemy Gears are now
+ preparing to attack!
+ Terminating Help Mode.
+
+Fei
+"Reinforcements,
+huh?!"
+
+Fei
+"On my right too!
+Damn it! How many of
+them are there...?"
+
+Fei
+"I guess...
+there's no choice...
+but to fight..."
+
+----------------------------------------------------------------------
+
+Citan
+"Fei...!!
+The way you are fighting...
+Oh no...
+This is not good!
+If 'he' awakens here..."
+
+Dan
+Doc!! 
+
+Citan
+"Dan!?"
+
+Citan
+"Are you alright!? 
+What on earth are
+you doing here!?
+Do you not know
+how worried Alice
+and Timothy are!?"
+
+Dan
+"I'm sorry Doctor Uzuki!
+I got out of the village
+earlier, but I came back...
+... I just couldn't bear
+to think of leaving my
+sister's wedding dress
+behind here..."
+
+Citan
+"You returned to
+save your sister's
+wedding dress...!?"
+
+Citan
+"Heh...
+You are such a sentimental
+little boy...!"
+
+Citan
+"Let us evacuate to a
+safer spot while Fei
+has their attention!"
+
+Citan
+"It appears that
+they are after that
+Gear Fei is in..."
+
+Dan
+"...!?"
+
+Dan
+"Fei's...
+inside that monster!?"
+
+Citan
+"Fei is bound...
+by the dark, cruel
+destiny of god..."
+
+Dan
+"...
+Fei...?"
+
+Citan
+"Come on now, Dan!
+We had better get
+away from here."
+
+Timothy
+"Dan!!"
+
+Timothy
+"I knew you were still
+in the village! Boy,
+I'm glad you're okay!"
+
+Huh...!?
+
+Citan
+"Oh no...!
+Timothy!!"
+
+Timothy
+"Uh...!"
+
+Fei
+"Wait!!
+Don't shoot!!"
+
+Fei
+"Stop it!!
+These people have nothing
+to do with you!"
+
+----------------------------------------------------------------------
+Attack on Lahan - Timothy Killed - file7
+----------------------------------------------------------------------
+
+Fei
+"Timothy!"
+
+Fei
+"Out of the way,
+you bastards!"
+
+Fei
+"Stop it!
+I said sto-p i---t!"
+
+----------------------------------------------------------------------
+Anime Cutscene - Timothy is killed and Fei goes ballistic destroying Lahan
+----------------------------------------------------------------------

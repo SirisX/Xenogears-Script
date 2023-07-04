@@ -5,10 +5,6 @@ Original Translation by Richard Honeywood
 Text Arranged by Kenny Mitchell (Siris)
 6/29/2023
 
-I am Alpha and Omega,
-the beginning and the end,
-the first and the last.
-
 ----------------------------------------------------------------------
 CONTENTS
 ----------------------------------------------------------------------
@@ -86,6 +82,12 @@ Prologue
 66. Fallen Star
 67. Xenogears Wakes
 68. First and Last
+
+----------------------------------------------------------------------
+
+I am Alpha and Omega,
+the beginning and the end,
+the first and the last.
 
 ----------------------------------------------------------------------
 Anime Cutscene - Opening Movie
@@ -8897,6 +8899,67 @@ While under the sand, there
 is nothing but static...
 As a matter of fact, there
 is nothing to do either...
+
+Crew 4
+It's a lot harder to
+control the ship after the
+young master steered it.
+He is so reckless...
+
+Crew 5
+I had a competition going  
+on with the young master
+the other day to see who
+could tip the boat further.
+Old Maison literally was
+white as a sheet, saying
+all the teacups were
+destroyed...
+
+Franz
+"Oh, sorry...
+I didn't realize that you
+were there! 
+Wanna hear some hot sounds
+that I have recorded?"
+    Sure.
+    No thanks.
+
+Franz
+"Wanna hear some more?"
+    Yeah, this is cool!
+    No, enough already!
+
+Franz
+"Ahh...
+Well that's too bad."
+
+Gunman
+When it comes to cannons, 
+you don't know where the
+shells will fly to until
+you've actually shot'em.
+But, they're suitable
+for the pirating trade
+because they're cheap
+yet intimidating...
+On the other hand though,
+torpedoes blow everything
+to blazes and are down-
+right expensive too...
+
+Crew 6
+This ship uses innumerable
+effect wings to pulverize
+sand and wade through it.
+If our balance is lost, 
+we roll over in the desert.
+It's all up to our skill!
+
+I have to repair some of
+the pumps that died now.
+Oh, I also have to re-cover
+the effect wings...
 
 ----------------------------------------------------------------------
 Yggdrasil - Dining Hall - 0756
@@ -46288,19 +46351,6 @@ torpedoes are not bad either.
 There're so many of them
 that I can't decide...!
 
-When it comes to cannons, 
-you don't know where the
-shells will fly to until
-you've actually shot'em.
-But, they're suitable
-for the pirating trade
-because they're cheap
-yet intimidating...
-On the other hand though,
-torpedoes blow everything
-to blazes and are down-
-right expensive too...
-
 It's dry in the desert so
 gunpowder burns steadily
 and easy to predict.
@@ -46336,24 +46386,6 @@ on the job! Honest!"
 ...
 
 Franz
-"Oh, sorry...
-I didn't realize that you
-were there! 
-Wanna hear some hot sounds
-that I have recorded?"
-    Sure.
-    No thanks.
-
-Franz
-"Wanna hear some more?"
-    Yeah, this is cool!
-    No, enough already!
-
-Franz
-"Ahh...
-Well that's too bad."
-
-Franz
 "That's too bad...
 You could have seen the
 world between the static!"
@@ -46383,15 +46415,6 @@ Wow, to think something
 like a Lemora would be
 in the ocean... It was
 covered in shells!
-
-I had a competition going  
-on with the young master
-the other day to see who
-could tip the boat further.
-Old Maison literally was
-white as a sheet, saying
-all the teacups were
-destroyed...
 
 There was a desert Lemora
 plastered all over the 
@@ -46432,11 +46455,6 @@ seem to be reliable at all!
 I'm kind of used to it now.
 You can move more freely in
 the water, once you know how!
-
-It's a lot harder to
-control the ship after the
-young master steered it.
-He is so reckless...
 
 We had a lot happen this time.
 I'd better take a good look
@@ -46551,18 +46569,6 @@ balance than it was on sand.
 I must inspect the
 extended main tank now.
 I'm not used to it yet.
-
-This ship uses innumerable
-effect wings to pulverize
-sand and wade through it.
-If our balance is lost, 
-we roll over in the desert.
-It's all up to our skill!
-
-I have to repair some of
-the pumps that died now.
-Oh, I also have to re-cover
-the effect wings...
 
 The map needs to be
 rewritten because of
@@ -89238,11 +89244,6 @@ Fei
 "Elly..."
 
 
-
-
-
-
-
-
-
-
+XENOGEARS
+Episode V 
+THE END
