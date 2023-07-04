@@ -26,5 +26,17 @@ html {
     width: 160px;
     left: 32px;
     border: white 2px solid;
-    border-radius: 8px;
+    border-radius: 2px;
+}
+
+.sidebar-link {
+    color: white;
+    cursor: pointer;
+    margin: 4px;
+}
+
+.sidebar-link:hover {
+    color: rgba(255, 255, 255, 0.499);
+    cursor: pointer;
+    margin: 4px;
 }

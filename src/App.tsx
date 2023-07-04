@@ -33,7 +33,7 @@ const App = () => {
         {chapters.map((chapter: Chapter, index) => {
           return (
             <div className="sidebar-link" onClick={() => handleGoToSection(chapter)}>
-              {`${chapter.number} ${chapter.name}`}
+              {`${chapter.number > 0 ? chapter.number : ""} ${chapter.name}`}
             </div>
           );
         })}
