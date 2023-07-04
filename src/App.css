@@ -28,6 +28,7 @@
     background-color: black;
     z-index: 1;
     padding: 4px;
+    transition: 0.4s all ease-in;
 }
 
 
@@ -70,6 +71,8 @@
     font-size: 1.2rem;
     margin: 0px;
     text-shadow: 2px 2px 2px red;
+    user-select: none;
+    padding-right: 12px;
 }
 
 

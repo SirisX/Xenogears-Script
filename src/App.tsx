@@ -51,11 +51,11 @@ const App = () => {
           })}
         </div>
       ) : (
-        <div className="ghost-sidebar"></div>
+        <div className="sidebar" style={{ opacity: 0, pointerEvents: "none", bottom: "-490px"  }}></div>
       )}
       <div className="bottomBar">
         <div className="sidebar-header" onClick={() => {showSidebar ? setShowSidebar(false) : setShowSidebar(true)}}>
-          <p className="open-nav">Nav</p>
+          <p className="open-nav">Contents</p>
         </div>
       </div>
       {chapterText.map((chapter: string, index) => {
