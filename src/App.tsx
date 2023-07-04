@@ -5,6 +5,7 @@ import { Chapter } from "./Types";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<string[]>([]);
+  const [showSidebar, hideSidebar] = useState<boolean>(true);
 
 
   // Load all chapter text files

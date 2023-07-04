@@ -2,7 +2,7 @@
 .App {
     display: grid;
     justify-items: center;
-    padding: 64px 0 0 200px;
+    /* padding: 64px 12px; */
     background-color: black;
     color: white;
 }
@@ -10,8 +10,10 @@
 /* CSS for the actual text */
 .chapter-text {
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     white-space: pre-wrap;
+    margin-left: 12px;
+    margin-right: 12px;
 }
 
 
@@ -19,11 +21,14 @@
 .sidebar {
     position: fixed;
     height: 50%;
-    min-height: 300px;
+    /* height: 300px; */
     width: 150px;
-    left: 32px;
-    border: white 2px solid;
-    border-radius: 2%;
+    right: 0px;
+    bottom: 0;
+    border: white 1px solid;
+    border-radius: 1px;
+    background-color: black;
+    z-index: 1;
 }
 
 
@@ -31,6 +36,7 @@
 .sidebar-link {
     color: white;
     cursor: pointer;
+    font-size: 1rem;
     margin: 4px;
 }
 
