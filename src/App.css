@@ -25,6 +25,7 @@
     position: fixed;
     height: 50%;
     height: 100%;
+    height: -webkit-fill-available;
     width: 150px;
     left: 0px;
     bottom: 0;
@@ -32,6 +33,7 @@
     background-color: black;
     z-index: 1;
     transition: 0.2s all ease-in;
+    overflow-x: hidden;
 }
 
 
