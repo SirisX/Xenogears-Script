@@ -1,3 +1,7 @@
+----------------------------------------------------------------------
+					XENOGEARS
+----------------------------------------------------------------------
+
 Xenogears Complete English Script
 Story by Tetsuya Takahashi and Soraya Saga
 Text extracted from the game
@@ -6,82 +10,83 @@ Text Arranged by Kenny Mitchell (Siris)
 6/29/2023
 
 ----------------------------------------------------------------------
-CONTENTS
+					CONTENTS
 ----------------------------------------------------------------------
 
-Opening Movie
-Prologue
+	Opening Movie
+	Prologue              
 
------DISC 1-----
-1. Lahan Village
-2. Mountain Path  
-3. House On a Hill
-4. Fallen Shadows 
-5. Attack on Lahan
-6. Into the Woods 
-7. Girl in Forest 
-8. Broken Silence 
-9. Path to Aveh         
-10. Dazil          
-11. Desert Attack! 
-12. Stalactite Cave
-13. Pirate's Lair  
-14. Operation Aveh 
-15. The Tournament 
-16. Margie's Rescue
-17. Road to Nisan  
-18. City of Peace  
-19. Recapture Aveh 
-20. Desert Despair 
-21. Kislev Capital 
-22. Brave Battlers 
-23. Sewer Horror   
-24. Battling Champ 
-25. Gear Dock Raid 
-26. Night Purge 
-27. Secret Weapon  
-28. Escape Ignas
-29. Adrift at Sea  
-30. Men of the Sea 
-31. Friends Again  
-32. Betrayal       
-33. Ramsus'Attack  
-34. A Young Priest 
-35. The Orphanage  
-36. Reaper's Ship  
-37. Burning Souls
-38. Ocean Floor    
-39. Deep Sea Girl  
-40. Babel Tower    
-41. Sky City Shevat
-42. Intruder Alert!
-43. Raid of Shevat!
-44. Protect Nisan! 
-45. Gate1 -Margie  
-46. Gate2 -Babel   
-47. Gate3 -The Deep
-48. Into Solaris   
-49. Escape Solaris 
-50. Lone Wolf      
-51. Krelian's Lab  
-52. Tears for Fears
-53. Fall of Solaris
------DISC 2-----
-54. Shevat's Move  
-55. Broken Ties
-56. Shot Down!
-57. Break the Seal
-58. Soul Vessel    
-59. The Stars Know 
-60. Above Mahanon
-61. Paradise
-62. Promised Land
-63. Waiting Death  
-64. Merkava Calls
-65. Dreams...
-66. Fallen Star
-67. Xenogears Wakes
-68. First and Last
+	-----DISC 1-----      
+	1. Lahan Village      
+	2. Mountain Path      
+	3. House On a Hill    
+	4. Fallen Shadows     
+	5. Attack on Lahan    
+	6. Into the Woods     
+	7. Girl in Forest     
+	8. Broken Silence     
+	9. Path to Aveh       
+	10. Dazil             
+	11. Desert Attack!    
+	12. Stalactite Cave   
+	13. Pirate's Lair     
+	14. Operation Aveh    
+	15. The Tournament    
+	16. Margie's Rescue   
+	17. Road to Nisan     
+	18. City of Peace     
+	19. Recapture Aveh    
+	20. Desert Despair    
+	21. Kislev Capital    
+	22. Brave Battlers    
+	23. Sewer Horror      
+	24. Battling Champ    
+	25. Gear Dock Raid    
+	26. Night Purge       
+	27. Secret Weapon     
+	28. Escape Ignas      
+	29. Adrift at Sea     
+	30. Men of the Sea    
+	31. Friends Again     
+	32. Betrayal          
+	33. Ramsus'Attack     
+	34. A Young Priest    
+	35. The Orphanage     
+	36. Reaper's Ship     
+	37. Burning Souls     
+	38. Ocean Floor       
+	39. Deep Sea Girl     
+	40. Babel Tower       
+	41. Sky City Shevat   
+	42. Intruder Alert!   
+	43. Raid of Shevat!   
+	44. Protect Nisan!    
+	45. Gate1 -Margie     
+	46. Gate2 -Babel      
+	47. Gate3 -The Deep   
+	48. Into Solaris      
+	49. Escape Solaris    
+	50. Lone Wolf         
+	51. Krelian's Lab     
+	52. Tears for Fears   
+	53. Fall of Solaris   
+
+	-----DISC 2-----      
+	54. Shevat's Move     
+	55. Broken Ties       
+	56. Shot Down!        
+	57. Break the Seal    
+	58. Soul Vessel       
+	59. The Stars Know    
+	60. Above Mahanon     
+	61. Paradise          
+	62. Promised Land     
+	63. Waiting Death     
+	64. Merkava Calls     
+	65. Dreams...         
+	66. Fallen Star       
+	67. Xenogears Wakes   
+	68. First and Last    
 
 ----------------------------------------------------------------------
 
@@ -563,7 +568,6 @@ would break his poor old heart!
 You promise me that, Fei!?
 
 ----------------------------------------------------------------------
-
 -AFTER- After visiting Alice
 
 Timothy
@@ -2948,7 +2952,6 @@ Midori
 "..."
 
 ----------------------------------------------------------------------
-
 -AFTER- Gears fly overhead outside
 
 Yui
@@ -3347,7 +3350,7 @@ Fei
 I said sto-p i---t!"
 
 ----------------------------------------------------------------------
-Anime Cutscene - Timothy is killed and Fei goes ballistic destroying Lahan
+Anime Cutscene - Timothy is killed; Fei destroys Lahan
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Into the Woods - Fei wakes up after destroying Lahan - 0612
@@ -3813,7 +3816,7 @@ How about having
 something to eat."
 
 ----------------------------------------------------------------------
-Anime Cutscene - Fei's Dream of himself as a boy in the desert
+Anime Cutscene - Fei's Dream
 ----------------------------------------------------------------------
 
 Young Boy
@@ -3977,7 +3980,7 @@ Fei
 !
 
 ----------------------------------------------------------------------
-Girl in Forest - Flashback of Elly's emergency landing in Lahan - 0660
+Girl in Forest - Elly's Flashback - 0660
 ----------------------------------------------------------------------
 
 Damn them...
@@ -4409,7 +4412,7 @@ repairs on our friend
 here..."
 
 ----------------------------------------------------------------------
-Broken Silence - Citan, Elly, and Fei in Forest by campfire at night - 0658
+Broken Silence - Blackmoon Forest night by campfire - 0658
 ----------------------------------------------------------------------
 
 Citan
@@ -6151,7 +6154,7 @@ So when will you be
 returning the buggy?
 
 ----------------------------------------------------------------------
-Desert Attack! - Fei rides motorcycle into the desert - 0712
+Desert Attack! - Fei runs into the desert - 0712
 ----------------------------------------------------------------------
 
 Fei
@@ -6226,7 +6229,7 @@ Aveh Soldier
  Hey, wa~it!
 
 ----------------------------------------------------------------------
-Desert Attack! - Fei riding motorcycle runs into Gears - 0714
+Desert Attack! - Fei runs into hostile Gears - 0714
 ----------------------------------------------------------------------
 
 Fei
@@ -6750,7 +6753,7 @@ It has to be the stolen
 Gear everyone is after!!
 
 ----------------------------------------------------------------------
-Desert Attack! - Yggdrasil - Barts Appearance - Bart unnamed in this section, as well as Sigurd and Maison - 1180
+Desert Attack! - Bart and his crew ready an attack - 1180
 ----------------------------------------------------------------------
 
 Bart
@@ -6956,7 +6959,7 @@ Citan
 "Whew, that was close."
 
 ----------------------------------------------------------------------
-Desert Attack! - Atop the Sand Cruiser, Fei runs to Weltall - 0724
+Desert Attack! - Escape to Weltall! - 0724
 ----------------------------------------------------------------------
 
 Fei
@@ -7087,7 +7090,7 @@ to die while you run away
 in a Gear, you know?
 
 ----------------------------------------------------------------------
-Desert Attack! - Bart Attacks Fei, Brigandier vs Weltall - file11
+Desert Attack! - Brigandier vs Weltall - file11
 ----------------------------------------------------------------------
 
 Fei
@@ -7168,7 +7171,7 @@ Fei
 "Why!"
 
 ----------------------------------------------------------------------
-Stalactite Cave - Fei and Bart fall into underground cave - 0750
+Stalactite Cave - Fei and Bart fall underground - 0750
 ----------------------------------------------------------------------
 
 Pirate
@@ -8443,7 +8446,7 @@ let's get out of here,
 eh, Fei!"
 
 ----------------------------------------------------------------------
-Stalactite Cave - Fei and Bart leave the underground caves - 0752
+Stalactite Cave - Fei and Bart leave the caves - 0752
 ----------------------------------------------------------------------
 
 Bart
@@ -8493,7 +8496,7 @@ meeting your friend in
 no time at all."
 
 ----------------------------------------------------------------------
-Yggdrasil Docks - 1192
+Pirate's Lair - Yggdrasil Docks - 1192
 ----------------------------------------------------------------------
 
 Citan
@@ -8660,7 +8663,7 @@ Want to rename this Gear?
     No, not now thanks!
 	
 ----------------------------------------------------------------------
-Yggdrasil Outside Gear Shop - 1188
+Pirate's Lair - Yggdrasil Outside Gear Shop - 1188
 ----------------------------------------------------------------------
 
 Guard
@@ -8669,7 +8672,7 @@ Look inside if you want
 to tune-up your Gear.
 
 ----------------------------------------------------------------------
-Yggdrasil Gear Shop - 1190
+Pirate's Lair - Yggdrasil Gear Shop - 1190
 ----------------------------------------------------------------------
 
 Soldier 1
@@ -8704,7 +8707,7 @@ only the young master had
 equipped on his Gear!
 
 ----------------------------------------------------------------------
-Yggdrasil Crew Quarters - 1184
+Pirate's Lair - Yggdrasil Crew Quarters - 1184
 ----------------------------------------------------------------------
 
 Man 1
@@ -8735,7 +8738,7 @@ We're almost at the base!
 Whew, finally we can rest!
 
 ----------------------------------------------------------------------
-Yggdrasil Medical Bay - 1204
+Pirate's Lair - Yggdrasil Medical Bay - 1204
 ----------------------------------------------------------------------
 
 Nurse
@@ -8777,7 +8780,7 @@ fell off the bed next
 door. So pathetic...
 
 ----------------------------------------------------------------------
-Yggdrasil Hallway - 1214
+Pirate's Lair - Yggdrasil Hallway - 1214
 ----------------------------------------------------------------------
 
 Pirate
@@ -8793,7 +8796,7 @@ go down the stairs to the
 Engine Room.
 
 ----------------------------------------------------------------------
-Yggdrasil Gun Room - 1182
+Pirate's Lair - Yggdrasil Gun Room - 1182
 ----------------------------------------------------------------------
 
 Maison
@@ -8822,7 +8825,7 @@ Maison
 such service again!"
 
 ----------------------------------------------------------------------
-Yggdrasil Engine Room - 1196
+Pirate's Lair - Yggdrasil Engine Room - 1196
 ----------------------------------------------------------------------
 
 Technician 1
@@ -8856,7 +8859,7 @@ Even the young master!
 Uhh... Young master...
 
 ----------------------------------------------------------------------
-Yggdrasil Hallway - 1214
+Pirate's Lair - Yggdrasil Hallway - 1214
 ----------------------------------------------------------------------
 
 Man
@@ -8875,7 +8878,7 @@ Use the switch inside to
 go up or down.
 
 ----------------------------------------------------------------------
-Yggdrasil Bridge - 1186
+Pirate's Lair - Yggdrasil Bridge - 1186
 ----------------------------------------------------------------------
 
 Bart
@@ -9881,7 +9884,7 @@ A little boy and girl..."
 !!
 
 ----------------------------------------------------------------------
-Pirate's Lair - Yggdrasil Tech Room - 0762
+Yggdrasil Tech Room - 0762
 ----------------------------------------------------------------------
 
 Citan
@@ -10844,7 +10847,7 @@ your home!?"
 Aaaaahhhhhhhh!!!!
 
 ----------------------------------------------------------------------
-Pirate's Lair - Gebler Attack - Citan, Bart and Fei fight off Gebler - 0772
+Pirate's Lair - Gebler Attack on Pirate's Lair - 0772
 ----------------------------------------------------------------------
 
 Citan
@@ -10993,7 +10996,7 @@ When I grow up,
 I wanna be a pilot...
 
 ----------------------------------------------------------------------
-Bart fights off Gebler forces - file77
+Pirate's Lair - Bart fights off Gebler forces - file77
 ----------------------------------------------------------------------
 
 Bart
@@ -69007,18 +69010,6 @@ is the Fatima Jasper."
 Elly
 "What's up ahead...?"
 
-Error Dummytag
-(Bart is not in the
-correct order)
-
-Error  Dummytag
-(Bart is not in the
-correct order)
-
-Error  Dummytag
-(Bart is not in the
-correct order)
-
 Billy
 "...
 An angel statue..."
@@ -69122,11 +69113,6 @@ just shot out.
 something you shouldn't
 have done?"
 
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
 Fei
 "Don't try and fool me!
 What the heck did you
@@ -69142,21 +69128,6 @@ just shot out.
 something you shouldn't
 have done?"
 
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
 Citan
 "I assume it is locked."
 
@@ -69165,21 +69136,6 @@ Citan
 beam of light just now?
 ... I wonder what its
 heading was?"
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
-
-Error
-This character is
-not in Jasper.
-Please report this bug.
 
 Billy
 "Is it locked?"
@@ -87689,7 +87645,7 @@ has the ability to
 regenerate
 using nanomachines."
 
-----------------------------------------------------------------
+------------------------------------------------------------------------
 
 Miang
 "This is the true meaning

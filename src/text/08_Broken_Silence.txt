@@ -1,0 +1,496 @@
+----------------------------------------------------------------------
+Broken Silence - Blackmoon Forest - Fei hears Elly's scream
+----------------------------------------------------------------------
+
+Fei
+"Oh no!"
+
+----------------------------------------------------------------------
+Broken Silence - Blackmoon Forest - Clearing
+----------------------------------------------------------------------
+
+Fei
+"Elly!!"
+
+----------------------------------------------------------------------
+Broken Silence - Blackmoon Forest - Rankar Fight - file9
+----------------------------------------------------------------------
+
+Fei
+"Elly!
+Are you alright?!
+Darn!
+She's unconscious!"
+
+----------------------------------------------------------------------
+
+Citan
+"Fe~i!"
+
+Citan
+"Fei! I have been
+searching for you!
+Here, You can use this!"
+
+Fei
+"Hey! Hold on a second!
+To tell me I can use
+it is one thing..."
+
+Fei
+"Elly...
+Damn it!"
+
+Fei
+"Doc.
+I have a favor to ask!
+I will defeat this
+monster!
+But, if it looks like
+I'll go out of control
+like last time,
+then shoot me!"
+
+Citan
+"Fei...
+Let us pray that
+that won't happen!"
+
+----------------------------------------------------------------------
+Broken Silence - Blackmoon Forest - Post Rankar Fight
+----------------------------------------------------------------------
+
+Citan
+"Fei!
+Are you alright?"
+
+Fei
+"Yeah...I guess so."
+
+Citan
+"That fight with the
+Rankar was remarkable.
+An ordinary Gear could
+not defeat that monster.
+And you certainly keep
+yourself in good shape..."
+
+Fei
+"Why did you bring
+this here, doc?"
+
+Citan
+"This...?
+You mean Weltall?"
+
+Fei
+"...Weltall?
+This is the Gear that
+destroyed our village.
+Why did you bother
+bringing it here?
+I never want to see
+another Gear again..."
+
+Citan
+"I understand how
+you must feel...
+But, in order to
+protect yourself
+you need a certain
+degree of strength.
+Even more since we
+are being pursued."
+
+Fei
+"I agree that a certain
+degree of strength is
+needed for self-defense.
+And if it weren't for this
+Gear here, Elly and I'd be
+in that Rankar's stomach
+right now...
+But its power goes beyond
+what is necessary. Does
+one really need the power
+to destroy everything?"
+
+Citan
+"..."
+
+Fei
+"I don't need that
+kind of power...
+I just hate Gears."
+
+Citan
+"Fei, using power or being
+used by power...is that not
+a problem of the heart...?
+If humans do not use their
+power for wrong it can be
+a good thing...I believe
+such power can help us.
+In that respect, I know
+you will be fine.
+It sure helped you out
+this time.
+Am I right?"
+
+Fei
+"I want to believe that.
+But something is holding
+me back. This Gear..."
+
+Fei
+"Well, whatever...
+At least Elly is
+safe now."
+
+Citan
+"She seems to
+have come to."
+
+Elly
+"Huh...?"
+
+Citan
+"I am Citan...
+a friend of Fei's.
+You almost did not make it.
+If Fei had not have helped
+you, I hate to think what
+may have happened.
+But I was not too pleased
+with his rashness in trying
+to take on that Rankar
+with just his bare fists."
+
+Elly
+"Bare fists?"
+
+Citan
+"Well, I am glad that you
+were able to find a use
+for what I brought you."
+
+Elly
+"!!"
+
+Citan
+"Let us just say we are
+borrowing what the Kislev
+army left behind..."
+
+Elly
+"...Oh."
+
+Elly
+"Thank you, Fei.
+This makes twice."
+
+Fei
+"Don't mention it.
+I'll just put it
+on your tab."
+
+Citan
+"It is getting dark.
+Let us make camp now and
+start out early tomorrow.
+The both of you look tired
+and I need to make some
+repairs on our friend
+here..."
+
+----------------------------------------------------------------------
+Broken Silence - Blackmoon Forest night by campfire - 0658
+----------------------------------------------------------------------
+
+Citan
+"It is no use. The knee
+actuator and bypass
+circuit are both ruined.
+The actuator can be fixed,
+but the circuit needs 
+to be replaced..."
+
+Citan
+"Oh, having trouble
+sleeping there?"
+
+Elly
+"Yeah..."
+
+Citan
+"I imagine you would.
+You have had quite a day."
+
+Citan
+"This is the machine Fei
+used when the village was
+attacked.
+There was another machine
+left sitting on the
+outskirts of the village...
+Nil bayer dars legus?
+(It was yours, right?)"
+
+!
+
+Citan
+"Just as I thought...
+The missing pilot from the
+Gear that made an emergency
+landing in Lahan...
+...and the mysterious woman
+found wandering lost in the
+forest...are actually one
+and the same person.
+Judging from your uniform,
+I would also say you are
+with the military...
+Am I correct?"
+
+Elly
+"How...?
+Who are you?"
+
+Citan
+"I checked the ID tags of
+of the soldiers who died
+in the attack on Lahan...
+The design on their tags
+and the design on your
+uniform there is the same."
+
+!
+
+Citan
+"Do not worry, they were
+given proper burials.
+But, they may not have
+been too pleased to die
+in a foreign land."
+
+Elly
+"...Maybe."
+
+Citan
+"Does Fei know 
+about you?"
+
+Elly
+"I don't think he
+has realized yet."
+
+Citan
+"Most likely...
+Fei knows nothing of the
+world outside of Lahan."
+
+Elly
+"I see...
+So how come..."
+
+Citan
+"...In any case, it is best
+if we do not pry into each
+other's pasts anymore."
+
+Elly
+"But..."
+
+Citan
+"Let us just say that I
+know a little more about
+the world than most do."
+
+Citan
+"Anyway, Elly...
+I have a favor I must
+beg you to do..."
+
+Elly
+"...What is it?"
+
+Citan
+"Go straight ahead and
+you will come to a road.
+Then just keep going...
+Would you please leave us
+while Fei is still asleep?"
+
+!?
+
+Citan
+"Unfortunate things keep
+happening around Fei.
+I would like to protect
+him if possible...
+I do not want him caught
+up in any vain struggles.
+I am also saying this for
+your benefit.
+Elly, you do not belong
+here.
+Go back to your family."
+
+Elly
+"Um...I..."
+
+Citan
+"Do not worry.
+I will not tell Fei what
+your true identity is.
+I will...just tell him
+you went to meet up
+with your family..."
+
+Elly
+"No, it is not that!
+I did something
+terrible to him...
+So...I want to...
+apologize."
+
+Citan
+"Something terrible?"
+
+Elly
+"Fei told me it was
+our fault your village
+was destroyed.
+Fei kept saying...
+ 'if only they
+  hadn't come...'
+Then, I called Fei a
+coward because he was
+trying to escape from
+the responsibility...
+But in fact it was
+me who was trying to
+escape from taking
+the blame..."
+
+Elly
+"If I hadn't crash-landed
+there, they would all still
+be living peacefully now.
+All those innocent people
+wouldn't have been caught
+up in that tragedy.
+But I accused Fei..."
+
+Citan
+"You are a rarity. I did
+not expect your people
+would ever think like that.
+To your people, surface
+dwellers are nothing more
+than domesticated animals,
+are they not...?"
+
+Elly
+"'The Shepherds, -Abel-,
+  took control over the
+  surface dwelling -Lambs-
+  ...possessing the right
+  to give life and death
+  unto them as they see
+  fit...'"
+
+Citan
+"Exactly. Yet you seem to
+feel responsiblity toward
+Fei and the villagers.
+Why is that?"
+
+Elly
+"I don't know myself...
+At Jugend I was taught
+that surface dwellers
+were stupid and base...
+...And that is why we
+have to control them...
+But..."
+
+Citan
+"But upon meeting Fei,
+something about him made
+you feel differently?"
+
+Elly
+"Yes. He's no different
+than we are...in fact he
+seemed more powerful.
+He possesses something...
+...something we don't.
+He also risked his life
+to save me...twice."
+
+Citan
+"Most of your people
+would feel ashamed at
+receiving such an act.
+Yet, you are grateful
+to Fei...?"
+
+Elly
+"It's probably because of
+my father. He had an open
+mind to surface dwellers.
+My nanny was...a surface
+dweller. No one knew about
+her though...
+Besides...
+I am the same as Fei..."
+
+Citan
+"The same?"
+
+Elly
+"No, nothing. 
+Nevermind..."
+
+Citan
+"Hmm. I think I understand.
+I am sorry. After just
+saying we should not pry...
+It is my nature, you know?
+My wife says I am too
+persistent and that I
+talk too much.
+But, personally, I do not
+think I talk too much."
+
+Citan
+"It is probably best
+if you return home
+to your country.
+You really should
+not be here."
+
+Elly
+"I'll return to
+headquarters.
+But then what..."
+
+Citan
+"You are worried..."
+
+Elly
+"Yes..."
+
+Citan
+"Worrying is natural...
+ 'Even I used to worry
+  once too, you know!?'"
+
+Elly
+"Oh, Citan..."
+
+Citan
+"Anyway, let me handle
+what to tell Fei...
+You had better go now."
