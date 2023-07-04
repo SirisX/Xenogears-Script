@@ -6,7 +6,7 @@ html {
 .App {
     display: grid;
     justify-items: center;
-    padding: 64px 10%;
+    padding: 64px 0 0 220px;
     background-color: black;
     color: white;
 }
@@ -16,4 +16,15 @@ html {
     color: white;
     font-size: 1.2rem;
     white-space: pre-wrap;
+}
+
+.sidebar {
+    /* display: absolute; */
+    position: fixed;
+    height: 50%;
+    min-height: 300px;
+    width: 160px;
+    left: 32px;
+    border: white 2px solid;
+    border-radius: 8px;
 }

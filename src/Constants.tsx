@@ -3,6 +3,7 @@ import text0000 from './text/0000_CONTENTS.txt'
 import text000 from './text/000_Opening_Movie.txt'
 import text00 from './text/00_Prologue.txt'
 import text01 from './text/01_Lahan_Village.txt'
+import text02 from './text/02_Mountain_Path.txt'
 
 export const DefaultChapters: Chapter[] = [
     {
@@ -24,5 +25,10 @@ export const DefaultChapters: Chapter[] = [
         name: "Lahan Village",
         number: 1,
         text: text01,
+    },
+    {
+        name: "Mountain Path",
+        number: 2,
+        text: text02,
     }
 ]
