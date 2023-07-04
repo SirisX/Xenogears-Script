@@ -1,0 +1,28 @@
+import { Chapter } from './Types'
+import text0000 from './text/0000_CONTENTS.txt'
+import text000 from './text/000_Opening_Movie.txt'
+import text00 from './text/00_Prologue.txt'
+import text01 from './text/01_Lahan_Village.txt'
+
+export const DefaultChapters: Chapter[] = [
+    {
+        name: "Contents",
+        number: -2,
+        text: text0000,
+    },
+    {
+        name: "Opening Movie",
+        number: -1,
+        text: text000,
+    },
+    {
+        name: "Prologue",
+        number: 0,
+        text: text00,
+    },
+    {
+        name: "Lahan Village",
+        number: 1,
+        text: text01,
+    }
+]
