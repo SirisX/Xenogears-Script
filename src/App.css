@@ -44,16 +44,46 @@
     margin: 4px;
 }
 
+.sidebar-header {
+    display: grid;
+    grid-template-columns: auto 20px;
+}
+
+.sidebar-header p {
+    font-weight: 800;
+    margin: 0;
+}
+
+.x-button {
+    cursor: pointer;
+    /* padding: 4px; */
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin: 0px;
+}
+
+.open-nav {
+    cursor: pointer;
+    /* padding: 4px; */
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin: 0px;
+}
+
+
 /* CSS for the bottom bar */
 .bottomBar {
     position: fixed;
     height: 32px;
     /* height: 300px; */
     width: 100vw;
-    left: 0px;
+    right: 0;
     bottom: 0;
     border: white 1px solid;
     border-radius: 1px;
     background-color: black;
     z-index: 1;
+    display: grid;
+    justify-items: end;
+    /* margin: 0 64px; */
 }

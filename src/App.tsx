@@ -5,8 +5,7 @@ import { Chapter } from "./Types";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<string[]>([]);
-  const [showSidebar, hideSidebar] = useState<boolean>(true);
-
+  const [showSidebar, setShowSidebar] = useState<boolean>(true);
 
   // Load all chapter text files
   useEffect(() => {
@@ -23,29 +22,48 @@ const App = () => {
     });
   }, []);
 
-
   // Jump to certain spot in the page based on chapter number
   const handleGoToSection = (chapter: Chapter) => {
-    window.location.replace(`/#chapter${chapter.number}`)
-  }
+    window.location.replace(`/#chapter${chapter.number}`);
+  };
 
   return (
     <div className="App">
-      <div className="sidebar">
-        {DefaultChapters.map((chapter: Chapter) => {
-          return (
-            <div className="sidebar-link" onClick={() => handleGoToSection(chapter)}>
-              {`${chapter.number > 0 ? `${chapter.number}-` : ""}${chapter.name}`}
-            </div>
-          );
-        })}
-      </div>
+      {showSidebar ? (
+        <div className="sidebar">
+          <div className="sidebar-header">
+            <p>Nav</p>
+            <p className="x-button" onClick={() => setShowSidebar(false)}>
+              X
+            </p>
+          </div>
+          {DefaultChapters.map((chapter: Chapter) => {
+            return (
+              <div
+                className="sidebar-link"
+                onClick={() => handleGoToSection(chapter)}
+              >
+                {`${chapter.number > 0 ? `${chapter.number}-` : ""}${
+                  chapter.name
+                }`}
+              </div>
+            );
+          })}
+        </div>
+      ) : (
+        <div className="ghost-sidebar"></div>
+      )}
       <div className="bottomBar">
-        OpenNav
+        <div className="sidebar-header" onClick={() => {showSidebar ? setShowSidebar(false) : setShowSidebar(true)}}>
+          <p className="open-nav">Nav</p>
+        </div>
       </div>
       {chapterText.map((chapter: string, index) => {
         return (
-          <div className="chapter-text" id={`chapter${DefaultChapters[index].number}`}>
+          <div
+            className="chapter-text"
+            id={`chapter${DefaultChapters[index].number}`}
+          >
             <div className={`chapter-${index}`}>{chapter}</div>
           </div>
         );
