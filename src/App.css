@@ -29,7 +29,7 @@
     width: 290px;
     left: 0px;
     bottom: 0;
-    border-right: white 1px solid;
+    border-right: rgba(255, 255, 255, 0.644) 1px solid;
     background-color: black;
     z-index: 1;
     transition: 0.2s all ease-in;
@@ -57,7 +57,7 @@
     cursor: pointer;
     align-items: center;
     margin-bottom: 12px;
-    border-bottom: 1px white solid;
+    border-bottom: 1px rgba(255, 255, 255, 0.644) solid;
 }
 
 
