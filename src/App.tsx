@@ -37,23 +37,26 @@ const App = () => {
               X
             </p>
           </div>
-          {DefaultChapters.map((chapter: Chapter) => {
-            return (
-              <div
-                className="sidebar-link"
-                onClick={() => handleGoToSection(chapter)}
-              >
-                {`${chapter.number > 0 ? `${chapter.number}-` : ""}${
-                  chapter.name
-                }`}
-              </div>
-            );
-          })}
+          <div className="sidebar-grid">
+            {DefaultChapters.map((chapter: Chapter) => {
+              return (
+                <div
+                  className="sidebar-link"
+                  onClick={() => handleGoToSection(chapter)}
+                >
+                  {`${chapter.number > 0 ? `${chapter.number}-` : ""}${
+                    chapter.name
+                  }`}
+                </div>
+              );
+            })}
+          </div>
+
         </div>
       ) : (
         <div
           className="sidebar"
-          style={{ opacity: 0, pointerEvents: "none", left: "-290px" }}
+          style={{ opacity: 0, pointerEvents: "none", left: "-340px" }}
         ></div>
       )}
       {showSidebar ? (
@@ -69,7 +72,7 @@ const App = () => {
         </div>
       )}
 
-      <div className="text-container" style={{ paddingLeft: showSidebar ? "160px" : "0"}}>
+      <div className="text-container" style={{ paddingLeft: showSidebar ? "300px" : "0"}}>
         {chapterText.map((chapter: string, index) => {
           return (
             <div

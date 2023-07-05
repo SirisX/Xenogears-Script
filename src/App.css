@@ -26,7 +26,7 @@
     height: 50%;
     height: 100%;
     height: -webkit-fill-available;
-    width: 150px;
+    width: 290px;
     left: 0px;
     bottom: 0;
     border-right: white 1px solid;
@@ -77,13 +77,6 @@
     margin-top: 6px;
 }
 
-.x-button {
-    cursor: pointer;
-    /* padding: 4px; */
-    font-weight: 900;
-    font-size: 1.2rem;
-    margin: 0px;
-}
 /*Button to open nav*/
 .sidebar-openbox {
     position: fixed;
@@ -95,6 +88,20 @@
     background-color: black;
     display: grid;
     justify-items: start;
+}
+
+.sidebar-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2px;
+}
+
+.x-button {
+    cursor: pointer;
+    /* padding: 4px; */
+    font-weight: 900;
+    font-size: 1.2rem;
+    margin: 0px;
 }
 
 
