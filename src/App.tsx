@@ -61,7 +61,7 @@ const App = () => {
     return japaneseChapterText.map((chapter: string, index) => {
       return (
         <div
-          className={index == 1 ? "chapter-text-intro" : "chapter-text"}
+          className="chapter-text"
           id={`chapter${DefaultChapters[index].number}`}
         >
           <div className={`chapter-${index}`}>{chapter}</div>
