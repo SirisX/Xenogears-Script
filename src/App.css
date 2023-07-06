@@ -14,12 +14,14 @@
 }
 
 .chapter-text {
-    column-count: 3;
+    column-count: 2;
     column-fill: balance;
-    margin-bottom: 120px;
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
+    padding-bottom: 64px;
+    margin-bottom: 64px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.32);
 }
 
 
