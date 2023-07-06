@@ -16,11 +16,16 @@ import text11 from './text/11_Desert_Attack.txt'
 import text12 from './text/12_Stalactite_Cave.txt'
 import text13 from './text/13_Pirates_Lair.txt'
 
+
+
+import japaneseText0000 from './text/JapaneseTEST.txt'
+
 export const DefaultChapters: Chapter[] = [
     {
         name: "Contents",
         number: -2,
         text: text0000,
+        japaneseText: japaneseText0000
     },
     {
         name: "Opening Movie",

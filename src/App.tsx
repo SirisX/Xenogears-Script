@@ -5,7 +5,10 @@ import { Chapter } from "./Types";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<string[]>([]);
+  const [japaneseChapterText, setJapaneseChapterText] = useState<string[]>([]);
+
   const [showSidebar, setShowSidebar] = useState<boolean>(true);
+  const [showJapanese, setShowJapanese] = useState<boolean>(true);
 
   // Load all chapter text files
   useEffect(() => {
@@ -20,11 +23,51 @@ const App = () => {
     ).then((res) => {
       setChapterText(res);
     });
+
+    Promise.all(
+      DefaultChapters.map(async (chapter: Chapter, index) => {
+        if (!chapter.japaneseText) return "";
+
+        return await fetch(chapter.japaneseText)
+          .then((r) => r.text())
+          .then((text) => {
+            return text;
+          });
+      })
+    ).then((res) => {
+      setJapaneseChapterText(res);
+    });
   }, []);
 
   // Jump to certain spot in the page based on chapter number
   const handleGoToSection = (chapter: Chapter) => {
     window.location.replace(`/#chapter${chapter.number}`);
+  };
+
+  const renderEnglish = () => {
+    return chapterText.map((chapter: string, index) => {
+      return (
+        <div
+          className={index == 0 ? "chapter-text-intro" : "chapter-text"}
+          id={`chapter${DefaultChapters[index].number}`}
+        >
+          <div className={`chapter-${index}`}>{chapter}</div>
+        </div>
+      );
+    });
+  };
+
+  const renderJapanese = () => {
+    return japaneseChapterText.map((chapter: string, index) => {
+      return (
+        <div
+          className="chapter-text"
+          id={`chapter${DefaultChapters[index].number}`}
+        >
+          <div className={`chapter-${index}`}>{chapter}</div>
+        </div>
+      );
+    });
   };
 
   return (
@@ -33,9 +76,7 @@ const App = () => {
         <div className="sidebar">
           <div className="sidebar-header" onClick={() => setShowSidebar(false)}>
             <p>Quick Jump</p>
-            <p className="x-button">
-              X
-            </p>
+            <p className="x-button">X</p>
           </div>
           <div className="sidebar-grid">
             {DefaultChapters.map((chapter: Chapter) => {
@@ -51,7 +92,6 @@ const App = () => {
               );
             })}
           </div>
-
         </div>
       ) : (
         <div
@@ -68,21 +108,20 @@ const App = () => {
             showSidebar ? setShowSidebar(false) : setShowSidebar(true);
           }}
         >
-          {showSidebar ? "" : <p className="open-nav">Quick Jump</p>}
+          {showSidebar ? "" : <p className="quick-jump">Quick Jump</p>}
         </div>
       )}
+      {showJapanese ? (
+        <p onClick={() => setShowJapanese(false)} className="switch-language">Show English</p>
+      ) : (
+        <p onClick={() => setShowJapanese(true)} className="switch-language">Show Japanese</p>
+      )}
 
-      <div className="text-container" style={{ paddingLeft: showSidebar ? "192px" : "0"}}>
-        {chapterText.map((chapter: string, index) => {
-          return (
-            <div
-              className="chapter-text"
-              id={`chapter${DefaultChapters[index].number}`}
-            >
-              <div className={`chapter-${index}`}>{chapter}</div>
-            </div>
-          );
-        })}
+      <div
+        className="text-container"
+        style={{ paddingLeft: showSidebar ? "192px" : "0" }}
+      >
+        {showJapanese ? renderJapanese() : renderEnglish()}
       </div>
     </div>
   );

@@ -14,14 +14,22 @@
 }
 
 .chapter-text {
-    column-count: 2;
-    column-fill: balance;
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
     padding-bottom: 64px;
     margin-bottom: 64px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.32);
+    /* border-bot
+    tom: 1px solid rgba(255, 255, 255, 0.32); */
+}
+
+.chapter-text-intro {
+    color: white;
+    font-size: 1.1rem;
+    white-space: pre-wrap;
+    padding-bottom: 64px;
+    margin-bottom: 64px;
+    column-count: 2;
 }
 
 
@@ -111,7 +119,7 @@
 }
 
 
-.open-nav {
+.quick-jump {
     color: white;
     cursor: pointer;
     /* padding: 4px; */
@@ -122,9 +130,42 @@
     margin-top: 6px;
 }
 
-.open-nav:active {
+.quick-jump:active {
     color: rgba(255, 255, 255, 0.567);
     font-weight: 800;
     margin: 0;
     margin-top: 6px;
+}
+
+.quick-jump:hover {
+    color: rgba(255, 255, 255, 0.736);
+    font-weight: 800;
+    margin: 0;
+    margin-top: 6px;
+}
+
+
+/*Language switcher*/
+.switch-language {
+    color: white;
+    position: fixed;
+    top: 18px;
+    left: 4px;
+    height: 30px;
+    /* border: white 1px solid; */
+    border-radius: 1px;
+    background-color: black;
+    display: grid;
+    justify-items: start;
+    cursor: pointer;
+    user-select: none;
+}
+
+.switch-language:hover {
+    opacity: 0.8;
+}
+
+
+.switch-language:active {
+    opacity: 0.5;
 }
