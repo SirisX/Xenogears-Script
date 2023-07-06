@@ -27,9 +27,19 @@
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
+    width: 800px;
     padding-bottom: 64px;
     margin-bottom: 64px;
     column-count: 2;
+}
+
+.chapter-0 {
+    color: white;
+    font-size: 1.1rem;
+    white-space: pre-wrap;
+    padding: 0px 0px 15px 50px;
+    float: left;
+    width: 350px;
 }
 
 
