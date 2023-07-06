@@ -72,7 +72,7 @@ const App = () => {
         </div>
       )}
 
-      <div className="text-container" style={{ paddingLeft: showSidebar ? "300px" : "0"}}>
+      <div className="text-container" style={{ paddingLeft: showSidebar ? "192px" : "0"}}>
         {chapterText.map((chapter: string, index) => {
           return (
             <div

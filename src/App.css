@@ -31,7 +31,7 @@
     height: 50%;
     height: 100%;
     height: -webkit-fill-available;
-    width: 290px;
+    width: 180px;
     left: 0px;
     bottom: 0;
     border-right: rgba(255, 255, 255, 0.644) 1px solid;
@@ -97,8 +97,9 @@
 
 .sidebar-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-gap: 2px;
+    margin-left: 8px;
 }
 
 .x-button {
