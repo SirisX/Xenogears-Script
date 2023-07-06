@@ -16,17 +16,17 @@ CONTENTS
 Opening Movie
 Prologue              
 
------DISC 1-----      
-1. Lahan Village      
-2. Mountain Path      
-3. House On a Hill    
-4. Fallen Shadows     
-5. Attack on Lahan    
-6. Into the Woods     
-7. Girl in Forest     
-8. Broken Silence     
-9. Path to Aveh       
-10. Dazil             
+-------DISC 1-------      
+1.	Lahan Village      
+2.	Mountain Path      
+3.	House On a Hill    
+4.	Fallen Shadows     
+5.	Attack on Lahan    
+6.	Into the Woods     
+7.	Girl in Forest     
+8.	Broken Silence     
+9.	Path to Aveh       
+10.	Dazil             
 11. Desert Attack!    
 12. Stalactite Cave   
 13. Pirate's Lair     
@@ -49,7 +49,7 @@ Prologue
 30. Men of the Sea    
 31. Friends Again     
 32. Betrayal          
-33. Ramsus'Attack     
+33. Ramsus' Attack     
 34. A Young Priest    
 35. The Orphanage     
 36. Reaper's Ship     
@@ -70,10 +70,9 @@ Prologue
 51. Krelian's Lab     
 52. Tears for Fears   
 53. Fall of Solaris   
-
------DISC 2-----      
 54. Shevat's Move     
-55. Broken Ties       
+55. Broken Ties
+----DISC 2----    
 56. Shot Down!        
 57. Break the Seal    
 58. Soul Vessel       
