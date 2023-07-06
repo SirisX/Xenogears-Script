@@ -18,7 +18,7 @@ import text13 from './text/13_Pirates_Lair.txt'
 
 
 
-import japaneseText0000 from './text/JapaneseTEST.txt'
+import japaneseText0000 from './text/0000_JP_CONTENTS.txt'
 
 export const DefaultChapters: Chapter[] = [
     {
