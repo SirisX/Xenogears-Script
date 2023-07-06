@@ -8,7 +8,7 @@ const App = () => {
   const [japaneseChapterText, setJapaneseChapterText] = useState<string[]>([]);
 
   const [showSidebar, setShowSidebar] = useState<boolean>(true);
-  const [showJapanese, setShowJapanese] = useState<boolean>(true);
+  const [showJapanese, setShowJapanese] = useState<boolean>(false);
 
   // Load all chapter text files
   useEffect(() => {
