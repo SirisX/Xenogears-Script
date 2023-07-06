@@ -32,6 +32,7 @@ export const DefaultChapters: Chapter[] = [
         name: "Opening Movie",
         number: -1,
         text: text000,
+        japaneseText: japaneseText000
     },
     {
         name: "Prologue",
