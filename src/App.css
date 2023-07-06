@@ -14,6 +14,9 @@
 }
 
 .chapter-text {
+    column-count: 3;
+    column-fill: balance;
+    margin-bottom: 120px;
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
