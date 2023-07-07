@@ -16,10 +16,10 @@
 }
 
 /*BROWSER-CONTENT RESIZE*/
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .text-container
   {
-   width: 67% !important;
+   width: 100% !important;
   }
 }
 
