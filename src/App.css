@@ -14,6 +14,12 @@
     transition: 0.2s padding ease-in;
 }
 
+.text-header {
+    padding: 0;
+    text-align: center;
+    font-weight: 750;
+}
+
 .chapter-text {
     color: white;
     font-size: 1.1rem;
