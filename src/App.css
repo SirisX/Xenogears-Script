@@ -11,6 +11,7 @@
 .text-container {
     padding: 0;
     overflow-y: hidden;
+    line-height: 1.5rem;
     transition: 0.2s padding ease-in;
 }
 
