@@ -43,16 +43,6 @@
     width: 400px;
 }
 
-.chapter-1 {
-    color: white;
-    font-size: 1.1rem;
-    white-space: pre-wrap;
-    padding: 0px 15px 0px 50px;
-    float: right;
-    width: 400px;
-}
-
-
 /* CSS for the sidebar container */
 .sidebar {
     position: fixed;
