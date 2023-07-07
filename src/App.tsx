@@ -105,7 +105,7 @@ const App = () => {
         <div
           className="sidebar-openbox"
           onClick={() => {
-            showSidebar ? setShowSidebar(true) : setShowSidebar(false);
+            showSidebar ? setShowSidebar(false) : setShowSidebar(true);
           }}
         >
           {showSidebar ? "" : <p className="quick-jump">Quick Jump</p>}
