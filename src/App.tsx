@@ -75,7 +75,7 @@ const App = () => {
       {showSidebar ? (
         <div className="sidebar">
           <div className="sidebar-header" onClick={() => setShowSidebar(false)}>
-            <p>Contents</p>
+            <p>Quick Jump</p>
             <p className="x-button">X</p>
           </div>
           <div className="sidebar-grid">
@@ -108,7 +108,7 @@ const App = () => {
             showSidebar ? setShowSidebar(false) : setShowSidebar(true);
           }}
         >
-          {showSidebar ? "" : <p className="quick-jump">Contents</p>}
+          {showSidebar ? "" : <p className="quick-jump">Quick Jump</p>}
         </div>
       )}
       {showJapanese ? (
