@@ -9,7 +9,7 @@
 
 /* CSS for the actual text */
 .text-container {
-    padding: 0px auto;
+    padding: 0;
     overflow-y: hidden;
     transition: 0.2s padding ease-in;
 }
