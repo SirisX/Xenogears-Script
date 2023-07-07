@@ -9,7 +9,7 @@
 
 /* CSS for the actual text */
 .text-container {
-    padding: 0;
+    padding: 0 0 15px 50px;
     overflow-y: hidden;
     line-height: 1.5rem;
     transition: 0.2s padding ease-in;
@@ -45,7 +45,6 @@
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    padding: 0px 0px 15px 50px;
     float: left;
     width: 400px;
 }
