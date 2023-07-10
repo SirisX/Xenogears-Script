@@ -2,7 +2,6 @@
 .App {
     display: grid;
     justify-items: center;
-    /* padding: 64px 12px; */
     background-color: black;
     color: white;
 }
@@ -13,14 +12,9 @@
     overflow-y: hidden;
     line-height: 1.5rem;
     transition: 0.2s padding ease-in;
-}
-
-/*BROWSER-CONTENT RESIZE*/
-@media (max-width: 400px) {
-  .text-container
-  {
-   width: 100% !important;
-  }
+    width: 100%;
+    display: grid;
+    justify-content: center;
 }
 
 .text-header {
@@ -35,18 +29,15 @@
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    padding: 0px 0px 15px 100px;
+    padding: 0px 16px;
     margin-bottom: 16px;
-    /* border-bot
-    tom: 1px solid rgba(255, 255, 255, 0.32); */
 }
 
 .chapter-text-intro {
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    width: 800px;
-    padding: 0 0 0px 100px;
+    padding: 0px 16px;
     margin-bottom: 16px;
     column-count: 2;
 }
@@ -56,7 +47,7 @@
     font-size: 1.1rem;
     white-space: pre-wrap;
     float: left;
-    width: 400px;
+    /* width: 400px; */
 }
 
 /* CSS for the sidebar container */

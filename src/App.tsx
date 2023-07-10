@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { DefaultChapters } from "./Constants";
+import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter } from "./Types";
 
 const App = () => {
@@ -119,7 +119,7 @@ const App = () => {
 
       <div
         className="text-container"
-        style={{ paddingLeft: showSidebar ? "192px" : "0" }}
+        style={{ paddingLeft: showSidebar ? `${SIDEBAR_WIDTH}` : "0" }}
       >
         {showJapanese ? renderJapanese() : renderEnglish()}
       </div>

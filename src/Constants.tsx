@@ -21,6 +21,8 @@ import text13 from './text/13_Pirates_Lair.txt'
 import japaneseText0000 from './text/0000_JP_CONTENTS.txt'
 import japaneseText000 from './text/000_JP_Opening_Movie.txt'
 
+export const SIDEBAR_WIDTH = '340px'
+
 export const DefaultChapters: Chapter[] = [
     {
         name: "Contents",
