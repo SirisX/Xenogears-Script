@@ -20,6 +20,7 @@ import text13 from './text/13_Pirates_Lair.txt'
 
 import japaneseText0000 from './text/0000_JP_CONTENTS.txt'
 import japaneseText000 from './text/000_JP_Opening_Movie.txt'
+import japaneseText00 from './text/00_JP_Prologue.txt'
 
 export const SIDEBAR_WIDTH = '340px'
 
@@ -40,6 +41,7 @@ export const DefaultChapters: Chapter[] = [
         name: "Prologue",
         number: 0,
         text: text00,
+        japaneseText: japaneseText00
     },
     {
         name: "Lahan Village",
