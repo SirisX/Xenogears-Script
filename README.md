@@ -7,3 +7,4 @@ Xenogears
 Story by Tetsuya Takahashi and Soraya Saga  
 Original Translation by Richard Honeywood  
 Arranged by Kenny Mitchell (Siris)  
+Web Programming by Ethan Revere Smith
