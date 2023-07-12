@@ -40,7 +40,6 @@ export const DefaultChapters: Chapter[] = [
         name: "Prologue",
         number: 0,
         text: text00,
-        japaneseText: japaneseText00
     },
     {
         name: "Lahan Village",
