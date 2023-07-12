@@ -1,6 +1,6 @@
 # Xenogears-Script
 The entire Xenogears script in English by Richard Honeywood. Extracted from the game.
-None of it has been altered, save for a minor error fixes.
+None of it has been altered, save for a few minor error fixes.
 
 Xenogears  
 Story by Tetsuya Takahashi and Soraya Saga  
