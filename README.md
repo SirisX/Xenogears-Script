@@ -1,6 +1,6 @@
 # Xenogears-Script
-The entire Xenogears script in English & Japanese.
-Extracted from the game.
+The entire Xenogears script in English & Japanese.  
+Extracted from the game.  
 None of it has been altered, save for a few minor error fixes.
 
 Xenogears  
