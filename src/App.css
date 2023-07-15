@@ -40,10 +40,11 @@
     white-space: pre-wrap;
     padding: 0px 16px;
     margin-bottom: 128px;
-    margin-left: 12%;
+    /* margin-left: 178px; */
+    max-width: 550px;
     margin-top: 64px;
     column-count: 2;
-    column-gap: 32px;
+    column-gap: 128px;
 }
 
 .chapter-0 {

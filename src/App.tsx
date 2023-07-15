@@ -10,7 +10,7 @@ const App = () => {
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
 
-  // Load all chapter text files
+  // Load English Text
   useEffect(() => {
     Promise.all(
       DefaultChapters.map(async (chapter: Chapter, index) => {
@@ -24,6 +24,7 @@ const App = () => {
       setChapterText(res);
     });
 
+    //Load Japanese Text
     Promise.all(
       DefaultChapters.map(async (chapter: Chapter, index) => {
         if (!chapter.japaneseText) return "";
