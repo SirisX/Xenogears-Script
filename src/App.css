@@ -1,4 +1,4 @@
-/* CSS for the main app containert */
+/* CSS for the main app container */
 .App {
     display: grid;
     justify-items: center;
@@ -8,19 +8,16 @@
 
 /* CSS for the actual text */
 .text-container {
-    padding: 0 0 15px 50px;
     overflow-y: hidden;
     line-height: 1.5rem;
     transition: 0.2s padding ease-in;
     width: 100%;
     display: grid;
     justify-content: center;
-    justify-items: center;
 }
 
 .text-header {
     padding: 0;
-    margin: 15px 0px 20px 0px;
     text-align: center;
     font-size: 125%;
     font-weight: 750;
@@ -30,15 +27,14 @@
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    padding: 0px 16px;
-    margin-bottom: 128px;
+    margin-bottom: 64px;
 }
 
 .chapter-text-intro {
     color: white;
     font-size: 1.1rem;
     white-space: pre-wrap;
-    padding: 0px 16px;
+    /* padding: 0px 16px; */
     margin-bottom: 128px;
     /* margin-left: 178px; */
     max-width: 550px;
@@ -52,7 +48,6 @@
     font-size: 1.1rem;
     white-space: pre-wrap;
     float: left;
-    /* width: 400px; */
 }
 
 /* CSS for the sidebar container */
