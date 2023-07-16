@@ -91,7 +91,7 @@ const App = () => {
           <div className="sidebar-header">
             <p></p>
             <p className="x-button" onClick={() => setShowSidebar(false)}>
-              ►
+              »
             </p>
           </div>
           <div className="sidebar-grid">
@@ -143,7 +143,7 @@ const App = () => {
                 showSidebar ? setShowSidebar(false) : setShowSidebar(true);
               }}
             >
-              ►
+              »
             </p>
           )}
           {showJapanese ? (
