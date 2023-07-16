@@ -38,11 +38,11 @@
     /* padding: 0px 16px; */
     margin-bottom: 128px;
     /* margin-left: 178px; */
-    max-width: 615px;
+    /* max-width: 615px; */
     /* margin-top: 64px; */
     column-count: 2;
-    /* column-gap: 64px;
-    justify-self: center; */
+    justify-self: center;
+    column-gap: 64px;
 }
 
 .chapter-text-centered {
