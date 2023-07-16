@@ -15,7 +15,11 @@ const App = () => {
       case 0:
         return "chapter-text-centered";
       case 1:
+        if(showJapanese) {
+          return "chapter-text-intro-japanese";
+        }
         return "chapter-text-intro";
+
       case 2:
         return "chapter-text-centered";
       default:
