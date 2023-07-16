@@ -4,6 +4,9 @@ import contentsText from './text/intro/01_CONTENTS.txt'
 import quoteText from './text/intro/02_OPENING_QUOTE.txt'
 import openingMovieText from './text/intro/03_Opening_Movie.txt'
 import prologueText from './text/intro/04_Prologue.txt'
+import contentsHeader from './text/intro/CONTENTS_HEADER.txt'
+
+
 import chap1Text from './text/chapters/01_Lahan_Village.txt'
 import chap2Text from './text/chapters/02_Mountain_Path.txt'
 import chap3Text from './text/chapters/03_House_On_a_Hill.txt'
@@ -32,6 +35,12 @@ export const DefaultChapters: Chapter[] = [
         number: -4,
         text: headerText,
         japaneseText: jpHeaderText
+    },
+    {
+        name: "ContentsHeader",
+        number: -3,
+        text: contentsHeader,
+        japaneseText: contentsHeader
     },
     {
         name: "Contents",

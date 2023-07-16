@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter } from "./Types";
+import fullScript from "./text/FULL_SCRIPT.txt";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<string[]>([]);
@@ -13,14 +14,15 @@ const App = () => {
   const generateChapterClass = (index: number) => {
     switch (index) {
       case 0:
-        return "chapter-text-centered";
       case 1:
-        if(showJapanese) {
+        return "chapter-text-centered";
+      case 2:
+        if (showJapanese) {
           return "chapter-text-intro-japanese";
         }
         return "chapter-text-intro";
 
-      case 2:
+      case 3:
         return "chapter-text-centered";
       default:
         return "chapter-text";
@@ -62,30 +64,43 @@ const App = () => {
     window.location.replace(`/#chapter${chapter.number}`);
   };
 
+  const generateSection = (chapter: string, index: number) => {
+    return (
+      <div
+        className={generateChapterClass(index)}
+        id={`chapter${DefaultChapters[index].number}`}
+      >
+        <div className={`chapter-${index}`}>
+          {chapter}
+          {index === 0 && (
+            <p className="download-link" onClick={() => handleStartDownload()}>
+              Download Script
+            </p>
+          )}
+        </div>
+      </div>
+    );
+  };
+
   const renderEnglish = () => {
     return chapterText.map((chapter: string, index) => {
-      return (
-        <div
-          className={generateChapterClass(index)}
-          id={`chapter${DefaultChapters[index].number}`}
-        >
-          <div className={`chapter-${index}`}>{chapter}</div>
-        </div>
-      );
+      return generateSection(chapter, index)
     });
   };
 
   const renderJapanese = () => {
     return japaneseChapterText.map((chapter: string, index) => {
-      return (
-        <div
-          className={generateChapterClass(index)}
-          id={`chapter${DefaultChapters[index].number}`}
-        >
-          <div className={`chapter-${index}`}>{chapter}</div>
-        </div>
-      );
+      return generateSection(chapter, index)
     });
+  };
+
+  const handleStartDownload = () => {
+    var a = document.createElement("a");
+    a.href = fullScript;
+    a.download = `Xenogears_Fullscript_English`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
   };
 
   return (
@@ -95,7 +110,7 @@ const App = () => {
           <div className="sidebar-header">
             <p></p>
             <p className="x-button" onClick={() => setShowSidebar(false)}>
-              »
+              «
             </p>
           </div>
           <div className="sidebar-grid">

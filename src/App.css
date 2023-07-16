@@ -44,7 +44,7 @@
     /* max-width: 615px; */
     /* margin-top: 64px; */
     column-count: 2;
-    margin-left: 64px;
+    margin-left: 32px;
     justify-self: center;
     max-width: 100vw;
     /* column-gap: 96px; */
@@ -71,7 +71,7 @@
     font-size: 1rem;
     white-space: pre-wrap;
     /* padding: 0px 16px; */
-    margin-bottom: 128px;
+    margin-bottom: 64px;
     /* margin-left: 178px; */
     max-width: 615px;
     margin-top: 64px;
@@ -243,4 +243,15 @@
 
 .switch-language-open:hover {
     opacity: 0.8;
+}
+
+.download-link {
+    text-decoration: underline;
+    color: brown;
+    cursor: pointer;
+    margin: 8px;
+}
+
+.download-link:hover {
+    color: rgb(212, 38, 38);
 }
