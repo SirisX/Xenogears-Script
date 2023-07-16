@@ -1,111 +1,125 @@
 import { Chapter } from './Types'
-import text0000 from './text/0000_CONTENTS.txt'
-import text000 from './text/000_Opening_Movie.txt'
-import text00 from './text/00_Prologue.txt'
-import text01 from './text/01_Lahan_Village.txt'
-import text02 from './text/02_Mountain_Path.txt'
-import text03 from './text/03_House_On_a_Hill.txt'
-import text04 from './text/04_Fallen_Shadows.txt'
-import text05 from './text/05_Attack_on_Lahan.txt'
-import text06 from './text/06_Into_the_Woods.txt'
-import text07 from './text/07_Girl_in_Forest.txt'
-import text08 from './text/08_Broken_Silence.txt'
-import text09 from './text/09_Path_to_Aveh.txt'
-import text10 from './text/10_Dazil.txt'
-import text11 from './text/11_Desert_Attack.txt'
-import text12 from './text/12_Stalactite_Cave.txt'
-import text13 from './text/13_Pirates_Lair.txt'
+import headerText from './text/intro/0_HEADER.txt'
+import contentsText from './text/intro/01_CONTENTS.txt'
+import quoteText from './text/intro/02_OPENING_QUOTE.txt'
+import openingMovieText from './text/intro/03_Opening_Movie.txt'
+import prologueText from './text/intro/04_Prologue.txt'
+import chap1Text from './text/chapters/01_Lahan_Village.txt'
+import chap2Text from './text/chapters/02_Mountain_Path.txt'
+import chap3Text from './text/chapters/03_House_On_a_Hill.txt'
+import chap4Text from './text/chapters/04_Fallen_Shadows.txt'
+import chap5Text from './text/chapters/05_Attack_on_Lahan.txt'
+import chap6Text from './text/chapters/06_Into_the_Woods.txt'
+import chap7Text from './text/chapters/07_Girl_in_Forest.txt'
+import chap8Text from './text/chapters/08_Broken_Silence.txt'
+import chap9Text from './text/chapters/09_Path_to_Aveh.txt'
+import chap10Text from './text/chapters/10_Dazil.txt'
+import chap11Text from './text/chapters/11_Desert_Attack.txt'
+import chap12Text from './text/chapters/12_Stalactite_Cave.txt'
+import chap13Text from './text/chapters/13_Pirates_Lair.txt'
 
-
-
-import japaneseText0000 from './text/0000_JP_CONTENTS.txt'
-import japaneseText000 from './text/000_JP_Opening_Movie.txt'
-import japaneseText00 from './text/00_JP_Prologue.txt'
+import jpHeaderText from './text/intro/0_JP_HEADER.txt'
+import jpContentsText from './text/intro/01_JP_CONTENTS.txt'
+import jpQuoteText from './text/intro/02_JP_OPENING_QUOTE.txt'
+import jpMovieText from './text/intro/03_JP_Opening_Movie.txt'
+import jpPrologueText from './text/intro/04_JP_Prologue.txt'
 
 export const SIDEBAR_WIDTH = '340px'
 
 export const DefaultChapters: Chapter[] = [
     {
+        name: "Header",
+        number: -4,
+        text: headerText,
+        japaneseText: jpHeaderText
+    },
+    {
         name: "Contents",
+        number: -3,
+        text: contentsText,
+        japaneseText: jpContentsText
+    },
+    {
+        name: "Quote",
         number: -2,
-        text: text0000,
-        japaneseText: japaneseText0000
+        text: quoteText,
+        japaneseText: jpQuoteText
     },
     {
         name: "Opening Movie",
         number: -1,
-        text: text000,
-        japaneseText: japaneseText000
+        text: openingMovieText,
+        japaneseText: jpMovieText
     },
     {
         name: "Prologue",
         number: 0,
-        text: text00,
-        japaneseText: japaneseText00
+        text: prologueText,
+        japaneseText: jpPrologueText
     },
     {
         name: "Lahan Village",
         number: 1,
-        text: text01,
+        text: chap1Text,
     },
     {
         name: "Mountain Path",
         number: 2,
-        text: text02,
+        text: chap2Text,
     },
     {
         name: "House On a Hill",
         number: 3,
-        text: text03,
+        text: chap3Text,
     },
     {
         name: "Fallen Shadows",
         number: 4,
-        text: text04,
+        text: chap4Text,
     },
     {
         name: "Attack on Lahan",
         number: 5,
-        text: text05,
+        text: chap5Text,
     },
     {
         name: "Into the Woods",
         number: 6,
-        text: text06,
+        text: chap6Text,
     },
     {
         name: "Girl in Forest",
         number: 7,
-        text: text07,
+        text: chap7Text,
     },
     {
         name: "Broken Silence",
         number: 8,
-        text: text08,
+        text: chap8Text,
     },
     {
         name: "Path to Aveh",
         number: 9,
-        text: text09,
+        text: chap9Text,
     },
     {
         name: "Dazil",
         number: 10,
-        text: text10,
+        text: chap10Text,
     },
     {
         name: "Desert Attack",
         number: 11,
-        text: text11,
+        text: chap11Text,
     },
     {
         name: "Stalactite Cave",
         number: 12,
-        text: text12,
+        text: chap12Text,
     },
     {
         name: "Pirate's Lair",
         number: 13,
-        text: text13,
+        text: chap13Text,
     }
 ]

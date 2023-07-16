@@ -10,6 +10,19 @@ const App = () => {
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
 
+  const generateChapterClass = (index: number) => {
+    switch (index) {
+      case 0:
+        return "chapter-text-centered";
+      case 1:
+        return "chapter-text-intro";
+      case 2:
+        return "chapter-text-centered";
+      default:
+        return "chapter-text";
+    }
+  }
+
   // Load English Text
   useEffect(() => {
     Promise.all(
@@ -49,7 +62,7 @@ const App = () => {
     return chapterText.map((chapter: string, index) => {
       return (
         <div
-          className={index == 0 ? "chapter-text-intro" : "chapter-text"}
+          className={generateChapterClass(index)}
           id={`chapter${DefaultChapters[index].number}`}
         >
           <div className={`chapter-${index}`}>{chapter}</div>
@@ -62,8 +75,8 @@ const App = () => {
     return japaneseChapterText.map((chapter: string, index) => {
       return (
         <div
-          className={index == 0 ? "chapter-text-intro" : "chapter-text"}
-          id={`chapter${DefaultChapters[index].number}`}
+        className={generateChapterClass(index)}
+        id={`chapter${DefaultChapters[index].number}`}
         >
           <div className={`chapter-${index}`}>{chapter}</div>
         </div>
@@ -113,9 +126,9 @@ const App = () => {
         </div>
       )}
       {showJapanese ? (
-        <p onClick={() => setShowJapanese(false)} className="switch-language">Show English</p>
+        <p onClick={() => setShowJapanese(false)} className="switch-language">EN</p>
       ) : (
-        <p onClick={() => setShowJapanese(true)} className="switch-language">Show Japanese</p>
+        <p onClick={() => setShowJapanese(true)} className="switch-language">JPY</p>
       )}
 
       <div
