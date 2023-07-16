@@ -21,7 +21,7 @@ const App = () => {
       default:
         return "chapter-text";
     }
-  }
+  };
 
   // Load English Text
   useEffect(() => {
@@ -75,8 +75,8 @@ const App = () => {
     return japaneseChapterText.map((chapter: string, index) => {
       return (
         <div
-        className={generateChapterClass(index)}
-        id={`chapter${DefaultChapters[index].number}`}
+          className={generateChapterClass(index)}
+          id={`chapter${DefaultChapters[index].number}`}
         >
           <div className={`chapter-${index}`}>{chapter}</div>
         </div>
@@ -88,9 +88,11 @@ const App = () => {
     <div className="App">
       {showSidebar ? (
         <div className="sidebar">
-          <div className="sidebar-header" onClick={() => setShowSidebar(false)}>
-            <p>Quick Jump</p>
-            <p className="x-button">X</p>
+          <div className="sidebar-header">
+            <p></p>
+            <p className="x-button" onClick={() => setShowSidebar(false)}>
+              ►
+            </p>
           </div>
           <div className="sidebar-grid">
             {DefaultChapters.map((chapter: Chapter) => {
@@ -106,6 +108,21 @@ const App = () => {
               );
             })}
           </div>
+          {showJapanese ? (
+            <p
+              onClick={() => setShowJapanese(false)}
+              className="switch-language-open"
+            >
+              EN
+            </p>
+          ) : (
+            <p
+              onClick={() => setShowJapanese(true)}
+              className="switch-language-open"
+            >
+              JP
+            </p>
+          )}
         </div>
       ) : (
         <div
@@ -116,19 +133,35 @@ const App = () => {
       {showSidebar ? (
         ""
       ) : (
-        <div
-          className="sidebar-openbox"
-          onClick={() => {
-            showSidebar ? setShowSidebar(false) : setShowSidebar(true);
-          }}
-        >
-          {showSidebar ? "" : <p className="quick-jump">Quick Jump</p>}
+        <div className="sidebar-openbox">
+          {showSidebar ? (
+            ""
+          ) : (
+            <p
+              className="quick-jump"
+              onClick={() => {
+                showSidebar ? setShowSidebar(false) : setShowSidebar(true);
+              }}
+            >
+              ►
+            </p>
+          )}
+          {showJapanese ? (
+            <p
+              onClick={() => setShowJapanese(false)}
+              className="switch-language"
+            >
+              EN
+            </p>
+          ) : (
+            <p
+              onClick={() => setShowJapanese(true)}
+              className="switch-language"
+            >
+              JP
+            </p>
+          )}
         </div>
-      )}
-      {showJapanese ? (
-        <p onClick={() => setShowJapanese(false)} className="switch-language">EN</p>
-      ) : (
-        <p onClick={() => setShowJapanese(true)} className="switch-language">JPY</p>
       )}
 
       <div
