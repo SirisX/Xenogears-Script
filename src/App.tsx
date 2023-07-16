@@ -74,7 +74,7 @@ const App = () => {
           {chapter}
           {index === 0 && (
             <p className="download-link" onClick={() => handleStartDownload()}>
-              Download Script
+              {showJapanese ? "フルスクリプトをダウンロード" : "Download Full Script" }
             </p>
           )}
         </div>
