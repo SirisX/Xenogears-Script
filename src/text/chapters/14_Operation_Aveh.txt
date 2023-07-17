@@ -1,0 +1,1871 @@
+————————————————————————————
+Operation Aveh - Yggdrasil Top - 0764
+————————————————————————————
+
+Maison
+"We must infiltrate Aveh 
+and rescue Margie now!
+Gebler has discovered this
+base. So we should leave a
+small garrison and evacuate
+while we still can.
+Fortunately, the Yggdrasil
+is undamaged, so we are
+able to embark immediately.
+The crew's preparations are
+complete.
+Whenever you are ready,
+Master Fei and good Doctor,
+please accompany the young
+master to the bridge."
+
+Maison
+"Doctor Uzuki, Master Fei, 
+I thank you from the bottom
+of my heart.
+I would truly appreciate it
+if you would be so kind as
+to stay with us and help us
+out on our rescue mission!"
+
+Bart
+"Hey, alright, alright.
+Let me say goodbye to
+the women before we go."
+
+————————————————————————————
+Operation Aveh  - Yggdrasil Bridge - 1186
+————————————————————————————
+
+Sigurd
+"It's time to sneak
+into Aveh at last.
+First of all, our party
+should inspect the town
+and work out a plan of
+action."
+
+Sigurd
+"Currently anchored
+at our hideout..."
+    Leave the hideout.
+    Changed my mind.
+
+————————————————————————————
+Operation Aveh - Ramsus' Ship - 1150
+————————————————————————————
+	
+Gebler 1
+Docking complete. 
+
+Gebler 2
+Hull, all sections 
+secure. 
+
+Gebler 3
+Gravity distribution
+normal. Shutting down
+propulsion system.
+
+Gebler 4
+Begin docking 
+procedure. 
+
+Ramsus
+"Cancel the alert status.
+Begin repairs and
+resupply immediately."
+
+Miang
+"The Prime Minister and
+General Vanderkaum are here
+to see you, Commander."
+
+Ramsus
+"Hmph, what a
+dismal welcome."
+
+Miang
+"What do you expect?
+We're on the 'surface'."
+
+Ramsus
+"Miang, let's
+disembark."
+
+Miang
+"Yes, sir."
+
+————————————————————————————
+Operation Aveh - Bledavik Docks - 0948
+————————————————————————————
+
+Shakhan
+"Well, well, Commander.
+You've only just taken
+command and already you
+are achieving splendid
+results.
+You dispatched those
+irksome Kislev units
+in a matter of days...
+I'm very impressed."
+
+Ramsus
+"I can't believe you
+were beaten by such
+a small force...
+I have only just
+taken over my post
+and already you have
+embarrassed me!"
+
+Vanderkaum
+"I am sorry Commander.
+They were more persistent
+than we anticipated.
+They had a new model Gear
+that was very mobile.
+I couldn't get a lock on
+it with the main gun...
+Otherwise there would have
+been no way we could have
+been beaten by such..."
+
+Ramsus
+"Fool!
+Know when to use that
+big gun, and on whom!
+You failed because you
+try to solve everything
+with force.
+You have muscles instead
+of brains."
+
+Vanderkaum
+"Commander!!"
+
+Ramsus
+"Dismissed.
+Go polish your beloved
+1200 sem cannon."
+
+Shakhan
+"Tomorrow is the 500th
+anniversary of this
+country.
+Please come to the
+dedication ceremony."
+
+Shakhan
+"There is a customary
+Tournament after the
+dedication ceremony..."
+
+Ramsus
+"What about the incident
+in that report?"
+
+Shakhan
+"What? Oh, you mean the
+500-year-old mobile weapon
+excavated from the ruins?
+Thanks to the help of the
+'Ethos', the repairs are
+complete.
+I thought we could announce
+it on the day of the
+dedication ceremony..."
+
+Ramsus
+"Toys like that should
+be given to Vanderkaum.
+I'm talking about the
+'Fatima Jasper'."
+
+Shakhan
+"I already have obtained
+one half of the crest.
+But I haven't been able
+to get her to tell me
+where the other half is.
+She is a rather strong-
+willed girl..."
+
+Ramsus
+"You're not being rough
+with her, are you?"
+
+Shakhan
+"Of course not. I know
+how you despise vulgar
+acts like that."
+
+Ramsus
+"You said that girl is the
+Holy Mother of Nisan...
+Is she upstairs?"
+
+Shakhan
+"Yes, in the
+east tower."
+
+Ramsus
+"Miang, could
+it possibly be
+a 'Relic'?"
+
+Miang
+"Yes. But there is still no
+response. There seems to be
+a barrier or something.
+However, we do know from
+the 500-year-old records
+that one certainly exists
+in this vicinity.
+It's probably well
+preserved too."
+
+Ramsus
+"...Let's meet her.
+I want to talk to her
+directly. Miang, you
+come with me."
+
+Miang
+"Yes sir."
+
+————————————————————————————
+Operation Aveh - Bledavik Capital Hallway - 0910
+————————————————————————————
+
+Shakhan
+"Open the door.
+Commander Ramsus is
+here to see her."
+
+Shakhan
+"Commander, please."
+
+————————————————————————————
+Operation Aveh - East Tower - 0914
+————————————————————————————
+
+Ramsus
+"I am Ramsus, she is
+Miang. We would like to
+ask you some questions."
+
+Margie
+"I'm Margie.
+Actually it's Marguerite.
+What do you want to know?
+My favorite food? I like
+cake, Chiffon Nisan is my
+favorite. I haven't had
+it in so long..."
+
+Ramsus
+"Marguerite, we want to
+ask you about the Fatima
+family treasure...
+I'm talking about the
+'Fatima Jasper'. You see,
+I'm keeping the piece
+you had in a safe place.
+But I don't know where
+the other piece is.
+Do you?"
+
+Margie
+"Nope.
+The one I had you took
+from me.
+You didn't even give
+me anything for it.
+Hey, the next time you
+come, could you bring
+some Chiffon Nisan?
+I used to eat it
+everyday in Nisan.
+I don't think they
+make it in Aveh.
+Aveh used to have such
+good bakers, but I
+guess they must have
+all died in the war."
+
+Ramsus
+"That is too bad.
+I don't know much about
+cake, but I'll see if I
+can find some for you
+next time."
+
+Margie
+"Thank you Ramsus.
+I'll be waiting."
+
+Ramsus
+"Is there anything else
+you need?
+If there's something you
+want I'll bring it next
+time."
+
+Margie
+"No. I just want to go
+back to Nisan. They must
+be so worried about me."
+
+Ramsus
+"I'm sorry but please
+wait a little longer.
+We want you to stay
+here until we find
+the other half of the
+'Fatima Jasper'."
+
+————————————————————————————
+Operation Aveh - Shakan's Monitor Room - 0916
+————————————————————————————
+
+Shakhan
+"I'm amazed she talked
+that much. He can handle
+women as well as he says."
+
+Minister
+Is it all right?
+
+Shakhan
+"I can't prevent them from
+meeting her. Not when it's
+him we are talking about...
+Besides, Marguerite isn't
+talking anyway.
+So there is no need to
+worry...
+But where did the leak
+about the Jasper come
+from...?
+...The 'Ethos'?
+Ridiculous...! Hmmm,
+if this continues my
+plans will be..."
+
+Shakhan
+"We had better find out
+who is leaking out our
+information immediately.
+In the meantime, we'll
+have to administer some
+truth serum to our
+guest, Miss Marguerite.
+We must find the other
+piece of the 'Fatima
+Jasper' as quickly as
+we can."
+
+Minister
+But...
+
+Shakhan
+"However spineless the last
+commander, Vanderkaum,
+was...
+...this time Gebler has
+sent their highest
+commanding officer.
+His country is throwing all
+their weight into this.
+And, there is nothing we
+can do about it!"
+
+————————————————————————————
+Bledavik - 0810
+————————————————————————————
+
+Woman
+Welcome to Bledavik!
+We're having a festival
+celebrating the founding
+of our country, Aveh.
+There's a martial arts
+tournament too.
+It's been a while since
+we have had so many
+visitors.
+
+Do you already have a hotel?
+    Yes
+    Not yet
+
+Really? Too bad. 
+I know a good place.
+
+————————————————————————————
+
+You'd better get a room
+soon or they'll all be 
+gone.
+I know a good hotel.
+
+That one.
+
+Tell them my name at
+the front desk and
+they'll give you a deal.
+
+————————————————————————————
+Bledavik - Hotel - 0814
+————————————————————————————
+
+Citan
+"Let us borrow a
+room here for our
+planning session."
+
+Sister of Nisan
+!
+
+Ah...
+Excuse me but...aren't 
+you Prince Bartholomew?
+
+Bart
+"...And you are?"
+
+Sister
+I was sent here by
+the Nisan Sect.  
+I'm here to check up
+on Mother Marguerite.
+Prince Bartholomew,
+I knew you would come
+sooner or later...
+
+Citan
+"Well, let us not just
+stand here chatting. 
+Shall we use a room?"
+
+You must be tired. 
+I'll be in my room, 
+please come by later.
+
+That's my room there.
+
+————————————————————————————
+Bledavik - Hotel Room - 0816
+————————————————————————————
+
+Sister
+Excuse me but
+who are they...
+
+Bart
+"Oh, this is Fei and
+Citan. They're going to
+help rescue Margie."
+
+Sister
+Thank you for coming here
+in this desert heat.
+I am a servant of the
+Nisan Sect.
+Ever since Shakhan took
+Mother Marguerite I've
+been looking into ways
+to get her back.
+I've been trying to find
+out where she is being
+held.
+I've been busy listening
+to workers talk about
+the comings and goings
+from the castle...
+And giving food to the
+guards who are preparing
+for the Tournament to
+loosen their lips too.
+Finally yesterday, I got
+some information...
+Margie's in the citadel.
+The problem is how to 
+slip into the castle...
+I thought about it a lot
+but it looks pretty bleak.
+I'm sorry.
+
+Bart
+"No big deal. At least
+we know where she is now.
+You just relax, we'll
+find a way to slip into
+the castle."
+
+Sister
+My apologies. If there
+is anything else I can do
+to help just ask...
+Do you have any good leads?
+
+Bart
+"Not yet. We're gonna
+hit the streets for
+info. now.
+Then we'll think
+about the rest later."
+
+Sister
+I see. I'm very relieved
+that you are all here.
+Please come see me again
+if you hear anything new.
+
+————————————————————————————
+0822 - Bledavik Bedroom
+————————————————————————————
+
+I came from far away when
+I heard about this festival.
+But this town is so uptight!
+Everyone looks at outsiders
+like me so suspiciously!
+It was getting to me, so I
+shut myself up in my hotel
+room.
+But, now this tiny room is 
+starting to get to me too.
+
+————————————————————————————
+Bledavik - 0810
+————————————————————————————
+
+Customer
+Oh no, you raised
+the prices again...
+
+Hey, give me a deal.
+
+Vendor
+I'm sorry. The army just
+comes and confiscates
+whatever it wants. So I'm
+a little short of stock.
+
+I hope this war
+ends soon.
+
+Lady Vendor
+Radishes! Get 'em here!
+Get your spicy radishes!
+Big Lahan radishes! 
+
+Wanna buy a radish?
+They're from Lahan, the
+hottest you can find.
+You'll be spitting fire.
+Try one.
+
+10G for one.
+    Buy one
+    Don't buy any 
+
+Alright.
+How about 9G?
+    Buy one
+    Don't buy any 
+
+Just try one.
+8G?
+    Buy one
+    Don't buy any 
+
+Hey, you can't carry anymore!
+Don't play tricks on old
+people like that.
+
+Thanks.
+
+Hey!
+Don't burn yourself 
+breathing fire.
+
+Weren't you going to
+buy one? They say people
+who play tricks on the
+old will shrivel up and
+die in the desert.
+
+You don't like spicy
+things?
+Too bad.
+
+————————————————————————————
+
+Old Man
+Huh!?
+
+Hmm, 
+Who was that?
+I forgot...
+
+Oh yeah!
+I remember! 
+
+Prince Bartholomew?
+    Yes!
+    Don't know him!
+
+Bart
+"Hey, that's pretty
+good, grandpa!"
+
+Old Man
+My, how you've grown...
+Your Highness probably 
+doesn't remember me, but
+I used to work in the
+castle kitchen.
+You would always come
+in and taste everything.
+You used to dress up and
+say, 'I'm a pirate! Give
+me your food!'...
+Ah, the good old days...
+
+Life's been hard since
+the old king died.
+Not that an old man like
+me has much longer to
+worry about that...
+But my children and grand-
+children are still young.
+I wonder if it'll ever get
+any better?
+
+————————————————————————————
+
+Old Man
+Hmm...
+must be someone else...
+When you get older your
+memory really goes.
+
+————————————————————————————
+
+Shop Owner
+Are you all here for the Tournament?
+    Yes
+    Huh?
+
+Yeah, well I'm glad. The
+war's gotten worse, and
+there are fewer tourists.
+Well, have fun.
+
+What, you don't know?
+It's only the biggest
+martial arts tournament
+in the world!
+I came all the way to
+Bledavik just to see it.
+You'll be sorry if you
+don't go.
+
+————————————————————————————
+
+Grandma
+Whew, keeping up with my
+granddaughter is tough.
+
+Granddaughter
+Grandma, hurry, hurry!
+Finish shopping so we
+can go to the festival.
+
+Little Girl
+Get off my back!
+I'm just looking!
+
+Shut up! 
+Mind your own business!
+
+!
+
+Kid
+(Hurry!) 
+
+Shopkeeper
+Hey, you!
+
+Show me what you're 
+hiding! 
+Give it back now and I 
+won't tell your folks.
+
+Little Girl
+What are you talking
+about lady? I'm not
+hiding anything! Do you
+wanna see?
+
+See.
+
+Shopkeeper
+That's strange...
+
+Little Girl
+You can't accuse people
+without proof!
+C'mon lady!
+
+————————————————————————————
+
+Little Boy
+We're playing hide-and-
+seek. You wanna play?
+    Play
+    No thanks
+	
+Afraid you'll lose, heh?
+
+————————————————————————————
+	
+When you leave I'll
+hide, then you gotta 
+find me.
+
+When you leave I'll 
+hide somewhere.
+
+Good job.
+Next time I'll hide 
+somewhere better.
+
+I didn't think you'd ever
+find me here. You're good.
+You musta been the champ
+when you were a kid.
+But you won't find me
+next time.
+
+A~w-ge~e!
+You found me here, too?
+OK, time for my secret
+weapon! You'll never
+find me there!!
+
+GE~EZ!
+How'd you find me?
+Forget it!
+I'm quitting
+hide-and-seek.
+Here's my badge.
+I don't need it
+anymore.
+
+ Received H&S Badge
+ 
+————————————————————————————
+
+Little Girl 2
+Hey! Hey, man!
+Will you feed us?
+    Sure
+    Well...
+
+Then lend me 1000G
+    Sure
+    No way
+
+!! 
+
+Wow, thanks...
+You're really
+nice man...
+I mean 'mister'.
+
+Hey, if you don't have 
+any money don't fool 
+people like that.
+
+!!
+
+Little Girl 1
+Thanks for loaning me 
+money. I'll stop stealing. 
+The two of us will work
+hard till dad comes back.
+
+Little Girl 3
+I promise I'll return it
+when my dad comes back.
+
+————————————————————————————
+Bledavik Home - 0828
+————————————————————————————
+
+Ever since my oldest son
+was drafted, I've been
+so lonely.
+My younger son is up on
+the roof looking north.
+Ahh... I hope my boy
+comes home safely...
+He's such a gentle child,
+I'm worried how he'll
+make it in the army.
+He used to arrange the
+flower upstairs.
+But now I make them as
+I pray for his safety.
+
+————————————————————————————
+-AFTER- ???
+My oldest son came back!
+My prayers were answered.
+Now I'm putting all my
+effort into cooking.
+
+————————————————————————————
+Bledavik - 0810
+————————————————————————————
+
+Little Boy 1
+My brother has gone
+off to fight...
+
+To the north, by the
+border.
+I pray everyday that
+he will return home 
+safe...
+
+...And that he'll beat up
+lots of Kislev guys too!
+
+When I get older I wanna
+be a Gear pilot and shoot
+Kislev guys too.
+If we don't they'll take
+over and kill or make
+slaves of everyone.
+
+Right (??? missing question mark)
+    Yep
+    Not really
+
+I'm gonna be a 
+strong soldier!
+
+Those Kislev guys 
+are real bad!
+And...they killed
+my dad.
+I hafta get 'em.
+
+————————————————————————————
+Bledavik Restaurant - 0842
+————————————————————————————
+
+Waitress
+Fish are pretty. I
+could watch them all day.
+    You said it!
+    I'd like to eat!
+
+I thought I'd go to the
+sea after the war. 
+I don't mean the sea of
+sand either.
+Just water, spreading on
+forever like a desert...
+A sea of water full of
+pretty fish.
+
+Customer 1
+Even my good-for-
+nothin' kid gives me
+less to worry about than
+this wacky world...
+
+Customer 2
+All the young men in
+town have been drafted.
+They wouldn't take me
+because I'm an alcoholic.
+
+Soldier 1
+Hey!
+Who d'ya think made it
+so ya can enjoy this
+festival in peace?
+Soldiers! It's 'cause
+we're out there risking
+our lives. Did ya know
+that?
+
+Barkeep
+I'm sorry, all his 
+friends were killed in
+the battle at the ruins.
+He's a little wild.
+Forgive him.
+
+Soldier 2
+We're fighting to the end.
+This isn't for peace or
+justice or for the government,
+it's for my fallen comrades.
+
+————————————————————————————
+Bledavik Room - 0824
+————————————————————————————
+
+Man 1
+...That makes 5 mining 
+Gears and 10 miners.
+
+And make it quick!
+I need some miners
+without families.
+
+Well... When guys with
+families get killed on
+a dangerous job, I have
+to pay compensation to
+the families.
+It's a real pain.
+
+So that's it. 
+If you find some tell me.
+I'm counting on you.
+
+Man 2
+Since the war started
+you can really tell who
+is stupid and isn't.
+The stupid ones have
+been forced out of
+business.
+But if you change your
+view, war can be good
+business.
+When there aren't enough
+people or goods, you can
+sell at a higher price.
+
+————————————————————————————
+Bledavik Upstairs Bedroom - 0826
+————————————————————————————
+
+Little Girl
+Hey, my sister is
+getting married
+to someone named
+Vanderkaum.
+
+Older Sister
+Stupid! 
+Why would I do that?
+With that old creep?
+I'd never be used as
+a tool for that old
+fart's business.
+
+When will I ever
+be able to leave
+this dump!
+
+————————————————————————————
+
+Boy 1
+Company  halt!
+
+We are the Raider Boys!
+Joined together to
+protect Aveh's peace!
+
+Boy 2
+Yeah!
+
+Boy 3
+Hey!
+
+Boy 1
+We protect the people
+of the desert from the
+steam heads of Kislev.
+
+Boy 2
+Yeah!
+
+Boy 1
+You're not from Aveh!
+
+You're Kislev people!
+
+Boy 1
+Shut up! 
+I'm the captain and I'm
+talkin' here!
+
+Boy 3
+Yeah, yeah 
+I wanna be Cap'n too!
+
+Boy 2
+Don't be bossy!
+It's not fair!
+You're always Cap'n.
+
+Boy 1
+Shut up!
+
+Right, starting 
+tomorrow we'll switch 
+off. 
+That's good!
+
+Let's return to 
+patrol!
+Forward  march!
+
+Boy 2
+Kislev steam heads!
+We'll kick their...
+
+Boy 1
+Twist their noses
+till they come off!
+
+Boy 3
+They're kettle-heads
+with steam for brains!
+
+————————————————————————————
+
+Me too 
+I'm Cap'n tomorrow.
+
+We are the Raider Boys!
+We're protectin' the peace
+in this part of the desert!
+
+I was first!
+Tomorrow I'm the Cap'n!
+
+————————————————————————————
+Bledavik Storage Room - 0832
+————————————————————————————
+
+Girl
+My brother is such a 
+child, always playing
+hide-and-seek.
+What a laugh. I wonder 
+where he's hiding now?
+
+————————————————————————————
+
+My brother says he's
+over playing hide-and-
+seek. But now he has
+nothing to do.
+He's probably just
+wandering around the
+area. He's still such
+a child.
+
+That kid is amazing. 
+Since her father has 
+been away she's been 
+running the store all
+by herself.
+
+My dad came back. 
+I was helping him in the
+store but he told me to
+go play somewhere.
+
+————————————————————————————
+Bledavik Cat House - 0838
+————————————————————————————
+
+Mother
+I must apologize.
+There are so many cats
+here it's hard to walk.
+My daughter collects them.
+
+Daughter
+I'm back.
+
+Mother
+Hi...
+Hey, come here!
+
+Daughter
+Wh, what? 
+I'm not hiding anything.
+
+Mother
+Just come here...
+
+Daughter
+I did...
+can I go upstairs now?
+
+Mother
+!
+
+That child...
+what did she bring home now?
+
+Daughter
+But...it's so sad. 
+I have no father, but at
+least I have a mother. This
+kitty has neither parent...
+I feel lonely cause my
+dad's not here. But just
+think how my poor little
+kitty friend feels.
+So...I told her that she'll
+have lots of friends at my
+house...and she just
+followed me home...
+
+Mother
+... Recently they 
+started calling my 
+house the cathouse.
+
+Daughter
+Sorry.
+
+Mother
+You're gonna have to 
+take care of it.
+
+Daughter
+Okay.
+
+————————————————————————————
+
+Yep, we're full of cats.
+
+Cats are so cute. When
+I pet them, I get sleepy.
+
+My father used to 
+hate cats, but now he's 
+outside feeding them.
+
+————————————————————————————
+Bledavik - 0810
+————————————————————————————
+
+Little Boy
+I wonder...
+where's he hiding?
+
+Old Woman
+I've been doing laundry
+here for 60 years...
+The water is the only
+thing that hasn't changed.
+There's a spring flowing
+beneath the castle.
+I was worried that when
+the king died, the water
+would stop too, but it 
+didn't.
+That old guy down there
+in charge of the water
+won't budge an inch even
+for Shakhan.
+
+Yeah!
+He's great guy!
+My childhood friend.
+
+Old Man
+It's cool here. 
+Cool air blows up 
+from the grate.
+
+No good, no good.
+You won't open it 
+without the key!
+Many years ago a kid 
+got lost down there.
+I think it was the kid 
+from the armor store...
+
+————————————————————————————
+Bledavik - 0836
+————————————————————————————
+
+Old Man
+!
+
+...hmph...
+I thought my son came
+back.
+
+Old Woman
+You...
+
+Old Man
+My son's fighting for
+the country. He won't be
+back soon...
+It must be a tough job.
+Yep, I'll bet he's a
+general by now.
+
+Old Woman
+Sorry, he's gone a little
+senile... You see, our son
+'went on holidays' to get
+out of joining the army.
+But we haven't heard from
+him in 10 years...
+
+————————————————————————————
+Bledavik - 0810
+————————————————————————————
+
+Kid
+Ah, you found me.
+
+You found me here too.
+Next time's for real.
+
+Huh? You wanna hear about
+when I went down the well?
+It's been a while since
+anyone asked me about that.
+Everyone wanted to know
+about it back then...
+Well...cough...I was
+still a kid when I hid
+in there. Actually I got
+lost...pretty embarrassing!
+At first, I thought I could
+follow the current out, but
+the grill stopped me.
+So I swam against the
+current.
+The speed of the current
+is always changing so if
+your timing's off it's
+really tough.
+I hear it's the opening
+and closing of the flood
+gate that changes the
+speed of the current.
+But if you keep going
+against the current you'll
+end up right under the
+castle.
+I was scared stiff by the
+manager guy there...
+The lid to the well's
+been locked since then.
+It was a great place to
+hide but it's no place
+for amateurs.
+
+Huh? The key?
+The old guy who is always
+sitting on the bench by
+the east well has it.
+
+Old Man
+The well key?
+I've got it.
+I'm in charge of the
+waterworks association.
+
+What are you gonna do with the key?
+    Search underground
+    Rescue Margie
+    Steal from the castle
+
+Stupid!
+You'll just get lost!
+
+What!?
+You wanna clash
+with Shakhan?
+
+Hah!
+This is great!
+This is great!
+I like you guys.
+I'll lend you the key.
+You get that Shakhan
+for me!
+
+Received Well Key!
+
+————————————————————————————
+
+Old Man
+You big fools!!
+You kids are thinking of
+playing around and living the
+easy life while other kids are
+out there spilling their blood
+on the battlefield!
+Shame on you! Shame!
+You don't deserve to live here.
+This whole town is rotting
+away...
+Damn! Damn that Shakhan!
+
+Bart
+"Don't get mad, gramps.
+It's a joke. A joke.
+Look at me. Do I look
+like a thief to you?"
+
+Old Man
+I don't get it ...
+...............
+Oh?...Oh!...You...
+No, it couldn't be!
+
+Bart
+"Gramps, are you senile?
+It's true. It is me!"
+
+Old Man
+Prince Bartholomew?
+I though you had died in (??? spelling error)
+that accident. 
+You're still alive...
+
+Bart
+"Still alive and I'm gonna
+save my cousin being held
+in the castle.
+That's why I gotta sneak
+in through waterways. So
+help me out here gramps."
+
+Old Man
+Of course!
+
+Received Well Key!
+
+Bart
+"Thanks.
+I appreciate it!"
+
+Old Man
+Sorry about what I 
+said before...
+
+Bart
+"Don't worry about it.
+I'm glad there are people 
+like you worried about 
+the country."
+
+————————————————————————————
+Bledavik Castle Square - Festival - 0856
+————————————————————————————
+
+Son
+Hey daddy, buy me
+one of those toys.
+
+Dad
+No, nope.
+Wait till the Tournament
+is over. I'll buy you
+something better then.
+
+Son
+I want the toys in 
+that store...
+I wanna play army.
+
+Man
+Hey, have you ever
+seen a flying saucer?
+    Yep
+    Nope
+	
+Yes, that is the country of
+the great ancients.
+They came from a star farther
+than heaven and created us.
+They ruled this land as gods.
+But, man gained knowledge and
+strife erupted everywhere.
+The ruins are proof of those
+struggles. The descendants of
+the gods fled this land of
+conflict making their place
+in the sky.
+It was a peaceful place, with
+a civilization far more
+advanced than ours.
+...Are you listening?
+They are still alive.
+Have you noticed that
+sometimes people disappear?
+They're taken by what I call
+Sky People.
+They are trained as soldiers
+to rule over the earth again.
+The time is near.
+God's army will appear out of
+nowhere. Haven't you heard?
+Don't defy them, you can't
+win.
+They will make a paradise
+on earth again. 
+That's what my research
+has shown about the Sky
+People and the saucer.
+	
+————————————————————————————
+
+Hey, have you ever
+seen a flying saucer?
+    Yes I have
+    I've ridden on it too
+	
+————————————————————————————
+
+...The gods fell from
+the sky, lost their
+memory and created
+everything anew...
+
+...People of that
+country feared war on
+earth and fled to the sky.
+
+...Giants driven from
+the heavens brought fire
+on the earth...
+
+...That's because you
+live looking down.
+...Pitiful.
+The day of judgement
+is near you know!?
+
+————————————————————————————
+
+Woman
+Hey, you're not from around here.
+How do you like Bledavik?
+    I like it
+    Don't like it
+
+Well, great.
+Enjoy the festival.
+
+————————————————————————————
+
+Woman
+Oh...
+That's because the war's
+put everyone on edge.
+Bledavik's a really nice
+place in peace time.
+
+————————————————————————————
+
+Little Boy
+I'm going to see the
+Tournament. Fighting
+is a man's game.
+
+Lady
+Be careful. There are 
+lots of strange shops at 
+the festival.
+
+Old Man 1
+...hic...
+It's been a while since
+I last drank outside.
+
+Old Man 2
+Hic!
+Drinkin' Bartweiser
+in broad daylight...
+Thash my favorite
+part of feshtivals!
+
+————————————————————————————
+
+Bart
+"Fei!"
+
+Bart
+"The castle's up ahead.
+If I go, it'll cause 
+problems.
+If you're going to go,
+the two of you should
+go by yourselves.
+I'll wait here."
+
+Citan
+"Fei, what shall we do?"
+    Let the two of us go.
+    Go to the castle later.
+	
+Bart
+"Okay, be careful."
+
+————————————————————————————
+Bledavik Castle Courtyard - 0868
+————————————————————————————
+
+Man
+Yo, dude!
+Try and pick the champion?
+
+Citan
+"The champion of what?"
+
+Man
+Huh?
+The champion of
+the 'Tournament'!
+
+Citan
+"Do they bet on
+this 'Tournament'?"
+
+Man
+What
+What are you talking about?
+Tournaments ARE gambling!
+Why do you think people
+even come here? To bet on
+who will be champion! Duh!
+
+Citan
+"Excuse us, we have only
+just arrived and know
+nothing of the Tournament."
+
+Man
+Oh, tourists, huh?
+Well let me tell you about
+the Tournament.
+Every year they hold a big
+martial arts tournament 
+here in Aveh.
+Fighters from all over the
+world gather to see who's
+strongest. It's like a big
+brawl.
+Everyone goes wild over
+guessing who'll win. So,
+wanna give it a try?
+
+Citan
+"Betting on the Tournament
+...Is that allowed at such
+a grand event"
+
+Man
+You bet. The soldiers
+are crazy about it. If
+Kislev attacked tomorrow
+Aveh would be dust.
+What are you gonna do?
+Registration's not over
+yet, but all the strong
+ones have signed up.
+The rest are only after
+the consolation prizes
+anyway...
+
+Citan
+"Let us wait and see.
+Some strong ones might
+still register."
+
+Man
+Ha!
+What a buncha cowards.
+
+Citan
+"Fei, we can use this
+to our advantage!
+If you create a stir at
+the Tournament, the guards
+will be watching you
+rather than their posts.
+It will make it easy for
+us to sneak into the
+castle and rescue Margie.
+What do you think, Fei?
+Will you enter the 
+Tournament?"
+
+Fei
+"Who...me?"
+
+Citan
+"While you draw the guards'
+attention the young one can
+sneak into the castle.
+Surely you see that it is
+the only way we will get
+in? Right...
+Let us go sign you up."
+
+Citan
+"And Fei, do not use
+your real name, make
+another suitable one."
+
+————————————————————————————
+
+Little Boy
+My cousin's friend
+is gonna fight in it.
+Pretty cool, huh!
+
+Man 2
+To enter...
+Or not to enter...
+That is the question...
+
+Woman
+This is the best place
+to see the action for free.
+I'm saving my space now!
+
+Vendor
+Shoot, can't get any
+decent customers today.
+
+Old Man
+I'm ready already...
+What's taking so long?
+
+Guard 1
+You can't go in here.
+This will be spectator 
+seating tomorrow.
+
+Guard 2
+If my guy wins...
+I'm going to the bar and
+order the most expensive
+whiskey they have.
+Then I'm gonna ask that
+waitress out! I wonder what
+to get her for a present.
+
+Guard 3
+This is the Tournament
+Registration Booth.
+    Enter the Tournament
+    No thanks
+	
+You're the Dragon 
+Slaying Boxer, right?
+
+You are signed up.
+The Tournament begins
+tomorrow. Please make
+sure you are here.
+
+————————————————————————————
+Bledavik Castle Square - Festival - 0856
+————————————————————————————
+
+Bart
+"Well, let's go."
+
+————————————————————————————
+Bledavik - Hotel Room - 0816
+————————————————————————————
+
+Sister of Nisan
+Any new information?
+Good ideas?
+
+Bart
+"I just remembered where
+Bledavik's water supply
+comes from...
+Spring water rises up from
+under the castle and flows
+to the town via a series
+of underground waterways.
+We can sneak into the
+castle by going through
+these underground
+waterways.
+We can get into them from
+the town's well. The water-
+ways should lead right up
+to the castle's reservoir.
+If we are able to get that
+far, we should be able to
+sneak into the other rooms
+of the castle from there."
+
+Citan
+"A good idea, except I
+have one more suggestion.
+There is a festival going
+on now. There must be a
+way we can use it to our
+advantage."
+
+————————————————————————————
+
+Sister
+Did you find a way 
+to use the festival?
+
+Citan
+"Tomorrow is the 
+Tournament. There will
+be betting at the arena.
+Surely, the soldiers'
+minds will be more on the
+Tournament than their job.
+We must use this to our
+advantage."
+
+Sister
+What do you mean?
+
+Citan
+"Fei will participate.
+We will have him put
+on a big show there."
+
+Sister
+I'm sure today's the
+last day to sign up for
+the Tournament. You'd
+better register soon.
+
+————————————————————————————
+
+Sister
+North of town is a
+plaza. The castle is
+beyond that.
+I'm sure we'll find
+something there.
+
+————————————————————————————
+
+Citan
+"No need to worry.
+Fei already registered."
+
+Citan
+"Sounds good.
+Fei is in the Tournament.
+He will draw the guards'
+attention.
+Then Bart will enter the
+castle through the
+waterways via the well.
+After that he will rescue
+Marguerite from the
+citadel.
+I will accompany Fei to
+the Tournament. I will 
+also help work the crowd
+and secure our escape."
+
+————————————————————————————
+
+Citan
+"Tomorrow Fei will be in
+the Tournament at Fatima
+castle.
+We will put on a good show
+to distract the guards.
+Then Bart will infiltrate
+the castle through the
+underground waterways
+by way of the well.
+I will accompany Fei to
+the Tournament. I will
+also help work the crowd
+and secure our escape."
+
+Citan
+"Preparations for our
+plan are complete.
+Tonight we will stay in
+the hotel and start out
+tomorrow.
+We are free to do what we
+like for now. 
+Let us have a look around
+the town."
+
+————————————————————————————
+
+Citan
+"Good work. Get plenty
+of rest for tomorrow."
+
+Going out again?
+    Yes
+    Get some rest
+
+Citan
+"Are you sure?
+Please do not come 
+back too late."
+
+————————————————————————————
+
+Citan
+"Good.
+Save your energy
+for tomorrow."
+
+————————————————————————————
+
+Citan
+"Come back after you
+have registered for
+the Tournament."
+
+————————————————————————————
+
+Bart
+"Well, I'm all ready so
+I'm gonna get some sleep.
+Man, I'm beat."
+
+More sightseeing 
+in Aveh?
+    Yes
+    Rest
+	
+Bart
+"Yeah, tomorrow will be 
+tough for both of us."
+
+————————————————————————————
