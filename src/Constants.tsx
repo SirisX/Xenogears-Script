@@ -37,6 +37,12 @@ export const DefaultChapters: Chapter[] = [
         japaneseText: jpHeaderText
     },
     {
+        name: "ContentsHeader",
+        number: -3,
+        text: contentsHeader,
+        japaneseText: contentsHeader
+    },
+    {
         name: "Contents",
         number: -3,
         text: contentsText,
