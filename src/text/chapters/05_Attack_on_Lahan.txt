@@ -1,5 +1,5 @@
 ————————————————————————————
-Attack on Lahan - Village Center - 0610
+Attack on Lahan - Village Center - 0610 - 002
 ————————————————————————————
 
 Fei
@@ -149,7 +149,7 @@ Citan
 "Fei!!"
 
 ————————————————————————————
-Attack on Lahan - Fei Fights in Weltall - file1 & file5
+Attack on Lahan - Fei Fights in Weltall - file1 & file5 - 606
 ————————————————————————————
 
 .....XafbEWfadJZ.....
@@ -186,6 +186,10 @@ WARNING!
  preparing to attack!
  Terminating Help Mode.
 
+————————————————————————————
+Attack on Lahan - 604
+————————————————————————————
+
 Fei
 "Reinforcements,
 huh?!"
@@ -200,6 +204,8 @@ Fei
 there's no choice...
 but to fight..."
 
+————————————————————————————
+Attack on Lahan - 002
 ————————————————————————————
 
 Citan
@@ -300,7 +306,7 @@ These people have nothing
 to do with you!"
 
 ————————————————————————————
-Attack on Lahan - Timothy Killed - file7
+Attack on Lahan - Timothy Killed - file7 - 607
 ————————————————————————————
 
 Fei

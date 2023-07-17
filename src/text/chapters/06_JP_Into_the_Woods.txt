@@ -160,7 +160,6 @@ Into the Woods - Fei wakes up after destroying Lahan - 0612 - 003
 「でも……、俺はいったい
 　どうすればいいんだ……？
 
-
 シタン
 「そうですね……、黒月の森をぬけて、
 　アヴェに出てはどうですか？
@@ -168,6 +167,7 @@ Into the Woods - Fei wakes up after destroying Lahan - 0612 - 003
 　なかったようです。
 　アヴェ側に入ってしまえば、連中も
 　うかつに追っては行けないでしょう。
+
 
 
 
@@ -188,16 +188,12 @@ Into the Woods - Fei wakes up after destroying Lahan - 0612 - 003
 フェイ
 「………。
 
-You killed everyone with
-that monster...!!
+　おまえがその化け物で、
+　みんなを殺したんだ……！！
 
-Murderer!! My sister...
-Give me back my sister!!
-Now, Fei, allow me to
-spill the blood out of
-love...Like the sea of
-hell, red, deep...!
+　人殺しッ！！
+　姉ちゃんを……
+　アルル姉ちゃんを返せッ！！
 
 フェイ
 「くッ……！！
-
