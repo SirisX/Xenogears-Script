@@ -9,6 +9,7 @@
 /* CSS for the actual text */
 .text-container {
     overflow-y: hidden;
+    margin-top: 32px;
     line-height: 1.5rem;
     transition: 0.15s padding ease-in;
     width: 100%;
