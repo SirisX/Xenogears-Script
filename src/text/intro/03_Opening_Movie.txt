@@ -18,35 +18,35 @@ Operator 2
 "Activating emergency shutdown...Denied!"
 
 Operator 1
-"Contamination is spreading widely...captain!?" 
+"Contamination is spreading widely...captain!?"
 
 Captain
 "Cut off the cables manually."
 
 Operator 1
-"Roger!" "Activating self-destruct bolts." 
-"Confirming...No good. Nothing happened." 
+"Roger!" "Activating self-destruct bolts."
+"Confirming...No good. Nothing happened."
 
 Operator 2
-"Omega 1 is invading! We can't stop it!" 
+"Omega 1 is invading! We can't stop it!"
 "98% of our weapons have been taken over!"
 "Autopilot System Faust has been accessed."
-"And its phase-space logic is being rewritten..." 
+"And its phase-space logic is being rewritten..."
 "Ergo areas increasing! An internal plane is forming..."
-"Switching to space displacement mode." 
+"Switching to space displacement mode."
 
 Operator 1
 "Alpha 1 confirming transfer of coordinate codes!"
-"Coordinate input, coordinate NX128 - EZ061...
-The main planet!!"
+"Coordinate input, coordinate NX128 - EZ061...The main planet!!"
 
 Captain
 "Damn, so it's planning on attacking..."
-"Engine Room! Activate the emergency sealing system!!" 
+"Engine Room! Activate the emergency sealing system!!"
 "...Engine Room!? Engine..."
 
-You shall be as gods. You shall be as gods. 
-You shall be as gods. You shall be as gods...
+You shall be as gods.
+You shall be as gods.
+You shall be as gods...
 
 Captain
 "See that all civilians and passengers 
