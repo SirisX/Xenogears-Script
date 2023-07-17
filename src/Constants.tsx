@@ -31,16 +31,10 @@ export const SIDEBAR_WIDTH = '340px'
 
 export const DefaultChapters: Chapter[] = [
     {
-        name: "Header",
+        name: "Title",
         number: -4,
         text: headerText,
         japaneseText: jpHeaderText
-    },
-    {
-        name: "ContentsHeader",
-        number: -3,
-        text: contentsHeader,
-        japaneseText: contentsHeader
     },
     {
         name: "Contents",
