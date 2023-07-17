@@ -37,7 +37,8 @@ Operator 2
 
 Operator 1
 "Alpha 1 confirming transfer of coordinate codes!"
-"Coordinate input, coordinate NX128 - EZ061...The main planet!!"
+"Coordinate input, coordinate NX128 - EZ061...
+The main planet!!"
 
 Captain
 "Damn, so it's planning on attacking..."
