@@ -84,7 +84,7 @@ Lahan Village - Flashback - 1974 - 578
 　預かって欲しいと？
 
 ————————————————————————————
-Lahan Village - Chief Lee's House Downstairs - 0634 - 014
+Lahan Village - Chief Lee's House - 0634 - 014
 ————————————————————————————
 
 お手伝いさん
@@ -102,7 +102,7 @@ Lahan Village - Chief Lee's House Downstairs - 0634 - 014
 
 
 ————————————————————————————
-Lahan Village - Chief Lee's House - Wedding Day Plans - 0632 - 013
+Lahan Village - Chief Lee's House - 0632 - 013
 ————————————————————————————
 
 ティモシー
@@ -2277,4 +2277,3 @@ Lahan Village - Alice's Room - 0630 - 012
 アルル
 「わたしったら……　
 　バカみたい……。
-
