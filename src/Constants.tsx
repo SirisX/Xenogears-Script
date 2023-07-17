@@ -78,37 +78,37 @@ export const DefaultChapters: Chapter[] = [
         name: "Lahan Village",
         number: 1,
         text: chap1Text,
-        japaneseText: jpChap1Text;
+        japaneseText: jpChap1Text
     },
     {
         name: "Mountain Path",
         number: 2,
         text: chap2Text,
-        japaneseText: jpChap2Text;
+        japaneseText: jpChap2Text
     },
     {
         name: "House On a Hill",
         number: 3,
         text: chap3Text,
-        japaneseText: jpChap3Text;
+        japaneseText: jpChap3Text
     },
     {
         name: "Fallen Shadows",
         number: 4,
         text: chap4Text,
-        japaneseText: jpChap4Text;
+        japaneseText: jpChap4Text
     },
     {
         name: "Attack on Lahan",
         number: 5,
         text: chap5Text,
-        japaneseText: jpChap5Text;
+        japaneseText: jpChap5Text
     },
     {
         name: "Into the Woods",
         number: 6,
         text: chap6Text,
-        japaneseText: jpChap6Text;
+        japaneseText: jpChap6Text
     },
     {
         name: "Girl in Forest",
