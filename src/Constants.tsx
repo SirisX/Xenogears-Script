@@ -30,7 +30,7 @@ import jpPrologueText from './text/intro/04_JP_Prologue.txt'
 
 import jpChap1Text from './text/chapters/01_JP_Lahan_Village.txt'
 import jpChap2Text from './text/chapters/02_JP_Mountain_Path.txt'
-import jpChap3Text from './text/chapters/03_JP_House_On_a_Hill.txt'
+import jpChap3Text from './text/chapters/03_JP_House_on_a_Hill.txt'
 import jpChap4Text from './text/chapters/04_JP_Fallen_Shadows.txt'
 import jpChap5Text from './text/chapters/05_JP_Attack_on_Lahan.txt'
 import jpChap6Text from './text/chapters/06_JP_Into_the_Woods.txt'
