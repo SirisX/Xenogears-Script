@@ -30,7 +30,8 @@
     white-space: pre-wrap;
     justify-self: center;
     /* max-width: 550px; */
-    margin-left: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
     max-width: 100vw;
     /* margin-bottom: 64px; */
 }
@@ -40,12 +41,11 @@
     font-size: 1rem;
     white-space: pre-wrap;
     /* padding: 0px 16px; */
-    margin-bottom: 64px;
+    margin-bottom: 32px;
     /* margin-left: 178px; */
     /* max-width: 615px; */
     /* margin-top: 64px; */
     column-count: 2;
-    margin-left: 32px;
     justify-self: center;
     max-width: 100vw;
     /* column-gap: 96px; */
@@ -61,7 +61,6 @@
     /* margin-left: 178px; */
     /* max-width: 615px; */
     column-count: 2;
-    margin-left: 0px;
     justify-self: center;
     column-gap: 128px;
     max-width: 100vw;
