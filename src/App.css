@@ -55,10 +55,10 @@
     font-size: 1.1rem;
     white-space: pre-wrap;
     /* padding: 0px 16px; */
-    margin-bottom: 64px;
+    /* margin-top: 64px; */
+    margin-bottom: 32px;
     /* margin-left: 178px; */
     /* max-width: 615px; */
-    /* margin-top: 64px; */
     column-count: 2;
     margin-left: 0px;
     justify-self: center;
@@ -71,10 +71,10 @@
     font-size: 1.1rem;
     white-space: pre-wrap;
     /* padding: 0px 16px; */
-    margin-bottom: 64px;
     /* margin-left: 178px; */
     max-width: 615px;
-    margin-top: 64px;
+    margin-top: 32px;
+    margin-bottom: 32px;
     text-align: center;
     justify-self: center;
 }
