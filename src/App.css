@@ -235,7 +235,8 @@
     top: 36px;
     margin: 0;
     left: 140px;
-    height: 30px;
+    height: 35px;
+    width: 40px;
     border-radius: 1px;
     display: grid;
     justify-items: start;
