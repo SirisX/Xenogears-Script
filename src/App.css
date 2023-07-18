@@ -188,7 +188,8 @@
     margin: 0;
     margin-left: 4px;
     user-select: none;
-    width: 40px;
+    width: 50px;
+    height: 25px;
     padding: 2px 12px 2px 4px;
     margin-top: 6px;
 }
@@ -209,7 +210,8 @@
     top: 36px;
     margin: 0;
     left: 4px;
-    height: 30px;
+    height: 25px;
+    width: 50px;
     border-radius: 1px;
     display: grid;
     justify-items: start;
