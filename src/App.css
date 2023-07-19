@@ -107,8 +107,9 @@
 }
 
 .sidebar-link:active {
-  color: rgb(205, 43, 43);
+  color: #e70000;
   cursor: pointer;
+  font-weight: 800;
   margin: 4px;
 }
 
@@ -316,17 +317,22 @@
   color: #e70000;
 }
 
+.download-link:active {
+  color: #e70000;
+  font-weight: 600;
+}
+
+/* Expand Chapter Button */
 .chapter-button {
   background-color: #890000;
-  opacity: 0.78;
+  opacity: 0.8;
   font-size: 0.8rem;
   font-weight: 700;
   color: white;
   border: none;
-  /* align-self: end; */
   border-radius: 2px;
   cursor: pointer;
-  left: -30px;
+  left: -32px;
   top: 22px;
   width: 20px;
   height: 20px;
@@ -334,25 +340,19 @@
   position: absolute;
   text-align: center;
 }
-
 .chapter-button:hover {
   background-color: #e70000;
 }
 
+
+/* Collapsable Chapters */
 .chapter-hidden {
   max-height: 80px;
   overflow-y: scroll;
   overflow-x: hidden;
-  /* transition: max-height 2s ease-in; */
-  /* opacity: 0; */
 }
-
-
 .chapter-visible {
-  /* max-height: 80px; */
   overflow-x: hidden;
-  /* transition: max-height 2s ease-in; */
-  /* opacity: 0; */
 }
 
 
@@ -365,7 +365,7 @@
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #890000; 
+  background: #890000cd; 
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
