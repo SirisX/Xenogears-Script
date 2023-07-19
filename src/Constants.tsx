@@ -27,11 +27,20 @@ import jpQuoteText from './text/intro/02_JP_OPENING_QUOTE.txt'
 import jpMovieText from './text/intro/03_JP_Opening_Movie.txt'
 import jpPrologueText from './text/intro/04_JP_Prologue.txt'
 
+import jpChap1Text from './text/chapters/01_JP_Lahan_Village.txt'
+import jpChap2Text from './text/chapters/02_JP_Mountain_Path.txt'
+import jpChap3Text from './text/chapters/03_JP_House_on_a_Hill.txt'
+import jpChap4Text from './text/chapters/04_JP_Fallen_Shadows.txt'
+import jpChap5Text from './text/chapters/05_JP_Attack_on_Lahan.txt'
+import jpChap6Text from './text/chapters/06_JP_Into_the_Woods.txt'
+
+
 export const SIDEBAR_WIDTH = '0'
+// export const SIDEBAR_WIDTH = '340px'
 
 export const DefaultChapters: Chapter[] = [
     {
-        name: "Header",
+        name: "Title",
         number: -4,
         text: headerText,
         japaneseText: jpHeaderText
@@ -70,31 +79,37 @@ export const DefaultChapters: Chapter[] = [
         name: "Lahan Village",
         number: 1,
         text: chap1Text,
+        japaneseText: jpChap1Text
     },
     {
         name: "Mountain Path",
         number: 2,
         text: chap2Text,
+        japaneseText: jpChap2Text
     },
     {
         name: "House On a Hill",
         number: 3,
         text: chap3Text,
+        japaneseText: jpChap3Text
     },
     {
         name: "Fallen Shadows",
         number: 4,
         text: chap4Text,
+        japaneseText: jpChap4Text
     },
     {
         name: "Attack on Lahan",
         number: 5,
         text: chap5Text,
+        japaneseText: jpChap5Text
     },
     {
         name: "Into the Woods",
         number: 6,
         text: chap6Text,
+        japaneseText: jpChap6Text
     },
     {
         name: "Girl in Forest",

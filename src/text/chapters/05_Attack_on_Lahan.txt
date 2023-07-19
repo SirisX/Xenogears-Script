@@ -1,6 +1,6 @@
-———————————————————————————————————
-Attack on Lahan - Village Center - 0610
-———————————————————————————————————
+————————————————————————————
+Attack on Lahan - Village Center - 0610 - 002
+————————————————————————————
 
 Fei
 "No!
@@ -32,7 +32,7 @@ We can't find him!!"
 
 Timothy
 "I'll go look one more
-time! Alice, go ahead and 
+time! Alice, go ahead and
 get out of the village."
 
 Citan
@@ -126,9 +126,9 @@ Fei
 "...
 Ah...!?"
 
-———————————————————————————————————
+————————————————————————————
 Anime Cutscene as Fei gets into Weltall
-———————————————————————————————————
+————————————————————————————
 
 Citan
 "Huh...
@@ -148,9 +148,9 @@ fight here...!!"
 Citan
 "Fei!!"
 
-———————————————————————————————————
-Attack on Lahan - Fei Fights in Weltall - file1 & file5
-———————————————————————————————————
+————————————————————————————
+Attack on Lahan - Fei Fights in Weltall - file1 & file5 - 606
+————————————————————————————
 
 .....XafbEWfadJZ.....
 ...Linguistic Modifier
@@ -186,6 +186,10 @@ WARNING!
  preparing to attack!
  Terminating Help Mode.
 
+————————————————————————————
+Attack on Lahan - 604
+————————————————————————————
+
 Fei
 "Reinforcements,
 huh?!"
@@ -200,7 +204,9 @@ Fei
 there's no choice...
 but to fight..."
 
-———————————————————————————————————
+————————————————————————————
+Attack on Lahan - 002
+————————————————————————————
 
 Citan
 "Fei...!!
@@ -210,13 +216,13 @@ This is not good!
 If 'he' awakens here..."
 
 Dan
-Doc!! 
+Doc!!
 
 Citan
 "Dan!?"
 
 Citan
-"Are you alright!? 
+"Are you alright!?
 What on earth are
 you doing here!?
 Do you not know
@@ -299,9 +305,9 @@ Fei
 These people have nothing
 to do with you!"
 
-———————————————————————————————————
-Attack on Lahan - Timothy Killed - file7
-———————————————————————————————————
+————————————————————————————
+Attack on Lahan - Timothy Killed - file7 - 607
+————————————————————————————
 
 Fei
 "Timothy!"
@@ -312,8 +318,8 @@ you bastards!"
 
 Fei
 "Stop it!
-I said sto-p i——t!"
+I said sto-p i---t!"
 
-———————————————————————————————————
+————————————————————————————
 Anime Cutscene - Timothy is killed; Fei destroys Lahan
-———————————————————————————————————
+————————————————————————————

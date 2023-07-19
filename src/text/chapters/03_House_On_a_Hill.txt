@@ -1,6 +1,6 @@
-———————————————————————————————————
-House On a Hill - Outside Citan's House Daytime - 0640
-———————————————————————————————————
+————————————————————————————
+House On a Hill - Outside Citan's House Daytime - 0640 - 017
+————————————————————————————
 
 "Injured, sick, all
 accepted. Come on in!
@@ -10,9 +10,9 @@ But no deceased please."
 pruf of justis! Stop the
 njections, yew quack."
 
-———————————————————————————————————
-House On a Hill - Citan's House - 0644
-———————————————————————————————————
+————————————————————————————
+House On a Hill - Citan's House - 0644 - 018
+————————————————————————————
 
 Yui
 "Oh, welcome, Fei.
@@ -31,7 +31,7 @@ make yourself at home."
 Midori
 "..."
 
-———————————————————————————————————
+————————————————————————————
 
 Yui
 "Oh Fei, welcome."
@@ -81,9 +81,9 @@ the birds later?"
 Midori
 "..."
 
-———————————————————————————————————
-House On a Hill - Outside Citan's House Daytime - 0640
-———————————————————————————————————
+————————————————————————————
+House On a Hill - Outside Citan's House Daytime - 0640 - 017
+————————————————————————————
 
 Fei
 "Where are you, doc?"
