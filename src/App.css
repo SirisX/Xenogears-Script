@@ -41,7 +41,7 @@
 
 .chapter-text-intro-japanese {
     color: white;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     white-space: pre-wrap;
     /* padding: 0px 16px; */
     margin-bottom: 32px;
@@ -319,7 +319,7 @@
     background: brown;
   }
 
-  @media (min-width: 500px) {
+  @media (min-width: 540px) {
     .chapter-text {
         width: 450px;
         font-size: 1.1rem;
@@ -341,5 +341,10 @@
     .chapter-button {
         font-size: 1.2rem;
         width: 24px;
+    }
+
+
+    .chapter-text-intro-japanese {
+        font-size: 1.1rem;
     }
   }
