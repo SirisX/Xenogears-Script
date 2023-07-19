@@ -220,7 +220,7 @@ const App = () => {
           ) : (
             <p
               className="quick-jump"
-              style={{ color: isDarkMode ? "white" : "black" }}
+              style={{ color: isDarkMode ? "white" : "black", fontSize: "1.5rem" }}
               onClick={() => {
                 showSidebar ? setShowSidebar(false) : setShowSidebar(true);
               }}
