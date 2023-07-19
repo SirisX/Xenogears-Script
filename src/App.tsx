@@ -115,6 +115,9 @@ const App = () => {
           </div>
           <div className="sidebar-grid">
             {DefaultChapters.map((chapter: Chapter) => {
+              if (chapter.hideInSidebar) {
+                return
+              }
               return (
                 <div
                   className="sidebar-link"

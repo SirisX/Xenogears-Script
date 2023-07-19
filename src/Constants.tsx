@@ -43,13 +43,14 @@ export const DefaultChapters: Chapter[] = [
         name: "Title",
         number: -4,
         text: headerText,
-        japaneseText: jpHeaderText
+        japaneseText: jpHeaderText,
     },
     {
         name: "ContentsHeader",
         number: -3,
         text: contentsHeader,
-        japaneseText: contentsHeader
+        japaneseText: contentsHeader,
+        hideInSidebar: true,
     },
     {
         name: "Contents",
@@ -61,7 +62,8 @@ export const DefaultChapters: Chapter[] = [
         name: "Quote",
         number: -2,
         text: quoteText,
-        japaneseText: jpQuoteText
+        japaneseText: jpQuoteText,
+        hideInSidebar: true,
     },
     {
         name: "Opening Movie",
