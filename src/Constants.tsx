@@ -210,11 +210,18 @@ export const DefaultChapters: Chapter[] = [
         japaneseText: SWAP_ME_OUT,
     },
     {
-        name: "Desert Despair (BONUS CONTENT)",
+        name: "Desert Despair (SIDE CONTENT)",
         number: 20,
         text: chap20Text,
         hideInSidebar: true,
         defaultCollapsed: true,
         japaneseText: SWAP_ME_OUT,
-    }
+    },
+    {
+        name: "Desert Despair Part 2",
+        number: 20,
+        hideInSidebar: true,
+        text: chap20Text,
+        japaneseText: SWAP_ME_OUT,
+    },
 ]
