@@ -46,9 +46,9 @@ const App = () => {
         const newUIChapter: UIChapter = {
           name: chapter.name,
           number: chapter.number,
-          isExpanded: true,
+          isExpanded: chapter.defaultCollapsed ? false : true,
           text: englishText,
-          japaneseText: jpText
+          japaneseText: jpText,
         };
 
         return newUIChapter;
