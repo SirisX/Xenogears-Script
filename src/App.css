@@ -313,11 +313,11 @@
 }
 
 .download-link:hover {
-  color: rgb(212, 38, 38);
+  color: #e70000;
 }
 
 .chapter-button {
-  background-color: rgba(165, 42, 42, 0.87);
+  background-color: #890000;
   opacity: 0.78;
   font-size: 0.8rem;
   font-weight: 700;
@@ -336,7 +336,7 @@
 }
 
 .chapter-button:hover {
-  background-color: rgb(212, 38, 38);
+  background-color: #e70000;
 }
 
 .chapter-hidden {
@@ -356,28 +356,24 @@
 }
 
 
-/* width */
+/* Custom Scrollbar */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 12px;
   background:transparent;
 }
-
-/* Track */
 ::-webkit-scrollbar-track {
   background: transparent;
 }
-
-/* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(165, 42, 42, 0.656) !important; 
+  background: #890000; 
   border-radius: 4px;
 }
-
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #890000;
+  background: #e70000;
 }
 
+
+/* Rules for small screens only */
 @media (min-width: 540px) {
   .chapter-text {
     width: 430px;
