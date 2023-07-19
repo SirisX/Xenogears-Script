@@ -359,7 +359,7 @@
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 12px;
-  background:transparent;
+  background: transparent;
 }
 ::-webkit-scrollbar-track {
   background: transparent;

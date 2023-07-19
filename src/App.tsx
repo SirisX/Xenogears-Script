@@ -139,6 +139,16 @@ const App = () => {
     document.body.removeChild(a);
   };
 
+  const handleDisableDarkMode = () => {
+    document.body.style.setProperty("background-color", "white")
+    setIsDarkMode(false);
+  };
+
+  const handleEnableDarkMode = () => {
+    document.body.style.setProperty("background-color", "black")
+    setIsDarkMode(true);
+  }
+
   return (
     <div
       className="App"
@@ -179,7 +189,7 @@ const App = () => {
           )}
           {isDarkMode ? (
             <p
-              onClick={() => setIsDarkMode(false)}
+              onClick={() => handleDisableDarkMode()}
               className="switch-darkmode-open"
               style={{ color: "white" }}
             >
@@ -187,7 +197,7 @@ const App = () => {
             </p>
           ) : (
             <p
-              onClick={() => setIsDarkMode(true)}
+              onClick={() => handleEnableDarkMode()}
               className="switch-darkmode-open"
               style={{ color: "black" }}
             >
@@ -237,7 +247,7 @@ const App = () => {
           )}
           {isDarkMode ? (
             <p
-              onClick={() => setIsDarkMode(false)}
+              onClick={() => handleDisableDarkMode()}
               className="switch-darkmode"
               style={{ color: "white" }}
             >
@@ -245,7 +255,7 @@ const App = () => {
             </p>
           ) : (
             <p
-              onClick={() => setIsDarkMode(true)}
+              onClick={() => handleEnableDarkMode()}
               className="switch-darkmode"
               style={{ color: "black" }}
             >
