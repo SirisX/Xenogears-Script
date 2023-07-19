@@ -27,7 +27,7 @@ import jpQuoteText from './text/intro/02_JP_OPENING_QUOTE.txt'
 import jpMovieText from './text/intro/03_JP_Opening_Movie.txt'
 import jpPrologueText from './text/intro/04_JP_Prologue.txt'
 
-export const SIDEBAR_WIDTH = '340px'
+export const SIDEBAR_WIDTH = '0'
 
 export const DefaultChapters: Chapter[] = [
     {
