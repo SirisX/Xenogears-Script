@@ -34,7 +34,7 @@
     margin-bottom: 32px;
     max-width: 100vw;
     position: relative;
-    width: 320px;
+    width: 380px;
     /* margin-bottom: 64px; */
     /* justify-self: start; */
 }
@@ -285,10 +285,11 @@
     /* align-self: end; */
     border-radius: 2px;
     cursor: pointer;
-    width: 28px;
-    left: -36px;
+    left: -30px;
     top: 22px;
     position: absolute;
+    text-align: center;
+    width: 24px;
 }
 
 
