@@ -34,12 +34,12 @@
     margin-bottom: 32px;
     max-width: 100vw;
     position: relative;
-    /* width: 300px; */
+    width: 320px;
     /* margin-bottom: 64px; */
     /* justify-self: start; */
 }
 
-@media (min-width: 650px) {
+@media (min-width: 500px) {
     .chapter-text {
         width: 450px;
     }
