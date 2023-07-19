@@ -1,13 +1,11 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
-import { Chapter } from "./Types";
+import { Chapter, UIChapter } from "./Types";
 import fullScript from "./text/FULL_SCRIPT.txt";
 
 const App = () => {
-  const [chapterText, setChapterText] = useState<string[]>([]);
-  const [japaneseChapterText, setJapaneseChapterText] = useState<string[]>([]);
-
+  const [chapterText, setChapterText] = useState<UIChapter[]>([]);
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
 
@@ -29,33 +27,34 @@ const App = () => {
     }
   };
 
-  // Load English Text
+  // Load all text files and chapters into state
   useEffect(() => {
     Promise.all(
       DefaultChapters.map(async (chapter: Chapter, index) => {
-        return await fetch(chapter.text)
+        const englishText = await fetch(chapter.text)
           .then((r) => r.text())
           .then((text) => {
             return text;
           });
-      })
+
+        const jpText = await fetch(chapter.japaneseText)
+        .then((r) => r.text())
+        .then((text) => {
+          return text;
+        });
+
+        const newUIChapter: UIChapter = {
+          name: chapter.name,
+          number: chapter.number,
+          isExpanded: true,
+          text: englishText,
+          japaneseText: jpText
+        };
+
+        return newUIChapter;
+    })
     ).then((res) => {
       setChapterText(res);
-    });
-
-    //Load Japanese Text
-    Promise.all(
-      DefaultChapters.map(async (chapter: Chapter, index) => {
-        if (!chapter.japaneseText) return "";
-
-        return await fetch(chapter.japaneseText)
-          .then((r) => r.text())
-          .then((text) => {
-            return text;
-          });
-      })
-    ).then((res) => {
-      setJapaneseChapterText(res);
     });
   }, []);
 
@@ -82,15 +81,9 @@ const App = () => {
     );
   };
 
-  const renderEnglish = () => {
-    return chapterText.map((chapter: string, index) => {
-      return generateSection(chapter, index)
-    });
-  };
-
-  const renderJapanese = () => {
-    return japaneseChapterText.map((chapter: string, index) => {
-      return generateSection(chapter, index)
+  const renderText = () => {
+    return chapterText.map((chapter: UIChapter, index) => {
+      return generateSection(showJapanese ? chapter.japaneseText : chapter.text, index)
     });
   };
 
@@ -115,9 +108,12 @@ const App = () => {
           </div>
           <div className="sidebar-grid">
             {DefaultChapters.map((chapter: Chapter) => {
+              //Hide certain chapters from the sidebar
               if (chapter.hideInSidebar) {
-                return
+                return;
               }
+
+              //Generates the sidebar Link
               return (
                 <div
                   className="sidebar-link"
@@ -190,7 +186,7 @@ const App = () => {
         className="text-container"
         style={{ paddingLeft: showSidebar ? `${SIDEBAR_WIDTH}` : "0" }}
       >
-        {showJapanese ? renderJapanese() : renderEnglish()}
+        {renderText()}
       </div>
     </div>
   );

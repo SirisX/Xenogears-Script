@@ -35,6 +35,9 @@ import jpChap5Text from './text/chapters/05_JP_Attack_on_Lahan.txt'
 import jpChap6Text from './text/chapters/06_JP_Into_the_Woods.txt'
 
 
+import SWAP_ME_OUT from './text/chapters/06_JP_Into_the_Woods.txt'
+
+
 export const SIDEBAR_WIDTH = '0'
 // export const SIDEBAR_WIDTH = '340px'
 
@@ -117,35 +120,42 @@ export const DefaultChapters: Chapter[] = [
         name: "Girl in Forest",
         number: 7,
         text: chap7Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Broken Silence",
         number: 8,
         text: chap8Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Path to Aveh",
         number: 9,
         text: chap9Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Dazil",
         number: 10,
         text: chap10Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Desert Attack",
         number: 11,
         text: chap11Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Stalactite Cave",
         number: 12,
         text: chap12Text,
+        japaneseText: SWAP_ME_OUT,
     },
     {
         name: "Pirate's Lair",
         number: 13,
         text: chap13Text,
+        japaneseText: SWAP_ME_OUT,
     }
 ]
