@@ -1,0 +1,1512 @@
+————————————————————————————
+Desert Despair - Caves in Mountains - 0950
+————————————————————————————
+
+Fei
+"I gotta hurry..."
+
+————————————————————————————
+
+Repair Bot
+"I watched you from
+the shadows.
+You're very powerful!
+I've only got the
+same items as before.
+Anything you like?
+    Gear parts
+    Character items
+    Can't trust you
+    Ignore
+
+Repair Bot
+"I hope to see
+you again."
+
+Repair Bot
+"How cruel..."
+
+————————————————————————————
+
+Fei
+"Looks like the mountain
+peak is right above here!"
+
+————————————————————————————
+1170
+————————————————————————————
+
+Maison
+"The young master's cup..."
+
+Maison
+"Is something bad
+going to happen
+to him...?"
+
+————————————————————————————
+Desert Despair - Bledavik Waterways - 0900
+————————————————————————————
+
+Bart
+"...Sig and I will
+take two men and head
+for the top floor.
+Citan, you take the two
+remaining men and open
+the castle gate to let
+in our main force.
+If we can catch Shakhan
+we are sure to succeed."
+
+Citan
+"Right. When you capture 
+Shakhan give the signal.
+It is probably best to 
+open the gate at that 
+time."
+
+Bart
+"Above us is the
+Castle Bailey.
+The keep must fall
+quickly.
+Shakhan should be
+on the top floor."
+
+Sigurd
+"...In the room that
+used to be used by the
+young master's father.
+Try not to damage the
+castle, avoid all need-
+less combat, and above
+all, remember - speed!"
+
+Bart
+"That's why there are so
+few of us.
+Our objective is Shakhan!
+So ignore the Gebler and
+Aveh soldiers."
+
+Bart
+"Alright, let's
+move on out!"
+
+————————————————————————————
+Bledavik Waterways - 0900 - ???
+————————————————————————————
+
+Sigurd
+"Young master, don't
+try to be a hero...
+just get the job done."
+
+Citan
+"This time when the 
+government changes, the
+implications are huge.
+We must succeed at all
+costs."
+
+Pirate 1
+Damn Shakhan...
+When I get a hold of him
+I'll swing him around by
+his hair...after I've given
+him a hair transplant.
+
+Pirate 2
+Soon I'll return to the
+castle! I wonder if the
+old man from the dining
+hall is still alive?
+
+Pirate 3
+Let's not fight with
+our cousins in the Aveh
+army and finish this.
+
+Pirate 4
+Pull yourself together.
+
+Old Man
+Could this be...His
+Highness Bartholomew?
+It's been a long time.
+You were still a child
+when your father, the
+King, passed away.
+How I miss those days.
+I am glad to see that
+you are still alive!
+
+Bart
+"Old man, that was then
+but this is now.
+When things calm down,
+I'll come back."
+
+————————————————————————————
+
+Congratulations on your
+return, your Highness.
+I knew this day would come
+and have been protecting
+the water reservoir.
+I knew you didn't die.
+
+Even though the war
+is over, this old man
+has no home or family
+to return to.
+My only family is this
+stray cat.
+
+What!?
+You can't go in there! 
+Everyone drinks from
+that water!
+
+————————————————————————————
+Bledavik Castle Courtyard - 0874
+————————————————————————————
+
+Bart
+"Let's go!"
+
+!
+
+Bart
+"You've saved us the
+trouble of finding you,
+Shakhan! Now get ready!"
+
+Shakhan
+"We've been
+expecting you!"
+
+Bart
+"What!?"
+
+Sigurd
+"Crap! An ambush!"
+
+Citan
+"Oh-oh...!
+Where is Kahr...?"
+
+Miang
+"I see you are quick
+to catch on.
+Ramsus should be taking
+care of all your divided
+forces out by the Nisan
+border as we speak.
+Ramsus easily saw through
+your plan to use a feint
+attack by Kislev long ago.
+Don't underestimate us...
+Hyuga, have you lived
+down here so long that
+your mind has slipped?
+And Sigurd, who would have
+thought you would have
+joined the last survivors
+of the royal dynasty..."
+
+Sigurd
+"Damn it...why are you
+still backing Shakhan?
+What does it matter to
+you who the king is?"
+
+Miang
+"Hah! You suggest the son
+of murdered King Fatima?
+He refused to cooperate!
+You mean to say that now
+he wants to be our
+puppet all of a sudden?
+That I don't believe...
+even coming from the mouth
+of a traitor like you.
+Ha ha ha... Besides,
+stupidity in puppets
+has its advantages."
+
+Shakhan
+"Stu, stupidity!?
+Miang, what's that
+supposed to mean?"
+
+Miang
+"Minister Shakhan, I'll let
+you handle this. You must
+protect your own position.
+We don't care who is
+sitting on the throne.
+Any obedient sheep
+would be fine.
+However, isn't there 
+something that you
+still have to do?
+If you will only do that,
+then we'll help you as
+much as possible."
+
+Shakhan
+"Yes, you don't have
+to tell me.
+One must take care of
+one's own country's
+criminals personally."
+
+Miang
+"Then, with your
+permission I shall
+take my leave..."
+
+Bart
+"Hey now! 
+Wait a minute!!"
+
+Miang
+"Goodbye...boys."
+
+Shakhan
+"You pirate...no you're
+just a sandworm. You've
+caused me enough shame.
+But this is the end. You
+didn't know your place
+and now all that awaits
+you is annihilation.
+Prepare to fire...!"
+
+Shakhan
+"Wha!?"
+
+Maison
+"You wretched rebel,
+Shakhan!
+Make one move and
+this gatling gun
+shall be spitting
+fire!"
+
+Bart
+"Old Maison!"
+
+Maison
+"Reinforcements have
+arrived, young master.
+Please come aboard."
+
+Maison
+"Shall we depart?"
+
+Bart
+"See ya, you bald geezer!
+We'll settle this later."
+
+Bart
+"Till then...
+go get your
+head waxed!"
+
+Citan
+"This...
+is not good..."
+
+Shakhan
+"Is this some kind of joke?
+Hmm, It seems sandworms
+can't fly after all.
+Just surrender.
+Thanks for the laughs...
+I almost hate to have
+to shoot you."
+
+Bart
+"Crap! I guess we're
+gonna get mauled..."
+
+Maison
+"Everyone...
+please get down."
+
+Bart
+"Do you have a
+plan, Maison?"
+
+Maison
+"Leave it to me."
+
+Bart
+"Maison, you're just
+walking in circles."
+
+Maison
+"Just leave it to me."
+
+————————————————————————————
+1170
+————————————————————————————
+
+Bart
+"Thanks for saving
+us, Old Maison!"
+
+Maison
+"Please raise your head.
+My duty is to protect
+the young master. I'm
+sorry it took me so
+long to help you."
+
+Bart
+"I feel bad you had
+to get involved...
+I appreciate it.
+...But I had no idea
+you could operate
+such a thing."
+
+Maison
+"It's a trick I picked
+up long ago...
+It's nothing special.
+I'm no expert on it.
+I'm actually a bit
+embarrassed about it."
+
+Sigurd
+"Young master!
+The Royal Capital's
+armies are returning!
+We were the ones who took
+the bait. We must escape
+before we get caught!
+Head for the bridge as
+soon as you are through
+with your preparations!"
+
+————————————————————————————
+Desert Despair - Cliffs over the Desert - 0962
+————————————————————————————
+
+Fei
+"Is that...Vanderkaum's
+border fleet...?"
+
+Maitreya
+"Our job is to slow them
+down. So how do you want
+to do it?"
+
+Fei
+"...
+Simple.
+We do this."
+
+Maitreya
+"...
+He might even be more gung-
+ho than the young master."
+
+Maitreya
+"Falkon! Follow the kid!
+The rest of you, stay with
+your unit but follow me!
+Don't fall behind the kid!
+We're going in too!"
+
+————————————————————————————
+Desert Despair - Kefeinzel - 0992
+————————————————————————————
+
+Officer 1
+Bogeys incoming
+vector 3-3-6!
+2 groups, about 7-8 
+machines, distance 2000!
+
+Commander
+Relay to all ships!
+Fire at will, begin 
+evasive action!
+But, don't let fire 
+support positions 
+collapse!
+
+Officer 1
+Roger.
+Flagship to all ships...
+You are free to fire at will!
+Let's dance!
+
+Officer 2
+All Rapid Fire Control
+Systems
+...commence operation!
+
+Lay aerial mines.
+Projection pattern, 
+mark 3!
+
+How many machines
+are on air patrol!?
+
+Vanderkaum
+"Aviation Officer, wait!"
+
+Vanderkaum
+"Comm officer!
+Change of orders.
+Contact Von Hipper...
+Have the second destroyer
+squadron approach the
+enemy flank.
+Open the fleet's side
+and bait them into
+entering the Kefeinzel's
+main gun's firing arc."
+
+Commander
+Huh?
+It's stupid!
+There's no way the
+flagship's gun can
+hit speeding Gears...
+
+Vanderkaum
+"Fire control!
+Gunnery chief!
+Ready the type 3 shells.
+Pull back the deck gunners
+and prepare to engage the
+Kefeinzel's main cannon...
+I'll annihilate them into
+pure energy..."
+
+Commander
+Admiral!
+What are you doing pulling
+the anti-gear gunners back!?
+
+Vanderkaum
+"Quiet down,
+Aviation Officer!
+Thanks for your valuable
+opinion but I am in 
+charge, not you!
+What use are pea shooters
+and 40 sem guns?"
+
+Vanderkaum
+"Discussion over.
+Captain! Not too fast!
+We don't want to leave 
+the enemy behind."
+
+Commander
+(Your plan will
+never work...!)
+
+————————————————————————————
+Desert Despair - Kefeinzel - 0966
+————————————————————————————
+
+Falkon
+"Aim for the flagship
+heading west! 
+Don't engage the destroyer!
+I'll back off and help out!"
+
+Falkon
+"Get away from the
+destroyer! I am going
+to use reactive shots!"
+
+Vanderkaum
+"That moron, Hipper!
+Pursue them, they're
+just playing with him.
+You're not good enough
+to be my dog!"
+
+Commander
+Our mobility is
+too different...
+
+Vanderkaum
+"Fire control! Gunnery 
+Chief! It hasn't fired
+a shot yet!
+Range for Type 3 is
+within 500. Don't fire
+till you see the whites 
+of their eyes."
+
+Commander
+Gears at battle speed can
+move at 2000 per hour.
+
+Vanderkaum
+"This whole ship!
+All of you are morons!"
+
+Commander
+(You're the biggest moron!)
+
+Officer
+Black enemy Gear,
+inside units, stick 
+to your escort!
+
+————————————————————————————
+Desert Despair - Attacking Kefeinzel - 0968
+————————————————————————————
+
+Falkon
+"Just past this line of
+ships is the flagship
+Kefeinzel!"
+
+Falkon
+"Alright! Dodge the escort!
+The ship in front of
+you is the Kefeinzel!"
+
+————————————————————————————
+Desert Despair - Kefeinzel - 0966
+————————————————————————————
+
+Vanderkaum
+"Fire control! Gunnery 
+Chief! What are you doing?
+You're not even close!
+Are you blind?"
+
+Officer 1
+Destroyer Iltus'
+engine is down!
+
+Officer 2
+Flash signal from Luveh!
+'Luveh, rudder out, 
+rudder out, end.'
+
+3 remaining allies!
+
+Vanderkaum
+"Idiotic! Idiotic!
+What is this mess...?"
+
+Officer 1
+Enemy Gear above! Enemy
+Gear diving from above!
+
+Vanderkaum
+"Go down, dammit!
+Or Ramsus will
+have my hide."
+
+————————————————————————————
+Fei battles Cannon on top of the Kefeinzel
+————————————————————————————
+————————————————————————————
+Desert Despair - Kefeinzel - 0992
+————————————————————————————
+
+All personnel, evacuate!
+All personnel, evacuate!
+Abandon ship!
+Repeat, evacuate!
+
+Officer 1
+A, admiral...
+
+Officer 2
+Forget him!!
+
+Vanderkaum
+"Right...
+I still have that...
+I still have that..."
+
+Vanderkaum
+"Yes...
+I still have that...
+I still have that...yes.
+I still have that..."
+
+————————————————————————————
+Desert Despair - Kefeinzel Destroyed - 0974
+————————————————————————————
+
+Maitreya
+"Yess! One for our side!"
+
+Fei
+"Yeah...and it's all
+due to your support. 
+Thanks."
+
+Maitreya
+"Stop the border guards?
+Hah...we destroyed them!
+Well, we've done our job!
+I hope the others do OK!"
+
+Fei
+"Bart and his team...
+He's probably okay...
+Any word from them?"
+
+Maitreya
+"Nothing.
+They say no news is
+good news I guess.
+My Gear doesn't have
+very good comm equipment. 
+They probably did fine
+though."
+
+Fei
+"..."
+
+Maitreya
+"What's wrong?"
+
+————————————————————————————
+Desert Despair - Vanderkaum's Gear rises - 0976
+————————————————————————————
+
+Vanderkaum
+"I will kill you!"
+
+————————————————————————————
+Battle - Fei vs Vanderkaum
+————————————————————————————
+————————————————————————————
+Desert Despair - Grahf offers Vanderkaum the Power - 0972
+————————————————————————————
+
+Vanderkaum
+"Uh...I..."
+
+Do you want the power?
+
+Vanderkaum
+"Wh, who are you!?"
+
+Grahf
+"I am Grahf, the seeker 
+of power. Doth thou 
+desire the power?"
+
+Vanderkaum
+"The power..."
+
+Grahf
+"Yes, the power."
+
+Vanderkaum
+"P, power...
+...the power...
+I want it...I want 
+the POWER!"
+
+Grahf
+"So be it!"
+
+Grahf
+"My fist is the divine 
+breath!"
+
+Grahf
+"Blossom, o fallen seed, 
+and draw upon thy hidden 
+powers!!"
+
+Grahf
+"Grant unto thee the
+power of the glorious
+'Mother of Destruction'!"
+
+Vanderkaum
+"Urrgghhhhh..."
+
+————————————————————————————
+Desert Despair - Yggdrasil Bridge - 1180
+————————————————————————————
+
+Bart
+"We'll go back to Nisan!"
+
+Sigurd
+"It's useless!
+Young master!"
+
+Maison
+"Y, yes...young master...
+I hear when they attacked
+the fort at the border,
+the Gebler, led by Ramsus,
+routed them.
+We'd better withdraw for
+now, and reconsider..."
+
+Bart
+"Margie and them are still
+there. We'll go back!
+We have to!
+That reminds me...
+What about Fei and his
+guys? If they're alright,
+we could..."
+
+Franz
+"We've had no contact
+since we confirmed their
+order to charge..."
+
+Bart
+"Dammit!
+This can't be happening!"
+
+Maison
+"Young master..."
+
+Bart
+"Behind...?"
+
+Bart
+"Something's coming
+from behind!
+Jerico! Give me the helm...
+No, you keep it!
+Just hurry up and pull
+either way!!"
+
+Sigurd
+"Young master...?"
+
+Franz
+"Aft of our stern! 300!
+I'm picking up the sound
+of torpedoes being readied!
+A sand cruiser!? It's big!
+Speed 60! Relative route
+0-0-0! They were hiding
+behind some baffles!"
+
+Sigurd
+"Kahr!"
+
+Franz
+"I'm picking up some high
+speed propulsion, breaking
+away from the enemy's ship!
+Torpedoes!? Two of them!
+Speed 87!
+Torpedoes confirmed with
+the sonar.
+They've shifted over to
+active homing!"
+
+Bart
+"Battle stations!
+Deploy the maskers!
+Ready the noisemaker!"
+
+Battle stations, everyone!
+
+Open jammer!
+Noisemaker, 2nd, 4th
+tube...Standby!
+
+Bart
+"Emit noisemaker! Prepare
+to stop the engine!"
+
+Bart
+"Helm... NOW! Steer
+to the opposite direction
+as far as you can!
+Stop the engine!
+Crash alarm!!"
+
+Franz
+"Torpedo...1, still
+pursuing! Dammit!
+Impact in 3!!"
+
+————————————————————————————
+Ramsus Ship Bridge - 0964
+————————————————————————————
+
+Confirmed, vessel
+destruction noise.
+...followed by a rapid
+blowing noise. Enemy vessel
+is probably floating
+rapidly to the surface.
+
+Fluid static around enemy
+vessel is decreasing.
+Sand maneuverability of
+enemy vessel down 60%.
+...Looks like the main
+engine and effect-fins
+have been disabled.
+
+Ramsus
+"Once their effect-fins are
+destroyed they will remain
+buried and unable to move.
+Surfacing was a smart move.
+Sand-Torpedo Chief! Well
+done on lowering their
+fighting power. Brilliant!"
+
+Sorry to trouble you.
+
+Ramsus
+"Well...
+what shall we do
+with them...?"
+
+Miang
+"Oh?
+It's unusual for you
+to get lost."
+
+Ramsus
+"I promised an old friend...
+I must take it easy..."
+
+Ramsus
+"An old...friend...
+..."
+
+————————————————————————————
+Flashback - Solaris Bridge - 1640
+————————————————————————————
+
+Ramsus
+"Sigurd!"
+
+Ramsus
+"Why are you abandoning
+this country!? 
+You were supposed to help
+us create an ideal
+nation!"
+
+Sigurd
+"I'm not abandoning it.
+I've been living here to
+steal this country's
+technology from the
+beginning.
+Besides, there's someone
+waiting for me.
+Don't be bitter."
+
+Sigurd
+"It wasn't too bad going
+after the same ideals with
+you, for that short time."
+
+Ramsus
+"...You traitor!!!"
+
+————————————————————————————
+Ramsus Ship Bridge - 0964
+————————————————————————————
+
+Ramsus
+"Comm officer!
+Use my name and urge them
+to surrender. Tell them to
+surrender if they desire
+the safety of Nisan."
+
+Ramsus
+"All divisions cease fire,
+but remain on alert!
+If any enemy vessel
+attempts to attack, shoot
+it individually!"
+
+————————————————————————————
+Desert Despair - Desert Dunes - 0978
+————————————————————————————
+
+Maitreya
+"...What was that?
+That guy just now?"
+
+Fei
+"...It's them...
+Why them...? 
+What did they do?"
+
+...Huh? Wha!? 
+Huh?... Oh-no!!" (???)
+
+General!
+General Maitreya!!
+We have an R code message!
+I'm not sure, but it looks
+like the young master is
+in trouble!!
+We don't have time 
+for this junker!!" (???)
+
+Vanderkaum
+"You there...
+What're you doing ignoring
+me and messing around...?"
+
+Vanderkaum
+"I'll kill all of you!"
+
+Maitreya
+"...Fei, gather the wounded
+up and return to the young 
+master. Hurry!
+My unit will stay behind
+and try to buy some time.
+All operational Gears left
+will provide cover as per
+their commanders' orders,
+and retreat in set order."
+
+Fei
+"Don't be stupid!
+I'm staying too!"
+
+Maitreya
+"Shut up and listen, boy!
+You're the young master's
+guest. I can't let you
+die here."
+
+Fei
+"But..."
+
+Maitreya
+"...The young master...
+What he really needs
+is your strength.
+Please help him. 
+I beg you."
+
+Maitreya
+"Farrant! Vind!
+Let's move out!!"
+
+Fei
+"...Uahh...
+St...stop it..."
+
+Fei
+"...St...op...
+...Uahh..."
+
+Fei
+"Ah..."
+
+————————————————————————————
+Desert Despair - Yggdrasil Top - 0980
+————————————————————————————
+
+Bart
+"Surrounded, huh?
+How are the repairs?"
+
+Engineer
+"The main engine and effect-
+fins' oscillators are mostly
+unharmed...
+...but the electrical
+connections between them
+are wasted.
+We are bypassing the main
+connection and trying to
+scrape together all the 
+energy we can.
+But it will only give us
+70% of our usual maximum
+power at best.
+The propulsion-drills are
+not damaged, but if the
+sand can't be granulated
+they might as well be.
+We'll make battle speed 3
+...only barely."
+
+Bart
+"Sig! What has Gebler's
+'Mister Puniverse' got
+to say?"
+
+Sigurd
+"He's been quiet since the
+first surrender demand."
+
+Bart
+"...
+All personnel to battle
+stations. Break through
+is planned after the
+connectors are up."
+
+Sigurd
+"Young master!"
+
+Bart
+"Sig! Listen!
+Surrendering isn't going to
+change Nisan's fate.
+We'll lose the Yggdrasil,
+the core of our power in
+saving Aveh and Margie.
+I know it looks bad, but
+you can still count on us!"
+
+Maison
+"Well said, young master!
+This old man will follow
+you to the pits of hell!"
+
+Bart
+"Sorry, Old Maison,
+I'm not dying today!!
+Besides they don't look
+like they're gonna hit us."
+
+Sigurd
+"It sure looks that way...
+Perhaps they have political
+motives that involve Margie
+or the young master..."
+
+Bart
+"That's probably it, Sig!
+But they're forgetting one
+thing...
+It's harder to bring in an
+animal alive than dead!"
+
+Engineer
+"Young master...emergency
+connections are complete.
+Use the engine as you wish."
+
+Bart
+"Thanks!!
+Alright let's...
+go get those fools!!"
+
+————————————————————————————
+Ramsus Ship Bridge - 0964
+————————————————————————————
+
+Confirmed, one enemy Gear
+engaged. Direct course.
+Enemy vessel engine noise
+increasing...Speed increase,
+steering noise confirmed,
+course change...
+Taking evasive action.
+
+Miang
+"Commander?...Ha, Ha, Ha."
+
+Ramsus
+"...Can't help it, eh?"
+
+Ramsus
+"All divisions, holding
+pattern cancelled!
+...Resume attack!"
+
+Bow torpedo tubes 1-3,
+Namthal missile.
+Set 1 and 2 for homing,
+3 for anti-radar.
+Tubes 4-6, Makara Mk5
+sand torpedoes. After
+acquiring target set all
+to passive homing.
+All units, begin defensive
+fire. Aim for the main ship.
+
+W, wait!!!
+Explosions along the
+perimeter of the fleet,
+confirmed. Multiple vessel
+destruction noises!
+High energy reactions...
+What kind of gain is this!?
+Commander!! I can't believe
+this! This...Gear...?
+It's like reactive rounds
+are flying around...
+
+Miang
+"Calm down. Put the analyzed
+picture on the monitor."
+
+Y, yessir...
+
+Ramsus
+"Ah...
+That is...!!"
+
+————————————————————————————
+Desert Despair - Yggdrasil Top - 0980
+————————————————————————————
+
+Bart
+"W, what happened?"
+
+Bart
+"Is it heading...here?"
+
+————————————————————————————
+Ramsus Ship Bridge - 0964
+————————————————————————————
+
+Ramsus
+"Th, that Gear! No mistake!
+It's him! Demon of Elru...!
+Miang! Let's go!"
+
+Miang
+"Commander! Please wait!
+Commander!!"
+
+Miang 
+"Ha, ha..."
+
+————————————————————————————
+Desert Despair - Yggdrasil Top - 0980
+————————————————————————————
+
+Are you strong?
+
+Bart
+"...What? 
+Who are
+you...?"
+
+I asked, 'Are you strong?'!
+
+————————————————————————————
+Desert Despair - Dunes nearby Yggdrasil - 0986
+————————————————————————————
+
+Bart
+(Behind me!?)
+
+Bart
+"...
+What are you suddenly
+attacking me for!?"
+
+Heh heh, fine.
+Then play dumb!
+
+You, strong...
+Huh?
+
+Ramsus
+"You there...
+pirate boy!
+Do you know him!?
+That's right...
+Weren't you with
+that punk, Fei?"
+
+Bart
+"No, I don't know 'him'!
+...But even if I did, I
+sure wouldn't tell you!"
+
+Ramsus
+"Good!
+Then you won't mind if
+I take care of him."
+
+Ramsus
+"I owe 'him' greatly!"
+
+————————————————————————————
+Desert Despair - Ramsus challenges Id - file45
+————————————————————————————
+
+Ramsus
+"I've finally found you!
+Now, I must
+challenge you!!"
+
+Ramsus
+"Guaaah!
+This can't be!
+You m, monster..."
+
+Ramsus
+"...Guha!
+D... damn you... If it
+weren't for you..."
+
+Bart
+"Tch!
+Keep back!!"
+
+————————————————————————————
+Desert Despair - 0990
+————————————————————————————
+
+Miang
+"Commander...
+let's pull out!"
+
+Ramsus
+"Don't do anything 
+unwarranted, Miang! 
+I still have one arm!!"
+
+Miang
+"We're pulling out!
+...That mad dog seems
+to have a new toy to
+play with."
+
+Well, now that my motor
+coil's warmed up...
+...let's start the main 
+event!!
+
+Bart
+"Today's my unlucky day.
+Why does this have to
+happen now?
+Oh well...
+Let's get it over with!"
+
+————————————————————————————
+Battle - Bart vs Id
+————————————————————————————
+
+————————————————————————————
+Desert Despair - Yggdrasil Bridge - 1180
+————————————————————————————
+
+Sigurd
+"Young master!!!"
+
+Sigurd
+"Engine, ready for full
+power!! Jerico! Give me
+the helm over here!"
+
+But first mate!
+Now with the effect-fins out
+of order, if you run at full
+speed, the ship wouldn't be
+able to stand the friction!!
+
+Sigurd
+"It can 'jump' due to the
+Bernoulli effect on the
+wings' surfaces instead!!"
+
+First mate!!
+
+Sigurd
+"Never mind that!
+The Yggdrasil is nothing
+without the young master!
+Full power!!
+Maximum speed!!"
+
+Sigurd
+"Eeeeeaaaaarrrrgghh!!!!
+Come on, GO!!!"
+
+————————————————————————————
+Desert Despair - Yggdrasil lands on Weltall-Id - 0984
+————————————————————————————
+
+!!
+
+————————————————————————————
+Desert Despair - Yggdrasil lands on Id - 0984
+————————————————————————————
+
+Sigurd
+"Young master! 
+Are you okay!?"
+
+Bart
+"Don't over do it, Sig...
+Trying to make our ship
+'fly'...!?
+When we get back it'll 
+take a month to get this 
+heap of junk working 
+again."
+
+Sigurd
+"Ha..ha ha...
+You seem to
+be okay!"
+
+Bart
+"...Shees!!
+What was that
+monster anyway?"
+
+Bart
+"Sig!
+What's going on?"
+
+Sigurd
+"What...the ship? 
+The engine should have 
+fallen out, but..."
+
+Sigurd
+"What in the hell?"
+
+That was pretty
+interesting.
+
+But dropping a warship
+on me is cheating...
+Take it back!
+
+Bart
+"Sig!! Maison!!...
+Uah..."
+
+————————————————————————————
+Desert Despair - Yggdrasil being Destroyed - 1156
+————————————————————————————
+
+The sand pump, effect-fins
+and propulsion-drills are
+all out of commission!!
+
+Main engine, support engine,
+engage the auto scram.
+Switch power to batteries.
+Output ratio 0.5,
+operating time...500!!
+
+Franz
+"The third bridge
+...it's ruined!!"
+
+The hangar section, the
+armament section, and even
+the pressure shell have
+been destroyed!!
+We can't stop the sand
+from flowing in!
+
+Sigurd
+"Close each section down
+completely and commence
+independent operation!!"
+
+Franz
+"Then, damage control 
+won't be able to move!!
+The hole won't be
+covered!!"
+
+Sigurd
+"That's alright!!
+...Either way, it's
+impossible to save
+the entire ship.
+Our priority is to
+secure the bridge!!
+Gather everyone
+into the bridge
+immediately!"
+
+Sigurd
+"...Hyuga... No...
+you're Citan now.
+You need to get out.
+I'll have Maison
+guide you to an
+escape-pod."
+
+Citan
+"I cannot leave you
+all like this...!?"
+
+Sigurd
+"We have no right to keep
+you here and get you
+involved.
+...If you see Kahr and
+Miang, make sure you
+pay'em back for me."
+
+Sigurd
+"Maison...
+Please show him the way."
+
+Maison
+"This way, please."
+
+————————————————————————————
+► Anime Cutscene - Citan Escape Pod Ejects
+————————————————————————————
+————————————————————————————
+Citan in Escape Pod - 1158
+————————————————————————————
+
+Citan
+"Sigurd!!!"
+
+Citan
+"...I am being carried
+by the wind to the
+vicinity of the border...
+...What is that?"
+
+————————————————————————————
+Desert Despair - Heimdal in the Desert spots Dora - 1160
+————————————————————————————
+
+Citan
+"That...is...the...Dora.
+It was stationed here?
+That was careless of me...
+But its condition...
+.........
+It is just like the others
+that 'he' destroyed..."
+
+————————————————————————————
+
+Save current data?
+    Save
+    Don't save
+
+Continue the game?
+    Wait
+    Continue
