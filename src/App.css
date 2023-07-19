@@ -101,7 +101,7 @@
 }
 
 .sidebar-link:hover {
-  color: brown;
+  color: #890000;
   cursor: pointer;
   margin: 4px;
 }
@@ -288,7 +288,7 @@
 
 .download-link {
   text-decoration: underline;
-  color: brown;
+  color: #890000;
   cursor: pointer;
   margin: 8px;
 }
@@ -343,7 +343,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: brown;
+  background: #890000;
 }
 
 @media (min-width: 540px) {
