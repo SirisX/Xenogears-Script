@@ -894,8 +894,26 @@ What do you want
 me to do...?"
 
 ————————————————————————————
+The Tournament - Fei vs Dan - B09
+————————————————————————————
+Dan
+"I'm gonna take you down!"
 
-??? Battle text for Dan's lines don't appear in the battle script files here or the field script, must be in another file.
+"This is for all of Lahan!"
+
+"This is for Timothy!"
+
+"This is for my sister!"
+
+————————————————————————————
+The Tournament - Fei vs Wiseman and Dan? - B09
+————————————————————————————
+
+"You scum!"
+
+"Why don't you hit back?"
+
+"Damn you..."
 
 ————————————————————————————
 
@@ -955,7 +973,12 @@ The Tournament - Fei vs Wiseman - file33
 Tournament's Final Bout
 
 ————————————————————————————
-???Wiseman's battle text doesn't appear, must be in another file.
+The Tournament - Fei vs Wiseman - B09
+————————————————————————————
+
+Spectators???
+"What a wimp!"
+
 ————————————————————————————
 
 Spectators
