@@ -6,7 +6,6 @@ import openingMovieText from './text/intro/03_Opening_Movie.txt'
 import prologueText from './text/intro/04_Prologue.txt'
 import contentsHeader from './text/intro/CONTENTS_HEADER.txt'
 
-
 import chap1Text from './text/chapters/01_Lahan_Village.txt'
 import chap2Text from './text/chapters/02_Mountain_Path.txt'
 import chap3Text from './text/chapters/03_House_On_a_Hill.txt'
@@ -20,6 +19,14 @@ import chap10Text from './text/chapters/10_Dazil.txt'
 import chap11Text from './text/chapters/11_Desert_Attack.txt'
 import chap12Text from './text/chapters/12_Stalactite_Cave.txt'
 import chap13Text from './text/chapters/13_Pirates_Lair.txt'
+import chap14Text from './text/chapters/14_Operation_Aveh.txt'
+import chap15Text from './text/chapters/15_The_Tournament.txt'
+import chap16Text from './text/chapters/16_Margies_Rescue.txt'
+import chap17Text from './text/chapters/17_Road_to_Nisan.txt'
+import chap18Text from './text/chapters/18_City_of_Peace.txt'
+import chap19Text from './text/chapters/19_Recapture_Aveh.txt'
+import chap20Text from './text/chapters/20_Desert_Despair.txt'
+
 
 import jpHeaderText from './text/intro/0_JP_HEADER.txt'
 import jpContentsText from './text/intro/01_JP_CONTENTS.txt'
@@ -156,6 +163,48 @@ export const DefaultChapters: Chapter[] = [
         name: "Pirate's Lair",
         number: 13,
         text: chap13Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "Operation Aveh",
+        number: 14,
+        text: chap14Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+        {
+        name: "The Tournament",
+        number: 15,
+        text: chap15Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "Margie's Rescue",
+        number: 16,
+        text: chap16Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "Road to Nisan",
+        number: 17,
+        text: chap17Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "City of Peace",
+        number: 18,
+        text: chap18Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "Recapture Aveh",
+        number: 19,
+        text: chap19Text,
+        japaneseText: SWAP_ME_OUT,
+    },
+    {
+        name: "Desert Despair",
+        number: 20,
+        text: chap20Text,
         japaneseText: SWAP_ME_OUT,
     }
 ]
