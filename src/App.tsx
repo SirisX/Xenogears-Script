@@ -87,7 +87,7 @@ const App = () => {
       return (
         <div
           className={isDarkMode ? "sidebar-link" : "sidebar-link-light"}
-          style={{ fontSize: showJapanese ? "0.8rem" : "1rem" }}
+          // style={{ fontSize: showJapanese ? "0.8rem" : "1rem" }}
           onClick={() => handleGoToSection(chapter)}
         >
           {`${chapter.number > 0 ? `${chapter.number}. ` : ""}${generateChapterName(chapter)}`}
@@ -122,7 +122,7 @@ const App = () => {
                 : "Download Full Script"}
             </p>
           )}
-          <div className="chapter-text-intro">
+          <div className="chapter-text-intro" style={{ columnGap: showJapanese ? "16px" : '32px' }}>
             {index === 1 && generateTableOfContents()}
           </div>
         </div>

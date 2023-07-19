@@ -32,6 +32,7 @@
   margin-top: 32px;
   margin-bottom: 32px;
   max-width: 100vw;
+  margin-left: 26px;
   position: relative;
   width: 320px;
   /* margin-bottom: 64px; */
@@ -48,6 +49,7 @@
   /* margin-left: 178px; */
   /* max-width: 615px; */
   column-count: 2;
+  column-gap: 0;
   justify-self: center;
   max-width: 100vw;
   display: grid;
@@ -98,6 +100,7 @@
   cursor: pointer;
   /* font-size: 1rem; */
   margin: 4px;
+  /* max-width: 150px; */
 }
 
 .sidebar-link:hover {
@@ -381,7 +384,7 @@
 
   .chapter-text-intro {
     font-size: 1.1rem;
-    column-gap: 128px;
+    /* column-gap: 128px; */
   }
 
   .chapter-text-centered {
