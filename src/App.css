@@ -85,7 +85,7 @@
   height: -webkit-fill-available;
   width: 165px;
   left: 0px;
-  bottom: 0;
+  top: 0;
   border-right: rgba(255, 255, 255, 0.644) 1px solid;
   background-color: black;
   z-index: 1;
