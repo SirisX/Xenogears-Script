@@ -14,12 +14,6 @@ const App = () => {
       case 0:
       case 1:
         return "chapter-text-centered";
-      case 2:
-        if (showJapanese) {
-          return "chapter-text-intro-japanese";
-        }
-        return "chapter-text-intro";
-
       case 3:
         return "chapter-text-centered";
       default:
@@ -38,10 +32,10 @@ const App = () => {
           });
 
         const jpText = await fetch(chapter.japaneseText)
-        .then((r) => r.text())
-        .then((text) => {
-          return text;
-        });
+          .then((r) => r.text())
+          .then((text) => {
+            return text;
+          });
 
         const newUIChapter: UIChapter = {
           name: chapter.name,
@@ -52,7 +46,7 @@ const App = () => {
         };
 
         return newUIChapter;
-    })
+      })
     ).then((res) => {
       setChapterText(res);
     });
@@ -68,13 +62,34 @@ const App = () => {
     newChapters[index].isExpanded = !newChapters[index].isExpanded;
 
     setChapterText(newChapters);
-  }
+  };
 
-//   window.addEventListener('keydown', (e) => {
-//     if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.metaKey && e.keyCode === 70))) {
-        
-//     }
-// })
+  //   window.addEventListener('keydown', (e) => {
+  //     if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.metaKey && e.keyCode === 70))) {
+
+  //     }
+  // })
+
+  const generateTableOfContents = () => {
+    return DefaultChapters.map((chapter: Chapter) => {
+      //Hide certain chapters from the sidebar
+      if (chapter.hideInSidebar) {
+        return;
+      }
+
+      //Generates the sidebar Link
+      return (
+        <div
+          className="sidebar-link"
+          onClick={() => handleGoToSection(chapter)}
+        >
+          {`${chapter.number > 0 ? `${chapter.number}: ` : ""}${
+            chapter.name
+          }`}
+        </div>
+      );
+  })
+}
 
   const generateSection = (chapter: UIChapter, index: number) => {
     return (
@@ -82,14 +97,29 @@ const App = () => {
         className={generateChapterClass(index)}
         id={`chapter${DefaultChapters[index].number}`}
       >
-        {index > 3 && <button className="chapter-button" onClick={() => handleExpandChapter(index)}>{chapter.isExpanded ? "-" : "+"}</button>}
-        <div className={chapter.isExpanded ?  `chapter-${index}` : `chapter-hidden`}>
+        {index > 3 && (
+          <button
+            className="chapter-button"
+            onClick={() => handleExpandChapter(index)}
+          >
+            {chapter.isExpanded ? "-" : "+"}
+          </button>
+        )}
+        <div
+          className={chapter.isExpanded ? `chapter-${index}` : `chapter-hidden`}
+        >
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
             <p className="download-link" onClick={() => handleStartDownload()}>
-              {showJapanese ? "フルスクリプトをダウンロード" : "Download Full Script" }
+              {showJapanese
+                ? "フルスクリプトをダウンロード"
+                : "Download Full Script"}
             </p>
           )}
+          <div className="chapter-text-intro">
+          {index === 1 && generateTableOfContents()}
+          </div>
+
         </div>
       </div>
     );
@@ -115,24 +145,7 @@ const App = () => {
             </p>
           </div>
           <div className="sidebar-grid">
-            {DefaultChapters.map((chapter: Chapter) => {
-              //Hide certain chapters from the sidebar
-              if (chapter.hideInSidebar) {
-                return;
-              }
-
-              //Generates the sidebar Link
-              return (
-                <div
-                  className="sidebar-link"
-                  onClick={() => handleGoToSection(chapter)}
-                >
-                  {`${chapter.number > 0 ? `${chapter.number}-` : ""}${
-                    chapter.name
-                  }`}
-                </div>
-              );
-            })}
+            {generateTableOfContents()}
           </div>
           {showJapanese ? (
             <p
@@ -195,7 +208,7 @@ const App = () => {
         style={{ paddingLeft: showSidebar ? `${SIDEBAR_WIDTH}` : "0" }}
       >
         {chapterText.map((chapter: UIChapter, index) => {
-          return generateSection(chapter, index)
+          return generateSection(chapter, index);
         })}
       </div>
     </div>
