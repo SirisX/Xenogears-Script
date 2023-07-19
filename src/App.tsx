@@ -63,28 +63,32 @@ const App = () => {
     window.location.replace(`/#chapter${chapter.number}`);
   };
 
-  const generateSection = (chapter: string, index: number) => {
+  const handleExpandChapter = (index: number) => {
+    const newChapters = [...chapterText];
+    newChapters[index].isExpanded = !newChapters[index].isExpanded;
+
+    setChapterText(newChapters);
+  }
+
+  const generateSection = (chapter: UIChapter, index: number) => {
     return (
       <div
         className={generateChapterClass(index)}
         id={`chapter${DefaultChapters[index].number}`}
       >
-        <div className={`chapter-${index}`}>
-          {chapter}
+        {index > 3 && <button className="chapter-button" onClick={() => handleExpandChapter(index)}>{chapter.isExpanded ? "-" : "+"}</button>}
+        {chapter.isExpanded ? <div className={`chapter-${index}`}>
+          {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
             <p className="download-link" onClick={() => handleStartDownload()}>
               {showJapanese ? "フルスクリプトをダウンロード" : "Download Full Script" }
             </p>
           )}
-        </div>
+        </div> : <div style={{ minWidth: "200px" }} className={`chapter-${index}`}>
+            {chapter.name}
+          </div>}
       </div>
     );
-  };
-
-  const renderText = () => {
-    return chapterText.map((chapter: UIChapter, index) => {
-      return generateSection(showJapanese ? chapter.japaneseText : chapter.text, index)
-    });
   };
 
   const handleStartDownload = () => {
@@ -186,7 +190,9 @@ const App = () => {
         className="text-container"
         style={{ paddingLeft: showSidebar ? `${SIDEBAR_WIDTH}` : "0" }}
       >
-        {renderText()}
+        {chapterText.map((chapter: UIChapter, index) => {
+          return generateSection(chapter, index)
+        })}
       </div>
     </div>
   );
