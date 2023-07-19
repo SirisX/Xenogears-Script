@@ -70,6 +70,12 @@ const App = () => {
     setChapterText(newChapters);
   }
 
+//   window.addEventListener('keydown', (e) => {
+//     if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.metaKey && e.keyCode === 70))) {
+        
+//     }
+// })
+
   const generateSection = (chapter: UIChapter, index: number) => {
     return (
       <div
@@ -77,16 +83,14 @@ const App = () => {
         id={`chapter${DefaultChapters[index].number}`}
       >
         {index > 3 && <button className="chapter-button" onClick={() => handleExpandChapter(index)}>{chapter.isExpanded ? "-" : "+"}</button>}
-        {chapter.isExpanded ? <div className={`chapter-${index}`}>
+        <div className={chapter.isExpanded ?  `chapter-${index}` : `chapter-hidden`}>
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
             <p className="download-link" onClick={() => handleStartDownload()}>
               {showJapanese ? "フルスクリプトをダウンロード" : "Download Full Script" }
             </p>
           )}
-        </div> : <div style={{ minWidth: "200px" }} className={`chapter-${index}`}>
-            {chapter.name}
-          </div>}
+        </div>
       </div>
     );
   };

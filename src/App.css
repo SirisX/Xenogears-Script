@@ -284,3 +284,29 @@
 .chapter-button:hover {
     background-color: rgb(212, 38, 38);
 }
+
+.chapter-hidden {
+    max-height: 80px;
+    overflow-y: scroll;
+    /* opacity: 0; */
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(165, 42, 42, 0.636);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
