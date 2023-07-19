@@ -200,6 +200,7 @@
     color: white;
     cursor: pointer;
     /* padding: 4px; */
+    background-color: black;
     font-weight: 800;
     margin: 0;
     margin-left: 4px;
@@ -234,6 +235,7 @@
     cursor: pointer;
     user-select: none;
     z-index: 2;
+    background-color: black;
 }
 
 .switch-language:hover {
