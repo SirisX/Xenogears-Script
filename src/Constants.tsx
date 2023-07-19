@@ -79,7 +79,6 @@ export const DefaultChapters: Chapter[] = [
     number: -1,
     text: openingMovieText,
     japaneseText: jpMovieText,
-    defaultCollapsed: true,
     japaneseName: "オープニング",
   },
   {
@@ -87,7 +86,6 @@ export const DefaultChapters: Chapter[] = [
     number: 0,
     text: prologueText,
     japaneseText: jpPrologueText,
-    defaultCollapsed: true,
     japaneseName: "プロローグ",
   },
   {
