@@ -33,9 +33,17 @@
     margin-top: 32px;
     margin-bottom: 32px;
     max-width: 100vw;
+    position: relative;
+    /* width: 300px; */
     /* margin-bottom: 64px; */
     /* justify-self: start; */
 }
+
+@media (min-width: 650px) {
+    .chapter-text {
+        width: 450px;
+    }
+  }
 
 .chapter-text-intro-japanese {
     color: white;
@@ -278,6 +286,9 @@
     border-radius: 2px;
     cursor: pointer;
     width: 28px;
+    left: -36px;
+    top: 22px;
+    position: absolute;
 }
 
 
@@ -293,7 +304,7 @@
 
 /* width */
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 10px;
   }
   
   /* Track */
@@ -304,9 +315,10 @@
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: rgba(165, 42, 42, 0.636);
+    border-radius: 4px;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: brown;
   }
