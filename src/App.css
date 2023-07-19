@@ -314,7 +314,7 @@
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgba(165, 42, 42, 0.636);
+    background: rgba(165, 42, 42, 0.436);
     border-radius: 4px;
   }
   
