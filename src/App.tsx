@@ -71,6 +71,11 @@ const App = () => {
   //     }
   // })
 
+  const generateChapterName = (chapter: Chapter) => {
+    if (showJapanese) return chapter.japaneseName;
+    return chapter.name;
+  }
+
   const generateTableOfContents = () => {
     return DefaultChapters.map((chapter: Chapter) => {
       //Hide certain chapters from the sidebar
@@ -81,11 +86,11 @@ const App = () => {
       //Generates the sidebar Link
       return (
         <div
-          className="sidebar-link"
-          style={{ color: isDarkMode ? "white" : "black" }}
+          className={isDarkMode ? "sidebar-link" : "sidebar-link-light"}
+          style={{ fontSize: showJapanese ? "0.8rem" : "1rem" }}
           onClick={() => handleGoToSection(chapter)}
         >
-          {`${chapter.number > 0 ? `${chapter.number}. ` : ""}${chapter.name}`}
+          {`${chapter.number > 0 ? `${chapter.number}. ` : ""}${generateChapterName(chapter)}`}
         </div>
       );
     });
@@ -106,7 +111,7 @@ const App = () => {
           </button>
         )}
         <div
-          className={chapter.isExpanded ? `chapter-${index}` : `chapter-hidden`}
+          className={chapter.isExpanded ? `chapter-visible` : `chapter-hidden`}
           style={{ color: isDarkMode ? "white" : "black" }}
         >
           {showJapanese ? chapter.japaneseText : chapter.text}
@@ -193,7 +198,7 @@ const App = () => {
       ) : (
         <div
           className="sidebar"
-          style={{ opacity: 0, pointerEvents: "none", left: "-340px" }}
+          style={{ opacity: 0, pointerEvents: "none", left: "-390px" }}
         ></div>
       )}
       {showSidebar ? (

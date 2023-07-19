@@ -1,6 +1,7 @@
 export interface Chapter {
     number: number;
-    name: String,
+    name: string,
+    japaneseName?: string;
     text: string,
     japaneseText: string;
     hideInSidebar?: boolean;

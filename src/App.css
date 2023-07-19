@@ -10,7 +10,7 @@
   overflow-y: hidden;
   margin-top: 32px;
   line-height: 1.5rem;
-  transition: 0.15s padding ease-in;
+  transition: 0.25s all ease-in;
   width: 100%;
   display: grid;
   justify-content: center;
@@ -82,7 +82,7 @@
   height: 50%;
   height: 100%;
   height: -webkit-fill-available;
-  width: 165px;
+  width: 195px;
   left: 0px;
   top: 0;
   border-right: rgba(255, 255, 255, 0.644) 1px solid;
@@ -107,6 +107,25 @@
 }
 
 .sidebar-link:active {
+  color: rgb(205, 43, 43);
+  cursor: pointer;
+  margin: 4px;
+}
+
+.sidebar-link-light {
+  color: black;
+  cursor: pointer;
+  /* font-size: 1rem; */
+  margin: 4px;
+}
+
+.sidebar-link-light:hover {
+  color: #890000;
+  cursor: pointer;
+  margin: 4px;
+}
+
+.sidebar-link-light:active {
   color: rgb(205, 43, 43);
   cursor: pointer;
   margin: 4px;
@@ -228,7 +247,7 @@
   position: fixed;
   top: 36px;
   margin: 0;
-  left: 142px;
+  left: 166px;
   height: 25px;
   width: 25px;
   border-radius: 1px;
@@ -272,7 +291,7 @@
   position: fixed;
   top: 66px;
   margin: 0;
-  left: 142px;
+  left: 174px;
   height: 50px;
   width: 25px;
   border-radius: 1px;
@@ -298,8 +317,8 @@
 }
 
 .chapter-button {
-  background-color: rgba(165, 42, 42, 0.77);
-  opacity: 0.7;
+  background-color: rgba(165, 42, 42, 0.87);
+  opacity: 0.78;
   font-size: 0.8rem;
   font-weight: 700;
   color: white;
@@ -309,6 +328,9 @@
   cursor: pointer;
   left: -30px;
   top: 22px;
+  width: 20px;
+  height: 20px;
+  padding: 0;
   position: absolute;
   text-align: center;
 }
@@ -321,8 +343,18 @@
   max-height: 80px;
   overflow-y: scroll;
   overflow-x: hidden;
+  /* transition: max-height 2s ease-in; */
   /* opacity: 0; */
 }
+
+
+.chapter-visible {
+  /* max-height: 80px; */
+  overflow-x: hidden;
+  /* transition: max-height 2s ease-in; */
+  /* opacity: 0; */
+}
+
 
 /* width */
 ::-webkit-scrollbar {
@@ -367,6 +399,5 @@
 
   .chapter-button {
     font-size: 1.2rem;
-    width: 24px;
   }
 }
