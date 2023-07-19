@@ -8,6 +8,7 @@ const App = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
+  const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
 
   const generateChapterClass = (index: number) => {
     switch (index) {
@@ -81,15 +82,14 @@ const App = () => {
       return (
         <div
           className="sidebar-link"
+          style={{ color: isDarkMode ? "white" : "black" }}
           onClick={() => handleGoToSection(chapter)}
         >
-          {`${chapter.number > 0 ? `${chapter.number}: ` : ""}${
-            chapter.name
-          }`}
+          {`${chapter.number > 0 ? `${chapter.number}. ` : ""}${chapter.name}`}
         </div>
       );
-  })
-}
+    });
+  };
 
   const generateSection = (chapter: UIChapter, index: number) => {
     return (
@@ -107,6 +107,7 @@ const App = () => {
         )}
         <div
           className={chapter.isExpanded ? `chapter-${index}` : `chapter-hidden`}
+          style={{ color: isDarkMode ? "white" : "black" }}
         >
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
@@ -117,9 +118,8 @@ const App = () => {
             </p>
           )}
           <div className="chapter-text-intro">
-          {index === 1 && generateTableOfContents()}
+            {index === 1 && generateTableOfContents()}
           </div>
-
         </div>
       </div>
     );
@@ -135,21 +135,30 @@ const App = () => {
   };
 
   return (
-    <div className="App">
+    <div
+      className="App"
+      style={{ backgroundColor: isDarkMode ? "black" : "white" }}
+    >
       {showSidebar ? (
-        <div className="sidebar">
+        <div
+          className="sidebar"
+          style={{ backgroundColor: isDarkMode ? "black" : "white", borderColor: isDarkMode ? "white" : "black" }}
+        >
           <div className="sidebar-header">
             <p></p>
-            <p className="x-button" onClick={() => setShowSidebar(false)}>
+            <p
+              style={{ color: isDarkMode ? "white" : "black" }}
+              className="x-button"
+              onClick={() => setShowSidebar(false)}
+            >
               «
             </p>
           </div>
-          <div className="sidebar-grid">
-            {generateTableOfContents()}
-          </div>
+          <div className="sidebar-grid">{generateTableOfContents()}</div>
           {showJapanese ? (
             <p
               onClick={() => setShowJapanese(false)}
+              style={{ color: isDarkMode ? "white" : "black" }}
               className="switch-language-open"
             >
               EN
@@ -157,9 +166,27 @@ const App = () => {
           ) : (
             <p
               onClick={() => setShowJapanese(true)}
+              style={{ color: isDarkMode ? "white" : "black" }}
               className="switch-language-open"
             >
               JP
+            </p>
+          )}
+          {isDarkMode ? (
+            <p
+              onClick={() => setIsDarkMode(false)}
+              className="switch-darkmode-open"
+              style={{ color: "white" }}
+            >
+              Ω
+            </p>
+          ) : (
+            <p
+              onClick={() => setIsDarkMode(true)}
+              className="switch-darkmode-open"
+              style={{ color: "black" }}
+            >
+              Ω
             </p>
           )}
         </div>
@@ -178,6 +205,7 @@ const App = () => {
           ) : (
             <p
               className="quick-jump"
+              style={{ color: isDarkMode ? "white" : "black" }}
               onClick={() => {
                 showSidebar ? setShowSidebar(false) : setShowSidebar(true);
               }}
@@ -189,6 +217,7 @@ const App = () => {
             <p
               onClick={() => setShowJapanese(false)}
               className="switch-language"
+              style={{ color: isDarkMode ? "white" : "black" }}
             >
               EN
             </p>
@@ -196,8 +225,26 @@ const App = () => {
             <p
               onClick={() => setShowJapanese(true)}
               className="switch-language"
+              style={{ color: isDarkMode ? "white" : "black" }}
             >
               JP
+            </p>
+          )}
+          {isDarkMode ? (
+            <p
+              onClick={() => setIsDarkMode(false)}
+              className="switch-darkmode"
+              style={{ color: "white" }}
+            >
+              Ω
+            </p>
+          ) : (
+            <p
+              onClick={() => setIsDarkMode(true)}
+              className="switch-darkmode"
+              style={{ color: "black" }}
+            >
+              Ω
             </p>
           )}
         </div>
