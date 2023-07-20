@@ -158,7 +158,8 @@
   color: rgba(255, 255, 255, 0.567);
   /* font-weight: 800; */
   margin: 0;
-  margin-top: 6px;
+  margin-left: 6px;
+  margin-top: 1px;
 }
 
 /*Button to open nav*/
@@ -195,6 +196,11 @@
 .x-button:hover {
   color: rgba(255, 255, 255, 0.736);
 }
+
+/* .x-button:active {
+  color: rgba(255, 0, 0, 0.736);
+  right: 20px;
+} */
 
 .quick-jump {
   color: white;
@@ -320,13 +326,13 @@
 }
 
 .download-link:active {
-  color: #ff0000;
+  color: #e70000;
   /* font-weight: 600; */
 }
 
 /* Expand Chapter Button */
 .chapter-button {
-  background-color: #890000;
+  background-color: #890000;  
   opacity: 0.8;
   font-size: 0.8rem;
   font-weight: 700;
