@@ -382,7 +382,7 @@
 }
 
 
-/* Rules for small screens only */
+/* Rules for BIG screens only */
 @media (min-width: 540px) {
   .chapter-text {
     width: 500px;
