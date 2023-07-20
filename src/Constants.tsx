@@ -80,6 +80,7 @@ export const DefaultChapters: Chapter[] = [
     text: openingMovieText,
     japaneseText: jpMovieText,
     japaneseName: "オープニング",
+    defaultCollapsed: true,
   },
   {
     name: "Prologue",
