@@ -391,7 +391,7 @@
 
   .chapter-text-intro {
     font-size: 1.1rem;
-    /* column-gap: 128px; */
+    column-gap: 16px;
   }
 
   .chapter-text-centered {

@@ -124,7 +124,7 @@ const App = () => {
                 : "Download Full Script"}
             </p>
           )}
-          <div className="chapter-text-intro" style={{ columnGap: showJapanese ? "16px" : '32px' }}>
+          <div className="chapter-text-intro">
             {index === 1 && generateTableOfContents()}
           </div>
         </div>
