@@ -189,7 +189,7 @@ export const DefaultChapters: Chapter[] = [
     number: 14,
     text: chap14Text,
     japaneseText: SWAP_ME_OUT,
-    japaneseName: "潜入、王都アヴェ！",
+    japaneseName: "アヴェ作戦",
   },
   {
     name: "The Tournament",
