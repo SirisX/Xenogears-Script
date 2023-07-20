@@ -3,6 +3,7 @@ import "./App.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import fullScript from "./text/FULL_SCRIPT.txt";
+import fullScriptJapanese from "./text/JP_FULL_SCRIPT.txt";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
@@ -132,8 +133,15 @@ const App = () => {
 
   const handleStartDownload = () => {
     var a = document.createElement("a");
-    a.href = fullScript;
-    a.download = `Xenogears_Fullscript_English`;
+
+    if (showJapanese) {
+      a.href = fullScriptJapanese;
+      a.download = `ゼノギアス`;
+    } else {
+      a.href = fullScript;
+      a.download = `Xenogears_Fullscript_English`;
+    }
+
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
