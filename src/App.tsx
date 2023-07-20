@@ -42,9 +42,10 @@ const App = () => {
         const newUIChapter: UIChapter = {
           name: chapter.name,
           number: chapter.number,
-          isExpanded: chapter.defaultCollapsed ? false : true,
           text: englishText,
           japaneseText: jpText,
+          isCollapsable: chapter.isCollapsable ?? false,
+          isExpanded: (chapter.isCollapsable && !!chapter.defaultCollapsed) ? false : true,
         };
 
         return newUIChapter;
@@ -103,7 +104,7 @@ const App = () => {
         className={generateChapterClass(index)}
         id={`chapter${DefaultChapters[index].number}`}
       >
-        {index > 3 && (
+        {chapter.isCollapsable && (
           <button
             className="chapter-button"
             onClick={() => handleExpandChapter(index)}

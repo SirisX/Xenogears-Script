@@ -5,6 +5,7 @@ export interface Chapter {
     text: string,
     japaneseText: string;
     hideInSidebar?: boolean;
+    isCollapsable?: boolean;
     defaultCollapsed?: boolean;
 }
 
@@ -14,4 +15,5 @@ export interface UIChapter {
     text: string,
     japaneseText: string;
     isExpanded: boolean;
+    isCollapsable: boolean;
 }
