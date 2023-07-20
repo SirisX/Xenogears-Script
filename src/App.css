@@ -32,7 +32,7 @@
   margin-top: 32px;
   margin-bottom: 32px;
   max-width: 100vw;
-  margin-left: 26px;
+  margin-left: 16px;
   position: relative;
   width: 320px;
   /* margin-bottom: 64px; */
@@ -387,11 +387,12 @@
   .chapter-text {
     width: 500px;
     font-size: 1.1rem;
+    margin-left: 96px;
   }
 
   .chapter-text-intro {
     font-size: 1.1rem;
-    column-gap: 16px;
+    column-gap: 32px;
   }
 
   .chapter-text-centered {
