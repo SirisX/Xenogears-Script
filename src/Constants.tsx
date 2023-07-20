@@ -80,7 +80,7 @@ export const DefaultChapters: Chapter[] = [
     text: openingMovieText,
     japaneseText: jpMovieText,
     japaneseName: "オープニング",
-    defaultCollapsed: true,
+    defaultCollapsed: true
   },
   {
     name: "Prologue",
@@ -95,8 +95,8 @@ export const DefaultChapters: Chapter[] = [
     text: chap1Text,
     japaneseText: jpChap1Text,
     japaneseName: "の村ラハン",
-    isCollapsable: true,
-    defaultCollapsed: true
+    /* isCollapsable: true, */
+    /* defaultCollapsed: true */
   },
   {
     name: "Mountain Path",
@@ -104,8 +104,7 @@ export const DefaultChapters: Chapter[] = [
     text: chap2Text,
     japaneseText: jpChap2Text,
     japaneseName: "山道",
-    isCollapsable: true,
-    defaultCollapsed: true
+    /* isCollapsable: true, */
   },
   {
     name: "House On a Hill",
