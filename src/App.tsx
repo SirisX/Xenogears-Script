@@ -118,7 +118,7 @@ const App = () => {
         >
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
-            <p className="download-link" onClick={() => handleStartDownload()}>
+            <p className="download-link" data-umami-event={showJapanese ? "Download Link (JP)" : "Download Link (EN)"} onClick={() => handleStartDownload()}>
               {showJapanese
                 ? "フルスクリプトをダウンロード"
                 : "Download Full Script"}
@@ -184,6 +184,7 @@ const App = () => {
               onClick={() => setShowJapanese(false)}
               style={{ color: isDarkMode ? "white" : "black" }}
               className="switch-language-open"
+              data-umami-event={"EN Button"}
             >
               EN
             </p>
@@ -192,6 +193,7 @@ const App = () => {
               onClick={() => setShowJapanese(true)}
               style={{ color: isDarkMode ? "white" : "black" }}
               className="switch-language-open"
+              data-umami-event={"JP Button"}
             >
               JP
             </p>
@@ -201,6 +203,7 @@ const App = () => {
               onClick={() => handleDisableDarkMode()}
               className="switch-darkmode-open"
               style={{ color: "white" }}
+              data-umami-event="Light Mode Button"
             >
               Ω
             </p>
@@ -209,6 +212,7 @@ const App = () => {
               onClick={() => handleEnableDarkMode()}
               className="switch-darkmode-open"
               style={{ color: "black" }}
+              data-umami-event="Dark Mode Button"
             >
               Ω
             </p>
@@ -242,6 +246,7 @@ const App = () => {
               onClick={() => setShowJapanese(false)}
               className="switch-language"
               style={{ color: isDarkMode ? "white" : "black" }}
+              data-umami-event={"EN Button"}
             >
               EN
             </p>
@@ -250,6 +255,7 @@ const App = () => {
               onClick={() => setShowJapanese(true)}
               className="switch-language"
               style={{ color: isDarkMode ? "white" : "black" }}
+              data-umami-event={"JP Button"}
             >
               JP
             </p>
@@ -259,12 +265,14 @@ const App = () => {
               onClick={() => handleDisableDarkMode()}
               className="switch-darkmode"
               style={{ color: "white" }}
+              data-umami-event="Light Mode Button"
             >
               Ω
             </p>
           ) : (
             <p
               onClick={() => handleEnableDarkMode()}
+              data-umami-event="Dark Mode Button"
               className="switch-darkmode"
               style={{ color: "black" }}
             >
