@@ -26,6 +26,9 @@ import chap17Text from "./text/chapters/17_Road_to_Nisan.txt";
 import chap18Text from "./text/chapters/18_City_of_Peace.txt";
 import chap19Text from "./text/chapters/19_Recapture_Aveh.txt";
 import chap20Text from "./text/chapters/20_Desert_Despair.txt";
+import chap21Text from "./text/chapters/21_Kislev_Capital.txt";
+import chap22Text from "./text/chapters/22_Brave_Battlers.txt";
+import chap23Text from "./text/chapters/23_Sewer_Horror.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -248,5 +251,26 @@ export const DefaultChapters: Chapter[] = [
     text: chap20Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: "緋の鬼神",
+  },
+  {
+    name: "Kislev Capital",
+    number: 21,
+    text: chap21Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Brave Battlers",
+    number: 22,
+    text: chap22Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Sewer Horror",
+    number: 23,
+    text: chap23Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
   },
 ];
