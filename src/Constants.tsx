@@ -272,5 +272,5 @@ export const DefaultChapters: Chapter[] = [
     text: chap23Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
-  },
+  }
 ];
