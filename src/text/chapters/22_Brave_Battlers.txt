@@ -1,0 +1,1505 @@
+————————————————————————————
+Brave Battlers - Kislev Mess Hall - 1028
+————————————————————————————
+
+Hammer
+"Huff, huff, huff...
+I just finished
+signing you up!"
+
+Fei
+"Gee...that was quick!
+Is it really that easy?"
+
+Hammer
+"Normally it isn't so easy!
+But a woman called Rue from
+the Battling Committee seems
+to have done some pushing
+and pulling on your behalf!"
+
+Fei
+"The Battling Committee...?
+Oh, you mean those three?"
+
+Hammer
+"Well anyway, thanks to
+them, the enrolling process
+went like a breeze!
+Hey hey! This means you can
+start Battling whenever you
+want to, bro!"
+
+Fei
+"But besides that, Hammer,
+since yesterday, you've
+seemed a little too happy!
+Is there something strange
+going on behind the scenes
+that I don't know about?"
+
+Hammer
+"...Huh?
+N,n,no! N,nothing! 
+N,n,nothing at all!
+The mechanic of champions,
+me, has had his sins wiped
+clean so there is nothing
+to be suspect of! Hahaha!"
+
+Fei
+"Hmm, really?"
+
+Hammer
+"What do you mean?
+I told you there is 
+nothing at all!
+Oooh! 
+I've got a lot to do, so 
+I'll go on ahead of you!"
+
+Fei
+"Oh...!
+Hey...!
+W,w,wait...!" 
+
+Fei
+"What are you up to.
+Not saying where
+you're going to..."
+
+Hammer
+"Oh, I forgot to tell you!
+The Battling Arena is on 
+the outskirts of D-Block.
+Talk to the guard and he 
+should let you pass. Bye!"
+
+Fei
+"...
+The outskirts of D-Block?"
+
+Citan
+"Fei!
+Hold on a second!"
+
+Fei
+"What is it doc?
+Last night you said we
+should act separately..."
+
+Citan
+"Yes I know I did.
+But there is something 
+that I am curious about!
+I shall join you in going
+to the Battling Arena.
+Is it not too late to
+split up after that?"
+
+Fei
+"...? Well...whatever!
+Anyway, let's get going!"
+
+————————————————————————————
+Kislev D-Block - 0998
+————————————————————————————
+
+Guard
+"Hey, you...huh?
+Oh it's you!
+I heard from the Imperial
+Battling Committee...
+I can let you thru, but as
+long as you have that bomb
+collar on it's no use
+trying to escape...!
+If you don't wanna die,
+stay away from the off-
+limit areas, such as the
+civilian section, okay!?"
+
+————————————————————————————
+Kislev Battling Arena Front Desk - 1048
+————————————————————————————
+
+Fei
+"...So this is the
+Battling Arena."
+
+Citan
+"...Or the reception
+area to be exact."
+
+Fei
+"...Hmn!?"
+
+Rue
+"Welcome to the Battling
+Arena...
+Fei, Sir...
+Several days ago you were
+adamant about not piloting
+Gears...
+Has something happened in 
+the last few days to make
+you change your mind in
+such a large way?"
+
+Fei
+"Well, I have my reasons.
+For starters, you can't say 
+prison life is that easy."
+
+Fei
+"...And then there's the 
+matter of personal safety!"
+
+Subordinate
+"???"
+
+Subordinate
+"???"
+
+Fei
+"Then there's this collar!
+It gets in the way so much!"
+
+Rue
+"Your collar...?"
+
+Rue
+"Hahahmm...
+You're amusing!
+Are you intending to aim for
+victory despite it being 
+your first try at Battling?"
+
+Fei
+"...Is that strange?"
+
+Rue
+"No, no! Not the least...
+Please excuse me!
+You seem to have quite some
+confidence in fighting with
+Gears...
+I'm looking forward to..."
+
+!?
+
+Rue
+"Oops...excuse me!
+Well, I guess I'll show you
+the way to the paddocks.
+We don't have much time..."
+
+Fei
+"The paddocks...?"
+
+Rue
+"What, you're thinking that
+you're going to fight with
+flesh and blood?
+...Hahahmm, not that I 
+wouldn't mind seeing it, 
+but..."
+
+Rue
+"We told you before that
+the committee would prepare
+a machine for you...
+What did you forget?"
+
+Fei
+"Oh, err...
+The Gear I'm going to pilot
+will be, err..."
+
+Rue
+"Well, come on now.
+Walk this way..."
+
+Citan
+"Hold on! We are not
+ready yet... Can you
+spare us a little time?"
+
+Rue
+"...Understood. But we don't
+have much time to spare, so
+please hurry up now..."
+
+————————————————————————————
+
+Informationist
+"Nothing learned nothing 
+gained. Ask and you shall
+receive...perhaps.
+Anyway, 'Battler', what do
+you need to know about the
+Battling Contest?"
+
+Informationist
+"What shall I explain?"
+    What's Battling?
+    Basic controls
+    I'm alright thanks!
+
+Informationist
+"Okeydokey!
+Well then, I'll now explain
+a bit about 'Battling'."
+
+Informationist
+"Battling is the sport of
+fighting one-on-one with
+Gears and is held at the 
+Imperial Capital's arena.
+The format of the sport is
+simple - fight until one or
+the other breaks down. 
+In other words, just bash
+your rival to pieces!
+But you don't have to fight
+till you trash your Gear.
+You are allowed to give up
+during a match...so if you
+can't win...well, you know!
+Finally, the armor values
+of Gears during the battling
+bouts are made uniform, so
+that competitors can fight
+on equal terms.
+In other words, competitors
+must rely fully on the
+fundamental properties
+of the Gears they pilot."
+
+Informationist
+"Well that's the quick
+rundown...I think.
+Did you get the drift?
+
+Fei
+"Well, errh..."
+    Sure, no problem!
+    Sorry I don't get it!
+
+Informationist
+"The next thing to do is to
+gain experience by actually
+Battling. The key is to
+get used to the controls!
+But perhaps jumping straight
+into an actual battle is too
+much for you? Well then, why
+not try our 'practice mode'
+for help with the controls?
+This is a simulation mode
+where you can practice the
+basic control methods.
+We recommend that beginners
+should train here first!
+Also, there is a 'tutorial
+mode' that provides easy 
+lessons, from the basic 
+controls through to an 
+explanation of the screen."
+
+Informationist
+"Is there anything else you
+want to ask about?"
+
+————————————————————————————
+
+Informationist
+"Huh? You didn't understand?
+That's strange! Well, once
+again from the beginning...
+(Gee and I thought this guy
+had it in him? ...Obviously I
+was wrong... Is his head OK?)
+Anyway, listen closely now!"
+
+————————————————————————————
+
+Informationist
+"What shall I explain?"
+    Battling
+    Basic controls
+    I'm alright thanks!
+	
+————————————————————————————
+
+Informationist
+"Right, the basic controls!
+Well what do you want to do?
+    Ask about button controls
+    Tutorial Mode
+    Practice Mode
+    Ask about something else
+
+Informationist
+"Right, the button controls.
+I'll explain each button's
+function accordingly...
+
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."
+
+Informationist
+"So, you want to try out the
+actual controls, huh..."
+
+Informationist
+"Oh, well...have it your way!
+What else do you want to
+enquire about?"
+
+"Which button do you need
+an explanation of?
+    Directional button
+    <X> button
+    <S> button
+    <T> button
+    <C> button
+    Next page
+
+"Which shall I explain to
+you about?"
+    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation
+
+Informationist
+"Oh...had enough already?
+Anything else you need to
+know? Don't be afraid now!
+
+————————————————————————————
+
+Informationist
+"O.K., about the Directional
+button... Assuming that your
+opponent is on your right
+(from your viewpoint) then:
+= UP moves your Gear back
+ away from the screen.
+= DOWN moves your Gear in
+ towards the screen.
+= RIGHT moves your Gear
+ towards your opponent.
+= LEFT moves your Gear
+ away from your opponent.
+
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+LEFT invokes a special move
+momentary back acceleration!
+This momentarily distances
+you from your opponent (or
+allows you to 'run away')!
+Just remember the opposite
+direction to your opponent.
+
+Informationist
+"That's it in a nutshell!
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"
+
+Informationist
+"The <X> button is ATTACK.
+(There are 3 attack buttons
+and <X> is one of them.)
+It changes from Gear to Gear
+but is mainly meant for
+close combat. And you're not
+limited to just one blow.
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three long!
+All together there are 14
+such combinations that you
+can use!"
+
+Informationist
+"The <S> button is ATTACK.
+(There are 3 attack buttons
+and <S> is one of them.)
+It differs from Gear to Gear
+but is mainly utilized for
+close combat. And you're not
+limited to just one blow.
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three in length!
+All together there are 14
+such combinations that you
+can try out!"
+
+Informationist
+"The <T> button is for JUMP!
+Your movement controls are
+the same during jumps.
+Also, you are able to attack
+with the <X> and <S> buttons
+during jumps!
+Oh, and it's alright to use
+the R1 button to make Ether
+Bullet attacks too!
+
+Informationist
+"The <C> button is for DASH.
+Your movement controls are
+the same as usual.
+The only thing is that you
+cannot continue running
+indefinitely."
+
+Informationist
+"For more details, try
+the 'Tutorial Mode', where
+you'll get an explanation 
+from a different official."
+
+Informationist
+"Attacking isn't everything!
+Although it is said that 
+'offense is the best form
+of defense', at times it is
+important to defend oneself.
+That's why we have the L1 
+button to GUARD you!  But, 
+it doesn't prevent all of 
+the damage so be careful!"
+
+Informationist
+"The R1 button launches a 
+special attack called 'Ether 
+Bullet'. It's good for long
+range attacks on your foe!
+'Ether Bullets' have homing
+ability so you may tend to
+rely on them, but you might
+regret it if you use them 
+too much! Do be careful!"
+
+Informationist
+"For more details, try our 
+'Tutorial Mode', where you
+will get an explanation from
+a different official."
+
+Informationist
+"The Start button will
+permit you to pause the
+battle.
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."
+
+————————————————————————————
+???
+
+Informationist
+"Yes, I thought you wouldn't
+have any problems! Anyway,
+give it your best shot now!"
+
+————————————————————————————
+
+Informationist
+"...Are you sure you don't
+need to hear what I've got
+to say? If you have trouble
+don't blame it on me!"
+
+Gate Keeper
+"Beyond here is the
+competitors' Gear storage
+paddock.
+Sorry, but to prevent pilots
+from cheating, unauthorized
+entry is not permitted."
+
+Hammer
+"I'm a mechanic, so I took
+the liberty to set up shop
+here for a while.
+Let's not waste time, bro,
+care to to make a purchase?"
+    Not now!
+    'spose I have to.
+
+Hammer
+"Yeah! That's my bro!
+You're too kind man!
+Much appreciated!"
+
+Hammer
+"What you be needin' bro?"
+    Hammer's items
+    Hammer's Gear parts
+
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from items?
+It'll help Hammer out too!"
+    Enough already!
+    Hammer's items
+    Hammer's accessories
+
+Hammer
+"OK, now for the Battling.
+Do your best, bro!
+For Hammer's future t..."
+
+Fei
+!?
+
+Hammer
+"Forget it!"
+
+Hammer
+"The procedures were quite
+sudden so the approval for
+servicing Gear parts won't
+make it in time for the 
+first bouts.
+Oh and bro, you haven't 
+been allocated a Gear yet.
+...I wonder what Gear they
+will give you...?"
+
+————————————————————————————
+
+Rue
+"Are you ready?"
+    Not yet!
+    You bet!
+
+Rue
+"As I said before, there's
+not much time, so do hurry!"
+
+————————————————————————————
+
+Rue
+"Very well then...
+Over there please..."
+
+Hammer
+"Yo, Bro~!
+You forgot your mechanic!
+Wait up a little!"
+
+Rue
+"...It's that way!"
+
+Rue
+"Beyond there is the Gear
+paddock...
+Not much time till the
+first bout. You had better
+hurry..."
+
+Subordinate
+"Rue, ma'am, what shall we do?"
+
+Subordinate
+"Rue, ma'am, what shall we do?"
+
+Rue
+"Report to the officials.
+Pilot confirmation complete.
+Suggest first bout opponent
+to be the black Gear..."
+
+Subordinate
+"Yes, ma'am!"
+
+Subordinate
+"Yes, ma'am!"
+
+————————————————————————————
+Kislev Gear Paddocks - 1052
+————————————————————————————
+
+Fei
+"Hey, is this...!?"
+
+Hammer
+"This must be the Gear
+that was furnished by
+the committee!"
+
+Citan
+"...My this IS a
+surprise."
+
+Fei
+"Doc!?"
+
+Citan
+"...Hmmm. I do not think
+this is coincidental...
+...I am simply assuming,
+but they probably
+intentionally furnished
+you with Weltall to
+collect some data."
+
+Fei
+"Intentionally?"
+
+Citan
+"Battling itself serves
+as one of Kislev's plans.
+From Battling, they can
+obtain the various combat
+data...
+...and talented Battlers
+which can be used for the
+military."
+
+Fei
+"Exactly what kind of
+data could they get outta
+him and I...?"
+
+Citan
+"I would not know."
+
+Citan
+"But I can assure you
+that this has something
+to do with that incident
+with Aveh..."
+
+Citan
+"Well, regardless of what
+the empire is up to,
+this is good for us."
+
+Citan
+"You are able to get the
+Gear you are most used
+to."
+
+Citan
+"If you think about it,
+this just enhanced our
+probability of escaping..."
+
+Fei
+"..."
+
+————————————————————————————
+
+- Beginning Bout -
+
+————————————————————————————
+Battling Arena - Tutorial - Fei vs Leonardo - A02
+————————————————————————————
+
+Begin Tournament
+Begin Player vs Computer Bout
+Begin Player 1 vs Player 2 Bout
+Begin Demo Mode
+Set Number of Matches
+Computer Enemy's Strength
+Rubber Band Mode Setting
+Continue game bout
+Quit game and return to menu
+Adjust game settings
+Continue practice session
+End practice session
+Set enemy Gear's algorithm...
+Set motion speed
+Set slow motion (default=30fps)
+'Do Nothing' mode
+'Guard Only' 
+'Operate with Controller 2'
+'Ferocious Attack' mode
+'Short-range Attack' mode
+'Ether Bullet Attack' mode
+'Jump + Ether Bullet Attack'
+'Just Jump' mode
+'Give Chase' mode
+'Run Away' mode
+'Reverse Booster' mode
+EASY level Battling mode
+NORMAL level Battling mode
+HARD level Battling mode
+Select Gear 1's mode
+Select Gear 2's mode
+
+Choose your Gear
+
+Choose opponent's Gear
+Choose first Gear
+Choose second Gear
+Turn vibration ON/OFF
+OK? (<C> Button cancels)
+
+Welcome to the Tutorial Mode.
+Here you can learn more about
+the 'Battling' controls.
+
+Choose a topic to learn about
+and press the <X> Button.
+
+Battling is a game where you
+fight one-on-one with Gears
+in a wide-open, circular
+field or arena.
+A match ends when either you
+or your opponent's Gear takes
+too much damage and has its
+Durability (H.P.) reach zero.
+
+The game is played on
+a screen that displays
+the two Gears side on.
+
+This is the Gear you control.
+You start the battle on the
+left-hand side of the screen.
+
+This is your opponent's Gear.
+
+These are Durability Gauges
+that show your damage level.
+The top gauge is yours, and
+the bottom is your opponent's.
+When you attack your opponent,
+his Gear's Durability will be
+depleted. The Durability in
+the gauge cannot be recovered.
+The one who deplete's his
+opponent's Durability Gauge
+(H.P.) to 0 first will become
+the match winner.
+
+This is your Heat Gauge.
+It indicates the temperature
+of your Gear, which is raised
+when you use your Dash ability
+or fire Ether Bullets.
+Your Gear's temperature can
+be recovered also, and this
+too will be reflected by the
+gauge's level.
+
+This is your opponent's
+Heat Gauge.
+
+One of these marks will
+light up each time you
+win a match.
+When you win a set number
+of matches you will be
+awarded the bout's overall
+victory.
+
+When you use Ether Bullets or
+your Dash ability, your Heat
+Gauge will increase. You have
+to avoid heating up too much!
+The gauge will recover when
+you're using normal attacks
+or just doing nothing at all.
+
+Even during your normal
+running movement it will
+slowly drop back down.
+
+If you use your Ether Bullets
+and Dash abilities too much,
+the rate of heat recovery
+won't be able to keep up...
+If your Heat Gauge reaches its
+limit, your Gear will start to
+overheat...
+
+At this point, any further use
+of such abilities will damage
+your Gear and cause your
+Durability (H.P.) to decrease.
+
+When the indicator alongside
+of your Heat Gauge is blue,
+you can use Ether Bullets and
+Dash abilities as per normal.
+But, if you use these
+abilities while the
+indicator is yellow...
+
+your Heat Gauge will exceed
+its limit and your Durability
+Gauge (H.P.) will decrease.
+
+When the indicator is red,
+you have no Durability (H.P.)
+left and so cannot fire any
+more Ether Bullets.
+
+One strategy is to attack your
+opponent as much as you can
+while you still have
+Durability (H.P.) to spare.
+
+To approach your opponent,
+press the Directional Button
+towards him/her.
+To retreat from your opponent,
+press the Directional Button
+away from him/her.
+Pressing Up / Down on the
+Directional Button will move
+you away from / towards the
+screen respectively.
+Push the <T> Button to jump.
+
+Hold down the <C> Button while
+moving to Dash. You will run
+at twice normal speed, but
+your Heat Gauge will rise.
+You cannot Dash when your Heat
+Gauge is at maximum or when
+your Durability (H.P.) Gauge
+is low.
+Also, your Heat Gauge will not
+decrease during the time spent
+in the air when you jump while
+Dashing.
+
+When you are right in front of
+your opponent and you push the
+Directional Button away from
+him/her...
+...you can perform a Back-Dash
+(momentary back acceleration).
+Use this to instantaneously
+dodge your opponent's attacks.
+
+Moving while in desert areas
+raises the Heat Gauge faster
+than normal. Acceleration is
+not as responsive either.
+
+You cannot Dash in the water
+areas. Water will also absorb
+Ether Bullets, so you cannot
+fire while under water.
+However, the rate of recovery
+of your Heat Gauge is a little
+better while your Gear is in
+the water.
+
+You can use the <S> and <X>
+Buttons to attack.
+For example, if you just push
+the <S> Button once you will
+enter an attack sequence.
+
+If you don't push another
+button in the meantime, you
+will simply execute the <S>
+Button's attack and finish.
+Now watch what happens if we
+push another attack Button
+before the first attack's
+movement is completed...
+Either the <S> or <X> Buttons
+is okay, but here we will try
+pushing the <X> Button after
+our initial <S> Button attack.
+... The <X> Button's attack
+will follow immediately after
+the <S> Button's attack.
+
+In this way, you can enter up
+to three attacks in advance,
+and execute them in one swift
+sequence.
+The type of attack changes
+with the number of times
+and order that the <S> and
+<X> Buttons are pressed.
+Try combining the attack
+buttons in any order that
+you like. For example, <S><X><S>,
+<S><S><S>,<X><X><S> and so forth.
+In all, there are 14 different
+kinds of attack combinations
+for you to try out.
+
+You may input up to 3 attacks
+before the first attack is
+completed.
+Among your opponents, there
+are Gears that can only attack
+up to 2 times in sequence.
+
+For long range attacks, you
+can press the R1 Button to
+launch an 'Ether Bullet'.
+
+Ether Bullets have the ability
+to track the enemy, but will
+dissipate upon contact with
+such things as walls or water.
+For each shot launched, the
+Heat Gauge will rise markedly.
+If you're not careful, you
+may lose all your Durability
+(H.P.) by just continually
+firing Ether Bullets.
+So always keep an eye on
+your Heat Gauge, for fear
+of losing Durability.
+
+If your opponent fires an
+Ether Bullet at you, Dash or
+jump to avoid being hit by it.
+Also, if you hit your enemy's
+back while he/she is fleeing,
+you may be able knock him/her
+off his feet.
+
+There are times when you can't
+dodge your opponent's attack
+by simply moving out of the
+way.
+In those occasions, it is best
+to use the L1 Button to guard
+against enemy attacks.
+
+If you're about to be hit by
+your enemy and you don't think
+you can dodge it...
+then press the L1 Button to
+take a guarding stance.
+If you were able to guard
+yourself in time, the damage
+from your opponent's attack
+will be halved.
+However, you cannot guard
+yourself against attacks
+that come from behind you.
+It may be difficult to use at
+first, but when you get used
+to it, guarding will probably
+become a useful tactic.
+
+Rubber Banded Battling
+
+This ends the tutorial...
+Now why not try out our
+'Practice Mode'? Good luck!
+Oh, and have fun Battling!
+
+About Battling
+Screen Layout
+Movement
+Attacking
+Heat Gauges
+Ether Bullets
+Defense
+End Tutorial
+
+————————————————————————————
+???
+
+Leonardo
+"Hmph! That was nothing.
+Enough messing around, already!
+Let's get serious..."
+
+————————————————————————————
+
+Leonardo
+"Hm! Not bad.
+Have it your way then...
+Playtime is now over!
+Let's get serious..."
+
+Fei
+"????... What's going on?"
+
+Fei
+"What the...!? My Gear's...!?"
+
+————————————————————————————
+Kislev Capital - D-Block Housing - 1032
+————————————————————————————
+
+Fei
+"Uuuh... Aaah...
+Gasp... Uuuugh..."
+
+————————————————————————————
+Kislev Sewers - 1084
+————————————————————————————
+
+Leonardo
+"Heh heh...
+Jerk...he's probably 
+in bed somewhere now."
+
+Leonardo
+"Hmph, I don' get it.
+Let's just get this over 
+with. Tonight's creepy, 
+the rats are restless."
+
+Heinrich
+"What, this isn't 
+like you...
+Alright, then you
+take that one..."
+
+Leonardo
+"Oh man, this is bad...
+The hairs on the back of
+my neck are all standin'
+up.
+Something weird's out
+there."
+
+Heinrich
+"Umph..."
+
+Heinrich
+"...Huh?" 
+
+Heinrich
+"Hmm...must just
+be my imagination."
+
+Heinrich
+"What!!"
+
+Leonardo
+"Tch!
+So you came out!?"
+
+Leonardo
+"What the!?"
+
+Leonardo
+"Crap...
+this...monster's..."
+
+Leonardo
+"St...
+stay away..."
+
+Leonardo
+"Uwaahhhhh"
+
+Fei
+"...
+Where am I...
+Oh, the infirmary?"
+
+Citan
+"Well hello, Fei!
+Are you wide awake yet...?"
+
+Fei
+"Doc...
+What happened to me...?
+How did I get here...?"
+
+Citan
+"During the Battling match
+...there was a sudden
+explosion...remember?"
+
+Fei
+"...That's right...
+In that explosion...
+I lost consciousness!?"
+
+Citan
+"It was a large explosion,
+but you were fortunate the
+Gear was Weltall...!
+Any other Gear and I
+would hate to think...
+Anyway, you are safe,
+that is what matters!"
+
+Fei
+"Thanks to...
+Weltall, huh?"
+
+Fei
+"...Doc.
+How many days have
+passed since then?"
+
+Citan
+"Only a day has elapsed
+since the accident.
+Your injuries were 
+relatively minor, so..."
+
+Fei
+"Only one day...
+..."
+
+Citan
+"What is the matter, 
+Fei...?"
+
+Fei
+"I had an awful dream...
+I can't remember it, but...
+I just know it was awful..."
+
+Citan
+"A dream...?"
+
+Fei
+"...It was nothing, I guess.
+Don't worry about it, doc."
+
+Citan
+"..."
+
+Fei
+"Doc, I've got to get
+back to the Battling.
+I want to get this
+explosive collar off
+of me as soon as I can."
+
+Citan
+"Fei, how is your health
+holding up? I do not want
+you to push yourself..."
+
+Fei
+"There's no use saying that.
+Time is not going to wait!
+I can't just do nothing..."
+
+Citan
+"...I suppose you are
+right. I understand what you
+mean, Fei.
+We have got to try and get
+out of here as soon as
+we possibly can."
+
+Citan
+"But that does not mean you
+have to over-exert yourself
+again, straight away!
+Take time to rest up
+a little more..."
+
+Fei
+"You're the doc, ...doc!
+I'll try... and get...
+a little more... rest..."
+
+————————————————————————————
+
+Citan
+"...
+(For the time being, I am
+a doctor and you are a
+prisoner... We should split
+up and act separately!)"
+
+Hammer
+"How are you feeling, bro?
+All this running backwards
+and forwards is killing me!
+I know it's a bit sudden but
+how about buying something?"
+    Not now Hammer!
+    I guess I'll have to!
+
+Hammer
+"So...maybe not today, but
+there's always tomorrow! Buy
+something next time, huh!"
+
+————————————————————————————
+
+Hammer
+"Yes! That's my bro!
+You're too kind man!
+Much appreciated!"
+
+————————————————————————————
+Kislev Mess Hall - 1028
+————————————————————————————
+
+Wandering Battler
+I'm a wandering Battler. 
+This town's now in a tumult
+over a sewer monster.
+They say that two expert
+Battlers got killed!
+It seems they were well
+known around here too!
+And to think, both killed!
+Must of been some creature!
+Ohh, heaven forbid!
+
+————————————————————————————
+Kislev D-Block - 0998
+————————————————————————————
+
+Little Boy
+There are rails here.
+Occasionaly a train comes
+through here!...So
+I put a coin here as a test.
+
+Little Girl
+Hmmm, according to
+my theory the coin should
+get bigger...
+So, it'll be worth more!
+
+Guard 1
+"Hahaha. 
+That kid's, at it again.
+Do you know the kid's story?
+If he squishes that coin
+it'll be worthless.
+Well, ignorance is bliss......
+Besides, he's never been
+successful. Gramps always
+gets mad at him.
+Happens every time..."
+
+Guard 2
+"There are no prisoners
+locked up in here like you,
+who became a Battler in
+such a short time.
+Hahaha, won't be able to
+take my eyes off the match
+this year...
+Well, good luck.
+I'll be rooting for you,
+I guess."
+
+          - WANTED! -
+- Sewer Monster Exterminators -
+We're looking for Battlers to
+clean up the ever increasing
+sewer monsters in our D Block!
+For more info contact the
+'B-Info. Center' in this block.
+Prisoners not assigned to
+anything else will be forced
+to do this.
+No work, no food...
+         - Imperial Committee -
+                   and
+            - B-Info. Center -
+
+Fei
+"No work, no food?
+...Hmmm.
+Guess I'll be down in the
+sewer..."
+
+————————————————————————————
+Kislev Latina's Bar - 1040
+————————————————————————————
+
+Latina
+"That explosion incident
+at the tournament really
+surprised me.
+That was no accide...
+Ah, never mind...
+Are you feeling better?"
+
+————————————————————————————
+Kislev D-Block - 0998
+————————————————————————————
+
+Guard
+"From prisoner to Battler.
+Well good luck..."
+
+————————————————————————————
+Kislev Battling Arena Front Desk - 1048
+————————————————————————————
+
+Receptionist
+"Due to sudden mechanical
+trouble, your competitor for
+yesterday, Leonardo Sniper,
+has had to drop out...
+Heinrich Clive has also had
+mechanical problems and has
+pulled out. This means you,
+Fei, win by default and can
+compete in day 2's bouts!"
+
+Receptionist
+"If you win 2 matches today,
+the second day of the games,
+you can progress on to the
+third set of bouts.
+Do you want to enter the 
+bouts for day two?"
+    Don't enter
+    Let me Enter!
+
+————————————————————————————
+Battling Arena - Weltall vs Tin Robo
+————————————————————————————
+
+Receptionist
+"Wow, you're sooo strooong!
+Boy, was he ever outmatched!
+Ooh, I get pins and needles
+at your overwhelming power!"
+
+Receptionist
+"Here's the prize money paid
+to winners of a Battling 
+bout. It's well earned!"
+
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+————————————————————————————
+
+Received '100G' bonus!
+
+Received '500G' in prize money!
+
+————————————————————————————
+
+Receptionist
+"It's the last bout for day
+two. Win this to qualify for
+day three's bouts.
+Do you want to enter the 
+day's final bout?"
+    Don't enter
+    Go for it!
+
+Receptionist
+"I have confirmed the entry
+of Pilot 'Fei'. 
+One moment please..."
+
+'Weltall' has been sent
+to the competitors' paddock.
+Standby for boarding!
+
+Pilot Fei! 
+Please proceed to the 
+competitor's paddock!
+
+————————————————————————————
+Battling Arena - Weltall vs Titan
+————————————————————————————
+
+Receptionist
+"Hmm, not a bad battle!
+Keep it up!"
+
+Receptionist
+"Today's Battling matches
+have all finished.  Please
+come again."
+
+————————————————————————————
+Kislev Capital - D-Block Housing - 1032
+————————————————————————————
+
+Citan
+"...
+(You are doing well Fei.
+Now go to bed and rest!)"
+
+Fei
+"I guess I can rest here..."
+    Rest up!
+    Not yet.
+
+Fei
+"The rank A bed it is!"
+
+————————————————————————————
+Kislev Battling Arena Front Desk - 1048
+————————————————————————————
+
+Receptionist
+"Today is the third day of
+the games. Win 2 bouts and
+you qualify for tomorrow's
+semi-finals.
+Do you want to enter day
+three's bouts?"
+    Don't enter
+    Let me at'em!
+
+Receptionist
+"I have confirmed the entry
+of pilot 'Fei'. 
+One moment please..."
+
+The Gear 'Weltall'
+has been sent to
+the storage paddock.
+Standby for boarding!
+
+Pilot Fei, please proceed to
+the competitor's paddock!
+
+————————————————————————————
+Battling Arena - Weltall vs Wshaver
+————————————————————————————
+————————————————————————————
+Battling Arena - Weltall vs Musha
+————————————————————————————
+
+Receptionist
+"Hmm, not a bad battle!
+Keep up the good work!"
+
+Receptionist
+"Today's Battling matches
+have all finished.  Please
+come again."
+
+————————————————————————————
+Kislev Capital - D-Block Housing - 1032
+————————————————————————————
+
+Fei
+"I guess I can rest here..."
+    Rest up!
+    Not yet.
+
+Fei
+"The rank A bed it is!"
