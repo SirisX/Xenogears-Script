@@ -693,28 +693,22 @@ Please come home soon...
 
 ————————————————————————————
 
-Hey hey, Fei!
-Let's go catch some
-scampi again sometime!
-
-Hey, Fei!
-Let's go tease
-the girls again!
-
-That doctor is weird!
-Why would anyone want to
-live up on that mountain
-peak?
-He should live closer to
-the village...
-Hey, you're good friends
-with the doctor. Why
-don't you ask him to move
-closer to the village!
+Woman in blue
+Lately, my legs have been
+giving me trouble.
+It's really getting to me!
+I would like to go and have
+Doctor Citan Uzuki take a
+look at them and tell me
+what's wrong...
+But it's a dreadful chore
+to climb that mountain path
+to visit the doctor.
+It must be a sign of my age.
 
 ————————————————————————————
 
-Man in blue
+Woman in blue
 Lately, my legs have
 gotten weaker...
 It's causing me a great
@@ -728,7 +722,23 @@ to go up that mountain path
 to visit the doctor.
 I must be getting old...
 
-Woman in blue next to him
+————————————————————————————
+
+Man in blue next to her
+That doctor is weird!
+Why would anyone want to
+live up on that mountain
+peak?
+He should live closer to
+the village...
+Hey, you're good friends
+with the doctor. Why
+don't you ask him to move
+closer to the village!
+
+————————————————————————————
+
+Man in blue next to her
 That doctor's eccentric!
 Why else would anyone
 live up on a mountain
@@ -759,6 +769,7 @@ can be so unfair...
 
 ————————————————————————————
 
+Little Boy Blue
 Uh... Sob...
 Woe is me...!
 
@@ -843,30 +854,26 @@ Please don't take it
 the wrong way.
 
 ————————————————————————————
-???
 
-Sorry.
-That's all the
-Aquasol I have.
-But I've got plenty of
-my special fertilizer.
-Ya want some?
-Hahaha!
+Girl chasing
+Hey hey, Fei!
+Let's go catch some
+scampi again sometime!
 
-Oh alright. Here ya go!
+I'm gonna get you!
 
-Received Aquasol.
+————————————————————————————
 
-Oh yeah, I forgot!
-Here's some of my
-homemade Aquasol!
-I used my special
-fertilizer in it so
-it should work real
-well! Haw-haw-haw!
+Boy running
+Hey, Fei!
+Let's go tease
+the girls again!
 
-Received Aquasol.
+Run away!
 
+————————————————————————————
+
+Old Farmer
 Hmmm... Oh I'm just
 contemplating what I
 should plant next.
@@ -892,6 +899,35 @@ Hmmm, they all seem
 good...
 
 ————————————————————————————
+
+Old Farmer
+Oh yeah, I forgot!
+Here's some of my
+homemade Aquasol!
+I used my special
+fertilizer in it so
+it should work real
+well! Haw-haw-haw!
+
+Received Aquasol.
+
+————————————————————————————
+
+Old Farmer
+Oh alright. Here ya go!
+
+Received Aquasol.
+
+————————————————————————————
+
+Old Farmer
+Sorry.
+That's all the
+Aquasol I have.
+But I've got plenty of
+my special fertilizer.
+Ya want some?
+Hahaha!
 
 Little Girl w/ pink shirt
 This is the village
@@ -2150,6 +2186,14 @@ older, alright!!?"
 ————————————————————————————
 
 Ellen
+Welcome, Fei.
+You wanna have some fun?
+I give the best service
+in Lahan, you know!?
+
+————————————————————————————
+
+Ellen
 Oh my! Welcome Fei...
 You wanna have some fun?
 I give the best service
@@ -2488,9 +2532,21 @@ Alice
 "Fei, 
 have you seen Dan?"
 
+————————————————————————————
+-BEFORE- Talking to Dan
+
+Fei
+"Knowing him, he's
+most probably outside
+gasbagging right now."
+
+————————————————————————————
+
 Fei
 "Yeah, he's outside...
 bragging as always."
+
+————————————————————————————
 
 Alice
 "Ugh, that kid!
