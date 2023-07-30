@@ -1,0 +1,716 @@
+————————————————————————————
+Gear Dock Raid - Kislev D-Block - 0998
+————————————————————————————
+
+Fei
+"Who are you?"
+
+Battler
+"Don't be so cruel.
+We've been waiting for you."
+
+Citan
+"Waiting?
+For......us?"
+
+Battler
+"Please,
+come with us..."
+
+Fei
+"...This isn't going to
+be another stupid 'Baptism
+Ceremony' is it?"
+
+Amazoness
+"Hey, hey,
+wait a minute!"
+
+Amazoness
+"We're not trying to pick a
+fight. Keep talking like
+that and there's bound to be
+a misunderstanding.
+Leave this to me..."
+
+Battler
+"Right, sorry."
+
+Citan
+"...Well, I assume
+you are not hostile..."
+
+Fei
+"..."
+
+Amazoness
+"...Not here.
+Let's go somewhere else.
+Come, follow me."
+
+Citan
+"It seems we have
+no choice.
+Shall we go Fei?"
+
+————————————————————————————
+Battling Champ - Kislev - Champ's Room - 1042
+————————————————————————————
+
+Fei
+"So... what do you
+want with us?"
+
+Amazoness
+"The Champ...no I mean...
+Rico needs your help."
+
+Citan
+"Help the Champion...?"
+
+Fei
+"Hang on,
+what do you mean?"
+
+Battler
+"Y'know what just happened...
+The special broadcast on the
+dorm's vid by the Committee!"
+
+Battler
+"Yeah, y'know, the broadcast
+said somthin' like this...
+This evening, the former
+Champion was found guilty
+of attempting to assassinate
+the Kaiser, as well as
+breaking Imperial Code
+section B..."
+
+Thus, a public execution
+will be held at the arena..."
+
+Fei
+"Yes, I know he got caught,
+and was arrested...
+But, what's this about an
+attempted assassination
+of the Kaiser!?"
+
+Battler
+"Those committee members...
+The Champ probably got in
+their way somehow..."
+
+Citan
+"...The Battling
+Committee?"
+
+Amazoness
+"The Battling Committee is
+made up mostly of people
+from the 'Ethos'.
+They used to have a lot of
+pull in the government...
+But the current Kaiser,
+Sigmund, ousted almost all
+of the 'Ethos' influence
+from the government."
+
+Battler
+"On top of that, these
+past few years...
+In order to strengthen the
+military or something, the
+Kaiser has started to
+interfere with the Battling
+operated by the 'Ethos'."
+
+Battler
+"The Kaiser probably got in
+the way of them operating
+the Battling smoothly.
+So, they used the Champ..."
+
+Fei
+"Why Rico...?"
+
+Amazoness
+"Rico was originally
+born in this town...
+But because Sigmund whipped
+up anti-demihuman sentiment
+Rico was chased out of this
+town when he was young."
+
+Amazoness
+"So Rico hated the Kaiser,
+the capital Nortune, and
+the whole Kislev Empire."
+
+Fei
+"And that's why they
+went after Rico..."
+
+Battler
+"In the past, the Champ has
+had many chances to kill
+the Kaiser.
+That the earlier crash into
+the box seat was disguised
+as an accident..."
+
+Amazoness
+"But that failed too.
+The committee, fearing
+being exposed, used
+Rico..."
+
+Battler
+"The Champ is being
+manipulated by the
+committee.
+Please, Fei!
+Help the Champ."
+
+Battler
+"Now, you are the
+Battling Champ, but
+our Champ is...
+
+Hammer
+"B,b, bro-!!
+Are you he-re?"
+
+Hammer
+"The supply train times,
+dates and destinations!
+I got them all... no prob!"
+
+Hammer
+"...Wha?
+Hey bro, what are you
+doing talking with them?"
+
+Fei
+"Hold on a minute.
+Hammer, tell me about 
+those supply trains."
+
+Hammer
+"Huh?
+Is it...alright?
+With these outsiders...?"
+
+Citan
+"It is alright,
+they are our friends."
+
+Hammer
+"Oh, really?
+Well, okay...
+The next supply train's
+operating date is...
+tonight!
+But...
+if that's too soon,
+then the next one is..."
+
+Fei
+"Hammer, did you say that
+a supply train will pass
+by here tonight?"
+
+Hammer
+"What? Tonight?
+Well there are trains
+passing through...
+Um, but bro...
+we need a thorough plan.
+Tonight is impossible!"
+
+Fei
+"The situation has changed,
+and so have our plans.
+We move tonight!!"
+
+Hammer
+"We move tonight...?
+What the...?
+Are you serious?"
+
+Citan
+"... Did you hear any
+interesting tidbits of
+information outside?"
+
+Hammer
+"Well...the dorms are in
+an uproar over that Master
+Rico thing..."
+
+Citan
+"Do you know any details?
+Rico is to be executed at
+the arena, tonight, right?"
+
+Hammer
+"Master Rico's going
+to be executed...
+is this true?"
+
+Fei
+"Didn't you say there
+was one more route?"
+
+Hammer
+"Huh? Oh yeah, you mean
+via the arena, right...
+Bro! You're not thinking..."
+
+Fei
+"Yes I am thinking
+exactly that!
+You said it may be
+possible to get out 
+through the Battling 
+Arena, right?"
+
+Citan
+"I see! Then we 
+probably can help
+the Champion..."
+
+Fei
+"Doc."
+
+Citan
+"Hmm...
+It might just work!"
+
+Hammer
+"Wait a minute!
+Might just work...?
+You don't intend to
+just go bursting into
+the arena, do you?"
+
+Fei
+"Either way, we were going
+to escape via the arena, so
+it's on our way... right!?"
+
+Amazoness
+"Then that means...?"
+
+Fei
+"No problem. It's just one
+more thing to do on the way
+to getting my Gear back..."
+
+Citan
+"Leave the rest to us.
+And I would like you all to
+go to the arena tonight.
+We will leave Nortune, but
+if they think you were all
+involved with us, I do not
+know what they might do..."
+
+Battler
+"We're counting on you
+...for the Champ's sake."
+
+Amazoness
+"Sorry, we had to ask
+you to do this..."
+
+Battler
+"We really appreciate 
+what you're doing...
+Here...
+Please take this."
+
+Received 2000G!
+
+Fei
+"Hammer, you hide
+yourself somewhere.
+When we get out into the
+arena, I'm just going to
+go wild in my Gear...
+We'll play it by ear from
+there to escape from the
+Imperial capital...
+You got it, Hammer?"
+
+Hammer
+"I got you, bro!
+Show them your stuff
+for me too, bro!"
+
+Fei
+"There is still some
+time until the train
+passes by..."
+
+Citan
+"Well, if everything is
+ready then, why not
+take a light nap?"
+
+————————————————————————————
+Kislev D-Block Mess Hall - 1028
+————————————————————————————
+
+Battler 1
+There's a rumor that, behind
+the scenes, the 'Ethos' is
+actually involved with the
+'B-Info. Center'.
+Officially the 'Battling
+Committee' is run by the
+Imperial capital, but it
+too is rumored to be an 
+agent of the 'Ethos'.
+
+Of course this is all gossip!
+
+Battler 2
+It seems that after the bout,
+the former champ's Gear moved
+on it's own accord and crashed 
+right into the Kaiser's stand!
+The pilot, Rico, was not found
+within the Gear, so they put
+it down to the machine going
+out of control!
+
+Battler 3
+I am glad that that sewer
+monster affair is over.
+Now I can get back to work!
+
+Informer
+The new doctor that came
+after that lady doctor got
+put in charge of civilians,
+barely works here anymore!
+It's got to the point that
+if you get injured you have
+to buy Aquasol with your
+own money and cure yourself!
+Where did he go to?
+Oh, and don't you think he
+looks a lot like the guy
+that hangs around the Champ?
+
+————————————————————————————
+Kislev D-Block Bunk Room - 1044
+————————————————————————————
+
+...I can rest here.
+    Don't
+    Rest
+
+Citan
+"No time for that.
+We must hurry..."
+
+————————————————————————————
+
+Citan
+"Hold on, Fei.
+Are you fully prepared?
+You know there is no
+turning back now."
+
+Fei
+"Huh? Yeah, you're right."
+    Go get prepped
+    I'm ready 
+	
+————————————————————————————
+
+Citan
+"...Good.
+Shall we go?
+There is not much time."
+
+Citan
+"...There is still some
+time before the train
+arrives... Let us rest
+here for a while."
+
+————————————————————————————
+Gear Dock Raid - Kislev D-Block - 0998
+————————————————————————————
+
+Citan
+"The tower we want is
+over there.
+Hurry, Fei!"
+
+————————————————————————————
+
+Amazoness
+"...Sorry.
+I...can't go in the arena.
+No matter what you say,
+I can't.
+Well it's time...
+Tonight's train will be
+coming through here...
+I wish you success.
+Maybe...we can meet again."
+
+————————————————————————————
+
+Fei
+"Whoa!!
+What the?"
+
+————————————————————————————
+Kislev Train Tunnel - 1000
+————————————————————————————
+
+Citan
+"Whew, that was a close
+one! We almost got thrown
+off."
+
+Fei
+"It's all because of
+those mischievous punks!
+When the old man's gone
+they always do this.
+Oh well."
+
+Citan
+"Kind of odd hearing that
+from a mischievous 'you
+know who'."
+
+Fei
+"Huh? You say 
+something?"
+
+Citan
+"Well, anyway we should
+be alright if we take
+this all the way.
+As for the mission,
+so far so good."
+
+Fei
+"What's that sound?"
+
+Citan
+"The connector...!
+Fei, hurry up
+and jump off!!"
+
+Citan
+"This train is almost
+falling apart.
+That was another close one."
+
+Fei
+"What if it derails
+before we get to
+the Gear dock..."
+
+!!
+
+Citan
+"This car is unstable too.
+Let us get to the front!!"
+
+Citan
+"One disaster after
+another..."
+
+Fei
+"Pretty unreliable
+train."
+
+Citan
+"The entrance to the
+ventilation shaft
+that leads to the Gear dock
+should be
+coming up soon."
+
+Citan
+"Here we go!!"
+
+————————————————————————————
+Kislev - Underground System - 1108
+————————————————————————————
+
+Citan
+"Someone is approaching.
+We should hide."
+
+Officer 1
+Everyday work, work, work.
+Doesn't anything fun ever
+happen around here?
+
+Officer 2
+No doubt...
+That last champion looks
+like he's been matched with
+the beast.
+
+Now that's something.
+Let's get this work done
+and go check it out.
+
+Yeah. We need to do
+that, we've been workin'
+too much lately.
+
+————————————————————————————
+???
+
+It is locked.
+
+It is already unlocked.
+
+Used the Master Key.
+
+You have no key.
+
+Citan
+"There seem to be people.
+It may be best not to go
+in through here..."
+
+————————————————————————————
+Kislev Ventalation Shafts - ??? - 228
+————————————————————————————
+
+Take a peek?
+    Yes
+    No
+
+————————————————————————————
+Kislev Gear Hangar - 1106
+————————————————————————————
+
+Fei
+"!
+Hey..."
+
+————————————————————————————
+Kislev Underground - Crew Room - 1116
+————————————————————————————
+
+Fei (name missing - portrait shown???)
+"!"
+
+Officer
+Hey, make sure you
+return the Master Key back
+to the shelf.
+
+Guard 1
+Yes, sir.
+
+This should do it...
+
+Guard 2
+Heeeey, did ya'll hear?
+The battle between the
+ex-Champ and the beast
+is about to begin.
+
+Officer
+Oh, it's already
+starting. There's no way
+we can miss this.
+
+————————————————————————————
+
+ Received Master Key.
+
+Citan
+"Hey...Fei, wait a
+minute."
+
+Fei
+"What's wrong, doc?"
+
+Citan
+"This is a part that
+allows a Gear to recover
+30% of its HP. 
+If you have this equipped,
+you can activate this
+during battle. It is a
+highly useful item but
+the drawback is that you
+will use fuel, so you must
+use it with caution."
+
+Fei
+"That really doesn't
+matter unless we get
+back the Gear, doc.
+There's no one here so
+let's hurry up and get
+out of here."
+
+Citan
+"Uh, oh yes. My usual
+habit...
+Well, we should take
+it anyway since we
+have the chance."
+
+ Received Frame HP30.
+
+————————————————————————————
+Gear Dock Raid - Kislev Underground Crew Quarters - 1110
+————————————————————————————
+
+ Received Minigear.
+ 
+I forgot it...
+
+Huh!?
+
+Y, you! M, my superultra
+great delicious excellent
+dynamite bomber special
+DX beautiful wonderful
+ultimately rare buy
+complete merging
+undefeated transforming
+I was going to put in a
+glass case in my home
+priceless
+Minigear!!
+
+Thief!!
+
+————————————————————————————
+???
+
+Security has so much free
+time. You're lucky.
+
+Huh? Oh, uh, no, n,
+nothing.
+
+People always think we
+have plenty of free time.
+
+Anyway, what've you
+been doing over there?
+
+Oh...well whatever.
+
+No one is here.

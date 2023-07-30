@@ -1,0 +1,2630 @@
+————————————————————————————
+Battling Champ - Kislev Gear Paddocks - 1052
+————————————————————————————
+
+Fei
+"...Is that all?"
+
+Hammer
+"Yep.
+This is the best that can
+be obtained 'round here."
+
+Fei
+"You think I can win with
+these crude parts?"
+
+Citan
+"You have got a point.
+Compared to the Champ's
+Gear, the quality just
+does not match up."
+
+Hammer
+"There's nothing we can do.
+Master Rico's Gear is a
+special make of Gear
+provided by the Committee.
+From maintainence to parts,
+it receives the best of
+everything.
+As long as money is
+involved, the Champ will go
+all out.
+That's one of the reasons
+he's so powerful..."
+
+Fei
+"Can't we get better
+parts? This..."
+
+Hah ha ha ha ha!
+
+Mysterious Voice
+"As usual, you haven't
+learned anything have
+you?"
+
+Fei
+"Who's there!?"
+
+Wiseman
+"Long time... Fei."
+
+Fei
+"You're the one...
+from the Aveh
+tournament..."
+
+Fei
+"What do you want?
+I'm busy right now!"
+
+Wiseman
+"Hmph.
+No matter how high
+quality your Gear may
+be, you won't be able
+to defeat him."
+
+Fei
+"Wh, what're you
+talking about!?"
+
+!?
+
+Hammer
+"Yikes!?"
+
+Wiseman
+"You still do not
+understand do you? Then
+let me show you."
+
+————————————————————————————
+Ω Battle - Wiseman vs Fei - file75
+————————————————————————————
+
+Fei
+"Why do you suddenly
+want to fight for? Are
+you crazy or something?"
+
+Wiseman
+"Enough talk!
+Take this...!"
+
+Fei
+"Whoa!"
+
+Fei
+"Y, you're
+serious?"
+
+Wiseman
+"Of course!
+So put up a
+good fight!
+Cause if you
+don't your life
+is mine!"
+
+————————————————————————————
+*Battle text Wiseman vs Fei* - B09
+————————————————————————————
+
+"What a wimp!"
+
+————————————————————————————
+
+Fei
+"Ugh uhh... That's the
+same technique as me...!
+How come...?"
+
+————————————————————————————
+Kislev Gear Paddocks - 1052
+————————————————————————————
+
+Wiseman
+"Fighting brute strength
+with brute strength is a
+sign of a great fool.
+It's obvious that a lighter
+body such as yours will
+always be at a disadvantage
+in a head-on attack.
+I just gave you a good
+example. That minor
+difference between you and
+I had this outcome.
+Now, someone else with a
+mass several times as you,
+like Rico, the outcome
+becomes highly apparent.
+This applies to Gears
+as well...
+Even if you were to get
+parts comparable to
+Rico's, there is still
+that difference in mass.
+To make up for this, one
+must commit to a single
+final strike that thrusts
+at the opponent's fissure."
+
+Fei
+"...?"
+
+Wiseman
+"I have given you the
+hint.
+It's up to you to figure
+it out through experience."
+
+Fei
+"Wait! Why is it that you
+have the same fighting
+style as I!?
+And, how do you know my
+name!?
+Tell me!"
+
+Wiseman
+"Hmph...fine."
+
+Wiseman
+"It was 3 years ago...
+The one who took you, in
+your mutilated state, to
+that mountain village was
+none other than myself."
+
+Fei
+"You're the one who
+brought me to Lahan!?"
+
+Wiseman
+"...Yes.
+At your father's
+request."
+
+Fei
+"My father's...!?
+What's your relation to
+my father!?"
+
+Wiseman
+"Khan and I were
+fellow students."
+
+Fei
+"...Khan? Is that my
+father's name?"
+
+Wiseman
+"Why do you ask for your
+father's name? You
+haven't lost your...?"
+
+Fei
+"Yeah...
+So tell me anything you
+can. Will you?"
+
+Wiseman
+"I see...
+In your injured state...
+I wouldn't have been
+surprised..."
+
+Fei
+"Wiseman."
+
+Wiseman
+"...Khan Wong.
+That is your father's
+name. Since our youth,
+Khan and I studied the
+martial arts together..."
+
+Fei
+"Father and you...?"
+
+Wiseman
+"...Yes. Eventually, your
+father became an officer
+of a certain country.
+There he met a young
+woman.
+She was about 20 years old.
+Her name was 'Karen'.
+She was like a flower in
+full bloom."
+
+Fei
+"Flower...?"
+
+Citan
+"He means that she was
+extraordinarily
+beautiful."
+
+Fei
+"I, see.
+Then she's...?"
+
+Wiseman
+"Yes, your mother.
+Khan married your mother,
+and I left on a journey
+to strengthen myself."
+
+Fei
+"Then my mother?
+Where is my mother now?"
+
+Wiseman
+"You do not remember that
+either? ...I see.
+...According to Khan,
+when you were but a
+child, she passed away."
+
+Fei
+"Oh......"
+
+Wiseman
+"Time passed. During my
+journey, I received a
+letter from Khan."
+
+Wiseman
+"The letter said that,
+his son...was taken away
+by a man.
+Khan once said you had
+special powers.
+The man who wanted that
+power took you.
+That man was Grahf."
+
+Fei
+"Grahf!?
+He took me away!?"
+
+Wiseman
+"You've met him?"
+
+Fei
+"Yeah...
+three times."
+
+Wiseman
+"It's amazing you are
+still in one piece."
+
+Fei
+"It seemed to Grahf,
+that I was still not
+powerful enough to
+achieve his ultimate
+goal... Anyway, let me
+hear more about this
+story."
+
+Wiseman
+"Khan wished to go find
+his son, and if possible,
+he wanted my help..."
+
+Wiseman
+"I agreed to Khan's
+request and began
+searching for you...
+...and that man."
+
+Wiseman
+"Then came that one
+fateful night 3 years
+ago.
+There was a violent
+storm. The storm felt
+as if it was thrown at
+us through sheer rage.
+That night, Khan
+notified me that he
+had located his son.
+So I headed for that
+location, as if I was
+drawn to it."
+
+Wiseman
+"You and Khan were
+wounded badly.
+I have no idea what had
+happened between you two
+and Grahf. By then, Grahf
+had already gone.
+I don't know why, but
+probably he was driven
+away by Khan.
+Khan decided to pursue
+Grahf and left me to
+care for his son.
+I provided you with the
+necessary first aid and
+left you in the custody
+of those village people.
+Then I followed after
+Khan."
+
+Wiseman
+"You probably lost
+your memory when you
+were injured then."
+
+Fei
+"Why did my father
+pursue Grahf?"
+
+Wiseman
+"I do not even know.
+Just that he said it was
+not only for the sake of
+his son, but also for the
+sake of the world, that
+that man had to be
+disposed of...He added
+that if something were to
+happen to him, I would
+have to take care of the
+rest...I haven't seen or
+heard from him since."
+
+Fei
+"Grahf said that my
+father was dead..."
+
+Wiseman
+"Hmmm... If Grahf has
+been appearing in your
+presence... then that is
+a possibility... That is
+truly unfortunate..."
+
+Wiseman
+"Do you remember anything
+about your fighting
+techniques?"
+
+Fei
+"Huh?
+No...nothing..."
+
+Wiseman
+"Hmmm, your fighting
+skills were probably
+taught to you by Khan.
+Khan and I both studied
+under the same master.
+That is why my techniques
+are similar to yours."
+
+Wiseman
+"Well then, I must
+be off."
+
+Fei
+"To where?"
+
+Wiseman
+"I will go find him.
+I need to pinpoint what
+his intentions are."
+
+Wiseman
+"...And also, for
+Khan's sake."
+
+Fei
+"Just tell me one thing.
+What country was my
+father an officer for?"
+
+Wiseman
+"Are you going there?"
+
+Fei
+"I don't know.
+There are other things I
+have to take care of..."
+
+Wiseman
+"Yes."
+
+Wiseman
+"The floating land
+which tries to hide
+behind a wall, protected,
+as if to conceal their
+failure. That is Shevat."
+
+Wiseman
+"That is your father's
+country."
+
+Fei
+"Shevat...?
+The...floating land?"
+
+Wiseman
+"Farewell."
+
+Fei
+"Hey!"
+
+Citan
+"...What a mysterious
+person.
+Is this the second time
+you have met him?"
+
+Fei
+"Huh? ...Yeah.
+Since that tournament in
+Aveh. He sure is a
+mysterious person..."
+
+Fei
+"I probably won't
+understand straight away
+what he meant today...
+
+Hammer
+"What was all that
+about!? He disappeared
+like the w, w, wind!
+
+Hammer
+"I've only known you
+since you arrived here!
+What is this Aveh
+tournament?"
+
+Hammer
+"What is going on!!"
+
+Fei
+But I think I get the
+general idea. I might be
+able to do something in
+tomorrow's final round...
+The differences in the
+performance of the Gear
+parts are not going to
+influence the outcome...
+...Well, not as much as I
+thought before."
+
+Citan
+"Never underestimate the
+situation.
+You might lose pretty
+badly if you think you
+can just win by getting
+a grasp of the concept."
+
+Fei
+"I know, doc."
+
+Citan
+"Well, let us return to
+our quarters and rest,
+Fei...
+Your fate lies in the
+outcome of tomorrow's
+competition. You need to
+preserve your strength."
+
+————————————————————————————
+Battling Champ - Kislev - D-Block Housing - 1032
+————————————————————————————
+
+Citan
+"...
+(Finally, it is the last day
+of the Games...the finals!
+Remember what you-know-who
+taught you!)"        
+
+Citan
+"(So, be on your way... I
+must stay here but I will be
+praying for a good fight!)"
+
+————————————————————————————
+Kislev Battling Arena Front Desk - 1048
+————————————————————————————
+
+Receptionist
+"Today's the last day of the
+games...The Finals League!
+You get to challenge...
+ Ricardo Banderas !!! "
+Do you desire to enter the
+Finals League?
+    Don't enter
+    Let me at him!
+
+Receptionist
+"I have confirmed the entry
+of pilot 'Fei'. 
+One moment please..."
+
+The Gear 'Weltall'
+has been sent to
+the storage paddock.
+Standby for boarding!
+
+Pilot Fei, please proceed to
+the competitor's paddock!
+
+————————————————————————————
+Battling Arena - Weltall vs Stier
+————————————————————————————
+————————————————————————————
+Kislev Battling Arena Front Desk - 1048
+————————————————————————————
+
+Rico's Henchman
+"Hey, your machine has been
+rigged! I'm gonna tell the
+Committee on you!"
+
+Rico's Henchman
+"Yeah, he's definitely had
+his Gear equipped with parts
+that are in violation of the
+rules, or somethin'!"
+
+Rico
+"Shut up!!"
+
+Rico
+"...Don't embarrass me any
+further...
+How could such special parts
+exist in the Imperial
+capital anyway!?
+Especially since you can't
+leave the Imperial Capital 
+with these collars on!"
+
+Rico's Henchman
+"B,b,but,
+Rico...then...!?
+
+Rico
+"I thought I told you to 
+stop! ...Keep quiet!"
+
+Hammer
+"That's right!
+It's impossible!
+Bro won on his
+own strength!
+Stop trying to trump up
+false accusations!
+
+Rico's Henchman
+"Uh...bro..."
+
+Fei
+"Enough already, Hammer!"
+
+Fei
+"I won because of luck... 
+and because I had a good 
+teacher!"
+
+Fei
+"...Also the wound to your 
+arm hasn't completely healed
+yet, has it?
+If it wasn't for that wound
+I am sure you would have
+won instead..."
+
+Rico
+"Defeat is defeat... 
+My wound is no excuse. The
+Battling Champion is...you!"
+
+Fei
+"......... "
+
+Rico
+"...Well, I have something 
+I must see to. I'll be off
+now."
+
+Rico's Henchman
+"Champ! Wait up!
+Let us go with you..."
+
+Rico
+"I am no longer the champ!
+You guys will just get in my
+way! Don't follow me! OK!?"
+
+Rico's Henchman
+"In your way...? But Champ!"
+
+Rico's Henchman
+"...Ri-co--!"
+
+Hammer
+"This means I am acquitted!
+I am cleared! 
+Oh, how the free world
+outside beckons us!"
+
+————————————————————————————
+Kislev Gear Paddocks - 1052
+————————————————————————————
+
+Rico
+"...Stier. 
+This is the last...
+Hang in there with me!"
+
+Rico
+"...Get him, myself..."
+
+————————————————————————————
+Solaris Hangar Bay - 0946
+————————————————————————————
+
+Renk
+"Hey look, check 
+this out..."
+
+Stratski
+"There's only one
+control ship...
+The other 7 are all
+Ether guided.
+Just who the hell is
+controlling all them?"
+
+I never thought you'd
+be the escort commander.
+
+Elly
+"Dominia!?"
+
+Helmholz
+"...Dominia, who's that?
+Hey, not the one from
+the Elements...?"
+
+Dominia
+"It's been a long time 
+Elhaym. The last time
+was Jugend, wasn't it?"
+
+Elly
+"What are you 
+doing here?"
+
+Dominia
+"This is a vital mission,
+ordered from central.
+I already have Ramsus'
+orders. The Hecht is not
+to be piloted by a
+common soldier.
+I will take the Hecht."
+
+Dominia
+"I didn't even need an
+escort, but this was
+also part of the plan.
+This will be a
+good fight."
+
+Elly
+"Wait! Tell me what our
+target is!
+You should know."
+
+Dominia
+"That's restricted...
+but I guess I can tell.
+The electric generator
+in the eastern sector of
+Kislev's Imperial capital.
+The target is a reactor
+left there by an ancient
+civilization."
+
+Elly
+"The reactor!? If you
+attack that then Kislev
+will..."
+
+Dominia
+"Probably most of it
+will be destroyed.
+The rest will be
+uninhabitable
+for hundreds of years."
+
+Elly
+"Why are you doing this?"
+
+Dominia
+"To purge, why else?
+You may know this already,
+Kislev has the Gatekeeper.
+The original gate is
+controlled by those
+vulgar Lambs.
+This land barrier was
+made by our predecessors.
+The Lambs are trying to
+destroy the gate.
+Are you going to
+allow that?"
+
+Elly
+"That may be so...
+but do we have the right
+to get involved?"
+
+Dominia
+"Does that bother you?
+Since when did you have
+a conscience?
+War, strife, betrayal,
+deceit are all that are
+on the Lamb's minds.
+Surely you should know
+that by looking at the
+fools in this country.
+Just let them loose and
+see what they'd do.
+They would pillage and
+loot our world acting as
+if they owned it.
+Advanced knowledge or
+tools aren't necessary
+for common house pets.
+We must lead them where
+they belong."
+
+Elly
+"You were originally
+a land dweller.
+So why...?"
+
+Dominia
+"I was chosen by the
+Commander!
+Don't look at
+me the same as those
+stupid Lambs!"
+
+Dominia
+"Yes, well...
+You've shirked the duty
+that was instilled in you
+since your Jugend days.
+Arguing with you is a
+waste of time."
+
+Dominia
+"I was a surface dweller
+myself, but I'm going to
+purge the -Lambs-.
+I want you, the Shepherds,
+-Abel-, to see with your
+own eyes what I can do."
+
+————————————————————————————
+Battling Champ - Kislev - Champ's Room - 1042
+————————————————————————————
+
+Fei
+"... This room!?
+This is the Champ's...?"
+
+Rue
+"Yes, the room given to 
+the Champion... 
+Is it not to your
+satisfaction?"
+
+Fei
+"No, it's not that.
+What about Rico...?"
+
+Rue
+"... Rico?
+He's the 'ex-Champion'...
+Now you are 'the Champion'!"
+
+Fei
+"But, what happened
+to him...?"
+
+Rue
+"After the Finals League,
+during the group league
+bouts, his Gear went out
+of control.
+The out of control Gear
+crashed into the Kaiser's
+box seat, and was damaged.
+Nothing has been heard
+from the former Champion,
+Ricardo, and no one has seen
+him since the incident..."
+
+Fei
+"......"
+
+Rue
+"There are no Battling
+competitions for a while
+so you can rest up a bit.
+The explosive collar has
+been removed.
+How about taking a walk
+around 'A Block' - the
+civilian area of Nortune?"
+
+Fei
+"...'A Block'...
+civilian area?"
+
+Rue
+"The southeast part of
+the Imperial capital...
+It is called A Block or the
+ordinary civilian area..."
+
+Rue
+"Well then, we shall
+take our leave..."
+
+Rue
+"Anyway...
+This room is yours to use.
+Next door is your bedroom.
+Oh...and, Fei.
+Now you will be given the
+title of Champion as well as
+special S Rank priviledges."
+
+Rue
+"Well, congratulations
+on winning the Battling
+championship...
+We were able to take some
+very good data...
+Ha ha hm.
+One more thing, good news.
+Kaiser Sigmund would like 
+to meet you, Champion Fei.
+Please stop by the Central
+Administrative District.
+
+Rue
+"Well... good bye."
+
+Citan
+"So, you are now free in
+both name and...reality,
+right?"
+
+Hammer
+"So, what are you
+gonna do now, bro?
+Leave Nortune?"
+
+Citan
+"We are not yet finished.
+There is one thing left
+to do here."
+
+Fei
+"...I know.
+It's Weltall, right?
+We can't just leave
+it here.
+We have to get it 
+back somehow..."
+
+Citan
+"It is best if we assume
+Weltall has been moved
+to a different dock..."
+
+Citan
+"So, I guess that is
+where you come in,
+... Hammer!"
+
+Hammer
+"Got it, doctor!
+I'll find out where your
+Gear is... I'll bet my name
+as the 'Imperial capital's 
+No.1 Supplier' on it!"
+
+Fei
+"Okay then, let's
+work separately.
+I'll work by myself,
+while you, Hammer and
+doc, work together..."
+
+Hammer
+"Bro, don't you trust
+me or something?
+I work better alone!
+Nothing against Citan,
+but he'll just get in
+the way, bro."
+
+Hammer
+"So then...
+just leave it to me, OK!"
+
+Fei
+"That Hammer..."
+
+Citan
+"......
+We should make
+a move too."
+
+————————————————————————————
+Kislev Latina's Bar - 1040
+————————————————————————————
+
+Patron 1
+Hammer's gone.
+Without him around...
+you know, it's kinda
+lonely in this bar.
+
+Patron 2
+...Who were you again?
+Huh? ...Battling Champ?
+I have no interest
+in such things.
+By the way, is
+that stuff good?
+
+Freelancer
+Oh, if it isn't...you!
+Hey, aren't you the
+Battling Champ!?
+I, is there something I
+can do for you? Please
+forgive me for any
+disrespect in the past.
+Oh yeah, by the way, you
+can exchange monster items
+for prizes at the Imperial
+capital's B-Info... uh...
+What am I saying!?
+
+Latina
+"I knew your power was genuine!
+You even took out the Champ.
+It explains why I couldn't
+win against you. Figures."
+
+Latina
+"Oh, Fei, wait a sec.
+Hammer just went but he
+left a message for you.
+He wants you to meet him at
+the 'Wildcat' bar, in the
+civilian part of the city,
+once you've taken care of
+everything. You got that!?"
+
+————————————————————————————
+Kislev D-Block - 0998
+————————————————————————————
+
+Guard
+"This is the main town.
+D Block prisoners like you,
+what? You're...?
+...Excuse me!
+Please go on through."
+
+————————————————————————————
+Kislev Capital - Nortune - 0994
+————————————————————————————
+
+Imperial Guard
+"The Battling Champ. I was
+in awe when I watched
+your title match.
+Please forgive my past
+discourtesy to you. The
+single stretch of road
+going north and south
+will take you out of the
+Imperial capital. The
+middle is the Central
+District and to the
+southwest is the Imperial
+A Block."
+
+————————————————————————————
+Kislev Central District Entry - 1066
+————————————————————————————
+
+Soldier
+"This is the Kislev
+Central District.
+Only authorized perso...
+Huh? Well, if isn't the
+Battling Champ, Fei."
+
+Soldier
+"The Kaiser's waiting."
+
+Soldier
+"Please, come this way."
+
+————————————————————————————
+Kislev Central District Entry cont. - 1066
+————————————————————————————
+
+Rico
+"No one's around."
+
+Rico
+"I thought so. Security's
+been lightened to lure Fei."
+
+Rico
+"Hmm...I suppose knocking
+on the front door's out?"
+
+Rico
+"Guess I'll get in
+through that air duct up
+there."
+
+————————————————————————————
+Kislev Central District Hallway - 1068
+————————————————————————————
+
+Soldier
+"This is the Central
+District.
+The Kaiser's room is up
+this elevator and up the
+west wing stairs."
+
+————————————————————————————
+Kislev Central District Hallway - 1068
+————————————————————————————
+
+Guard 1
+This is the Kaiser's wife's
+room.
+No one's been allowed in
+ever since she disappeared.
+Please, leave.
+
+————————————————————————————
+Kaiser's Room - 1080
+————————————————————————————
+
+Elder
+"Sigmund made it this
+far on his own even after
+the loss of his wife.
+But, not a day goes by that
+he doesn't think of her.
+...It is so sad...
+...sob... sob..."
+
+————————————————————————————
+
+Sigmund
+"Who are you?"
+
+Sigmund
+"!! I see...
+So you are Fei...
+Welcome."
+
+Fei
+"You...?
+How do you know me?"
+
+Sigmund
+"Ha ha hah. Excuse me.
+I am the Kaiser of
+Kislev, Sigmund."
+
+Sigmund
+"This may sound sudden but
+would you like to join
+forces?
+I need your assistance."
+
+Rico
+"Ah!"
+
+Sigmund
+"!? Huh...?
+It's YOU! Rico!"
+
+Rico
+"Not good!"
+
+Rico
+"Coming again!
+Laaater..."
+
+Sigmund
+"...Mutant!
+Security!!
+Arrest this intruder!"
+
+Sigmund
+"He wasn't with you,
+was he?"
+
+Fei
+"Uh, no...
+We weren't..."
+
+————————————————————————————
+Kislev Central District Hallway - 1068
+————————————————————————————
+
+Rico
+"No.
+Down's not good..."
+
+Rico
+"I'll hide over
+there for now."
+
+Rico
+"Hey!
+The Kaiser's calling you."
+
+Guard 1
+What! Is that true?
+
+Guard 2
+Hey! Is it okay?
+
+Guard 1
+...Yeah
+This door won't open for
+anyone except the Kaiser
+and his wife.
+
+Rico
+"Hey, it does open."
+
+————————————————————————————
+Kislev - Rico's Mothers Room - 1078
+————————————————————————————
+
+Rico
+"Huh? What's this
+room...?"
+
+Rico
+"!?...This smell..."
+
+Rico
+"...I've seen this..."
+
+Rico
+"...When was...it..."
+
+————————————————————————————
+Battling Champ - Rico's Childhood Memories - 1064
+————————————————————————————
+
+Boy
+...ther.
+
+...other.
+
+Mother, why does Jenny
+have a father but I don't?
+
+Mother
+"Well that is, your
+father is... So...
+that's...why..."
+
+————————————————————————————
+
+Boy
+...ther.
+
+...other.
+...You have to rest.
+
+Mother
+Now listen to me! Your
+father is a great man...
+
+Someday, you'll follow
+in his footsteps...
+
+...cough..cough...
+
+Boy
+!!Mother,
+mother...
+
+————————————————————————————
+
+Boy
+...ther.
+
+...other. Mother...
+
+...I'm, different from
+the other kids.
+
+...Even my nails are long
+and look at my ears...
+
+Mother
+...!!...No no...
+It's not... like that...
+
+Boy
+...Miyo from across the road
+keeps saying I'm not human
+and that when I get older
+I'll become a demi-human.
+
+I'm...not human?
+...Then you're not my
+mother?...
+No, I don't want that...
+
+Mother
+Oh god... please...
+have mercy on this
+child...
+
+————————————————————————————
+
+Townsperson
+"...Get out!!
+Go away you mutant child"
+
+Mother
+Uuuuhhh...
+
+Cough cough...cough
+
+Boy
+!! Waaaaahh! Mother,
+mother is...
+
+————————————————————————————
+
+Mother's Voice
+Here, listen...
+carefully... from now
+on... you're going to be
+by yourself...
+
+Boy
+...Mother...
+I'm...
+
+I'm?
+
+I am...?
+ am...? (error??? text used for transition?)
+
+Rico
+"Is...that kid...me?"
+
+Rico
+"My childhood memories...
+I've forgotten..."
+
+————————————————————————————
+Kislev - Rico's Mothers Room - 1078
+————————————————————————————
+
+Rico
+"...Why, am I
+remembering this now...
+This room...?
+That faint smell..."
+
+Fei
+"Hey! You in there?
+Open it up.."
+
+Fei
+"What're you thinking,
+breaking into the Central 
+District?
+This isn't good...
+...!? What?"
+
+Rico
+"Forget about it..."
+
+Rico
+"Forget about it..."
+
+————————————————————————————
+Battling Champ - Kislev Central District Hallway - 1068
+————————————————————————————
+
+Fei
+"...!?"
+
+Sigmund
+"You...
+How did you get in here?"
+
+Rico
+"Nothing...
+I just came in through
+the entrance."
+
+Guard 1
+Ridiculous!
+It shouldn't open unless it
+scans the right DNA. It
+couldn't open that easily!
+
+Sigmund
+"...It was probably a
+malfunction."
+
+Sigmund
+"It doesn't matter...
+Arrest the intruder.
+The Battling Committee
+is after him for breaking
+his contract. Let them
+deal with him."
+
+Guard 1
+Yessir!
+
+Guard 2
+Yessir!
+
+Rico
+"Well... I'll be seein'
+ya around sometime."
+
+Sigmund
+"...No...can't
+possibly be..."
+
+Sigmund
+"That man was suspected of
+trying to assassinate me.
+The police are looking into
+the matter now.
+Well, I have some sudden
+matters to attend to, so
+if you'll excuse me.
+Please tour the district at
+your leisure. Oh, and about
+my proposition...
+I'll be awaiting a positive
+response."
+
+Sigmund
+"Good day."
+
+————————————————————————————
+Kaiser's Room - 1080
+————————————————————————————
+
+Woman
+His wife was carrying
+a child when she left.
+If it were a boy, he
+would've been the heir.
+
+————————————————————————————
+Kislev Command Center - 1076
+————————————————————————————
+
+Guard 1
+Hey! The train oughtta
+be coming 'round now.
+
+Guard 2
+Oh, Gear maintainence...?
+I quit that job.
+
+Guard 1
+Why?
+
+Guard 2
+I don't wanna go to D Block.
+I got bad memories there.
+Anyhow, they'd send me back
+if they found out I made it
+this high up.
+
+Guard 1
+Oh yeah... You were
+in D Block, right?
+
+————————————————————————————
+
+Guard 2
+Even nameless soldiers
+have lives to live.
+Remember that...
+
+————————————————————————————
+
+Captain
+"When will we be able to
+use our real power...?"
+
+Operator 1
+The 'Ethos' has been using
+a human rights movement to
+usurp political power.
+In a recent parade, there
+was an attempt on the life
+of the Kaiser.
+Fortunately, they failed,
+but we don't know when they
+might strike again...
+
+Operator 2
+Ever hear of a red Gear?
+I hear it took out a Gebler
+unit.
+If only he'd be our savior.
+
+Operator 3
+Kislev and Aveh almost had
+a truce once before.
+But the relationship 
+worsened due to Gebler.
+
+Officer
+Why do you think we have a
+bridge here? Hah hah hah?
+
+Operator 4
+The power of the 'Ethos'
+still exists as strong
+as ever in Kislev...
+But many ordinary citizens
+died trying to oppose the
+influence of the 'Ethos'.
+
+Guard 3
+A Gear decimated an elite
+unit of Gears in Lahan.
+
+Guard 4
+Actually, there was one
+survivor from Lahan.
+But he seems to be going
+through a mental breakdown.
+What happened there...?
+hat happened there...?
+
+Guard 5
+Never knowing when you may
+get a mission can drive you
+nuts.
+If I knew it was gonna be
+like this, I woulda stayed
+at the docks fixing Gears.
+
+Guard 6
+I'm going on a mission soon.
+I may not make it back, but
+I'm still ready for it.
+
+————————————————————————————
+Kislev Central District Hallway - 1068
+————————————————————————————
+
+Guard 1
+No one knows what happened
+to his wife. Even now, the
+Kaiser doesn't know.
+
+Guard 2
+The Kaiser is in this room.
+
+————————————————————————————
+
+Guard 1
+Good.
+Above us is the bridge,
+the Kaiser's room and
+other related facilities.
+
+Guard 2
+Good job.
+On the right hand side,
+you can get to the 3rd
+pathway in the basement.
+
+Guard 3
+Nice work.
+This is the tactical
+command room.
+
+————————————————————————————
+Kislev Tactical Command Room - 1070
+————————————————————————————
+
+Guard 1
+There's some suspicious
+activity in Aveh. They
+could attack anytime.
+
+Guard 2
+I saw your incredible
+Gear in sub dock!
+What's it called?
+
+Guard 3
+What is the Kaiser
+thinking? Now's the only
+chance to strike at Aveh.
+
+Guard 4
+This is the new battle
+ship, Goliath!
+With its completion,
+Aveh and Solaris will
+have to submit to us.
+
+Guard 5
+I'm doing some Gear
+maintenance today at the
+dock... But, they're
+only battle Gears.
+A lot of people go in an'
+out without authorization.
+It's good money.
+
+Guard 6
+I'm prepared to fight
+even if I'm the last one.
+
+Guard 7
+Currently, Aveh is a
+puppet government.
+Ramsus, a Gebler officer,
+is the one who holds the
+true power.
+
+Guard 8
+Aveh and some pirates 
+clashed at the border.
+Something serious happened
+there.
+
+————————————————————————————
+Kislev Capital Stairwell - 1072
+————————————————————————————
+
+Man
+Don't tell anyone I'm
+keeping a pet down here.
+I found him on the
+outskirts of Lahan on the
+verge of death.
+But, look at him now.
+
+————————————————————————————
+Kislev Capital Corridor - 1058
+————————————————————————————
+
+Guard
+Aghh...sob...uuuuhh...
+He was such a good guy...
+Who woulda ever...
+What am I supposed to say
+to his family...?
+
+Woman
+Kyaaaaaah!
+Someone catch it!
+It's tonight's dinner.
+
+————————————————————————————
+Kislev Capital Storage Area - 1062
+————————————————————————————
+
+Manager
+The crane is out of
+order. Once it starts
+moving, it won't stop
+until it hits something.
+It'll move by that
+panel to the left, but
+you'll only be able to
+move it left or right.
+
+Guard 1
+He's back, I know it.
+But his soul's not...
+or his...hands...legs...
+It's horrible...
+
+Guard 2
+Is that old man in charge
+of the railway in D Block
+still there? I owe him a
+big favor.
+
+Guard 3
+Damn, why isn't it
+moving? How am I supposed
+to get the cargo out?
+
+If we move the crane
+up here, maybe we could
+use it as a step so we
+can get in further.
+
+————————————————————————————
+Kislev Capital Kitchen - 1060
+————————————————————————————
+
+Woman 1
+So busy, busy.
+
+A war?
+It's war all the time
+in here.
+
+We're undermanned
+here.
+
+Woman 2
+Hey, do you know
+anything about the battle
+...in Lahan?
+No one's telling me
+anything...
+
+...He'll come back,
+I know he will...
+
+Little Girl
+My daddy went to war...
+I wish he'd come back.
+
+————————————————————————————
+
+I'm hungry
+
+Argh...
+
+Hey! Keep your hands
+off that food.
+
+There's nothing of any
+use...
+
+————————————————————————————
+Kislev Central District Entry - 1066
+————————————————————————————
+
+Soldier 1
+"Fei, will you be leaving?"
+
+Soldier 1
+"Come back anytime."
+
+Soldier 2
+"Come by and visit us
+anytime. We'll be waiting."
+
+————————————————————————————
+
+Citan
+"Hammer should have been
+able get that
+information by now."
+
+Citan
+"Let us go check out the
+Wildcat."
+
+————————————————————————————
+Battling Champ - Kislev A-Block - 0996
+————————————————————————————
+
+Citan
+"The meeting place was the
+'Wildcat', a bar in the 
+civilian area, was it not?
+Well then, let us go!"
+
+Hammer
+"Bro---! With these ears,
+I've picked up the latest
+information on your Gear!"
+
+Hammer
+"Hee-hee, I've pinpointed
+where your Gear is bro!"
+
+Fei
+"... Hold on a second!
+(Don't you think it's
+dangerous to talk about
+that stuff around here!)"
+
+Hammer
+"Huh?
+What's with you, bro?
+I have info on your Gea..."
+
+Hammer
+"Eeek!
+Wha, wha, what the!?"
+
+Citan
+"I will explain later!
+Just move it, O.K.!"
+
+Hammer
+"Wai, bro-! Do, doc, Cita-n?
+Where are you going?
+Hey, are you listening?"
+
+Hammer
+"Waaaaaaiiiii----t!"
+
+————————————————————————————
+
+Fei
+"It should be safe here.
+Now Hammer, tell me where 
+my Gear is."
+
+Hammer
+"As the doc predicted, bro,
+your Gear has been moved to
+another dispatchment dock."
+
+Citan
+"So, where on earth 
+is Weltall?"
+
+Hammer
+"Not 'on earth', but under
+the earth! It's in an under-
+ground dock in D Block!
+I've checked into it and 
+found out that there are
+two routes we can use to 
+sneak inside.
+The first one requires us
+to enter via the Battling
+Arena grounds.
+
+Fei
+"Well there's no way we can
+sneak in via the Battling
+Arena! What's the second?"
+
+Hammer
+"The second way is a little
+dangerous as it involves 
+the supply train tunnel.
+You have to get into the
+tunnel's ducts and follow
+them right through till
+they lead to the docks.
+But I couldn't find out
+the duct's layout...
+Sorry, bro."
+
+Fei
+"...Oh that tunnel, huh?
+Well, now that we have the
+bomb problem off of our
+necks, we might be able to
+make a go of it!"
+
+Citan
+"Yes, but we are still left
+with not knowing the times
+that the trains pass by on.
+Will a supply train pass by
+at a time that is of any
+use to us?"
+
+Fei
+"Not all of this has to be
+decided now. Let's take our
+time and plan it carefully!"
+
+Fei
+"Firstly Hammer, I'm sorry
+to put you out, but...
+Could you find out the days
+and times that the supply
+trains operate on for us
+please?"
+
+Hammer
+"I'll get right on it, bro.
+Well then, I'll be off!"
+
+Citan
+"Shall we also return
+to D Block for the 
+time being?"
+
+————————————————————————————
+Kislev A-Block - 0996
+————————————————————————————
+
+Woman
+This city's other name is
+"the town of steam" because
+steam is being blown out of
+everywhere the eye can see.
+Due to this, whenever you go
+out of your house you come
+back pitch black all over!
+It also roughens your skin!
+
+So why am I outside then?
+You shouldn't be so picky
+about such little details!
+I have my reasons!
+
+Woman with blue hair
+They say the world's a big
+place, but there's no other
+town nearly as big as our
+capital city, anywhere!
+They say there's an even
+bigger city in the skies
+above, but I ask you, who's
+ever seen a floating city?
+
+Saleswoman
+We have gathered together a
+selection of many types of
+accessories to protect you
+from all sorts of damage!
+
+————————————————————————————
+Kislev A-Block - Shop - 1018
+————————————————————————————
+
+Man
+...A decent selection.
+Oh yes, the accessories
+are all treasures, so
+buying them's no loss.
+But remember, I don't work
+for the store though.
+
+Woman
+He's travelled various
+countries looking for his
+ideal weapon. I'm
+just a woman attracted by
+his ardor... He said
+he'd continue on until he
+found this weapon. His
+journey may never end.
+
+We've travelled through
+most of Ignas... When
+will he ever look at me,
+and not these weapons...?
+
+Man
+All these weapons,and none
+that fit me.Guns are too
+dangerous,and swords are
+heavy and bulky...
+
+Sigh...isn't there a
+weapon that's safe, light
+and easy to use?
+
+This is it,...
+the ideal weapon.
+
+Shopkeeper
+All you need to protect
+yourself from various
+status effects, is right
+here in my shop!
+
+Please come again.
+
+————————————————————————————
+Kislev A-Block - 0996
+————————————————————————————
+
+Little Girl 1
+Children should play outside
+for their own health. That's
+common thinking... right!?
+But in this town, covered in
+dirty steam, it's probably
+not that good for us...
+
+Little Girl 2
+You know, my big sister has
+a friend called a 'fiance'!
+He didn't have any hair,
+but he was sooo kind!
+
+Fei
+"...A fiance?
+With no hair...? Hmm. Where
+have I heard that before?"
+
+Little Girl 2
+Our house is just over there!
+
+————————————————————————————
+Kislev A-Block Home - 1022
+————————————————————————————
+
+Grandmother
+This war will never end.
+... Before I die, I
+want to see the face of my
+grandchild.
+
+Woman
+The war will end, grandma.
+It's almost over... So
+don't say 'before I die'.'
+
+When the war is over,
+he'll come back... He
+didn't leave because he
+couldn't bear the war.
+I know...he'll be back.
+
+Little Girl
+'W-a-r'. I'm not really
+sure what it means, but I
+think it's just beating the
+enemy, right?
+
+————————————————————————————
+???
+
+My daughter was engaged to
+a man, but he left the
+Empire because he couldn't
+stand this long war.
+
+A portrait......
+...? I've seen that face
+before.
+
+————————————————————————————
+Kislev A-Block Wildcat Bar - 1016
+————————————————————————————
+
+Soldier 1
+So... cute.
+Kniqupnii. It's too much
+for me!
+
+Don't you think so?
+
+Oooooh...too cute.
+
+Battler 1
+I heard there was a
+title match. Man, I
+could've shown off my
+graceful Gear fighting
+and take down the
+infamous Champ but...
+
+Waiter
+Uh, excuse me. Could
+you please move? You're
+in the waaaay.
+
+Battler 1
+When I reached the
+Empire, the tournament
+was already over.
+It seems I arrived after
+the infamous Champ was 
+already taken down
+...oouuhh.
+
+Guard 1
+After being a mercenary
+for Aveh, I was going
+to make money at the
+Imperial Battling...
+But the Battling's been
+stopped for now.
+
+...It's too bad for me.
+
+Soldier 2
+If the enemy capital is called
+the 'Desert Fortress'...
+then our Imperial capital,
+Nortune, would be the
+'Fortress of Steam and Steel'.
+
+Mole
+That sounds...pretty
+impressive...boss.
+
+B, boss... I, my
+heart...P, pp, please
+listen.
+
+I see, this is a
+surprise...It's that...
+You've fallen in love
+with someone haven't you?
+
+Soldier 2
+...I'll permit it!!
+Do whatever you have to
+do.
+
+Mole
+Wh, whatever...I have
+to do? Right now, I don't
+think I could...
+
+Soldier 2
+...Okay I will. We'll
+take it long, slow and
+imminently...right?
+
+Mole
+Yes...sir.
+
+Dragon
+Hunh? Who are youuu?
+Me? I'm child of the
+dragon tribe. In the
+dragon tribe, when you
+get older, you become
+something incredible!
+
+Of course you know
+that though!
+
+Bartender
+Welcome to the 'Wildcat'.
+Make yerself comfortable.
+And leave the cat alone!
+
+Waiter
+I'm trying to work,
+could you get out of the
+way? By the way,
+I'm tired of that kind
+of stuff.
+
+————————————————————————————
+
+...A jukebox. There's
+only one disk...
+
+See if it works?
+    Don't
+    Listen
+
+The disk seems broken
+
+Bartender
+Ya know, that disk is
+broken. The box itself
+is as good as new. All we
+need is a new disk so we
+can listen to it...
+
+————————————————————————————
+Kislev Capital A-Block - 0996
+————————————————————————————
+
+Guard
+Because of the long balance
+in power, I let myself get
+out of shape...
+So now I am trying to build
+up my physique by running 
+around in circles.
+
+But 
+...it feels a little futile.
+
+Imperial City Guard
+"This is the Kislev Imperial
+capital barracks.
+Entrance without permission
+is prohib...
+Hey aren't you the Battling
+Champion? Permission?
+Why, you don't need that!
+You're the Champ!"
+
+Imperial City Guard
+"Well then, please do enter."
+
+————————————————————————————
+Kislev Imperial Capital Barracks - 1010
+————————————————————————————
+
+Assistant Cook
+Argh! I failed again.
+Hmmm, there's just
+something not right with
+the special sauce.
+Ether cuisine has a lot
+of depth to it.
+
+Failure is an important
+step to my path to success!
+It's my dream to become
+just like that first Ether
+cook over in D Block.
+
+Army Cook
+"I'm the cook for the
+Imperial barracks.
+I can get in trouble for
+having you guys in here.
+If you have no business
+here, please leave.
+Moreover, you aren't
+even soldiers.
+I thought that I told
+them strictly not to
+allow civilians in.
+Man...what am I going
+to do."
+
+Soldier 1
+I'm a new recruit for the
+Kislev military. I just
+graduated from the Imperial
+officer school as an elite!
+So, why did they put me in
+A Block working under the
+chief cook?
+
+Battler Soldier
+"The lecture's about to begin.
+Although it's short, it's such
+a bother. Please don't talk
+to me right now."
+
+Lecturer
+For today's lecture we will
+discuss the movement of
+Gears on the world map.
+I understand that most of
+you are ex-Battlers and are
+well acquainted with Gears,
+but it should be no loss for
+you to re-learn the basics.
+First, the limits to the
+area of movement of Gears...
+It is impossible to walk
+through dense forests in
+a Gear!
+Instead of being hasty, just
+press the L2 and R2 buttons
+simultaneously and you will
+all get off your Gears.
+Once you pass through the
+forest, you may once again
+get on your Gears! That is
+all for this lecture...
+Any questions?
+
+...If there are no
+questions, class is
+dismissed. Oh yes, I
+forgot one thing...
+This is common sense,
+but movement over
+water is not possible.
+
+Amazon Soldier
+"Argh, this sucks. He
+thinks it's a lecture but
+all he does is say the
+same thing everyday.
+Compared to this, I was
+fighting a lot more in my
+Battling days.
+Now that was living.
+Maybe I should quit the
+military..."
+
+Lecturer
+Whew, it was another
+wonderful lecture today.
+I'm even awed at myself.
+...I'm sure looking
+forward to tomorrow's 
+lecture.
+
+Battler
+Just a while ago I was
+pretty active in the
+Battling tournament.
+Then those people from the
+committee scouted me out.
+Heh, it's good to be a
+soldier.
+
+Soldier 2
+In the northern part of the
+capital, in the industrial
+block lies a relic from an
+ancient civilization...
+a giant 'reactor'.
+That reactor produces power
+beyond our ability to control.
+It's something man will
+never be able to wield...
+
+Soldier 3
+There's been some
+information that
+suggests Aveh is doing
+something suspicious.
+This balance we've 
+had with them isn't
+going to last...
+
+————————————————————————————
+Kislev A-Block Wildcat Bar Room - 1012
+————————————————————————————
+
+Soldier 1
+Now we're training
+for the Kaiser Sigmund
+defense parade...
+and...hey, who're you?
+There are a lot of high
+officials in this room,
+we want to impress them
+and get promotions.
+So beat it.
+
+Now, start again!
+Hey, out of the way!
+
+Officer
+Hmm, that young one
+over there...
+It's a shame to keep him
+a private...
+But, that one over there's
+been sitting there all
+this time. Who is he?
+
+Soldier 2
+Hmm, no matter how much
+I sleep, it's not enough.
+I still feel weak...
+The more I sleep the more
+lethargic I get.
+They say sleep makes strong
+children...is that true?
+
+————————————————————————————
+???
+
+Uuuh, now I can't fall
+asleep... I keep
+thinking Aveh might attack
+any minute now I can't get
+to sleep...
+Ahh,I hope this war
+ends soon.
+
+Well,they liked me
+fairly well, but
+the officer pressing for
+my promotion died in the
+last air assault. 
+
+That opportunity was
+right in front of me.
+...Life is harsh. At this
+rate, they're going to
+send me out to the battle
+field.
+
+————————————————————————————
+Kislev Imperial Capital Barracks Room - 1014
+————————————————————————————
+
+Soldier
+Damn! Why's his rank higher
+than mine, just because
+he's good at Gear combat?
+I'm still his senior.
+
+...Life isn't fair.
+What's so great about
+Battlers!? Dammit!
+
+Amazoness
+Probably doesn't want
+to lose to anyone else.
+Well, it doesn't matter
+to me. If you keep taking
+those people seriously
+everytime, it's not going
+to be worth it...
+
+Battler
+He's got too much pride.
+It's not like we've ever
+been overly proud of him.
+
+————————————————————————————
+Kislev A-Block - 0996
+————————————————————————————
+
+Man
+What's with you, huh?
+I'm just passing by...O.K.
+So don't bother me. See ya!
+
+————————————————————————————
+Kislev A-Block House - 1006
+————————————————————————————
+
+Woman
+Hey, wait a minute!
+Where did you......
+
+Uh, huh?
+You're the one from
+D Block......
+
+Fei
+"...?
+Do you know me?
+
+Citan
+"Fei, you did not...
+with this woman while
+I was gone?"
+
+Fei
+"Wa, wait a minute,
+doc!? I didn't do..."
+
+Woman
+Heh, haha.
+You probably can't tell
+by the way I'm dressed.
+
+Fei
+"???"
+
+Woman
+Come on, it's me, the
+doctor from D Block.
+Don't you remember?"
+
+Fei
+"...!? You, the one from
+D Block!"
+
+Woman
+Yeah, now you remember.
+Long time no see. Oh,
+you got that collar off?
+
+Citan
+"Yes, he became the
+Battling Champ.
+He is no longer a
+prisoner."
+
+Woman
+Then you're the Battling
+Champ? Wow! That's great!
+I knew you were strong.
+
+And you might be?
+
+Citan
+"Oh, excuse me, we have
+never met.
+I am Citan Uzuki. 
+You could say that I 
+am his guardian."
+
+Fei
+"G, guardian...?"
+
+Citan
+"Presently, I am the
+doctor in the imperial
+D Block..."
+
+Woman
+!?
+
+Hold on!! Why is the (???Text gets cut off)
+D Block doctor here?
+
+Citan
+"Huh? Uh, well...
+that is..."
+
+Sigh, what's going to
+happen if someone gets
+injured now!? Who's going
+to look at the injury?
+Don't you feel an
+obligation as a doctor
+to...Dr. Uzuki, don't
+you have any
+responsibility!?
+
+Citan
+"I, I am extremely
+sorry."
+
+Fei
+"...Uhmm, mind if I
+interrupt?"
+
+Woman
+What?
+
+Fei
+"You're the doctor in
+charge here?
+That's what I heard from
+Hammer."
+
+Woman
+Aaahh, that.
+Following the request of
+the empire, I agreed to
+be in charge of this part
+of the city, but now
+they're telling me they
+already have enough
+doctors...
+
+Who do they think they
+are? So, for now, I'm
+just on standby. As long
+as nothing really big
+happens, I think I'm
+going to be here for
+quite a while...
+
+Fei
+"...I know I'm in no
+position to ask you, but
+do you think you could
+return to D Block?"
+
+Woman
+Isn't Dr. Uzuki in
+charge of D Block?
+I can't just do that.
+
+Fei
+"Well it's about that.
+...We're leaving the
+capital soon.
+Of course
+doc will be with us.
+So...it would be good if
+you could take care of
+D Block."
+
+Woman
+I see you've got your
+own problems... Okay,
+leave D Block to me. And
+also, if you have any
+other problems, come to
+me. I'll try to help in
+any way I can."
+
+Citan
+"I am sorry about this.
+Please take care of
+everyone."
+
+Fei
+"Thanks, I owe you one."
+
+————————————————————————————
+
+Nun
+Hang in there.
+
+Woman
+I too had been thinking of
+leaving from the Imperial
+capital...
+But then I came to think
+that if I try harder things
+will get better......
+You too try your hardest, OK!
+
+————————————————————————————
+
+Woman
+Oh, yes. Next time,
+please knock! Then I will
+open the door for you.
+If you come through the
+toilet............
+ya...you know! It might
+be at the wrong time.
+
+Fei
+"......Uh, yeah. You're
+right... I understand.
+And, how many knocks?"
+
+Woman
+Hmmm, let's say......
+'2, 1, 2'... Would 
+that be okay?
+
+Fei
+"Got it.
+2, 1, 2... right?"
+
+Woman
+Uh huh, yes.
+Well then, good luck.
