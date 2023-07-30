@@ -94,6 +94,8 @@ And it's all thanks to our
 village chief, Lee.
 My, should you be grateful!"
 
+————————————————————————————
+
 Maid
 "It's alright for you to
 like painting and all...
@@ -190,7 +192,7 @@ looking forward to the
 ceremony tomorrow."
 
 Dan
-"So there you are! 
+"So there you are!
 Fei, I have to talk to
 you about something!"
 
@@ -259,6 +261,8 @@ Hah!
 That part isn't going
 to be no honeymoon!"
 
+————————————————————————————
+
 Chief Lee
 "Oh, it's you, Fei.
 We're in the middle
@@ -287,6 +291,8 @@ Now, we still have
 important things to
 discuss... so don't
 get in the way now."
+
+————————————————————————————
 
 Chief Lee
 "We still have many
@@ -331,6 +337,14 @@ dearly about you!
 Please, never do anything that
 would break his poor old heart!
 You promise me that, Fei!?
+
+Timothy
+"Could you go check up
+on Alice for me...?
+The old man and I have
+still got to discuss
+things with her uncle
+and the village chief."
 
 ————————————————————————————
 -AFTER- After visiting Alice
@@ -416,6 +430,13 @@ go that far to help me...
 Fei, you're a good guy!"
 
 ————————————————————————————
+
+Dan
+"Well, the least we can
+do is pray for Alice's
+happiness, hey Fei!"
+
+————————————————————————————
 -OPTION 2-
 
 Fei
@@ -438,32 +459,13 @@ me!"
 
 ————————————————————————————
 
-"Timothy is a balding
-headed fool! And his dad
-is bald and stupid too!"
+Dan
+"So Fei, you up to it?
+C'mon, let's do it!
+    Let's do it!!
+    Quit bein' foolish
 
-"Mountain path ahead!
-Beware of the HP
-gobbling hob-gobs!!
-Those wishing to see the
-doctor on the mountain top
-should proceed with courage
-and conviction."
-
-"Alice and Fei
-are in looove!!"
-
-"From all the cool
-people of Lahan...
-  Buon giorno!"
-
-"- The Laughing Fox  
-   & Piglet Tavern - 
-   Drunks welcome!  "
-
-" - Lahan's General Store - 
-    You want it?
-    We've got it...(maybe)! "
+————————————————————————————
 
 Fei
 "Phew!
@@ -472,112 +474,40 @@ This well is dangerous...
 Perhaps it's better if I
 don't go near it again."
 
+'Well' done!
+You found a
+weird item!!
+
+————————————————————————————
+
+'All's well that ends well!'
+You found an Aquasol S!!
+
+————————————————————————————
+
+'Well, well, well!'
+You found a Power Ring!!
+
+————————————————————————————
+
 Received a chill from the
 depths of the cistern!
 Oh 'well'...!
 
-'High' there Fei!
-Did you know that beyond
-that black forest lies the
-great kingdom of Aveh?
-It's got a big capital
-city with lots of people
-living there.
-My father is working
-somewhere in Aveh.
+————————————————————————————
 
-Soon, my father is going
-to come pick mother and
-me up so that we can all
-live together in Aveh.
+Man walking with dog
+Yo, Fei!
+Alice has sure
+gotten pretty, huh!
+Come to think of it...
+Alice, Timothy and you
+were always together.
+I bet you also had a
+crush on Alice too, eh?
+Am I right? Hahahaha!
 
-Oh, father!
-Please come home soon...
-
-Hey hey, Fei!
-Let's go catch some
-scampi again sometime!
-
-I'm gonna get you!
-
-Hey hey, Fei!
-Help me find another
-elephantsparrow's
-nest sometime, okay!!?
-
-Run away!
-
-Hey, Fei. Next time,
-teach me more of your
-kung fu stuff.
-
-I'm gonna get you!
-
-Hey, Fei!
-Let's go tease
-the girls again!
-
-Run away!
-
-Birds are great...
-They can fly so high in
-the sky and go wherever
-they want to...
-
-You know Fei... Mom
-was saying that you
-might have come from
-a far away place...
-
-If you were a bird,
-you could fly back
-to your real home
-anytime you wanted.
-
-That Dan...!
-When will he ever grow up!?
-
-Small Girl
-Oh, Fei!
-Maybe you can help...
-Have you seen Dan?
-
-Fei
-"Oh, he's just hanging
-about over there...
-He's thinking about his
-sister's marriage and
-doesn't seem to be able
-to calm down.
-He likes to talk and act
-big, but he really is
-still just a kid...
-It's kinda cute, huh?"
-
-Small Girl
-Oh really?
-I'm a little suspicious
-though...
-Alice was saying she needed
-him for something...
-I bet he's avoiding me...
-
-Small Girl
-Alice was saying she needed
-him for something...
-How could a brat like
-him possibly be related
-to Alice?
-Oh, brother...!
-
-You're right! I've got my
-whole life ahead of me!
-I've got to strive harder
-to fulfil my goals in life.
-
-Sigh... The never ending
-hardships of a woman.
-
+Woman with cow
 Alice and Timothy's
 wedding tommorow is
 the talk of the town.
@@ -601,12 +531,22 @@ an ever-changing life...
 
 Heh... It's weird, isn't it?
     Yeah, that is weird!
-    No, of course not! 
+    No, of course not!
 
 Ooooooh! You think so?
 Maybe I need to rethink
 this...
 
+————————————————————————————
+
+Woman with cow
+Sigh... The never ending
+hardships of a woman.
+
+————————————————————————————
+-OPTION 2-
+
+Woman with cow
 Really? Do you mean it?
 Hah, I knew you'd say
 that for me, Fei.
@@ -618,6 +558,21 @@ Try it out sometime!
 Received Aquasol, the
 choice of all bearcows.
 
+————————————————————————————
+
+Woman with cow
+You're right! I've got my
+whole life ahead of me!
+I've got to strive harder
+to fulfil my goals in life.
+
+————————————————————————————
+
+Little Girl browsing vegetables
+Hey! Stop pushing!
+What are you...some
+kind of pervert!?
+
 Hello, Fei.
 Tomorrow is Alice and
 Timothy's big day.
@@ -628,9 +583,123 @@ Ahh... I hope a
 handsome prince comes
 into my life soon.
 
-Hey! Stop pushing!
-What are you...some
-kind of pervert!?
+————————————————————————————
+-BEFORE- Talking to Dan
+
+Small Girl
+Oh, Fei!
+Maybe you can help...
+Have you seen Dan?
+
+Fei
+"He's probably around here
+somewhere... getting up
+to his usual mischief!"
+
+Small Girl
+Alice was saying she needed
+him for something...
+How could a brat like
+him possibly be related
+to Alice?
+Oh, brother...!
+
+————————————————————————————
+-AFTER- Talking to Dan
+
+Fei
+"Oh, he's just hanging
+about over there...
+He's thinking about his
+sister's marriage and
+doesn't seem to be able
+to calm down.
+He likes to talk and act
+big, but he really is
+still just a kid...
+It's kinda cute, huh?"
+
+Small Girl
+Oh really?
+I'm a little suspicious
+though...
+Alice was saying she needed
+him for something...
+I bet he's avoiding me...
+
+————————————————————————————
+
+Small Girl
+That Dan...!
+When will he ever grow up!?
+
+————————————————————————————
+
+Girl running
+Hey hey, Fei!
+Help me find another
+elephantsparrow's
+nest sometime, okay!!?
+
+Run away!
+
+————————————————————————————
+
+Boy chasing
+Hey, Fei. Next time,
+teach me more of your
+kung fu stuff.
+
+I'm gonna get you!
+
+————————————————————————————
+
+Boy on top of Chief's house
+Birds are great...
+They can fly so high in
+the sky and go wherever
+they want to...
+
+You know Fei... Mom
+was saying that you
+might have come from
+a far away place...
+
+If you were a bird,
+you could fly back
+to your real home
+anytime you wanted.
+
+————————————————————————————
+
+Girl on bar roof
+'High' there Fei!
+Did you know that beyond
+that black forest lies the
+great kingdom of Aveh?
+It's got a big capital
+city with lots of people
+living there.
+My father is working
+somewhere in Aveh.
+
+Soon, my father is going
+to come pick mother and
+me up so that we can all
+live together in Aveh.
+
+Oh, father!
+Please come home soon...
+
+————————————————————————————
+
+Hey hey, Fei!
+Let's go catch some
+scampi again sometime!
+
+Hey, Fei!
+Let's go tease
+the girls again!
 
 That doctor is weird!
 Why would anyone want to
@@ -643,6 +712,9 @@ with the doctor. Why
 don't you ask him to move
 closer to the village!
 
+————————————————————————————
+
+Man in blue
 Lately, my legs have
 gotten weaker...
 It's causing me a great
@@ -656,6 +728,7 @@ to go up that mountain path
 to visit the doctor.
 I must be getting old...
 
+Woman in blue next to him
 That doctor's eccentric!
 Why else would anyone
 live up on a mountain
@@ -667,18 +740,9 @@ with the doctor...
 Ask him to move closer
 to our village for us!
 
-Lately, my legs have been
-giving me trouble.
-It's really getting to me!
-I would like to go and have
-Doctor Citan Uzuki take a
-look at them and tell me
-what's wrong...
-But it's a dreadful chore
-to climb that mountain path
-to visit the doctor.
-It must be a sign of my age.
+————————————————————————————
 
+Little Boy Blue
 Uuh... Sob...
 How could Alice go and get
 married...and to that
@@ -693,9 +757,14 @@ AAAAAARRRRRGGGGHHH!!
 Sob... Life...
 can be so unfair...
 
+————————————————————————————
+
 Uh... Sob...
 Woe is me...!
 
+————————————————————————————
+
+Old Man
 Zzzzzz, snore...
 
 Uh, uhn...?
@@ -709,18 +778,23 @@ At this rate, I'll
 probably live to be
 a hundred! Hahahah!
 
+————————————————————————————
+
+Old Man
 No, no!
 Don't waste perfectly
 good food like that!
 
+————————————————————————————
+
+Old Man
 Fei!!
 I thought I told you
 not to step on my food!
 
-You know you won't come out
-in one piece if you try and
-pull anything on the bride!
+————————————————————————————
 
+Woman in blue dress
 Welcome to the village
 of Lah...
 Oh, it's you, Fei!?
@@ -748,16 +822,9 @@ memory returns to you...
 And don't you worry!
 I'm sure it will!
 
-Yo, Fei!
-Alice has sure
-gotten pretty, huh!
-Come to think of it...
-Alice, Timothy and you
-were always together.
-I bet you also had a
-crush on Alice too, eh?
-Am I right? Hahahaha!
+————————————————————————————
 
+Woman hanging clothes
 Oh, hello there, Fei.
 Come to think of it,
 it's already been quite
@@ -774,6 +841,9 @@ Oh, I'm sorry.
 I'm being rude...
 Please don't take it
 the wrong way.
+
+————————————————————————————
+???
 
 Sorry.
 That's all the
@@ -821,6 +891,9 @@ Applelily... radish...
 Hmmm, they all seem
 good...
 
+————————————————————————————
+
+Little Girl w/ pink shirt
 This is the village
 consultant's house.
 He can teach you
@@ -830,10 +903,63 @@ of our village, it might
 be wise to stop by here
 for some advice first.
 
-————————————————————————————
-Lahan Village - Village Consultant's House - Lucca - 0616 - 005
+Woman in green
+This is the general store.
+Although they don't have
+much of a selection...
+But then again, we're out
+in the country... so we
+can't complain (too much).
+
+-SIGNS-
+
 ————————————————————————————
 
+-FRONT-
+
+"From all the cool
+people of Lahan...
+  Buon giorno!"
+
+————————————————————————————
+-BACK-
+
+"Alice and Fei
+are in looove!!"
+
+————————————————————————————
+-FRONT-
+
+"Mountain path ahead!
+Beware of the HP
+gobbling hob-gobs!!
+Those wishing to see the
+doctor on the mountain top
+should proceed with courage
+and conviction."
+
+————————————————————————————
+-BACK-
+
+"Timothy is a balding
+headed fool! And his dad
+is bald and stupid too!"
+
+————————————————————————————
+
+"- The Laughing Fox  
+   & Piglet Tavern - 
+   Drunks welcome!  "
+
+" - Lahan's General Store - 
+    You want it?
+    We've got it...(maybe)! "
+
+————————————————————————————
+Lahan Village - Village Consultant's House - 0616 - 005
+————————————————————————————
+
+Village Consultant
 Good day. 
 I'm the village consultant.
 (But to tell you the truth,
@@ -892,6 +1018,9 @@ wraps it up. Please come
 back again whenever you
 need my services.
 
+————————————————————————————
+
+Village Consultant
 Oh I see, I see. You wish
 to inquire about Defense? 
 Well allow me to begin...
@@ -915,6 +1044,9 @@ other questions, please
 feel free to stop by any
 time now, you hear!?
 
+————————————————————————————
+
+Village Consultant
 Aha! I knew you were going
 to ask me about them! 
 Well then, allow me to
@@ -952,6 +1084,9 @@ nutshell. Oh, and don't
 hesitate to ask if you
 have any other queries!
 
+————————————————————————————
+
+Village Consultant
 My, you are bold!
 Okay then, allow me to
 explain to you a little
@@ -991,6 +1126,9 @@ to say about that, really.
 Please come by again when
 you're in need of advice.
 
+————————————————————————————
+
+Village Consultant
 Ooooh! The 'Combo' option,
 eh? I didn't expect you to
 ask about it! Well then,
@@ -1031,18 +1169,16 @@ So, if you need any
 other advice, you
 know where I am!
 
+————————————————————————————
+
+Village Consultant
 I see. Well anyway...
 feel free to ask me
 anything, anytime!
 
-Ahem!
-AHEM!
+————————————————————————————
 
-So as not to bother other
-clients, please keep all
-personal conversations
-down to a minimum!
-
+Fight Trainer
 When it comes to fighting
 techniques, I tend to be
 extremely fussy!
@@ -1076,6 +1212,20 @@ to more powerful abilities.
 Hmm. I see a lot of
 potential in you.
 
+Here you go...
+This is an allowance for
+being such an enthusiastic
+scholar! Hah hah hah!
+
+Received 80G!
+
+Buy some pencils and
+books with that, OK!? 
+Stick with it, kid!
+
+————————————————————————————
+
+Fight Trainer
 Good, good.
 Ask away young'un!
 
@@ -1114,6 +1264,9 @@ to go out there now and start
 learning those 'Deathblow
 Skills' as soon as possible!?
 
+————————————————————————————
+
+Fight Trainer
 Alright, here we go!
 More about Deathblows
 and their relation to
@@ -1160,28 +1313,17 @@ If you keep up in your
 studies, you're bound
 to go far!
 
-Here you go...
-This is an allowance for
-being such an enthusiastic
-scholar! Hah hah hah!
+————————————————————————————
 
-Received 80G!
-
-Buy some pencils and
-books with that, OK!? 
-Stick with it, kid!
-
+Fight Trainer
 Oh well... You can never
 be too old to study. There
 are mountains of things to
 learn out there, young'un!
 
-Lucca
-Don't tell me!
-It's about the
-'Memory Cube',
-right?
+————————————————————————————
 
+Lucca
 Oh good, good!
 You're lucky, you came
 just at the right time...
@@ -1276,6 +1418,8 @@ explanation 120%, right!?
 Hooh-ho-ho!
 I'm such a genius!!
 
+————————————————————————————
+
 And now, about the
 explanation fee...
 Ha-haa! Just kidding...
@@ -1288,6 +1432,8 @@ have that one for free!
 
 And you owe me 28G!
 Don't forget that, okay!?
+
+————————————————————————————
 
 Alright, now for the
 explanation fee...
@@ -1304,6 +1450,8 @@ Had 28G taken from you!
 Yes, thank you so much...
 No receipts given though!
 
+————————————————————————————
+
 What the...!?
 You don't even have 28G?
 I guess I have no choice...
@@ -1313,6 +1461,9 @@ me 28G! You got that, Fei?
 
 Owe Lucca 28G!
 
+————————————————————————————
+
+Lucca
 What!?
 You won't hear what I
 have to say!
@@ -1328,6 +1479,9 @@ Oh, what a waste! Well...
 don't come crying to me
 when you run into trouble.
 
+————————————————————————————
+
+Lucca
 What!?
 You won't hear what I
 have to say!
@@ -1351,6 +1505,23 @@ get off so easily if you're
 trying to get out of paying
 your debt. You got that!?
 
+————————————————————————————
+-AFTER- Talking to her the 1st time
+
+Lucca
+Don't tell me!
+It's about the
+'Memory Cube',
+right?
+
+How about it then?
+Want to hear me out?
+    Yeah, okay!
+    No, not really!
+
+————————————————————————————
+
+Woman
 Did you know that you can
 spin the world around with
 the L1 and R1 buttons!?
@@ -1367,6 +1538,9 @@ rush, is there? Nor do you
 have to explore the world
 using someone else's maps!
 
+————————————————————————————
+
+Woman
 I come here often to talk
 to the village consultant.
 He usually gives good advice.
@@ -1377,6 +1551,16 @@ Just recently, he mixed-up
 the love potion with the
 balding potion...
 
+Village Consultant
+Ahem!
+AHEM!
+
+So as not to bother other
+clients, please keep all
+personal conversations
+down to a minimum!
+
+Woman
 Hehe... Yes, sir!
 Whatever you say!
 
@@ -1384,20 +1568,10 @@ We'll have to continue
 this conversation later!
 
 ————————————————————————————
-Lahan Village - 0618 - 001
-————————————————————————————
-
-This is the general store.
-Although they don't have
-much of a selection...
-But then again, we're out
-in the country... so we
-can't complain (too much).
-
-————————————————————————————
 Lahan Village - Shop - 0618 - 006
 ————————————————————————————
 
+Little Girl running shop
 Oh, hi Fei!
 Welcome!
 The big day's finally
@@ -1413,12 +1587,21 @@ get'em a present here!
 We're the only shop
 in town, you know!?
 
+Thanks again.
+Come by anytime!
+
+————————————————————————————
+
+Little Girl running shop
 Hello and welcome again!
 Was there anything else?
 
 Thanks again.
 Come by anytime!
 
+————————————————————————————
+
+Little Girl with cat
 Just becawse Awice is
 getting mawwied doesn't
 mean you have to be sad.
@@ -1437,14 +1620,20 @@ It's all set then...!
 Our bwurning love has been
 tied by unbweakable bonds!
 
+————————————————————————————
+
+Tee-hee...
+Dwon't fworget our
+pwomise, Fwei.
+
+————————————————————————————
+
 So you dwon't care what
 happens to me, Fwei...
 You're so cowld-hearted!
 Dwon't tawlk to me! Hmph!
 
-Tee-hee...
-Dwon't fworget our
-pwomise, Fwei.
+————————————————————————————
 
 I dwon't wike you!
 Go away, Fwei!
@@ -1452,12 +1641,6 @@ Go away, Fwei!
 ————————————————————————————
 Lahan Village - RPS Guy's House - 0620 - 007
 ————————————————————————————
-
-Rock!!
-
-Scissors!!
-
-Paper!!
 
 Wife
 Sigh... 
@@ -1479,23 +1662,15 @@ rock-paper-scissors?
 It's 50G per challenge.
     Let's do it!
     No thanks!
+	
+————————————————————————————
 
 What the...?
 Ya don't even have 50G!
 Come back and talk to me
 when ya have money, OK!
 
-Argh... I can't afford
-to lose the next turn.
-This time I'm getting
-serious... Ready?
-
-Tisk... Lost three times
-in a row! Not bad, Fei.
-But, it's not over yet.
-
-We're just getting started!
-Are you ready to 'rock'!?
+————————————————————————————
 
 Yeah, that's the way, Fei!
 If ya manage to beat me 5
@@ -1512,22 +1687,26 @@ Here we go!
 One, two...
     Rock
     Scissors
-    Paper 
+    Paper
 
+————————————————————————————
+
+Fei
+Rock!!
+
+Husband
 Rock!!
 
 Whoa, you did rock too!?
 Not bad! Not bad!
 Let's do it again...
 
-Scissors!!
+————————————————————————————
 
-Aww no, rock!?
+Fei
+Rock!!
 
-Darn, you got me!
-I can't believe this!
-Aarrgh...!!
-
+Husband
 Paper!!
 
 Rock!?
@@ -1538,6 +1717,55 @@ Are you serious?
 Yesss! I win!!
 Ah-hahaha...!!
 
+Lost 50G.
+
+————————————————————————————
+
+Fei
+Rock!!
+
+Husband
+Scissors!!
+
+Aww no, rock!?
+
+Darn, you got me!
+I can't believe this!
+Aarrgh...!!
+
+Received 50G.
+
+————————————————————————————
+
+Husband
+We're just getting started!
+Are you ready to 'rock'!?
+
+Here we go!
+
+One, two...
+    Rock
+    Scissors
+    Paper
+
+————————————————————————————
+
+Fei
+Scissors!!
+
+Husband
+Scissors!!
+
+Hey, you did scissors too, huh?
+Hmmm... So that's how you play?
+Anyway, here we go again...
+
+————————————————————————————
+
+Fei
+Scissors!!
+
+Husband
 Rock!!
 
 Scissors!
@@ -1547,12 +1775,14 @@ Yesss! I win!
 I did it baby! 
 You can kiss my...!!
 
+Lost 50G.
+
+————————————————————————————
+
+Fei
 Scissors!!
 
-Hey, you did scissors too, huh?
-Hmmm... So that's how you play?
-Anyway, here we go again...
-
+Husband
 Paper!!
 
 Doh! Scissors?
@@ -1562,54 +1792,26 @@ Uuuaaahh! I, I lost!
 How could this be!! 
 What a snot!
 
-Rock!!
-
-What the!? Paper!?
-Paper!?
-
-Me? Lose!? 
-This's ridiculous...!
-Oh-my-gobrino!
-
-Grraaaaahhh!!
-I lost to an amateur!?
-M, me...!? MEEEEEEEE...!!
-
 Received 50G.
-
-Guh!? I lost 4 in a row!?
-How could I...!?
-This is not good!!
-If I lose the next one...!!
-
-...
-......
-It's over...
-
-I give up. I completely
-lost to you, Fei.
-It just goes to show that
-I need more training.
-
-Uuuhh... I give up!
-It's my loss, Fei.
-Here, as promised
-I'll give you this!
-
-Fei received the
-'Mythical RPS Hero Badge'!!
-Although, no one has any
-idea what use it has...
-
-Wife
-I see you've beaten my husband!
-Well, this should stifle some
-of his manic love for the game.
-But now I see you've come to
-have a passion for RPS too!
 
 ————————————————————————————
 
+Fei
+Paper!!
+
+Husband
+Paper!!
+
+Oh my, you did paper too.
+Hmmm, well I see...
+Here we go again...
+
+————————————————————————————
+
+Fei
+Paper!!
+
+Husband
 Scissors!!
 
 Oh, paper!
@@ -1619,19 +1821,24 @@ Yesss! I win, so pay up!
 Hallebalooyah! Boy...
 that was too easy!!
 
-Gyahahahaha!! Too bad, Fei!
-You're 100 years too early
-to even try to win 5 in row!!
-
 Lost 50G.
 
 ————————————————————————————
 
+Fei
 Paper!!
 
-Oh my, you did paper too.
-Hmmm, well I see...
-Here we go again...
+Husband
+Rock!!
+
+What the!? Paper!?
+Paper!?
+
+Me? Lose!? 
+This's ridiculous...!
+Oh-my-gobrino!
+
+Received 50G.
 
 ————————————————————————————
 
@@ -1644,6 +1851,8 @@ C'mon, cough up!
 
 Lost 15G.
 
+————————————————————————————
+
 Tch! Ya don't even have 15G!
 What are ya, a pauper? Boy!
 
@@ -1651,15 +1860,90 @@ Humph.
 Well, see ya later then.
 
 ————————————————————————————
-Lahan Village - Elder's Home - 0622 - 008
+
+Husband
+Tisk... Lost three times
+in a row! Not bad, Fei.
+But, it's not over yet.
+
+Here we go!
+
+One, two...
+    Rock
+    Scissors
+    Paper
+
 ————————————————————————————
 
-This town may be hidden
-away deep within the
-mountains without anything
-else... But, I still love
-it...Lahan.
+Husband
+Guh!? I lost 4 in a row!?
+How could I...!?
+This is not good!!
+If I lose the next one...!!
 
+————————————————————————————
+
+Husband
+Argh... I can't afford
+to lose the next turn.
+This time I'm getting
+serious... Ready?
+
+Here we go!
+
+One, two...
+    Rock
+    Scissors
+    Paper
+
+————————————————————————————
+
+...
+......
+It's over...
+
+————————————————————————————
+
+Husband
+Uuuhh... I give up!
+It's my loss, Fei.
+Here, as promised
+I'll give you this!
+
+Fei received the
+'Mythical RPS Hero Badge'!!
+Although, no one has any
+idea what use it has...
+
+————————————————————————————
+
+Husband
+I give up. I completely
+lost to you, Fei.
+It just goes to show that
+I need more training.
+
+Wife
+I see you've beaten my husband!
+Well, this should stifle some
+of his manic love for the game.
+But now I see you've come to
+have a passion for RPS too!
+
+————————————————————————————
+
+Husband
+Gyahahahaha!! Too bad, Fei!
+You're 100 years too early
+to even try to win 5 in row!!
+
+Lost 50G.
+
+————————————————————————————
+Lahan Village - RPS Home Basement - 0622 - 008
+————————————————————————————
+
+Old Woman
 Well if it isn't Fei.
 Isn't it exciting to know
 that Timothy's wedding is
@@ -1688,6 +1972,7 @@ Fei
 have been born and raised,
 Lahan is now my home."
 
+Old Woman
 Ah, yes. It makes me
 happy to just hear that.
 
@@ -1719,6 +2004,7 @@ Fei
 like there's some kinda
 empty void within me..."
 
+Old Woman
 That's unfortunate.
 But I'm sure there are
 people out there waiting
@@ -1733,6 +2019,7 @@ Fei
 "Of course. 
 I'd never forget."
 
+Old Woman
 But let's forget that
 for now. That won't come
 along for a while.
@@ -1740,8 +2027,14 @@ It's not good for an elder
 like me to be so hasty,
 hah hah.
 
-Too bad.
-It was empty.
+————————————————————————————
+
+Old Woman
+This town may be hidden
+away deep within the
+mountains without anything
+else... But, I still love
+it...Lahan.
 
 ————————————————————————————
 Lahan Village - Bar - 0624 - 009
@@ -1753,70 +2046,7 @@ That's the back door!
 Go around and come in
 through the front door!"
 
-Man
-Have you heard the
-latest rumors!?
-It's said that, in the
-southern desert of Aveh
-there is buried treasure
-all over the place!
-There's hundreds of
-people who are trying
-to strike it rich by
-digging everywhere!
-A single strike could 
-make you totally rich.
-
-But then again, you
-never can tell how
-much is the truth...
-In life, if it sounds
-too good to be true,
-it usually is. Bah.
-
-Barkeep
-"Hey, it's Fei.
-How's it going?
-I ain't got any drinks
-for kids, ya know! 
-Come back when you're
-older, alright!!?"
-
-Ellen
-Oh my! Welcome Fei...
-You wanna have some fun?
-I give the best service
-in Lahan, you know!?
-
-Barkeep
-"Hey, Ellen!
-Quit teasing the
-innocent kid!"
-
-Ellen
-Yeah, yeah! I know!
-It's just a joke...
-you blockhead!
-
-Gee, he's got sharp
-hearing! Anyway...
-(Maybe next time, okay,
-Fei!? I'll be waiting...
-Rowrrr!)
-
-Barkeep
-"Here's a tip, Fei.
-Be very cautious of
-alcohol and women.
-Behind those sweet and
-beautiful appearances
-lies a deep, dark swamp.
-Before you realize it,
-you are trapped, and
-lose your freedom.
-They are the most
-fearsome demons
-in this world."
+————————————————————————————
 
 Old Man
 Hmmm...!!
@@ -1843,6 +2073,9 @@ Did I scare you?
 I'm really sorry!
 Wahaha...
 
+————————————————————————————
+
+Old Man
 But in reality, these
 premonitions of misfortune
 tend to take on their own
@@ -1853,6 +2086,9 @@ prepared...
 It's also a joke!
 Don't let it get to you.
 
+————————————————————————————
+
+Old Man
 Instead of believing
 what others say, you
 should follow your
@@ -1873,28 +2109,93 @@ Are you ready?
 
 ————————————————————————————
 
+Old Man
 How boring.
 A guy like you will
 never be popular.
 
 ————————————————————————————
 
-Gramps always makes
-things out to be
-easier than they
-really are!
-It's actually quite
-a tremendous feat
-to get through that
-Blackmoon Forest...
-All those dangerous
-beasts and fearsome
-fire-eating lizards
-live there...
-I tell you, it's
-better if you don't
-go near the place!
+Man in green
+Have you heard the
+latest rumors!?
+It's said that, in the
+southern desert of Aveh
+there is buried treasure
+all over the place!
+There's hundreds of
+people who are trying
+to strike it rich by
+digging everywhere!
+A single strike could 
+make you totally rich.
 
+But then again, you
+never can tell how
+much is the truth...
+In life, if it sounds
+too good to be true,
+it usually is. Bah.
+
+————————————————————————————
+
+Barkeep
+"Hey, it's Fei.
+How's it going?
+I ain't got any drinks
+for kids, ya know! 
+Come back when you're
+older, alright!!?"
+
+————————————————————————————
+
+Ellen
+Oh my! Welcome Fei...
+You wanna have some fun?
+I give the best service
+in Lahan, you know!?
+
+Barkeep
+"Hey, Ellen!
+Quit teasing the
+innocent kid!"
+
+Ellen
+Yeah, yeah! I know!
+It's just a joke...
+you blockhead!
+
+Gee, he's got sharp
+hearing! Anyway...
+(Maybe next time, okay,
+Fei!? I'll be waiting...
+Rowrrr!)
+
+————————————————————————————
+
+(Maybe next time, okay,
+Fei!? I'll be waiting...
+Rowrrr...)
+
+————————————————————————————
+
+Barkeep
+"Here's a tip, Fei.
+Be very cautious of
+alcohol and women.
+Behind those sweet and
+beautiful appearances
+lies a deep, dark swamp.
+Before you realize it,
+you are trapped, and
+lose your freedom.
+They are the most
+fearsome demons
+in this world."
+
+————————————————————————————
+
+Man in blue
 South of here is the
 'Blackmoon Forest'.
 If you can make it through
@@ -1912,6 +2213,7 @@ I'll be rich in no time!
 Hehehe...
 Wouldn't that be good!
 
+Gramps
 Pay no attention to
 the fool!
 He's always saying all
@@ -1928,28 +2230,33 @@ It'd be better for
 you to stay away
 from there!
 
-If you get through the
-'Blackmoon Forest' to
-the south of here, you
-will find the kingdom of
-fire, 'Aveh'.
-Instead of just wasting
-away here in this little
-mountain village, I should
-go have some fun in Aveh!
-Beautiful girls, tasty
-liquor...
-Why, a gentleman like
-myself is bound to draw
-the babes wherever I go!
-Haw-haw-haw...
-Wouldn't that be good!
+————————————————————————————
 
 Drunk Man
 You gotta problem with
 me, hic, drinkin' at
 midday? How can I not be
 drinkin'... Damn it...
+
+You got a problem, boy?
+    No... Go, go, go for it!!
+    Yeah... I hate drunks!
+    Drinking won't help matters!
+
+Hya hah hah...
+I like you, boy! Now go
+away and leave me alone.
+
+————————————————————————————
+
+Hah!
+The feeling's mutual...
+I hate nosy people!
+Since we both hate each
+other, why don't you just
+leave me alone then, eh?
+
+————————————————————————————
 
 Nobody knows...
 In the depths...
@@ -1961,21 +2268,7 @@ It's not some dream...
 You idiots...
 Hic...
 
-You got a problem, boy?
-    No... Go, go, go for it!!
-    Yeah... I hate drunks!
-    Drinking won't help matters!
-
-Hya hah hah...
-I like you, boy! Now go
-away and leave me alone.
-
-Hah!
-The feeling's mutual...
-I hate nosy people!
-Since we both hate each
-other, why don't you just
-leave me alone then, eh?
+————————————————————————————
 
 Shut up! 
 What would you know!?
@@ -2006,40 +2299,51 @@ a mermaid...
 
 Received a 'Mermaid Tear'!
 
-Fei
-"Hmmm...
-Well, whatever."
+————————————————————————————
 
-Fei
-"Well then,
-thanks for this."
-
-Young Man
+Ellen
 My, that drunk had the
 most beautiful stone!
 Hmmm...
 I wonder what it was?
 
-There he goes again...
-How could there be a
-mermaid in the middle
-of the sea of sand?
+————————————————————————————
+-AFTER- Talking to Alice
 
-Fei
-"Sea of sand...?"
+Man in blue
+Gramps always makes
+things out to be
+easier than they
+really are!
+It's actually quite
+a tremendous feat
+to get through that
+Blackmoon Forest...
+All those dangerous
+beasts and fearsome
+fire-eating lizards
+live there...
+I tell you, it's
+better if you don't
+go near the place!
 
-Young Man
-What's this, Fei?
-You've never seen
-the sea of sand?
-This is what the
-sea of sand is...
-It's a vast, swirling,
-bottomless desert.
-More than half the world
-is this sea of sand.
-I'm surprised you haven't
-heard anything about it.
+Gramps
+If you get through the
+'Blackmoon Forest' to
+the south of here, you
+will find the kingdom of
+fire, 'Aveh'.
+Instead of just wasting
+away here in this little
+mountain village, I should
+go have some fun in Aveh!
+Beautiful girls, tasty
+liquor...
+Why, a gentleman like
+myself is bound to draw
+the babes wherever I go!
+Haw-haw-haw...
+Wouldn't that be good!
 
 ————————————————————————————
 Lahan Village - Bar Upstairs - 0626 - 010
@@ -2054,6 +2358,9 @@ something so simple...
 
 ...sigh...
 
+————————————————————————————
+-AFTER- Talking to her daughter
+
 ...I wonder how
 he's doing...
 Aveh's so far...
@@ -2064,6 +2371,7 @@ Aveh's so far...
 Lahan Village - Outside Alice's House - 0618 - 001
 ————————————————————————————
 
+Woman outside Alice's house
 Why, hello Fei.
 Are you here
 to see Alice?
@@ -2072,6 +2380,13 @@ Actually, it's customary
 that we don't let any men
 in to see the bride today...
 But, you can be an exception.
+
+————————————————————————————
+
+Woman outside Alice's house
+You know you won't come out
+in one piece if you try and
+pull anything on the bride!
 
 ————————————————————————————
 Lahan Village - Alice's House - 0628 - 011
@@ -2106,6 +2421,9 @@ hard time raising
 him to adulthood."
 
 Sigh...
+
+————————————————————————————
+-AFTER- Talking to Alice
 
 Alice's Aunt
 "Tomorrow, please pray
@@ -2277,3 +2595,11 @@ Is this fate...?"
 Alice
 "I feel so foolish...
 Who am I kidding?"
+
+————————————————————————————
+-AFTER- Leaving the room
+
+Alice
+"...
+Say hello to Doctor
+Uzuki for me..."
