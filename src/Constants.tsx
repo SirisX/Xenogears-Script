@@ -29,6 +29,11 @@ import chap20Text from "./text/chapters/20_Desert_Despair.txt";
 import chap21Text from "./text/chapters/21_Kislev_Capital.txt";
 import chap22Text from "./text/chapters/22_Brave_Battlers.txt";
 import chap23Text from "./text/chapters/23_Sewer_Horror.txt";
+import chap24Text from "./text/chapters/24_Battling_Champ.txt";
+import chap25Text from "./text/chapters/25_Gear_Dock_Raid.txt";
+import chap26Text from "./text/chapters/26_Night_Purge.txt";
+import chap27Text from "./text/chapters/27_Secret_Weapon.txt";
+import chap28Text from "./text/chapters/28_Escape_Ignas.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -270,6 +275,41 @@ export const DefaultChapters: Chapter[] = [
     name: "Sewer Horror",
     number: 23,
     text: chap23Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Battling Champ",
+    number: 24,
+    text: chap24Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Gear Dock Raid",
+    number: 25,
+    text: chap25Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Night Purge",
+    number: 26,
+    text: chap26Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Secret Weapon",
+    number: 27,
+    text: chap27Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Escape Ignas",
+    number: 28,
+    text: chap28Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
