@@ -34,6 +34,12 @@ import chap25Text from "./text/chapters/25_Gear_Dock_Raid.txt";
 import chap26Text from "./text/chapters/26_Night_Purge.txt";
 import chap27Text from "./text/chapters/27_Secret_Weapon.txt";
 import chap28Text from "./text/chapters/28_Escape_Ignas.txt";
+import chap29Text from "./text/chapters/29_Adrift_at_Sea.txt";
+import chap30Text from "./text/chapters/30_Men_of_the_Sea.txt";
+import chap31Text from "./text/chapters/31_Friends_Again.txt";
+import chap32Text from "./text/chapters/32_Betrayal.txt";
+import chap33Text from "./text/chapters/33_Ramsus_Attack.txt";
+import chap34Text from "./text/chapters/34_A_Young_Priest.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -310,6 +316,48 @@ export const DefaultChapters: Chapter[] = [
     name: "Escape Ignas",
     number: 28,
     text: chap28Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Adrift at Sea",
+    number: 29,
+    text: chap29Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Men of the Sea",
+    number: 30,
+    text: chap30Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Friends Again",
+    number: 31,
+    text: chap31Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Betrayal",
+    number: 32,
+    text: chap32Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Ramsus' Attack",
+    number: 33,
+    text: chap33Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "A Young Priest",
+    number: 34,
+    text: chap34Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
