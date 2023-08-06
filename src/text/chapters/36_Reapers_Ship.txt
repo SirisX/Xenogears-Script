@@ -1,0 +1,414 @@
+————————————————————————————
+Reaper's Ship - Yggdrasil II Bridge - 1186
+————————————————————————————
+
+Sigurd
+"We have arrived at the
+transport ship.
+Be careful now, Billy..."
+
+————————————————————————————
+Reaper Ship Lower Level - 1282
+————————————————————————————
+
+Elly
+"It's dark..."
+
+Citan
+"What is that odor?"
+
+Billy
+"This unusual smell is
+that of the Wels.
+It sure looks like 
+they attacked..."
+
+Billy
+"One more thing.
+On the room's middle
+wall is a red switch.
+Push the switch to turn
+on the lights."
+
+Elly
+"Scared?"
+
+Billy
+"...
+No...
+Just a little."
+
+Elly
+"What's that weird smell?"
+
+Elly
+"Wels?
+By the way Billy, do
+you have any equipment?"
+
+Elly
+"You mean you don't fight
+physically? How strange."
+
+————————————————————————————
+-ALT- No Elly in Party???
+
+Citan
+"It is dark..."
+
+Citan
+"Is it scary?"
+
+Citan
+"Wels?
+Billy are you equipped
+for this?"
+
+Citan
+"You say you do not fight
+physically? How rare."
+
+————————————————————————————
+-ALT- Bart path
+
+Bart
+"It's dark..."
+
+————————————————————————————
+
+Bart
+"Woo, something stinks..."
+
+Bart
+"Scared?"
+
+Bart
+"Wels?
+So Billy, do you
+have equipment?"
+
+Bart
+"You don't fight hand to
+hand? You're a rare one."
+
+————————————————————————————
+-ALT- Rico path
+
+Rico
+"It's dark..."
+
+Rico
+"What's that nasty smell?"
+
+Rico
+"Scared?"
+
+Rico
+"Wels?
+Hey, Billy do you
+have equipment?"
+
+Rico
+"You don't fight with your
+fists? That's rare."
+
+————————————————————————————
+???
+
+Light on.
+Opened door-lock A.
+
+Billy
+"Shall we return
+to Yggdrasil?"
+    Go back
+    Stay
+
+A locked.
+
+The door won't open.
+
+————————————————————————————
+Reaper Ship Upper Level - 1278
+————————————————————————————
+
+Billy
+"Looks like blood ......
+What happened on this 
+transport...
+No wait, this is...
+water with rust in it.
+Let's hurry on ahead."
+
+————————————————————————————
+???
+
+It's unlocked but the 
+door is rusted shut.
+Maybe if you ran into it?
+
+Maybe if you ran into it?
+
+Unlock it?
+    Yes
+    Hold on a second
+
+It's rusted shut!!
+
+It's rusted...
+but it rattles a little.
+
+It's locked
+but it rattles a little.
+
+If you run into it...
+
+The door won't open.
+
+————————————————————————————
+Ω Battle - Bloody
+————————————————————————————
+————————————————————————————
+Reaper Ship Control Room - 1274
+————————————————————————————
+
+Bloody
+Um... (-ERROR-??? mistranslated ani as ano)
+I'm counting on you.
+
+Billy
+"(It's my buddy!! 
+I'll call him over here)"
+
+————————————————————————————
+Orphanage Outside - 1258
+————————————————————————————
+
+Boy with tall hair
+!!
+
+Billy's signal...!!
+
+Hey everyone!! 
+It's shift G!!
+
+Girl with pigtails
+Wind direction, OK!! 
+Target coordinates -
+X1020, Z303!
+
+Boy with tall hair
+Roger!! 
+Engage auto pilot!
+
+Catapult, 
+ready!!
+
+Look out!
+
+Kids on seasaws
+Yeah, great!!
+
+Push, pull!!
+
+Boy with tall hair
+Standby 
+OK!!
+
+Ready?
+
+GO!!
+
+GO!!
+
+GO!!
+
+Got get 'em!! (-ERROR-??? spelling error)
+
+Today's launch was so-so.
+
+————————————————————————————
+Reaper Ship Bridge Outside - 1276
+————————————————————————————
+
+Billy
+"Just as I thought. This
+transport's infested.
+I must go to the
+'Ethos' and tell
+Bishop Stone..."
+
+Elly
+"What? 
+There's something..."
+
+Citan
+"There is nothing there.
+Just fish jumping around.
+Ahh...the sea. The cool
+breeze...so different from
+the desert!!"
+
+Elly
+"Billy, who's 'buddy'?"
+
+Billy
+"...Hmm, it's probably
+its brethren. A giant
+Wels.
+An entity we wouldn't stand
+much of a chance against by
+ourselves. But don't worry,
+they're pretty slow.
+Even if that Wels called
+it, it probably won't
+reach us in time.
+But I called for my Gear
+anyway just to be safe."
+
+Billy
+"......
+Faster than I expected.
+Well, here it comes."
+
+Citan
+"!!
+You did say that we would
+not stand much of a chance
+against it by ourselves?"
+
+Billy
+"It should be any 
+time now."
+
+Billy
+"Great timing on the part
+of the kids. I owe them
+one.
+Well, get ready cause here
+it come."
+
+————————————————————————————
+Ω Battle - Giant Wels
+————————————————————————————
+————————————————————————————
+Reaper Ship Bridge Outside - Alterate Party - 1276
+————————————————————————————
+
+Elly
+"There's nothing there.
+Don't scare me. It's just
+fish jumping around.
+But the sea is great.
+The breeze is so cool...
+So different from the
+desert!!"
+
+Elly
+"!! 
+Didn't you just say we
+couldn't stand a chance
+against it by ourselves?"
+
+————————————————————————————
+
+Citan
+"Huh? 
+Something behind..."
+
+Citan
+"Billy...who is 'buddy'?
+
+————————————————————————————
+
+Bart
+"Huh? 
+Something there...?"
+
+Bart
+"Yo Billy, what's 'buddy'?"
+
+Bart
+"There's nothing there but
+some fish jumping around.
+I love the sea. The cool
+breeze...so different from
+the desert. From now on
+I'm a man of the sea."
+
+Bart
+"Hey!
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"
+
+————————————————————————————
+
+Rico
+"What's that...?"
+
+Rico
+"Hey Billy, who's buddy?"
+
+Rico
+"Huh? It's just a fish.
+Aah, I love the sea.
+The breeze is so cool...
+Nothing like Kislev."
+
+Rico
+"Hey!
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"
+
+————————————————————————————
+Yggdrasil II Bridge - 1186
+————————————————————————————
+
+Billy
+"Thank you for helping
+me, everyone.
+To be honest, that was
+too dangerous for me on
+my own. I couldn't have
+done it without you..."
+
+Bart
+"Is your job always this
+dangerous?
+Hah, I never thought you
+would call a Gear!?
+But, what in hell is the
+'Ethos' thinking anyway?"
+
+Billy
+"!! ...We Etones
+are merely fulfilling
+our divine mission!"
+
+Bart
+"Sorry... It was wrong of
+me to say that. Don't take
+it so seriously!
+So, you're going to report
+back to the 'Ethos' about
+your job's results, right?
+Well, if you like we shall
+give you a ride to the
+'Ethos' H.Q...
+It's on our way."
+
+Billy
+"That would be great,
+so long as it doesn't
+put you out...
+I have something to
+give you as a sign of
+my gratitude.
+So please accompany
+me into the 'Ethos'
+headquarters.
+Let's go..."
