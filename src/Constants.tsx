@@ -43,6 +43,9 @@ import chap34Text from "./text/chapters/34_A_Young_Priest.txt";
 import chap35Text from "./text/chapters/35_The_Orphanage.txt";
 import chap36Text from "./text/chapters/36_Reapers_Ship.txt";
 import chap37Text from "./text/chapters/37_Burning_Souls.txt";
+import chap38Text from "./text/chapters/38_Ocean_Floor.txt";
+import chap39Text from "./text/chapters/39_Deep_Sea_Girl.txt";
+import chap40Text from "./text/chapters/40_Babel_Tower.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -382,6 +385,27 @@ export const DefaultChapters: Chapter[] = [
     name: "Burning Souls",
     number: 37,
     text: chap37Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Ocean Floor",
+    number: 38,
+    text: chap38Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Deep Sea Girl",
+    number: 39,
+    text: chap39Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Babel Tower",
+    number: 40,
+    text: chap40Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
