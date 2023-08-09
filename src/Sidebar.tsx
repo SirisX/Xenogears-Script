@@ -94,7 +94,7 @@ const Sidebar = ({
           setShowSidebar();
         }}
       >
-        {showSidebar ? "»" : "»"}
+        {showSidebar ? "«" : "»"}
       </p>
     );
   };
