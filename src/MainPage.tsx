@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-import "./App.css";
+import "./MainPage.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import Sidebar from "./Sidebar";
 import { generateTableOfContents, handleStartDownload } from "./Utils";
 
-const App = () => {
+const MainPage = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
@@ -155,4 +155,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default MainPage;
