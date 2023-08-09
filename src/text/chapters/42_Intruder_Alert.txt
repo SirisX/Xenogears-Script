@@ -1,0 +1,621 @@
+————————————————————————————
+Intruder Alert! - Shevat Queen Zephyr's Chamber - 1512
+————————————————————————————
+
+Zephyr
+"Have you decided?"
+    My heart is set!
+    Let me think some more
+
+————————————————————————————
+-OPTION 2-
+
+Zephyr
+"Take your time and think
+about it to your heart's
+content.
+To make sure there are no
+regrets."
+
+————————————————————————————
+
+Zephyr
+"Alright. (*this line is cut here in-game)
+Allow me to hear out
+your decision."
+
+Fei
+"Huh...!?"
+
+Fei
+"What was that shaking
+all about...!?"
+
+Maria
+"Your Majesty...!"
+
+Maria
+"Was that enemy...!?"
+
+Man
+Your Majesty,
+something dreadful
+has...!!
+
+Zephyr
+"What's the meaning of
+this?"
+
+Man
+Yes! That is... We have an
+intruder in the dock area!
+The Gate generator has been
+destroyed...!
+
+Fei
+"What!?"
+
+Zephyr
+"What's the damage report?"
+
+Man
+Y, yes! Sub-systems are
+destroyed...
+Gate generation has
+dropped 70% from normal!
+We're devoting everything
+to fire fighting and
+repairs... It will still
+take some time!
+
+Zephyr
+"What of the intruder?"
+
+Man
+Yes, we believe it's just
+a lone Gebler soldier.
+It seems the individual
+has escaped to the number
+17 hangar!
+
+Maria
+"Number 17 hangar bay!?
+Seibzehn...!!"
+
+Zephyr
+"Maria, wait!"
+
+Zephyr
+"It is too dangerous
+to go by yourself."
+
+Maria
+"But...
+We can't just let
+the spy be...!"
+
+Man
+Your Majesty, we have our
+hands full just trying to
+fight the fire on the
+shield generator.
+If someone doesn't do
+something, it's possible
+we'll have more losses...!
+
+Maria
+"I'll be fine.
+I can go it alone...!!"
+
+Zephyr
+"Maria, what can you do
+now when you don't even
+have Seibzehn?"
+
+Maria
+"...!
+But..."
+
+Fei
+"Then should we go down
+with Maria?
+It's the Gebler, right?
+I'm still ticked off at
+them. I'll take'em on."
+
+Zephyr
+"...
+Is it fine with you, Fei?
+Please take care of Maria.
+And be careful out there."
+
+Fei
+"Then, let's get
+going, Maria."
+
+Maria
+"Then, let's all go
+together."
+
+Man
+Umm, this may be asking for
+too much, but would it be
+possible to have one of you
+stay behind with the Queen?
+
+We do not have the combat
+experience and...if
+something ever happened to
+the Queen...
+
+Fei
+"Alright, I got it.
+Then one of us should
+stay behind."
+
+Who will you leave here?
+    Leave <Perso2>
+    Leave <Perso3>
+
+Maria has joined the party!
+
+————————————————————————————
+Shevat Palace Chamber - 1508
+————————————————————————————
+
+Orange Chu
+Oh my, this has gotten
+serious. It seems you can't
+get in because of the
+emergency security.
+But, you are all lucky.
+A legendary vendor like
+me happens to be here
+through coincidence.
+I've got a line of quality
+goods, sir... So, if you've
+got anything you need,
+don't hesitate to ask.
+
+Alright, then what
+shall it be?
+
+    Items
+    Weapon/Armor
+    Gear Parts
+    Nevermind
+
+Thank you very much.
+If there's anything you
+need, please come by
+again.
+
+————————————————————————————
+
+Guard 1
+In hopes of making contact
+with you and your friends
+on the ocean surface...
+...the shields were
+apparently dropped.
+That's when they took
+advantage of the situation.
+Who would've ever thought
+there would actually be a
+spy that would get in!?
+
+Guard 2
+We aren't permitted to
+leave here no matter what.
+So please, take good care
+of Maria for us!
+
+————————————————————————————
+Shevat Elevator Shaft - 1482
+————————————————————————————
+
+Maria
+"It's no use!
+The defensive shutter is
+closed..."
+
+Fei
+"Isn't there another way to
+go down to the hangar?"
+
+Maria
+"We may be able to go
+down if we use the 
+emergency shaft. 
+But it's not normally
+used..."
+
+Fei
+"I don't care.
+We can't waste time here
+anyway."
+
+Citan
+"You are right.
+It is not like the enemy
+is going to wait for us."
+
+Maria
+"I see.
+The entrance to the shaft
+is just above here."
+
+Maria
+"This is it.
+We can go down by entering
+the shaft from here."
+
+Fei
+"Fine!
+Then, let's go!"
+
+————————————————————————————
+-ALT- ???
+
+Elly
+"You're right.
+They won't wait for us."
+
+Bart
+"That's right!
+They won't wait for us."
+
+Rico
+"That's right.
+They won't wait for us."
+
+Billy
+"That's right.
+They won't wait for us."
+
+Emeralda
+"...
+We're wasting time."
+
+Chu-Chu
+"That's right! Chu go out
+there and chu blow them
+away as quickly as we can.
+That's the best way chu
+do it!"
+
+————————————————————————————
+Shevat Emergency Shaft - 1494
+————————————————————————————
+
+Maria
+"This map is of the
+lower layer levels in
+the emergency shaft.
+You can use it once we
+get down to the floor
+several levels below
+here."
+
+————————————————————————————
+Shevat Windmill Area - 1504
+————————————————————————————
+
+Maria
+"If you hit this switch you
+can change the direction
+the windmill is spinning."
+
+————————————————————————————
+Shevat Corridors - 1496
+————————————————————————————
+
+Maria
+"You can use the map you
+found earlier on this
+floor.
+It's always good to have
+a map to look at when you
+lose your way, right!?"
+
+————————————————————————————
+-ALT- ???
+
+Fei
+"Hey, that map we found
+above here... It looks
+like it's for this floor.
+If we lose our way, we
+can look at that map."
+
+————————————————————————————
+Shevat Hallway - 1502
+————————————————————————————
+
+Maria
+"Once we get through that
+manhole, we'll be able to
+enter the hangar."
+
+————————————————————————————
+Shevat Gear Hangar - 1488
+————————————————————————————
+
+Maria
+"Where is the
+intruder...!?"
+
+Hmph, it's you again...
+You pests aren't making
+my job any easier.
+
+Elly
+"Dominia...!
+Is that you!?"
+
+————————————————————————————
+-ALT- Fei
+
+Fei
+"Dominia!"
+
+————————————————————————————
+
+Dominia
+"Never thought I'd come
+across Seibzehn
+in my place of escape."
+
+Dominia
+"I'll take
+Seibzehn.
+Originally, this 
+belonged to us,
+Solaris."
+
+Elly
+"Dominia!
+I can't let you have the
+Gear!"
+
+————————————————————————————
+-ALT- Fei
+
+Fei
+"I can't let you have the
+Gear!"
+
+————————————————————————————
+
+Dominia
+"Heh, then try and
+stop me!"
+
+Dominia
+"Huh...?"
+
+Dominia
+"That child...
+Hey, you...
+Are you the daughter
+of Nikolai...?"
+
+Maria
+"Undoubtedly, I am the
+daughter of Nikolai,
+Maria Balthasar!
+What about it...?"
+
+Dominia
+"I see...
+So you're his beloved
+daughter to whom he offered
+himself to undertake that 
+difficult task..."
+
+Dominia
+"Hey, young girl.
+Want to hear
+an interesting story?
+Let's see...
+How about the cursed
+secret of
+Seibzehn?"
+
+Maria
+"...!?
+What do you mean?"
+
+Dominia
+"What do I mean?
+You'll understand it
+when you hear the story."
+
+For the past several
+decades, our scientists
+had put so much effort
+into the research to
+create evolved Gears.
+Regardless of how great a
+pilot one is, as long it
+is human, there will
+always exist a time lag
+and human error when
+interfacing with a
+machine.
+That's when your father,
+Nikolai was targeted.
+He was a genius in the
+field of cranial nerve
+mechanisms.
+They made Nikolai search
+for a way for humans to
+go beyond humans... By
+merging humans and
+machines.
+In other words, they were
+trying to create a new
+life, an ultimate living
+weapon, by connecting a
+living human brain to a
+Gear directly.
+It would've stayed as a
+mere fantasy without
+Nikolai. But that genius
+made the fantasy come
+true...
+
+Maria
+"That's a lie!!
+My father wouldn't do
+such a horrible thing!!"
+
+Dominia
+"I don't lie, Maria.
+This is the truth.
+Your splendid father
+succeeded in fusing man
+and machine.
+And he opened the gates
+to hell for the Lambs."
+
+Maria
+"...!!"
+
+Dominia
+As a matter of fact,
+various data and
+components obtained from
+the war in Ignas, and the
+Battling in Kislev, were
+used as experimental
+materials.
+That is how the special
+humanoid mutants, Wels
+were born. Wels created
+in Solaris were tested
+on the surface.
+Only the Wels that passed
+the tests were dismantled,
+restructured, and reborn.
+They became the Gear's
+central control circuit...
+and became part of the
+machine...
+It's all the result of
+your father's great
+research.
+Seibzehn, is the
+prototype of 
+a man-machine fusion
+Gear.
+In other words...
+Seibzehn was completed
+at the cost of innumerable
+land dwellers' lives.
+
+And in the nerve circuit
+of Seibzehn lies...
+
+Don't you think you've
+said enough, Dominia?
+
+Dominia
+"Who is it!?"
+
+Jessie
+"Why are women so 
+gossipy?
+They jabber about
+things they shouldn't
+be talking about.
+Hopeless..."
+
+————————————————————————————
+-ALT- Billy
+
+Billy
+"D, dad!?"
+
+————————————————————————————
+
+Dominia
+"Jesiah!?
+You...!?
+What're you doing in
+Shevat!?
+At one point, weren't
+you considered to be
+the next Gebler
+commander-in-chief!?"
+
+Jessie
+"Don't get so excited. (*??? line cut here)
+It's not good for your
+beauty, Dominia.
+We adults have our own
+reasons. But you kids
+wouldn't understand."
+
+Jessie
+"I think you've played
+with enough fire for
+today. Just go home.
+Maria is the only
+one who can operate
+Seibzehn.
+You should be well aware
+of that."
+
+Dominia
+"Hmph, fools!
+Don't get so cocky.
+The party's just begun.
+But, I guess it's alright.
+My mission is complete.
+All that's left is..."
+
+Dominia
+"Maria, I'm afraid I must
+go now.
+Enjoy your party.
+Hah hah hah...!"
+
+Fei
+"Wait!
+Dominia!"
+
+Maria
+"...
+Father..."
+
+Fei
+"Hey Maria.
+Don't mind what she
+told you..."
+
+Maria
+"..."
+
+Fei
+"...!?
+This...is...?"
+
+Jessie
+"It looks like our guests
+have arrived.
+Let's go upstairs.
+The Yggdrasil is also
+accommodated in the dock.
+I'm sure the other
+guys are making a
+fuss over it."
+
+Jessie
+"I have an ominous
+premonition...
+I doubt it but...
+they could've..."
+
+Maria
+"Seibzehn..."
