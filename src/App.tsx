@@ -2,8 +2,9 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
-import fullScript from "./text/FULL_SCRIPT.txt";
-import fullScriptJapanese from "./text/JP_FULL_SCRIPT.txt";
+
+import Sidebar from "./Sidebar";
+import { generateTableOfContents, handleStartDownload } from "./Utils";
 
 const App = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
@@ -45,7 +46,8 @@ const App = () => {
           text: englishText,
           japaneseText: jpText,
           isCollapsable: chapter.isCollapsable ?? false,
-          isExpanded: (chapter.isCollapsable && !!chapter.defaultCollapsed) ? false : true,
+          isExpanded:
+            chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
         };
 
         return newUIChapter;
@@ -55,47 +57,11 @@ const App = () => {
     });
   }, []);
 
-  // Jump to certain spot in the page based on chapter number
-  const handleGoToSection = (chapter: Chapter) => {
-    window.location.replace(`/#chapter${chapter.number}`);
-  };
-
   const handleExpandChapter = (index: number) => {
     const newChapters = [...chapterText];
     newChapters[index].isExpanded = !newChapters[index].isExpanded;
 
     setChapterText(newChapters);
-  };
-
-  //   window.addEventListener('keydown', (e) => {
-  //     if (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.keyCode === 114 || (e.ctrlKey && e.keyCode === 70) || (e.metaKey && e.keyCode === 70))) {
-
-  //     }
-  // })
-
-  const generateChapterName = (chapter: Chapter) => {
-    if (showJapanese) return chapter.japaneseName;
-    return chapter.name;
-  }
-
-  const generateTableOfContents = () => {
-    return DefaultChapters.map((chapter: Chapter) => {
-      //Hide certain chapters from the sidebar
-      if (chapter.hideInSidebar) {
-        return;
-      }
-
-      //Generates the sidebar Link
-      return (
-        <div
-          className={isDarkMode ? "sidebar-link" : "sidebar-link-light"}
-          // style={{ fontSize: showJapanese ? "0.8rem" : "1rem" }}
-          onClick={() => handleGoToSection(chapter)}
-        >
-          {`${chapter.number > 0 ? `${chapter.number}. ` : ""}${generateChapterName(chapter)}`}
-        </div>
-      );
-    });
   };
 
   const generateSection = (chapter: UIChapter, index: number) => {
@@ -118,44 +84,51 @@ const App = () => {
         >
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
-            <p className="download-link" data-umami-event={showJapanese ? "Download Link (JP)" : "Download Link (EN)"} onClick={() => handleStartDownload()}>
+            <p
+              className="download-link"
+              data-umami-event={
+                showJapanese ? "Download Link (JP)" : "Download Link (EN)"
+              }
+              onClick={() => handleStartDownload(showJapanese)}
+            >
               {showJapanese
                 ? "フルスクリプトをダウンロード"
                 : "Download Full Script"}
             </p>
           )}
           <div className="chapter-text-intro">
-            {index === 1 && generateTableOfContents()}
+            {index === 1 && generateTableOfContents(isDarkMode, showJapanese)}
           </div>
         </div>
       </div>
     );
   };
 
-  const handleStartDownload = () => {
-    var a = document.createElement("a");
 
-    if (showJapanese) {
-      a.href = fullScriptJapanese;
-      a.download = `ゼノギアス`;
+  const handleChangeDarkMode = () => {
+    if (isDarkMode) {
+      document.body.style.setProperty("background-color", "white");
+      setIsDarkMode(false);
     } else {
-      a.href = fullScript;
-      a.download = `Xenogears_Fullscript_English`;
+      document.body.style.setProperty("background-color", "black");
+      setIsDarkMode(true);
     }
+  }
 
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-  };
+  const handleChangeLanguage = () => {
+    if (showJapanese) {
+      setShowJapanese(false);
+    } else {
+      setShowJapanese(true);
+    }
+  }
 
-  const handleDisableDarkMode = () => {
-    document.body.style.setProperty("background-color", "white")
-    setIsDarkMode(false);
-  };
-
-  const handleEnableDarkMode = () => {
-    document.body.style.setProperty("background-color", "black")
-    setIsDarkMode(true);
+  const handleChangeSidebar = () => {
+    if (showSidebar) {
+      setShowSidebar(false);
+    } else {
+      setShowSidebar(true);
+    }
   }
 
   return (
@@ -163,125 +136,14 @@ const App = () => {
       className="App"
       style={{ backgroundColor: isDarkMode ? "black" : "white" }}
     >
-      {showSidebar ? (
-        <div
-          className="sidebar"
-          style={{ backgroundColor: isDarkMode ? "black" : "white", borderColor: isDarkMode ? "white" : "black" }}
-        >
-          <div className="sidebar-header">
-            <p></p>
-            <p
-              style={{ color: isDarkMode ? "white" : "black" }}
-              className="x-button"
-              onClick={() => setShowSidebar(false)}
-            >
-              «
-            </p>
-          </div>
-          <div className="sidebar-grid">{generateTableOfContents()}</div>
-          {showJapanese ? (
-            <p
-              onClick={() => setShowJapanese(false)}
-              style={{ color: isDarkMode ? "white" : "black" }}
-              className="switch-language-open"
-              data-umami-event={"EN Button"}
-            >
-              EN
-            </p>
-          ) : (
-            <p
-              onClick={() => setShowJapanese(true)}
-              style={{ color: isDarkMode ? "white" : "black" }}
-              className="switch-language-open"
-              data-umami-event={"JP Button"}
-            >
-              JP
-            </p>
-          )}
-          {isDarkMode ? (
-            <p
-              onClick={() => handleDisableDarkMode()}
-              className="switch-darkmode-open"
-              style={{ color: "white" }}
-              data-umami-event="Light Mode Button"
-            >
-              Ω
-            </p>
-          ) : (
-            <p
-              onClick={() => handleEnableDarkMode()}
-              className="switch-darkmode-open"
-              style={{ color: "black" }}
-              data-umami-event="Dark Mode Button"
-            >
-              Ω
-            </p>
-          )}
-        </div>
-      ) : (
-        <div
-          className="sidebar"
-          style={{ opacity: 0, pointerEvents: "none", left: "-390px" }}
-        ></div>
-      )}
-      {showSidebar ? (
-        ""
-      ) : (
-        <div className="sidebar-openbox">
-          {showSidebar ? (
-            ""
-          ) : (
-            <p
-              className="quick-jump"
-              style={{ color: isDarkMode ? "white" : "black", fontSize: "1.5rem" }}
-              onClick={() => {
-                showSidebar ? setShowSidebar(false) : setShowSidebar(true);
-              }}
-            >
-              »
-            </p>
-          )}
-          {showJapanese ? (
-            <p
-              onClick={() => setShowJapanese(false)}
-              className="switch-language"
-              style={{ color: isDarkMode ? "white" : "black" }}
-              data-umami-event={"EN Button"}
-            >
-              EN
-            </p>
-          ) : (
-            <p
-              onClick={() => setShowJapanese(true)}
-              className="switch-language"
-              style={{ color: isDarkMode ? "white" : "black" }}
-              data-umami-event={"JP Button"}
-            >
-              JP
-            </p>
-          )}
-          {isDarkMode ? (
-            <p
-              onClick={() => handleDisableDarkMode()}
-              className="switch-darkmode"
-              style={{ color: "white" }}
-              data-umami-event="Light Mode Button"
-            >
-              Ω
-            </p>
-          ) : (
-            <p
-              onClick={() => handleEnableDarkMode()}
-              data-umami-event="Dark Mode Button"
-              className="switch-darkmode"
-              style={{ color: "black" }}
-            >
-              Ω
-            </p>
-          )}
-        </div>
-      )}
-
+      <Sidebar
+        isDarkMode={isDarkMode}
+        showJapanese={showJapanese}
+        setIsDarkMode={handleChangeDarkMode}
+        setShowJapanese={handleChangeLanguage}
+        showSidebar={showSidebar}
+        setShowSidebar={handleChangeSidebar}
+      ></Sidebar>
       <div
         className="text-container"
         style={{ paddingLeft: showSidebar ? `${SIDEBAR_WIDTH}` : "0" }}
