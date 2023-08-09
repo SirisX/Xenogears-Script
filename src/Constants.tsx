@@ -47,6 +47,7 @@ import chap38Text from "./text/chapters/38_Ocean_Floor.txt";
 import chap39Text from "./text/chapters/39_Deep_Sea_Girl.txt";
 import chap40Text from "./text/chapters/40_Babel_Tower.txt";
 import chap41Text from "./text/chapters/41_Sky_City_Shevat.txt";
+import chap42Text from "./text/chapters/42_Intruder_Alert.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -414,6 +415,13 @@ export const DefaultChapters: Chapter[] = [
     name: "Sky City Shevat",
     number: 41,
     text: chap41Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Intruder Alert!",
+    number: 42,
+    text: chap42Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
