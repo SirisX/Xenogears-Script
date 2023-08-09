@@ -75,6 +75,7 @@
   font-size: 0.9rem;
   white-space: pre-wrap;
   float: left;
+  line-height: 1.3em;
 }
 
 .download-link {
