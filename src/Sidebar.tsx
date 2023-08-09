@@ -1,5 +1,4 @@
 import "./Sidebar.css";
-import { Chapter } from "./Types";
 import { generateTableOfContents } from "./Utils";
 
 interface SidebarProps {
@@ -19,11 +18,6 @@ const Sidebar = ({
   setShowJapanese,
   setShowSidebar,
 }: SidebarProps) => {
-  const generateChapterName = (chapter: Chapter) => {
-    if (showJapanese) return chapter.japaneseName;
-    return chapter.name;
-  };
-
   const generateVisibleSidebar = () => {
     return (
       <div
@@ -33,7 +27,9 @@ const Sidebar = ({
           borderColor: isDarkMode ? "white" : "black",
         }}
       >
-        <div className="sidebar-grid">{generateTableOfContents(isDarkMode, showJapanese)}</div>
+        <div className="sidebar-grid">
+          {generateTableOfContents(isDarkMode, showJapanese)}
+        </div>
       </div>
     );
   };
@@ -61,23 +57,14 @@ const Sidebar = ({
   };
 
   const generateJapaneseButton = () => {
-    return showJapanese ? (
+    return (
       <p
         onClick={() => setShowJapanese()}
         className={showSidebar ? "switch-language-open" : "switch-language"}
         style={{ color: isDarkMode ? "white" : "black" }}
-        data-umami-event={"EN Button"}
+        data-umami-event={showJapanese ? "EN Button" : "JP Button"}
       >
-        EN
-      </p>
-    ) : (
-      <p
-        onClick={() => setShowJapanese()}
-        className={showSidebar ? "switch-language-open" : "switch-language"}
-        style={{ color: isDarkMode ? "white" : "black" }}
-        data-umami-event={"JP Button"}
-      >
-        JP
+        {showJapanese ? "EN" : "JP"}
       </p>
     );
   };

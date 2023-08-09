@@ -50,3 +50,15 @@ export const handleStartDownload = (showJapanese: boolean) => {
   a.click();
   document.body.removeChild(a);
 };
+
+export const generateChapterClass = (index: number) => {
+  switch (index) {
+    case 0:
+    case 1:
+      return "chapter-text-centered";
+    case 3:
+      return "chapter-text-centered";
+    default:
+      return "chapter-text";
+  }
+};

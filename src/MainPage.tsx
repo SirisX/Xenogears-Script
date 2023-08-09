@@ -3,25 +3,13 @@ import "./MainPage.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import Sidebar from "./Sidebar";
-import { generateTableOfContents, handleStartDownload } from "./Utils";
+import { generateChapterClass, generateTableOfContents, handleStartDownload } from "./Utils";
 
 const MainPage = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
-
-  const generateChapterClass = (index: number) => {
-    switch (index) {
-      case 0:
-      case 1:
-        return "chapter-text-centered";
-      case 3:
-        return "chapter-text-centered";
-      default:
-        return "chapter-text";
-    }
-  };
 
   // Load all text files and chapters into state
   useEffect(() => {
