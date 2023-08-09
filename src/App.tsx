@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
-
 import Sidebar from "./Sidebar";
 import { generateTableOfContents, handleStartDownload } from "./Utils";
 

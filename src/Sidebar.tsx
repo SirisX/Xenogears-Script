@@ -1,7 +1,6 @@
 import "./Sidebar.css";
-import { DefaultChapters } from "./Constants";
 import { Chapter } from "./Types";
-import { handleGoToSection } from "./Utils";
+import { generateTableOfContents } from "./Utils";
 
 interface SidebarProps {
   showSidebar: boolean;
@@ -25,28 +24,6 @@ const Sidebar = ({
     return chapter.name;
   };
 
-  const generateTableOfContents = () => {
-    return DefaultChapters.map((chapter: Chapter) => {
-      //Hide certain chapters from the sidebar
-      if (chapter.hideInSidebar) {
-        return null;
-      }
-
-      //Generates the sidebar Link
-      return (
-        <div
-          className={isDarkMode ? "sidebar-link" : "sidebar-link-light"}
-          // style={{ fontSize: showJapanese ? "0.8rem" : "1rem" }}
-          onClick={() => handleGoToSection(chapter)}
-        >
-          {`${
-            chapter.number > 0 ? `${chapter.number}. ` : ""
-          }${generateChapterName(chapter)}`}
-        </div>
-      );
-    });
-  };
-
   const generateVisibleSidebar = () => {
     return (
       <div
@@ -56,45 +33,7 @@ const Sidebar = ({
           borderColor: isDarkMode ? "white" : "black",
         }}
       >
-        <div className="sidebar-grid">{generateTableOfContents()}</div>
-        {/* {showJapanese ? (
-          <p
-            onClick={() => setShowJapanese()}
-            style={{ color: isDarkMode ? "white" : "black" }}
-            className="switch-language-open"
-            data-umami-event={"EN Button"}
-          >
-            EN
-          </p>
-        ) : (
-          <p
-            onClick={() => setShowJapanese()}
-            style={{ color: isDarkMode ? "white" : "black" }}
-            className="switch-language-open"
-            data-umami-event={"JP Button"}
-          >
-            JP
-          </p>
-        )} */}
-        {/* {isDarkMode ? (
-          <p
-            onClick={() => setIsDarkMode()}
-            className="switch-darkmode-open"
-            style={{ color: "white" }}
-            data-umami-event="Light Mode Button"
-          >
-            Ω
-          </p>
-        ) : (
-          <p
-            onClick={() => setIsDarkMode()}
-            className="switch-darkmode-open"
-            style={{ color: "black" }}
-            data-umami-event="Dark Mode Button"
-          >
-            Ω
-          </p>
-        )} */}
+        <div className="sidebar-grid">{generateTableOfContents(isDarkMode, showJapanese)}</div>
       </div>
     );
   };
