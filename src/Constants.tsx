@@ -117,6 +117,7 @@ export const DefaultChapters: Chapter[] = [
     text: chap1Text,
     japaneseText: jpChap1Text,
     japaneseName: "の村ラハン",
+    /* hideInSidebar: true, */
     /* isCollapsable: true, */
     /* defaultCollapsed: true */
   },
@@ -126,7 +127,6 @@ export const DefaultChapters: Chapter[] = [
     text: chap2Text,
     japaneseText: jpChap2Text,
     japaneseName: "山道",
-    /* isCollapsable: true, */
   },
   {
     name: "House On a Hill",
