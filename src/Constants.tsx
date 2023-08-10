@@ -49,7 +49,7 @@ import chap40Text from "./text/chapters/40_Babel_Tower.txt";
 import chap41Text from "./text/chapters/41_Sky_City_Shevat.txt";
 import chap42Text from "./text/chapters/42_Intruder_Alert.txt";
 import chap43Text from "./text/chapters/43_Raid_of_Shevat.txt";
-import chap44Text from "./text/chapters/44_Gate1_Margie.txt";
+import chap44Text from "./text/chapters/44_Protect_Nisan.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -435,7 +435,7 @@ export const DefaultChapters: Chapter[] = [
     // japaneseName: SWAP_ME_OUT,
   },
   {
-    name: "Gate1 -Margie",
+    name: "Protect Nisan!",
     number: 44,
     text: chap44Text,
     japaneseText: SWAP_ME_OUT,
