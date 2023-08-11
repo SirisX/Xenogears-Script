@@ -1,0 +1,552 @@
+————————————————————————————
+Gate3 -The Deep - Thames Bridge - 1234
+————————————————————————————
+
+Captain
+"What's wrong?
+What do you need?
+Point x1507, z1235?
+Hans, does that sound
+familiar?"
+
+Hans
+"It's Sargasso point."
+
+Captain
+"What?
+The Sargasso?"
+
+Fei
+"Sargasso, what's that?"
+
+Captain
+"It's a cave formed from
+microbes over many years.
+It's supposed to have
+hidden treasure but no
+one's ever returned from
+there.
+The story is that the cave
+itself is alive. Are you
+going to the Sargasso?"
+
+Fei
+"It looks like it."
+
+Captain
+"Your Gears can't dive that
+deep. If they did, you
+would not be able to move.
+Equip your underwater gear
+here. Then take your ship
+as far as you can and dive
+in with your Gear.
+I'll go wake those
+winos up, right now."
+
+Fei
+"Really? It's okay with
+you? Thanks for always
+helping us out, Captain."
+
+Captain
+"Don't mention it."
+
+————————————————————————————
+
+Captain
+"It looks like
+they're done."
+
+Fei
+"That was fast."
+
+Captain
+"Of course.
+We're..."
+
+Fei
+"Men, of the sea, right?"
+
+Captain
+"Blimey. 
+I think he's got it.
+Take care then."
+
+Fei
+"Yeah."
+
+Captain
+"Oh yeah, I forgot to tell
+you how to operate them
+underwater.
+It's easy. You can jump in
+water without your feet
+touching the ground. Keep
+jumping to build up speed.
+You can swim pretty well in
+a Gear, but there may be
+places you can't get past
+if you don't do it well."
+
+Fei
+"Got it.
+Thanks."
+
+Captain
+"No need for thanks.
+Maybe you can buy something
+from our Gear shop. 
+Looks like there be some
+new booty to sell."
+
+————————————————————————————
+
+Hans
+"Since our work with the
+'Ethos' has deep sixed
+we've lost our 'porpoise'!
+Guess we'll just have to
+stick with wandering the
+seas and salvaging.
+Seems Thames will have to
+continue this haphazard
+lifestyle after all."
+
+————————————————————————————
+Yggdrasil III Bridge - 1186
+————————————————————————————
+
+Sigurd
+"Ready to go to Sargasso?"
+    Sure!
+    Wait a minute!
+
+————————————————————————————
+The 3rd Gate - 1616
+————————————————————————————
+
+Fei
+"Is this, 
+the 3rd gate......
+......?"
+
+Fei
+"Who are you?"
+
+Emeralda (*Not named ???)
+I will...
+kill you.
+
+Mysterious Gear
+"How do you do?
+I am a Rattan, one of the
+followers of Krelian.
+Please excuse me, I'd like
+to show you my face but as
+a result of the
+human-machine fusion..."
+
+Citan
+"You are the ones who left
+Kahr for the surface...
+You must have a good
+reason."
+
+Rattan
+"Our current task is
+totally about inspection
+of the evidence.
+It'll ruin everything if
+someone as dead to the
+world as he appeared here.
+A person who's calm and
+cool like myself would be
+perfect for the job.
+Oh, but don't worry.
+I'll just be inspecting
+here. Emeralda here, will
+take care of you."
+
+Emeralda
+"......Kill...you."
+
+————————————————————————————
+Ω Boss Fight - Emeralda in Crescens
+————————————————————————————
+
+Emeralda
+"Ki......m...?
+Ah, ah-a-a, I..."
+
+Rattan
+"...I see...
+Reckless...now that...
+You should view it as a
+release of...memory,
+or maybe a recording.
+It turned out just as
+Krelian said...
+It is a manifestation of
+the imprinting.
+At any rate, it is proven.
+With that, excuse me.
+I must report the results.
+Oh yes, go ahead and take
+the girl.
+Use her anyway you like.
+After all, she is your
+'daughter'..."
+
+Emeralda (*Added name here*???)
+Ah, a
+aha-a-a-a-a!!
+
+————————————————————————————
+Yggdrasil III Gun Room - 1170
+————————————————————————————
+
+Emeralda (*Added name*???)
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim!
+
+Fei
+"...
+...Let's...see..."
+
+Fei
+"What the hell is it
+saying?"
+
+Elly
+"..."
+
+Elly
+"Fei...?
+You mean, he resembles
+someone you know?"
+
+————————————————————————————
+-ALT-
+
+Elly
+"Does Fei resemble
+someone you know?"
+
+————————————————————————————
+
+Emeralda
+What do you mean by
+'resemble'? Kim is Kim?
+
+Elly
+"Kim? The person
+resembling Fei, right?
+Who is he? Is he the one
+who created you?"
+
+Emeralda
+What do you mean by
+'creating me'?
+Kim is Kim!
+Don't you see?
+
+Emeralda
+Kim! Kim! Kim! Kim! Kim!
+Kim! You're really here!
+I thought I was dreaming.
+The person in my dream.
+Yes, Kim! I was dreaming!
+A long long dream.
+
+Elly
+"Sounds like you
+resemble him. Someone
+important to her...
+probably the person
+who created her..."
+
+————————————————————————————
+-ALT-
+
+Elly
+"It seems you resemble
+him. Someone important
+to her...
+probably the person
+who created her..."
+
+————————————————————————————
+
+Fei
+"Huh...?"
+
+Fei
+"H, hey you.
+My name is Fei.
+Not Kim."
+
+Emeralda
+Now I know, Fei's Kim!
+Listen, listen, I was
+dreaming! A long long
+dream!
+
+Fei
+"...Kim is fine..."
+
+Citan
+"For her, 'Kim' means
+more than just a name.
+...More like...'father'."
+
+Fei
+"...Father?..."
+
+Citan
+"No, no, I mean it has
+general meaning."
+
+Emeralda
+Listen, listen, Kim!
+I was dreaming about 
+really old times.
+Kim was much older,
+and I was in some clear
+tube...
+Kim was...putting many 
+candles on a white soft
+confection...
+I didn't know why he
+was doing that...
+But I sensed he was 
+looking forward to me
+coming out of the tube...
+
+...
+But...soon everyone... 
+was gone...
+My body disappeared...
+Then I was in somewhere
+dark for a long...
+long time...
+
+Please! Promise you'll
+stay, Fei's Kim!?
+
+Fei
+"Huh?...Uh yeah."
+
+Emeralda
+Really?
+Really truly?
+
+Elly
+"Really."
+
+Emeralda
+Don't bother me!
+Who is this old lady?
+I'm talking to Kim!
+
+Elly
+"Old lady...!
+Maybe I should bury
+her back at the
+ocean floor..."
+
+Fei
+"Hey..."
+
+Elly
+"Why don't you be her
+Kim? The Fei...Kim!!"
+
+Fei
+"Umm..Oh...
+...By the way,
+do you have a name?"
+
+Emeralda
+Oh no! You're cruel,
+Fei's Kim!
+It's me, Emeralda,
+Emeralda!
+Kim named me because
+I have emerald hair!
+Don't you remember...?
+
+Fei
+"Okay, okay.
+Emeralda, right?
+Alright, Emeralda.
+I'll stay with you this
+time. I promise!"
+
+Emeralda
+"Really? Really truly?
+Yeah!"
+
+Citan
+"...I doubt Krelian acted
+on his own to use her as a
+disposable soldier.
+Some information existed
+in her which passed over
+to Krelian.
+Who knows what he will
+do next.
+We must find Solaris
+before that happens..."
+
+Received a telegram
+from Shevat!
+Due to a weakening
+gate, a city that
+may be Solaris has
+been discovered!!
+
+Citan
+"Perfect!!
+Let us go back to
+Shevat for now!"
+
+————————————————————————————
+Shevat - Queen Zephyr's Chamber - 1512
+————————————————————————————
+
+Zephyr (*??? added name*)
+We are finally able to
+locate and see Solaris
+after destroying the 3
+Gates on the surface.
+However, unless we destroy
+the final main generator on
+the Solaris homeland...
+...we cannot completely
+wipeout their Gate.
+
+Citan
+"Maria, this is where you
+and Seibzehn come in.
+Now that the Gate is
+weakened, we can use
+Seibzehn's heavy
+particle cannon...
+...to distort space
+and neutralize the Gate
+for a brief moment!
+Upon penetrating into
+Solaris, it would be best
+to move about...
+...in small groups so that
+we do not attract
+attention.
+Well, if possible I would
+like to..."
+
+Elly
+"Yes...
+I can guide you...
+through Solaris..."
+
+Fei
+"I'll go too. I'm a little
+concerned if it's Elly."
+
+Elly
+"What are you...?
+Wait, I didn't mean it
+like..."
+
+Citan
+"Understood!
+Then Elly, Fei, and I will
+move about together.
+The rest will form a
+separate group to sneak in.
+Maria, it looks like you
+and Seibzehn will wait
+outside on standby."
+
+Maria
+"Fine...
+I understand."
+
+Citan
+"Well, let us break up
+for now.
+Once you are all ready,
+we should all meet here
+before we take off..."
+
+————————————————————————————
+Shevat Gazebo Tower - 1518
+————————————————————————————
+
+Yui
+"You're going aren't
+you... To Solaris..."
+
+Citan
+"Yes...
+I have chosen my own path.
+There is no turning
+back..."
+
+Yui
+"You will be hurt...
+They will also be hurt..."
+
+Citan
+"Indeed...
+But I could not find any
+other path to choose...
+If I happen to be overcome
+by the dark side... At
+that point, I have
+already..."
+
+Yui
+"Don't say anything more.
+I already know..."
+
+Yui
+"Now, here.
+This is your sword...
+Please...
+Please come back alive!"
+
+Citan
+"Then you too...
+Please take care of
+Midori."
+
+————————————————————————————
+Shevat Palace Corridor - 1510
+————————————————————————————
+
+Listen, Hyuga.
+I'm going to Solaris, too.
+
+Jessie
+"Don't misunderstand me.
+It doesn't mean I'll help
+you.
+I don't know what you're
+thinking or trying to
+do...
+But, if you take their
+side, I'll kill you without
+a doubt. Even from the
+back..."
+
+Citan
+"Yes...
+I will be counting on
+that."
+
+Jessie
+"Heh...
+so discouraging..."
