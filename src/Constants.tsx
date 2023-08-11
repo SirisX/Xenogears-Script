@@ -52,6 +52,7 @@ import chap43Text from "./text/chapters/43_Raid_of_Shevat.txt";
 import chap44Text from "./text/chapters/44_Protect_Nisan.txt";
 import chap45Text from "./text/chapters/45_Gate1_Margie.txt";
 import chap46Text from "./text/chapters/46_Gate2_Babel.txt";
+import chap47Text from "./text/chapters/47_Gate3_The_Deep.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -454,6 +455,13 @@ export const DefaultChapters: Chapter[] = [
     name: "Gate2 -Babel",
     number: 46,
     text: chap46Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Gate3 -The Deep",
+    number: 47,
+    text: chap47Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
