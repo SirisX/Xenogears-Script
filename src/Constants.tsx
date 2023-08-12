@@ -74,18 +74,18 @@ export const SIDEBAR_WIDTH = "0";
 
 export const DefaultChapters: Chapter[] = [
   {
-    name: "Title",
+    name: "Xenogears",
     number: -4,
     text: headerText,
     japaneseText: jpHeaderText,
-    japaneseName: "Title",
+    japaneseName: "ゼノギアス",
   },
   {
-    name: "ContentsHeader",
+    name: "Contents",
+    japaneseName: "Contents",
     number: -3,
     text: contentsHeader,
     japaneseText: contentsHeader,
-    hideInSidebar: true,
   },
   {
     name: "Contents",
@@ -93,6 +93,7 @@ export const DefaultChapters: Chapter[] = [
     text: contentsText,
     japaneseText: jpContentsText,
     japaneseName: "Contents",
+    hideTitle: true,
   },
   {
     name: "Quote",
@@ -100,6 +101,7 @@ export const DefaultChapters: Chapter[] = [
     text: quoteText,
     japaneseText: jpQuoteText,
     hideInSidebar: true,
+    hideTitle: true,
   },
   {
     name: "Opening Movie",
@@ -107,14 +109,14 @@ export const DefaultChapters: Chapter[] = [
     text: openingMovieText,
     japaneseText: jpMovieText,
     japaneseName: "オープニング",
-    defaultCollapsed: true
+    defaultCollapsed: true,
   },
   {
     name: "Prologue",
     number: 0,
     text: prologueText,
     japaneseText: jpPrologueText,
-    japaneseName: "プロローグ",
+    japaneseName: "プロローグ",    
   },
   {
     name: "Lahan Village",

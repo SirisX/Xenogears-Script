@@ -3,7 +3,11 @@ import "./MainPage.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import Sidebar from "./Sidebar";
-import { generateChapterClass, generateTableOfContents, handleStartDownload } from "./Utils";
+import {
+  generateChapterClass,
+  generateTableOfContents,
+  handleStartDownload,
+} from "./Utils";
 
 const MainPage = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
@@ -29,10 +33,12 @@ const MainPage = () => {
 
         const newUIChapter: UIChapter = {
           name: chapter.name,
+          japaneseName: chapter.japaneseName ?? chapter.name,
           number: chapter.number,
           text: englishText,
           japaneseText: jpText,
           isCollapsable: chapter.isCollapsable ?? false,
+          hideTitle: chapter.hideTitle ?? false,
           isExpanded:
             chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
         };
@@ -69,6 +75,12 @@ const MainPage = () => {
           className={chapter.isExpanded ? `chapter-visible` : `chapter-hidden`}
           style={{ color: isDarkMode ? "white" : "black" }}
         >
+          {!chapter.hideTitle && (
+            <h1 className="chapter-title-header">
+              {showJapanese ? chapter.japaneseName : chapter.name}
+            </h1>
+          )}
+
           {showJapanese ? chapter.japaneseText : chapter.text}
           {index === 0 && (
             <p
@@ -91,7 +103,6 @@ const MainPage = () => {
     );
   };
 
-
   const handleChangeDarkMode = () => {
     if (isDarkMode) {
       document.body.style.setProperty("background-color", "white");
@@ -100,7 +111,7 @@ const MainPage = () => {
       document.body.style.setProperty("background-color", "black");
       setIsDarkMode(true);
     }
-  }
+  };
 
   const handleChangeLanguage = () => {
     if (showJapanese) {
@@ -108,7 +119,7 @@ const MainPage = () => {
     } else {
       setShowJapanese(true);
     }
-  }
+  };
 
   const handleChangeSidebar = () => {
     if (showSidebar) {
@@ -116,7 +127,7 @@ const MainPage = () => {
     } else {
       setShowSidebar(true);
     }
-  }
+  };
 
   return (
     <div

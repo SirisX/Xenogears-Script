@@ -15,11 +15,14 @@
   justify-content: center;
 }
 
-.text-header {
-  padding: 0;
+.chapter-title-header {
+  /* padding: 0; */
+  font-family:'Xenogears', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
-  font-size: 125%;
-  font-weight: 700;
+  font-size: 1.3rem;
+  opacity: 0.9;
+  /* font-size: 125%; */
+  font-weight: 400;
 }
 
 .chapter-text {
