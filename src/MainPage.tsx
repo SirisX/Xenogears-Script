@@ -3,11 +3,7 @@ import "./MainPage.css";
 import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import Sidebar from "./Sidebar";
-import {
-  generateChapterClass,
-  generateTableOfContents,
-  handleStartDownload,
-} from "./Utils";
+import ChapterSection from "./ChapterSection";
 
 const MainPage = () => {
   const [chapterText, setChapterText] = useState<UIChapter[]>([]);
@@ -59,47 +55,13 @@ const MainPage = () => {
 
   const generateSection = (chapter: UIChapter, index: number) => {
     return (
-      <div
-        className={generateChapterClass(index)}
-        id={`chapter${DefaultChapters[index].number}`}
-      >
-        {chapter.isCollapsable && (
-          <button
-            className="chapter-button"
-            onClick={() => handleExpandChapter(index)}
-          >
-            {chapter.isExpanded ? "-" : "+"}
-          </button>
-        )}
-        <div
-          className={chapter.isExpanded ? `chapter-visible` : `chapter-hidden`}
-          style={{ color: isDarkMode ? "white" : "black" }}
-        >
-          {!chapter.hideTitle && (
-            <h1 className="chapter-title-header">
-              {showJapanese ? chapter.japaneseName : chapter.name}
-            </h1>
-          )}
-
-          {showJapanese ? chapter.japaneseText : chapter.text}
-          {index === 0 && (
-            <p
-              className="download-link"
-              data-umami-event={
-                showJapanese ? "Download Link (JP)" : "Download Link (EN)"
-              }
-              onClick={() => handleStartDownload(showJapanese)}
-            >
-              {showJapanese
-                ? "フルスクリプトをダウンロード"
-                : "Download Full Script"}
-            </p>
-          )}
-          <div className="chapter-text-intro">
-            {index === 1 && generateTableOfContents(isDarkMode, showJapanese)}
-          </div>
-        </div>
-      </div>
+      <ChapterSection
+        chapter={chapter}
+        index={index}
+        isDarkMode={isDarkMode}
+        showJapanese={showJapanese}
+        expandChapter={handleExpandChapter}
+      ></ChapterSection>
     );
   };
 
