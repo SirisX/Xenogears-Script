@@ -28,7 +28,7 @@ const Sidebar = ({
         }}
       >
         <div className="sidebar-grid">
-          {generateTableOfContents(isDarkMode, showJapanese)}
+          {generateTableOfContents(isDarkMode, showJapanese, true)}
         </div>
       </div>
     );

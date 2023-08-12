@@ -5,6 +5,7 @@ export interface Chapter {
     text: string,
     japaneseText: string;
     hideInSidebar?: boolean;
+    hideInMainContents?: boolean;
     hideTitle?: boolean;
     isCollapsable?: boolean;
     defaultCollapsed?: boolean;

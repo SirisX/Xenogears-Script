@@ -13,10 +13,14 @@ export const generateChapterName = (chapter: Chapter, showJapanese: boolean) => 
   return chapter.name;
 };
 
-export const generateTableOfContents = (isDarkMode: boolean, showJapanese: boolean) => {
+export const generateTableOfContents = (isDarkMode: boolean, showJapanese: boolean, isSidebar: boolean) => {
   return DefaultChapters.map((chapter: Chapter) => {
     //Hide certain chapters from the sidebar
-    if (chapter.hideInSidebar) {
+    if (isSidebar && chapter.hideInSidebar) {
+      return;
+    }
+
+    if (!isSidebar && chapter.hideInMainContents) {
       return;
     }
 

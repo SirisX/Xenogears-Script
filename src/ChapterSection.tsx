@@ -61,7 +61,7 @@ const ChapterSection = ({ chapter, isDarkMode, showJapanese, index, expandChapte
           </p>
         )}
         <div className="chapter-text-intro">
-          {index === 1 && generateTableOfContents(isDarkMode, showJapanese)}
+          {index === 1 && generateTableOfContents(isDarkMode, showJapanese, false)}
         </div>
       </div>
     </div>
