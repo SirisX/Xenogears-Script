@@ -94,6 +94,7 @@ export const DefaultChapters: Chapter[] = [
     japaneseText: jpContentsText,
     japaneseName: "Contents",
     hideTitle: true,
+    hideInSidebar: true,
   },
   {
     name: "Quote",
