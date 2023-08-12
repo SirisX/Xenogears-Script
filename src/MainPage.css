@@ -15,6 +15,17 @@
   justify-content: center;
 }
 
+.xenogears-title {
+  font-family: "Xenogears";
+  /* padding: 0; */
+  text-align: center;
+  font-size: 1.6rem;
+  opacity: 0.9;
+  /* font-size: 125%; */
+  font-weight: 600;
+  max-width: 438px;
+}
+
 .chapter-title-header {
   /* padding: 0; */
   text-align: center;
@@ -22,7 +33,7 @@
   opacity: 0.9;
   /* font-size: 125%; */
   font-weight: 600;
-  max-width: 440px;
+  max-width: 438px;
 }
 
 .chapter-text {
@@ -121,7 +132,7 @@
 
 /* Collapsable Chapters */
 .chapter-hidden {
-  max-height: 80px;
+  max-height: 50px;
   overflow-y: scroll;
   overflow-x: hidden;
 }

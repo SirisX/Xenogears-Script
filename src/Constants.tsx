@@ -125,8 +125,8 @@ export const DefaultChapters: Chapter[] = [
     text: chap1Text,
     japaneseText: jpChap1Text,
     japaneseName: "の村ラハン",
+    // isCollapsable: true
     /* hideInSidebar: true, */
-    /* isCollapsable: true, */
     /* defaultCollapsed: true */
   },
   {
@@ -268,6 +268,7 @@ export const DefaultChapters: Chapter[] = [
     text: chap20Text,
     hideInSidebar: true,
     defaultCollapsed: true,
+    isCollapsable: true,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: "緋の鬼神",
   },
