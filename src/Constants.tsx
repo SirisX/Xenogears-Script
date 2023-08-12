@@ -79,6 +79,7 @@ export const DefaultChapters: Chapter[] = [
     text: headerText,
     japaneseText: jpHeaderText,
     japaneseName: "ゼノギアス",
+    hideTitle: true,
     hideInMainContents: true
   },
   {
@@ -272,6 +273,7 @@ export const DefaultChapters: Chapter[] = [
     number: 20,
     text: chap20Text,
     hideInSidebar: true,
+    hideInMainContents: true,
     defaultCollapsed: true,
     isCollapsable: true,
     japaneseText: SWAP_ME_OUT,

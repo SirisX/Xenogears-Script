@@ -17,8 +17,13 @@ interface ChapterSectionProps {
   expandChapter: (index: number) => void;
 }
 
-const ChapterSection = ({ chapter, isDarkMode, showJapanese, index, expandChapter }: ChapterSectionProps) => {
-
+const ChapterSection = ({
+  chapter,
+  isDarkMode,
+  showJapanese,
+  index,
+  expandChapter,
+}: ChapterSectionProps) => {
   const handleExpandChapter = (index: number) => {
     expandChapter(index);
   };
@@ -40,12 +45,16 @@ const ChapterSection = ({ chapter, isDarkMode, showJapanese, index, expandChapte
         className={chapter.isExpanded ? `chapter-visible` : `chapter-hidden`}
         style={{ color: isDarkMode ? "white" : "black" }}
       >
+        {chapter.number === -4 && (
+          <h1 className="xenogears-title">
+            {showJapanese ? chapter.japaneseName : chapter.name}
+          </h1>
+        )}
         {!chapter.hideTitle && (
           <h1 className="chapter-title-header">
             {showJapanese ? chapter.japaneseName : chapter.name}
           </h1>
         )}
-
         {showJapanese ? chapter.japaneseText : chapter.text}
         {index === 0 && (
           <p
@@ -61,7 +70,8 @@ const ChapterSection = ({ chapter, isDarkMode, showJapanese, index, expandChapte
           </p>
         )}
         <div className="chapter-text-intro">
-          {index === 1 && generateTableOfContents(isDarkMode, showJapanese, false)}
+          {index === 1 &&
+            generateTableOfContents(isDarkMode, showJapanese, false)}
         </div>
       </div>
     </div>

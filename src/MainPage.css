@@ -15,18 +15,6 @@
   justify-content: center;
 }
 
-/* unused title font */
-.xenogears-title {
-  font-family: "Xenogears";
-  /* padding: 0; */
-  text-align: center;
-  font-size: 1.6rem;
-  opacity: 0.9;
-  /* font-size: 125%; */
-  font-weight: 600;
-  max-width: 438px;
-}
-
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
