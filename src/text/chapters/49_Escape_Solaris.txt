@@ -1,0 +1,659 @@
+————————————————————————————
+Escape Solaris - Solaris 3rd Class F Block - 1644
+————————————————————————————
+
+Samson (*???add*)
+(...hey...
+It's me...me. 
+Ready to go?
+
+————————————————————————————
+Solaris 3rd Class Entry Room - 1630
+————————————————————————————
+
+Samson
+"From here on, it'll
+be better if we split up.
+It's a maze so be careful."
+
+Fei
+"Yeah, you too..."
+
+Elly
+"Are we really going to
+be okay?"
+
+————————————————————————————
+Solaris 3rd Class Level Scanning Gate - 1632
+————————————————————————————
+
+Samson
+"Not bad. I think I'll
+let myself go on ahead!"
+
+Elly
+"Wait! 
+You're not a Gazel! 
+What're you going to do?"
+
+Samson
+"Not a problem. I used 
+undergound tech to
+re-write my ID."
+
+Elly (*???add*)
+...
+
+>>>ID error. (*???change ]]] to >>>)
+Eliminate.
+
+Fei (*???add*)
+Samson!!
+
+Samson (*???add*)
+W, wait!!
+Ughaaaaaahhh!
+
+Fei (*???add*)
+!!
+
+...
+
+Fei
+"Damn you!!
+I'm gonna destroy it!!"
+
+Elly (*???add*)
+No!
+
+Fei (*???add*)
+Waah!!
+
+Elly
+"It's useless to do that.
+You won't be able to get
+through without either a
+1st Class citizen ID or 
+a military ID..."
+
+Fei
+"Then what're we going
+to do...?"
+
+Elly
+"Well we can't just stand
+here...
+I guess it's going to have
+to be all or nothing."
+
+Fei
+"If it doesn't work out,
+we'll worry about it
+later...is what you're
+saying? Isn't that kinda
+sounding like Bart?"
+
+Fei
+"How rude. It's not
+like I always go in
+without a plan."
+
+>>>1st Class citizen, (*???change ]]] to >>>)
+Gazel, confirmed. Please
+pass through in an
+orderly fashion.
+
+Fei
+"We can get through!"
+
+Elly
+"..."
+
+Fei
+"?
+What's wrong?"
+
+Elly
+"Huh? Uh well... 
+I've done so much, I'm
+surprised they haven't
+labeled me as a
+traitor yet..."
+
+Fei
+"You think it's because
+they haven't reported it?
+To the Gebler, it would
+be like admitting failure
+and all."
+
+Elly
+"I hope so..."
+
+Fei
+"Anyway, let's go!!"
+
+Elly
+"Okay. Oh, stay very
+close to me.
+That way,
+it shouldn't pick up
+your presence."
+
+————————————————————————————
+???
+
+Elly
+"Fei, where are you
+going?"
+
+————————————————————————————
+Solaris 2nd Class Level - 1662
+————————————————————————————
+
+Guard 1
+Hey! Why are you coming
+out of there!? Come over
+here!
+
+Elly
+"I'm an Imperial Special
+Forces lieutenant,
+Elhaym Van Houten.
+I have just completed
+the collection of the
+special levy of the 3rd
+Class level.
+I am now in the process
+of taking this surface
+dweller back to HQ.
+Any problems with that?"
+
+Guard 1
+(G, Gebler!?)
+
+N, no, no problems...
+Please, go on.
+
+————————————————————————————
+
+Man 1
+The one behind you 
+is the Gebler? 
+I heard the Lambs destroyed
+the gate...
+Is everything okay?
+    It's okay
+    It's questionable
+
+Whew, what a relief.
+
+————————————————————————————
+
+Wha? Now now,
+quit jokin'. 
+That's impossible!
+
+————————————————————————————
+
+Woman 1
+You've got a lot of guts
+going into an area full
+of those barbarians... 
+Only a Gebler could 
+do that
+
+Man 2
+This is the problem
+with government offices
+...grumble...grumble...
+
+————————————————————————————
+Solaris 2nd Class Main - 1624
+————————————————————————————
+
+Man 1
+As a service to citizens,
+we now are accepting data
+for the marriage service.
+The Central Control Bureau
+will pick the very best
+match for you. 
+Our motto is 'Good matches
+make good descendants'.
+We are the seed that came
+from it, so of course we 
+are the best.
+
+Woman 1
+...
+You look rather odd.
+3rd Class citizens should
+dress more appropriate.
+
+Little Boy 1
+Whaddya think of these
+Pogoshoes? 
+They were made from
+the newest technology.
+They don't put stress
+on your spine, they're
+the best.
+The Imperial model is a
+super cool ultra rare
+item.
+
+Guard 1
+Danger ahead.
+
+Man 2
+You can get whatever
+you want here.
+Look, I should have lost
+this arm in an accident,
+but with Solaris' biosampling
+Look, no scar.
+There are none of the 
+crimes, disasters or wars
+like on earth.
+Science makes everything
+possible for us.
+
+Man 3
+The Dedication is 
+starting soon.
+
+Guard
+These are special seats 
+for the Dedication. 
+Huh? No ticket?
+You can't go in...
+
+Elly
+"Dedication ceremony...
+Solaris is probably not 
+doing so well now."
+
+Fei
+"Huh? 
+Why do we have to watch
+this? 
+We decided to meet
+everyone. We don't have
+time to go this
+festival."
+
+Elly
+"This is no ordinary 
+festival.
+The people are disturbed
+by the gate's
+disappearance.
+The dedication is probably
+to quell the masses.
+We must check Solaris'
+stance against land 
+dwellers.
+Fei, 
+we need to get tickets."
+
+Fei
+"Yeah? 
+I guess we have to get 
+some info on the enemy..."
+
+Elly
+"Hurry up. 
+There's not much time 
+till the Dedication."
+
+————————————————————————————
+Solaris 2nd Class Market - 1666
+————————————————————————————
+
+Son
+Wow, you got me that
+Battling Alloy!! 
+When I grow up I'm gonna
+join Gebler too!
+ 
+Father
+My son bugged me so 
+much I just had to get
+him a Hybrid Alloy.
+I'll be so proud if joins
+Gebler when he grows up.
+
+Clerk 1
+Which one?
+
+Man 1
+...
+
+I'm so indecisive, 
+I don't know what to buy. 
+Don't bother me.
+
+Woman 1
+There's so many Imperial
+models out now.
+It's a limited edition, 
+so I gotta buy it!"
+
+Clerk 2
+This is Ticketmeister.
+What are you looking for?
+    Tickets
+    Buy and sell
+    Nothing
+
+VIP seating for the 
+Dedication is all sold 
+out. Please enjoy
+it on Homevision.
+
+————————————————————————————
+-OPTION 2-
+
+We're giving out 
+Dedication tickets. 
+Please come to Room 21 
+in Etren Court.
+
+————————————————————————————
+
+Little Boy
+What? They don't have any
+Imperial model pogoshoes?
+I want them so badly too!
+
+Clerk 3
+Sir, I'm sorry. We just
+sold the last pair.
+
+Little Boy
+Waagghh!!
+
+Little Girl
+I want the Imperial 
+model too!!
+
+Little Boy
+This 'Imperial model' is
+pretty nice!
+
+Fei ???
+"Doesn't that say 
+'Impaired Model'?"
+
+Little Boy
+Huh?
+Wow, it does! 
+It must be a fake!
+
+Woman 2
+Hmm, what should I do...
+What do you think?
+    What about this one?
+    How about that one?
+
+You think so? 
+But you like weird 
+clothes too so...
+I'll take that one!
+
+————————————————————————————
+
+Hmmm, really?
+I'm getting more and
+more lost...
+
+————————————————————————————
+
+Woman 3
+Service in Solaris is 
+great, no matter how big
+something is, it's always
+there when you get home.
+
+Image of Woman Inside Tube (*???Added*)
+...
+I've seen that 
+somewhere before...
+
+Man 2
+There seems to be a big 
+struggle on the surface.
+But it has absolutely 
+nothing to do with us.
+As long as the Emperor is
+with us, we can live in
+peace. 
+Jumping out of a frying
+pan just might land you
+in the fire...
+That stupid Ramsus hasn't
+learned that yet.
+
+Man 3
+Just looking down and
+seeing the earth I think...
+Those poor souls can't
+live in this fine city.
+Even if they destroy the
+gate, it's all a waste
+of effort...
+Futile resistance from 
+those who will never
+reach our paradise.
+
+Man 4
+The Emperor will give 
+the speech himself.
+He can't stand to see our 
+confusion anymore so he 
+went out of the way to 
+make an appearance.
+We should be thankful.
+
+————————————————————————————
+Solaris 2nd Class Home - 1672
+————————————————————————————
+
+Dancer woman
+ One, two, three, four !!
+
+ One, two, one, two !!
+...I'm practicing dancing
+don't bug me!!
+
+————————————————————————————
+Solaris 2nd Class Residence - 1668
+————————————————————————————
+
+Father
+(I wanted a DK1200 doll...)
+
+Mother
+I want real plants...
+
+Father
+You can't buy real plants
+unless you're a 1st Class
+citizen. 
+...sigh...I'm so jealous.
+
+Little Girl
+This Alloy Imperial Gear
+dad bought me is so cool!
+It really flies!!
+'Purge the Lambs!!'
+Wow!
+
+————————————————————————————
+Solaris 2nd Class Residence 2 *TICKETS* - 1670
+————————————————————————————
+
+Man
+Even Solaris' advanced
+science can't halt aging.
+But they say the powerful
+have overcome it...
+They already have great
+descendants, what more do
+they want?
+Don't you agree?
+
+Woman
+I came to see the Emperor,
+and strained my back...
+They can cure almost
+anything but a bad back.
+And after putting up with
+all that to get tickets...
+
+Hey, you kids.
+Need tickets to the Dedication?
+Kids like you really should
+go see it!
+    Please
+    No thanks
+
+Received Dedication tickets.
+
+Forget the money. Just
+hurry or you'll miss it.
+I'm going to watch it
+on Homevision.
+
+————————————————————————————
+-OPTION 2-
+
+Woman
+Weird kids...
+Better take them before
+I change my mind.
+You can't get them at
+Ticketmeister.
+
+————————————————————————————
+???
+
+Woman
+Huh? You're the kids
+I gave the tickets to!
+You're still here? You're
+gonna miss the Dedication!
+————————————————————————————
+-AFTER- Going to the Dedication
+
+Woman???
+How was the Dedication? 
+It must have been a lot
+better from the VIP seats.
+
+————————————————————————————
+Solaris 2nd Class Home 3 - 1674
+————————————————————————————
+
+Man
+Go and save on that
+memory cube.
+You can rest easy if you 
+send your data to the
+Central Control Bureau
+regularly.
+I've heard they're
+lying around on the
+ground in places for
+data collecting.
+
+————————————————————————————
+Solaris 2nd Class Main - 1624
+————————————————————————————
+
+Woman 1
+Are you Etrenstrolling? 
+What? Etrenstrolling
+is walking along the 
+Etrenank. 
+You need to download the
+Etren Guide to do it.
+Central Control always
+has fun things.
+It's their job to keep 
+the citizens happy.
+
+Little Boy
+Yaay! The Emperor!
+
+Woman 2
+You have a ticket? 
+You'd better hurry to 
+make it on time!
+
+Guard
+You have a ticket. 
+Alright, go on through. 
+Better hurry or you won't
+make it in time.
+
+————————————————————————————
+Solaris 2nd Class Arbot Plaza - 1642
+	Emperor Cain (*???add*)
+     My beloved children, you
+     can be at ease. The Gazel
+     Ministry and I planned
+     the destruction of the
+     gate long ago.
+     The people chosen by god...
+     we, the Gazel, will return
+     to god's paradise. To the
+     sleeping mother god...
+     The time for our
+     immortality has come.
+     We have opened the the door
+     to 'Mahanon'...the place
+     where god rests, the source
+     of wisdom and power. The
+     surface dwellers will no
+     doubt use this opportunity
+     to seize its power.
+     However, there is no need
+     to be concerned...
+     As long as Solaris has
+     this power...
+
+————————————————————————————
+Solaris Arbot Plaza Wide Shot - 1634
+————————————————————————————
+
+   Emperor Cain (*???add*)
+   Let's show stupid beasts,
+   the Lambs our real power.
+
+————————————————————————————
+Solaris Arbot Plaza - 1664
+————————————————————————————
+
+Fei
+"Elly...?
+Hey, Elly!"
+
+Elly
+"Sorry...
+Did you say something?"
+
+Fei
+"'Did I say something?'?
+Are you okay?
+You're zoning. 
+Your mind's not here."
+
+Elly
+"S,sorry.
+I was just thinking.
+And this crowd's noisy."
+
+Fei (*???add*)
+??

@@ -1,0 +1,519 @@
+————————————————————————————
+Krelian's Lab - Solaris Waste Facility - 1694
+————————————————————————————
+???
+
+Fei
+"Phew, we barely escaped
+from getting trashed."
+
+————————————————————————————
+
+Fei
+"It hurts, dammit."
+
+————————————————————————————
+Solaris Storage Room - 1700
+————————————————————————————
+
+Fei
+"Wow!
+There's some food here."
+
+Fei
+"Let's have a bite here."
+
+Elly
+"You're right...
+We don't know what'll
+happen, so we shouldn't
+ask too much."
+
+Fei
+"What about you, doc?"
+
+Citan
+"No, I am fine thank you."
+
+Fei
+"Are you sure?
+Then, excuse us..."
+
+Fei
+"Let's eat."
+
+Elly
+"Let's eat."
+
+Fei
+"Whew,
+I'm full."
+
+Fei
+"Well then,
+let's go!"
+
+————————————————————————————
+???
+
+Fei
+"That reminds me...
+I'm hungry..."
+
+Fei
+"Whoa...
+I can't eat anymore..."
+
+————————————————————————————
+Solaris Waste Facility Conveyor Belts - 1708
+————————————————————————————
+
+Fei
+"Is this...
+what we ate earlier...?"
+
+Elly
+"I see...
+The medicine we normally
+use is made here..."
+
+————————————————————————————
+
+Foreign object detected,
+discharging object.
+
+Fei
+"Damn, 
+we can't go forward."
+
+Citan
+"The sensor control room
+should have been there."
+
+Citan
+"If you turn off the
+foreign object detector,
+you will be able to move
+forward."
+
+————————————————————————————
+Solaris Facility Object Scanner - 1706
+————————————————————————————
+
+    Input code
+    Quit
+
+    1
+    2
+    3
+    4
+    End inputting
+
+Foreign object scanner: ON
+
+Foreign object scanner: OFF
+
+Foreign object scanner: 
+Lock-off code [0101]
+
+Lock-off code data is in
+the Data Room on the other
+side.
+
+————————————————————————————
+Solaris Waste Facility Conveyor Belts - 1708
+————————————————————————————
+
+Elly
+"I wonder...
+what kind of meat
+this is...?"
+
+Fei
+"Yak...
+I don't want to see
+where they make it."
+
+Citan
+"Wait, Fei."
+
+Citan
+"You ate that food.
+Consider that fact when
+you open that door."
+
+Elly
+"What about that
+canned food?"
+
+Fei
+"What is it...?
+What's supposed to be...
+there, exactly?"
+
+Citan
+"See for yourselves."
+
+————————————————————————————
+Solaris Meat Facility - 1710
+————————————————————————————
+
+Fei
+"Th...this...
+can't be..."
+
+Elly
+"No...
+You must be kidding..."
+
+Elly
+"Uh..."
+
+Fei
+"What...is this...
+What...the hell is this...!!
+
+Fei
+"Wo-o-o-o-o-!"
+
+Citan
+"Soylent System.
+The organism experiment
+lab and its disposal
+facility in Solaris."
+
+Citan
+"And the production facility
+for food and medicine to
+maintain the Limiter seal.
+Aquvy's Wels Reapers
+were also made here."
+
+Citan
+"Elly, do you remember
+Dominia's words during our
+infiltration of Shevat?
+Here is the answer.
+People of her native
+country served as one of
+the origins for Wels...
+the M plan.
+They were used that
+way because of their
+peculiar abilites.
+She is the last survivor.
+Elly, your father, Erich
+used to be the
+superintendent of this
+facility.
+He was involved
+in the research with
+Maria's father.
+
+Elly
+"Don't be ridiculous!
+My father'd never take
+part in such a thing!"
+
+Citan
+"Naturally, Erich always
+had pangs of guilt.
+So he kept as many land
+dwellers as possible under
+his protection as 3rd
+Class citizens.
+Then he resigned.
+That's why he is on the
+administrative staff of
+the Special Forces now."
+
+Elly
+My father...
+did that...
+No, it can't be true..."
+
+Citan
+"Now, get up, Fei.
+Get up and look it over..."
+
+Fei
+"Could...this be...true...?
+Doc..."
+
+Citan
+"..This is reality."
+
+Citan
+"Let's go."
+
+————————————————————————————
+
+Citan
+"To end a person's life,
+and then consume their
+flesh.
+Is that, permissible...?"
+
+————————————————————————————
+Solaris Memory Cube Facility - 1754
+————————————————————————————
+
+Elly
+"What's this!?
+Memory cube data!?"
+
+Fei
+"Is it the thing we
+usually use to save?"
+
+Citan
+"The information of all
+the people who have
+accessed the memory cube
+from all over the world
+is being sent here now."
+
+Elly
+"This facility is the
+Integration Control
+Center?"
+
+Fei
+"What's it for...?"
+
+————————————————————————————
+Solaris Gear Hangar - 1750
+————————————————————————————
+
+Elly
+"What...is this
+thing...?"
+
+Fei
+"A...Gear!?"
+
+Elly
+"No...
+Look! The surface of the
+armor isn't segmented...
+It's the same as Bart's
+Gear Andvari and the
+Gear we saw in Shevat...
+It's an Omnigear!"
+
+Fei
+"But, this thing is huge!"
+
+Elly
+"Yes. It's got to be
+around 3 times as
+powerful as our Gears."
+
+Citan
+"So...This is Solaris'
+Omnigear."
+
+————————————————————————————
+Solaris Experimental Lab - 1746
+————————————————————————————
+
+Green Man
+Yo!
+Long time.
+
+It's me.
+The one who owned that
+dog in Kislev...
+
+...I may look like this, 
+but the dog's doing fine...
+
+...Please, don't think
+about letting me out...
+...even though I'm still
+conscious...eventually...
+I'll...
+
+————————————————————————————
+Solaris Security System Controls - 1756
+————————————————————————————
+???
+
+Security system is
+deactivated.
+
+Security system
+lock OFF
+
+————————————————————————————
+Solaris - Control Panel - 1728
+————————————————————————————
+
+It's probably controlled
+by that adjacent panel.
+
+    Down?
+    No
+
+————————————————————————————
+Solaris Audio Signal Room - 1784
+————————————————————————————
+
+Fei
+"What's that sound?"
+
+Citan
+"That is..."
+
+Citan
+"It is probably an audio
+signal password."
+
+————————————————————————————
+Solaris Sound Lock Door - 1736
+————————————————————————————
+
+Fei
+"What is this?"
+
+Fei
+"I have no idea."
+
+Citan
+"Hmm..."
+
+Citan
+"There must be a password
+in one of the rooms."
+
+————————————————————————————
+
+Citan
+"That sound we heard in the
+other room is the password."
+
+There is a console for
+inputting the password.
+    Input
+    Don't
+
+Activate the audio signal
+with the Up, Down, Left and
+Right Directional buttons.
+Press <X> button to finish.
+Press <C> button to  exit.
+Please enter signal now...
+
+————————————————————————————
+
+Incorrect password.
+Please input the correct signal.
+
+Cancel inputting?
+    Quit
+    Don't quit
+
+————————————————————————————
+
+Audio signal confirmed.
+Deactivating door lock.
+
+————————————————————————————
+Solaris Data Analysis Room - 1766
+————————————————————————————
+
+Fei
+"What is this place?"
+
+Elly
+"H, holograms of us...!?"
+
+Fei
+"Why are there holograms
+of us in a Solaris place?"
+
+————————————————————————————
+
+<S> Fei
+ Lambs Number 001589750
+ Fei Fong Wong
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Contact.
+ Immediate disposal desired.
+
+<S> Elly
+ Minister Number 6920188-2
+ Elhaym Van Houten
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Possible Antitype.
+ Approval for retrieval and
+ necessary analysis granted.
+
+<S> Citan
+ Lambs Number 584921547
+ Hyuga Ricdeau
+ Ether Response...240
+ Anims Alignment...98
+ Comments
+ None.
+
+<S> Bart
+ Lambs Number 221589542
+ Bartholomew Fatima
+ Ether Response...210
+ Anima Alignment...90
+ Comments
+ Upon 'Dan' Anima's
+ retrieval, schedule for
+ Animus adjustment.
+
+<S> Billy
+ Minister Number 321658-11
+ Billy Black
+ Ether Response...290
+ Anima Alignment...92
+ Comments
+ Schedule for Animus
+ adjustment.
+
+<S> Rico
+ Test Mixture Number 000-215914
+ Ricardo Banderas
+ Ether Response...160
+ Anima Alignment...85
+ Comments
+ Created by the 'Ethos' as
+ an a experimental mixture.
+ Used by the Kislev Battling
+ Assoc. to measure battle
+ potential. The data has
+ been transferred. Schedule
+ for Animus adjustment.
+
+<S> Emeralda
+ Codename Emeralda
+ Ether Response...N/A
+ Anima Alignment...None
+ Comments Nanomachine Colony.
+ Data analysis complete.
+ Annul and dispose.
+
+<S> Chu-Chu
+ Primitive Animal
+ Ether Response...N/A
+ Anima Alignment...N/A
+ Comments
+ Unusable.
+ Annul and dispose.
+
+<S> Maria
+ Lambs Number 54109854
+ Maria Balthasar
+ Ether Response...170
+ Anima Alignment...74
+ Comments
+ Unusable.
