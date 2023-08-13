@@ -23,7 +23,7 @@
 
 .chapter-text {
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   white-space: pre-wrap;
   justify-self: center;
   margin-top: 32px;
@@ -36,7 +36,7 @@
 
 .chapter-text-intro {
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   white-space: pre-wrap;
   margin-bottom: 32px;
   column-count: 2;
@@ -51,7 +51,7 @@
 
 .chapter-text-centered {
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   white-space: pre-wrap;
   max-width: 615px;
   margin-top: 32px;
@@ -62,7 +62,7 @@
 
 .chapter-0 {
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   white-space: pre-wrap;
   float: left;
 }
@@ -87,7 +87,7 @@
 .chapter-button {
   background-color: #890000;  
   opacity: 0.8;
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   font-weight: 700;
   color: white;
   border: none;
