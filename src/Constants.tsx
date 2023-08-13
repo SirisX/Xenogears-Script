@@ -53,6 +53,14 @@ import chap44Text from "./text/chapters/44_Protect_Nisan.txt";
 import chap45Text from "./text/chapters/45_Gate1_Margie.txt";
 import chap46Text from "./text/chapters/46_Gate2_Babel.txt";
 import chap47Text from "./text/chapters/47_Gate3_The_Deep.txt";
+import chap48Text from "./text/chapters/48_Into_Solaris.txt";
+import chap49Text from "./text/chapters/49_Escape_Solaris.txt";
+import chap50Text from "./text/chapters/50_Lone_Wolf.txt";
+import chap51Text from "./text/chapters/51_Krelians_Lab.txt";
+import chap52Text from "./text/chapters/52_Tears_for_Fears.txt";
+import chap53Text from "./text/chapters/53_Fall_of_Solaris.txt";
+import chap54Text from "./text/chapters/54_Shevats_Move.txt";
+import chap55Text from "./text/chapters/55_Broken_Ties.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -134,6 +142,7 @@ export const DefaultChapters: Chapter[] = [
     // isCollapsable: true
     /* hideInSidebar: true, */
     /* defaultCollapsed: true */
+    /* hideInMainContents: true, */
   },
   {
     name: "Mountain Path",
@@ -283,6 +292,7 @@ export const DefaultChapters: Chapter[] = [
     name: "Desert Despair Part 2",
     number: 20,
     hideInSidebar: true,
+    hideInMainContents: true,
     text: chap20Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: "緋の鬼神",
@@ -473,6 +483,62 @@ export const DefaultChapters: Chapter[] = [
     name: "Gate3 -The Deep",
     number: 47,
     text: chap47Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Into Solaris",
+    number: 48,
+    text: chap48Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Escape Solaris",
+    number: 49,
+    text: chap49Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Lone Wolf",
+    number: 50,
+    text: chap50Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Krelian's Lab",
+    number: 51,
+    text: chap51Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Tears for Fears",
+    number: 52,
+    text: chap52Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Fall of Solaris",
+    number: 53,
+    text: chap53Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Shevat's Move",
+    number: 54,
+    text: chap54Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Broken Ties",
+    number: 55,
+    text: chap55Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
