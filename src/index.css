@@ -1,7 +1,7 @@
 body {
   background-color: black;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Xenogears', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -15,5 +15,5 @@ code {
 
 @font-face {
   font-family: 'Xenogears';
-  src: local('Xenogears'), url(./fonts/Xenogears_font.ttf) format('truetype');
+  src: local('Xenogears'), url(./fonts/font-regular.otf) format('truetype');
 }
