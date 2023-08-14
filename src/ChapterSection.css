@@ -38,7 +38,7 @@
   color: white;
   font-size: 1.2rem;
   white-space: pre-wrap;
-  margin-bottom: 32px;
+  /* margin-bottom: 32px; */
   column-count: 2;
   column-gap: 0;
   justify-self: center;
@@ -54,8 +54,8 @@
   font-size: 1.2rem;
   white-space: pre-wrap;
   max-width: 615px;
-  margin-top: 32px;
-  margin-bottom: 32px;
+  /* margin-top: 32px; */
+  /* margin-bottom: 32px; */
   text-align: center;
   justify-self: center;
 }
