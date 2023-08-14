@@ -67,6 +67,10 @@
   float: left;
 }
 
+.chapter-2 {
+  padding-bottom: 70px;
+}
+
 .download-link {
   text-decoration: underline;
   color: #890000;
