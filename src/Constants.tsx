@@ -125,13 +125,15 @@ export const DefaultChapters: Chapter[] = [
     japaneseText: jpMovieText,
     japaneseName: "オープニング",
     defaultCollapsed: true,
+    hideTitle: true,
   },
   {
     name: "Prologue",
     number: 0,
     text: prologueText,
     japaneseText: jpPrologueText,
-    japaneseName: "プロローグ",    
+    japaneseName: "プロローグ",
+    hideTitle: true,
   },
   {
     name: "Lahan Village",
