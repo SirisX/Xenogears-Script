@@ -39,7 +39,7 @@
   white-space: pre-wrap;
   margin-bottom: 32px;
   column-count: 2;
-  column-gap: 64px;
+  column-gap: 0;
   justify-self: center;
   max-width: 100vw;
   display: grid;
