@@ -12,8 +12,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-@font-face {
-  font-family: 'Xenogears';
-  src: local('Xenogears'), url(./fonts/font-regular.otf) format('truetype');
-}
