@@ -119,7 +119,7 @@
 /* Rules for BIG screens only */
 @media (min-width: 540px) {
   .chapter-text {
-    width: 500px;
+    width: 450px;
     /*width: 426px; */
     font-size: 1.1rem;
     /* margin-left: 32px; */
