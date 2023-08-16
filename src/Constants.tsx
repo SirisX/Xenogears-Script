@@ -61,6 +61,19 @@ import chap52Text from "./text/chapters/52_Tears_for_Fears.txt";
 import chap53Text from "./text/chapters/53_Fall_of_Solaris.txt";
 import chap54Text from "./text/chapters/54_Shevats_Move.txt";
 import chap55Text from "./text/chapters/55_Broken_Ties.txt";
+import chap56Text from "./text/chapters/56_Shot_Down.txt";
+import chap57Text from "./text/chapters/57_Break_the_Seal.txt";
+import chap58Text from "./text/chapters/58_Soul_Vessel.txt";
+import chap59Text from "./text/chapters/59_The_Stars_Know.txt";
+import chap60Text from "./text/chapters/60_Above_Mahanon.txt";
+import chap61Text from "./text/chapters/61_Paradise.txt";
+import chap62Text from "./text/chapters/62_Promised_Land.txt";
+import chap63Text from "./text/chapters/63_Waiting_Death.txt";
+import chap64Text from "./text/chapters/64_Merkava_Calls.txt";
+import chap65Text from "./text/chapters/65_Dreams.txt";
+import chap66Text from "./text/chapters/66_Fallen_Star.txt";
+import chap67Text from "./text/chapters/67_Xenogears_Wakes.txt";
+import chap68Text from "./text/chapters/68_First_and_Last.txt";
 
 import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
@@ -543,6 +556,97 @@ export const DefaultChapters: Chapter[] = [
     name: "Broken Ties",
     number: 55,
     text: chap55Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Shot Down!",
+    number: 56,
+    text: chap56Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Break the Seal",
+    number: 57,
+    text: chap57Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Soul Vessel",
+    number: 58,
+    text: chap58Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "The Stars Know",
+    number: 59,
+    text: chap59Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Above Mahanon",
+    number: 60,
+    text: chap60Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Paradise",
+    number: 61,
+    text: chap61Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Promised Land",
+    number: 62,
+    text: chap62Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Waiting Death",
+    number: 63,
+    text: chap63Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Merkava Calls",
+    number: 64,
+    text: chap64Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Dreams...",
+    number: 65,
+    text: chap65Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Fallen Star",
+    number: 66,
+    text: chap66Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "Xenogears Wakes",
+    number: 67,
+    text: chap67Text,
+    japaneseText: SWAP_ME_OUT,
+    // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "First and Last",
+    number: 68,
+    text: chap68Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
   }
