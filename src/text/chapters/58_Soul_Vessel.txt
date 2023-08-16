@@ -1,0 +1,1342 @@
+————————————————————————————
+Soul Vessel - Fei in The Chair - 1840
+————————————————————————————
+
+Although the initial impact
+of being released from the
+-Limiter- seal caused some
+momentary chaos, everything
+slowly began to settle down.
+We then began to search for
+the 'Anima Relics'...
+the catalyst to transform
+Gears into Omnigears.
+ 
+In the past, ten Relics had
+been recovered...
+It is said that about half
+of those are in the hands
+of the Ministry.
+
+According to Zephyr, there
+should be several more
+Relics hidden in the land.
+ 
+We knew then that Solaris
+would most certainly be
+searching for them.
+ 
+There was no way we could
+allow Solaris to have them.
+We visited the place where,
+using archaic records, Zephyr
+and her people had been able
+to get clues on the where-
+abouts of the Relics.
+ 
+Following the information
+we obtained from there, we
+headed towards the ruins of
+what seemed to be an ancient
+civilization.
+
+————————————————————————————
+Anima Relic 1 Cavern - 1862
+————————————————————————————
+
+Shopkeep Johnny
+"Whoa!
+I'm not the enemy!"
+
+Shopkeep Johnny
+"My family's been merchants
+for generations, and we got
+our own ways to fight.
+And this is my battle."
+
+Shopkeep Johnny
+"Wanna buy something?
+I even service Gears."
+
+    Character
+    Gear
+    Forget it
+
+    Item
+    Accessory
+    Go back
+    Forget it
+
+Shopkeep Johnny
+"Thanks for
+your patron."
+
+————————————————————————————
+Console Room - 1866
+————————————————————————————
+
+Fei
+"Huh?"
+
+Fei
+"Is this the one?
+How about that one?"
+
+Please activate
+the main system!
+
+————————————————————————————
+
+Input activation code.
+
+ CODE A?
+    1
+    2
+    3
+    4
+    0
+    Cancel
+
+ CODE B?
+    1
+    2
+    3
+    4
+    0
+
+ CODE C?
+    1
+    2
+    3
+    4
+    0
+
+ CODE D?
+    1
+    2
+    3
+    4
+    0
+
+ Confirm Code... 
+    A-
+    B-
+    C-
+    D-
+ 
+    OK?
+    RETRY
+
+Activating main system.
+
+————————————————————————————
+
+Code Error
+
+————————————————————————————
+
+Door Lock System
+is now operational.
+
+Door Lock Area B
+deactivated.
+
+Fei (*???add*)
+Done!
+
+————————————————————————————
+???
+
+Fei
+"Unnnh...?"
+
+Fei
+"Is this the main system?"
+
+Fei
+"Any hints?"
+
+Area B is deactivated.
+
+Main system is active.
+
+The position of these
+blocks correspond to the
+activation code numbers!
+
+Line A's Blocks are
+all closed off.
+
+It's incribed as
+the 'A' line.
+
+For main system use.
+
+The number 3 block
+is visible.
+
+It's inscribed as
+the 'B' line.
+
+For the main system.
+
+It's inscribed as
+'C-2' behind the lid.
+
+It's inscribed as
+the 'C' line.
+
+It's inscribed as
+the 'C' line.
+
+For main system use.
+
+Line D's blocks are
+all closed off.
+
+It's inscribed as
+the 'D' line.
+
+For main system use.
+
+————————————————————————————
+Round Computer Room - 1868
+————————————————————————————
+
+Booting up the
+central elevator's
+lock system.
+
+Releasing the central
+elevator's lock...
+
+Done!
+
+Central elevator's
+lock is released.
+
+————————————————————————————
+
+To unlock Anima Relic: 
+Lock-off codes must be
+inputted into terminals
+A to D which are situated
+around this area.
+Upon completion, the main
+system will be engaged.
+
+Anima Relic lock off code: 
+Input numbers so the
+vertical and horizontal
+sums are equal without
+reusing the same numbers.
+
+————————————————————————————
+Anima Relic 1 - Elevator - 1874
+————————————————————————————
+
+    UP?
+    NO
+
+    DOWN?
+    NO
+
+————————————————————————————
+
+Door Lock System
+Area B
+
+Door Lock System
+Area B
+
+————————————————————————————
+Anima Relic 1 - Console Lock Controls - 1876
+————————————————————————————
+
+    Current Code Condition
+    Code Address
+    Release lock
+
+       
+       9
+    6 7 3 
+       1
+       
+
+       B
+       9
+   A 6 7 3 C 
+       1
+       D
+	   
+
+Enter the code.
+
+ADDRESS A
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+That number is locked.
+Enter a different number.
+
+————————————————————————————
+
+Anima Relic has
+been released.
+
+————————————————————————————
+
+Enter the code.
+
+ADDRESS B
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+That number is locked.
+Enter a different number.
+
+————————————————————————————
+
+Anima Relic has
+been released.
+
+————————————————————————————
+
+Enter the code.
+
+ADDRESS C
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+That number is locked.
+Enter a different number.
+
+————————————————————————————
+
+Anima Relic has
+been released.
+
+————————————————————————————
+
+Enter the code.
+
+ADDRESS D
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+That number is locked.
+Enter a different number.
+
+————————————————————————————
+
+Anima Relic has
+been released.
+
+————————————————————————————
+
+Anima Relic Released!
+
+Ride in the center
+of the lift.
+
+————————————————————————————
+???
+
+Fei
+"Hmm..."
+
+Fei
+"I think I saw some
+info. about this on the
+terminal above us..."
+
+————————————————————————————
+Anima Relic 1 - 1882
+————————————————————————————
+
+Elly
+"This is..."
+
+Billy
+"The Anima Relic..."
+
+Billy
+"Who is it?
+Who's calling me?
+I don't know.
+I don't know...
+What should I do...?
+You were waiting?
+For me...?"
+
+Fei
+"Billy?"
+
+Billy
+"Did you see that?
+It looked like...
+my Gear?"
+
+Fei
+"Maybe something has
+happened to your Gear.
+Let's head for the exit
+and see if any change
+has taken place."
+
+————————————————————————————
+Anima Relic 1 - Exit Tunnels - 1870
+————————————————————————————
+
+Fei
+"You girls again!?"
+
+Billy
+"Elements!"
+
+Dominia
+"I see you've gained a new
+Gear that has been aligned
+with an Anima Relic."
+
+Kelvena
+"You know that we should
+have been the ones to have
+it...
+We need stronger powers in
+order for Commander Ramsus
+to realize his long-
+cherished desires."
+
+Tolone
+"Yes, for the building of
+our ideal country, we can't
+allow you to take it."
+
+Seraphita
+"So, c'mon...
+let us have it!"
+
+Fei
+"You knew what Solaris
+was doing to the surface
+dwellers...
+And you know what the
+situation is like now
+on the earth...
+And yet you..."
+
+Dominia
+"What the Gazel do or what-
+ever happens to the Lambs,
+are not my concerns.
+Each of us have our own
+obligations to fulfill.
+We don't have time to deal
+with affairs concerning you
+weak and inferior people."
+
+Elly
+"Dominia...
+Do you truly believe that?"
+
+Dominia
+"Yes.
+Look at yourselves,
+for instance...
+You, the strong and the
+superior, were the first
+to preserve yourselves,
+without any mutations.
+Is that not right?"
+
+Fei
+"Power and ability have
+nothing to do with it.
+It was pure coincidence
+that we didn't mutate."
+
+Billy
+"People are people.
+Nothing more or less.
+I admit that there are
+the weak and powerless.
+But that's no reason
+for us to forsake them.
+We are all the same
+human beings!"
+
+Dominia
+"So...
+You wish to give a hand to
+those who would be saved?"
+
+Seraphita
+"You're so ni~ce
+and ki~nd!"
+
+Kelvena
+"How commendable.
+But...is that really
+what's best for mankind?"
+
+Elly
+"You were all once
+surface dwellers.
+Weren't you all forced
+to live under the
+oppression of Solaris?
+I KNOW that you know
+how it feels to be a
+'have-not', so why do
+you...?"
+
+Kelvena
+"People must be able to
+stand on their own in any
+circumstances they are in.
+Overprotection only stunts
+the will to be independent.
+This stunts the growth of
+the people and the world.
+We've experienced that
+first hand.
+Live by one's own strength,
+stand on one's own feet!
+It's sad but true that the
+weak will be weeded out...
+But we cannot look back.
+That is the providence of
+human existence."
+
+Elly
+"That is just the
+providence of those
+who are the 'haves'!"
+
+Dominia
+"Hmph.
+So be it then, show me
+this providence of yours
+that wishes to save the
+meager 'have-nots'!"
+
+Dominia
+"Here I come!"
+
+————————————————————————————
+Ω Battle - G-Elements
+————————————————————————————
+
+Dominia
+"Hah...
+We may have fared poorly
+when we fought in the
+flesh, but we will finish
+you off in our Gears!"
+
+Dominia
+"Come!
+Follow me!"
+
+————————————————————————————
+Anima Relic 1 Cavern - 1862
+————————————————————————————
+
+Dominia
+"What took you!?"
+
+Fei
+"What meaning is there
+in fighting again!?"
+
+Dominia
+"Silence!
+Now we have no choice
+but to fight.
+Now we will show you
+the true power of the
+Elements! Get ready...
+because here we come!"
+
+Kelvena
+"Let us merge and
+combine our forces!"
+
+Elements in unison
+"Elements' Formation!"
+
+————————————————————————————
+Ω Boss Fight - G Elements Combined - B56 ???
+————————————————————————————
+
+————————————————————————————
+Anima Relic 1 Cavern - 1862
+————————————————————————————
+
+Elly
+"Some things only the weak
+can feel...
+But weakness does not make
+them servile.
+It's because they are weak,
+that they can develop
+kindness...and never look
+down on people.
+That is where real human
+interaction comes from.
+Everyone has weaknesses.
+Even you did at first.
+Your weakness drew you to
+each other...
+And made you grow strong.
+Never forget those feelings.
+When you all lived together
+side by side..."
+
+Dominia
+"Wait!"
+
+Dominia
+"Are you trying to show
+us mercy? Or are you just
+trying to show off...?"
+
+Elly
+"You've got us all wrong,
+Dominia.
+Our paths may be different,
+but our goals are the same.
+That's why I can't fight
+you anymore. There's no
+reason for me to...
+That's all."
+
+Kelvena
+"Well...it looks like
+they sure showed us a
+thing or two!"
+
+Dominia
+"Hmph..."
+
+————————————————————————————
+Fei in The Chair - 1840
+————————————————————————————
+
+Having fled from the Elements,
+who tried to take the Relic to
+be used as a power to fulfill
+Ramsus' desires...
+ 
+we once again intiated our (*-ERROR-???*)
+search for information...
+ 
+on the whereabouts of the (*-ERROR-???*)
+last known Relic...
+
+————————————————————————————
+Gazel Ministry SOL-9000 - 1152
+————————————————————————————
+
+Red 4
+He is no longer
+one of us...
+
+Red 1
+Yes. He dares to go
+against our objectives.
+Just like the other one...
+
+Blue 2
+We can still activate
+the key...
+
+Red 3
+We must do something
+about the one who
+stands in our way...
+We must eliminate
+Cain...
+
+Blue 4
+But, we can not
+stand up to his
+power.
+
+Red 2
+Only 'Cain' can
+destroy 'Cain'...
+
+Blue 1
+So 'Mother', will
+you do it for us?
+
+Miang
+"Maybe...
+Did Krelian say anything?"
+
+Blue 3
+Something concerning
+the potential ability
+as a countervailing
+existence...
+With everything
+focusing towards
+a single point...
+
+Miang
+"I see...
+But Kahr is still shaken
+up by...yesterday's
+defeat against Fei.
+We are almost ready.
+I need just a little
+bit more time..."
+
+Blue 1
+Then we'll wait.
+We'll wait till the
+time is ripe...
+
+————————————————————————————
+Solaris Ship Hallway - 0934
+————————————————————————————
+
+Dominia
+"Krelian...?
+A countervailing
+existence...?
+That Miang...
+what's she up to...?
+I had better warn
+the Commander...!"
+
+————————————————————————————
+Ramsus' Ship Bridge - 1150
+————————————————————————————
+
+Ramsus
+"Out of the way!
+Let me through!
+That bastard!
+I'll hunt him
+out myself...!"
+
+Kelvena
+"Please calm down,
+Commander!"
+
+Tolone
+"We'll take care of
+him and his friends!"
+
+Ramsus
+"What could you fools do?
+Imbeciles!
+Only I can beat him!
+Only I, who transcends
+all other humans, can
+possibly take him down!"
+
+Ramsus
+"Move!!"
+
+Dominia
+"Commander!
+Wait!!!"
+
+————————————————————————————
+Elly in The Chair - 1840
+————————————————————————————
+
+While Fei and the others
+searched for the resting
+place of the last known
+Anima Relic, I temporarily
+returned to Nisan.
+ 
+I don't know why I went back.
+Just...I had this stirring
+within my heart...that some
+danger was awaiting the
+people there...
+
+————————————————————————————
+
+All the people accepted
+into Nisan were on the road
+to recovery.
+There were still those who
+were not able to completely
+recover, but Taura's
+nanomachines continued to
+evolve from day to day.
+Thanks to the nanomachines,
+the treatments were becoming
+more and more successful and
+the day when everyone would
+regain their original bodily
+form was approaching.
+
+————————————————————————————
+
+  A trembling...
+ 
+There was a sudden explosion
+in the city of Nisan.
+Within the burning fire...
+stood a gold Omnigear...
+ 
+  It was Ramsus.
+  He assaulted Nisan so that
+  he could defeat Fei.
+ 
+  His purpose of existing
+  was at stake...
+
+The Nisan and Shevat militia,
+even Renk and friends from
+Solaris who now served to
+protect Nisan, could not
+thwart the assault.
+The people were evacuated
+into the cathedral.
+Continuing to search for
+Fei, Ramsus put the militia
+to rout and pressed on
+toward the cathedral...
+ 
+He was...ruined...
+He had his mind set solely
+on getting at Fei...
+ 
+  I stood before him.
+
+————————————————————————————
+
+Ramsus
+"Where! Where is he!?
+I know it! He's here!
+Why does he not come out!?"
+
+Elly
+"Ramsus!
+The Fei you seek is
+not here!
+So please, stop this
+meaningless violence!"
+
+Ramsus
+"You...
+Yes...
+You will do..."
+
+————————————————————————————
+
+Ramsus
+"Come out! Fei!
+If you will not come out,
+I will crush Elhaym!"
+
+Elly
+"Uuhg...!"
+
+Margie
+"Elly!"
+
+Renk
+"Boss..."
+
+Elly
+"Keep back..."
+
+Ramsus
+"Not coming out, eh...
+Have it your way.
+Then from tonight on you
+will be crying with this
+woman's dead body in your
+arms!"
+
+Elly
+"Uuuaaahhh!"
+
+————————————————————————————
+
+Ramsus
+"H, how the!?
+What happened!?
+Why can't I move!?"
+
+Margie
+"Elly!"
+
+Renk
+"Are you okay!?"
+
+Ramsus
+"H, how could I...to
+the likes of you...?"
+
+Ramsus
+"N, not only to him, but
+I am also inferior to
+you...!? Me!?"
+
+Elly
+"What happened to
+you, Ramsus...?"
+
+Elly
+"Why are you caught up
+with Fei so much...
+Why are you so bothered by
+who is more superior?"
+
+Ramsus
+"I was originally created
+to be the intregation of
+all human abilities...
+...To be able to align
+with all of the Anima
+Relics...
+I was created to have the
+powers equivalent to those
+of Emperor Cain.
+You could say I was to be
+the ideal form which all
+people strive to become...
+However...once he was born
+...I was...rejected...
+...I was given life in a
+pile of trash...
+...Born in the dark, cold
+abyss of worthlessness..."
+
+————————————————————————————
+
+Ramsus
+"But I was able to crawl
+out of there! I was able to
+survive on my own strength!
+In order to get back at all
+those who have forsaken me!
+Despite all of that, I was
+able to get this far!
+I was able to provide
+myself with the warmth
+that I required to
+continue living!"
+
+Ramsus
+"But, he had to come and
+intervene in my life one
+more time!
+He tried to take that very
+warmth away from me again!
+As long as he exists...
+I don't belong anywhere..."
+
+Elly
+"I think I now know why
+you are so fixated with
+Fei...
+You do not really know
+what you should be doing
+with your life right now.
+You're simply trying to
+protect yourself by
+attacking Fei...
+By attacking others, you
+are confirming your own
+existence."
+
+Elly
+"That's why you strive to
+be above everyone else...
+Because, otherwise, you'd
+be enveloped by a void...
+Because you yourself will
+disappear...
+Because that emptiness
+within your heart will
+only grow...
+Because you want to hang
+on to love..."
+
+Ramsus
+"Silence!"
+
+Ramsus
+"Even you are trying to
+take it away from me!?
+...That warmth!
+That very warmth I've
+finally obtained!"
+
+Elly
+"Ramsus...
+No one is attacking you.
+No one is trying to take
+away what is so precious
+to you...
+No one is threatening your
+existence..."
+
+Elly
+"It's all in your mind.
+So don't hide the feelings
+that are in your heart...
+Don't fear love..."
+
+————————————————————————————
+
+Ramsus
+"Y, you...
+Now you...
+Aaarrrgghhh!"
+
+————————————————————————————
+
+Ramsus was in fear.
+ 
+ He feared losing the
+  place he belonged to...
+   He feared that Fei was
+    the one who would take
+     it away from him...
+ 
+He believed love was
+ something you take...
+  He craved love more
+   than anyone else...
+
+————————————————————————————
+Gazel Ministry SOL-9000 - 1152
+————————————————————————————
+
+Red 1
+Worthless...
+
+Red 2
+Trash...
+
+Blue 4
+Reject...
+
+Red 3
+Why even bother
+existing...?
+
+Red 4
+Defect...
+
+Blue 3
+Be gone...
+
+Blue 2
+We have no use
+for you...
+
+Blue 1
+Hah!
+Trash is of more worth
+to us than you...
+
+Ramsus
+"..."
+
+Miang
+"Kahr...
+Don't worry.
+I'll always be by your
+side. No one knows you
+better than I do.
+So don't..."
+
+Ramsus
+"Miang!
+Is this...
+Is this all I can do?
+Is this the extent of my
+strength and abilities?
+I couldn't beat him...
+And in front of that
+woman, I couldn't even
+do a thing...
+Is this the limit of my
+existence!?
+My abilities...!?"
+
+Krelian
+"...You're the same as
+Cain.
+An archetype that
+surpasses all humans.
+I made you in the same way.
+But he is the one who is
+preventing you from fully
+releasing your powers.
+Divided powers...
+That man was your original
+form. The primordial
+superior being...
+If you could defeat him,
+then you would be..."
+
+Miang
+"Yes.
+Even with your superior
+constitution, the
+existence of the original
+being hinders you.
+If you could eliminate the
+divided power, then it
+would all be yours...
+Don't you agree, Kahr...?"
+
+————————————————————————————
+Fei in The Chair - 1840
+————————————————————————————
+
+Having completed the alignment
+of the first Anima Relic with
+Billy, there was a remarkable
+change in the appearance and
+structure of Billy's Gear.
+They were units that merged
+with the inorganic...
+ 
+Of course we had no idea what
+purpose these ancient Anima
+Relics were created for.
+But the fact that they played
+some kind of role as weapons
+was blatantly obvious.
+
+Eventually their true
+power will be released...
+And we cannot allow this
+power to fall into the
+hands of evil.
+ 
+In order to obtain the
+final Relic, we headed for
+a ruin that is believed to
+be almost 10,000 years old.
+...The remains of the first
+civilization on our planet.
+
+And...
+ 
+a reunion with an old
+'friend' awaited us...
+
+————————————————————————————
+Anima Relic 2 - 1886
+————————————————————————————
+
+Elly
+"So there is an Anima
+Relic in these ruins."
+
+Rico
+"Hmph, so ancient people
+worshipped meaningless 
+things too, huh?"
+
+Rico
+"Who's that?
+Wha'd you say?
+Say something I understand!
+Who're you!?
+Get outta my head!"
+
+Fei
+"Rico, are 
+you okay?"
+
+Rico
+"I've seen that shape 
+somewhere before."
+
+Fei
+"Wasn't that Rico's Gear? 
+So it looks like it was
+your turn, Rico!
+Well anyway, we'll soon
+see when we go outside."
+
+————————————————————————————
+Anima Relic 2 - Ruins - 1906
+————————————————————————————
+
+Fei
+"Whoa!
+What the...?"
+
+Hammer
+"Hey, bro..."
+
+Hammer
+"Heh heh heh. 
+It's been a long
+time no see, bro!"
+
+Fei
+"Hammer, is that you?
+What are you doing in
+that outfit?"
+
+Hammer
+"I was finally able to get
+it... Super-strength...
+Just like you, bro!
+It feels so good...
+being one with your Gear.
+Krelian did this for me.
+Anyway, just leave that
+Gear and Miss Elly for me.
+Resistance is useless.
+I'm much too powerful for
+you now..."
+
+Fei
+"What are you 
+saying, Hammer?"
+
+Hammer
+"What? You're not
+handing them over?
+...I see.
+Then I'll just have
+to use force and take
+the girl and the Gear
+from you!"
+
+Rico
+"Stop it, Hammer!"
+
+Hammer
+"Even you, 'Champ', won't
+win against me now."
+
+Hammer
+"Here I come!"
+
+————————————————————————————
+Ω Boss Fight - Hammer
+————————————————————————————
+
+Hammer
+"Heh heh...
+That's my bro...
+Far too strong...
+Even for me...
+Just when I thought I
+finally got powerful
+enough to beat you too!"
+
+Rico
+"Hammer...!"
+
+Hammer
+"Champ...
+Promise me you'll go back
+to Nortune one day...
+You are...
+the next in line...
+to be the Kaiser..."
+
+Rico
+"You knew?"
+
+Hammer
+"Don't underestimate
+the power of my
+information network...
+But...
+it's no use now...
+I...
+For a bit player...
+like me...this is
+probably...the end...
+I deserve..."
+
+Fei
+"Hamme~r...!"
+
+————————————————————————————
+Fei in The Chair - 1840
+————————————————————————————
+
+Hammer disappeared into
+the chasm with a look of
+satisfaction...
+ 
+Was he happy because he had
+been able to attain it...?
+'His brief moment of power'...
+Hammer's smile...
+Was that the look of joy from
+attaining power...?
+Or was it the look of relief
+from the pain that was brought
+upon him by his mutation...?
+
+Ultimately, we had no other
+choice but to defeat our
+'friend', Hammer, for the
+sake of our own survival...
+ 
+Was there any other way
+around it...?
+I've never felt that fighting
+was so futile, until now...
+
+Elly cried continuously...
+She hated herself for not
+having the power to be able
+to do anything to help him.
+ 
+When I saw her like that,
+I couldn't help thinking...
+I can no longer allow her
+to fight like this...
+We returned to Ignas...
+feeling that this had
+become much more than
+we could bear...

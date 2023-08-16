@@ -1,0 +1,999 @@
+————————————————————————————
+First and Last - Transformed Merkava - 2012
+————————————————————————————
+
+Fei
+"The mapping of
+the inside of Deus
+is now complete.
+Okay!
+Let's go everyone!"
+
+————————————————————————————
+Terraformed Deus - 2018
+————————————————————————————
+
+Citan
+"Fei, over there..."
+
+————————————————————————————
+-ALT-
+
+Elly
+"...!
+Fei, look!"
+
+Bart
+"Hey, Fei. Look over
+there!"
+
+Billy
+"Huh? Over there..."
+
+Rico
+"Eh, Fei. Look at that." 
+
+Emeralda
+"..."
+
+Chu-Chu
+"Fei,
+what is that?"
+
+Maria
+"Fei, please look over
+there."
+
+————————————————————————————
+
+Elly
+"Do you think we need to
+use that gate to get to
+the lower floor?"
+
+————————————————————————————
+-ALT-
+
+Citan
+"We might be able to
+get to a lower floor
+through that gate."
+
+Bart
+"It looks like we can
+go down through there."
+
+Billy
+"I believe we must go
+through that gate to get
+to the lower floor."
+
+Rico
+"That gate leads to the
+lower floor!" 
+
+Emeralda
+"It looks like we go
+down from there..." 
+
+Chu-Chu
+"It looks like we can
+go down through there.
+Let's hurry over there." 
+
+Maria
+"We may be able to get
+down through that gate."
+
+————————————————————————————
+
+Citan
+"Shall we go, Fei?"
+    Jump in the gate
+    Not yet 
+
+————————————————————————————
+-ALT-
+
+Elly
+"Here we go, Fei."
+    Jump in the gate
+    Not yet
+
+Bart
+"Fei, let's go."
+    Jump in the gate
+    Not yet
+
+Billy
+"Shall we go?"
+    Jump in the gate
+    Not yet
+
+Rico
+"Fei, we're going."
+    Jump in the gate
+    Not yet
+
+Emeralda
+"...Go?"
+    Jump in the gate
+    Not yet
+
+Chu-Chu
+"Here we go!"
+    Jump in the gate
+    Not yet
+
+Maria
+"Fei, we should go."
+    Jump in the gate
+    Not yet
+
+————————————————————————————
+
+Fei
+"Okay, here we go!"
+
+————————————————————————————
+Deus Resurrection Site - 2030
+————————————————————————————
+
+Do you want to jump inside?
+    Yes
+    No
+
+————————————————————————————
+Deus Inner Core - 2040
+————————————————————————————
+
+Fei
+"This
+is...Deus!?"
+
+Chu-Chu
+"What are those
+four orbs spinning
+around it?"
+
+Maria
+"It seems as if the power
+of those four things is
+supporting the center."
+
+Rico
+"So that means that big
+thing in the middle is
+the core of Deus?"
+
+Citan
+"Probably."
+
+Bart
+"Who cares about those
+orbs. Let's just crush
+the core."
+
+Citan
+"Striking directly at the
+center rather than using
+fuel unnecessarily...
+That is one strategy. But,
+I believe another plan of
+attack would be to defeat
+its surroundings first.
+If we decide to attack
+the supporting orbs first,
+then it might be wise to
+leave the battles up to us.
+We should be able to do
+something about them
+without using up Fei's
+power."
+
+Emeralda
+"That'll allow him to
+use the full power of
+Xenogears...
+...To defeat Deus.
+And yes, of course,
+to save Elly!"
+
+Billy
+"Whether we do a direct
+strike to the core or take
+down the supports first...
+I guess that is best left
+up to Fei to decide..."
+
+Fei
+"...
+Thanks everyone.
+To attack Deus directly...
+or, to take out its
+supports first...
+I wonder which is best?"
+
+————————————————————————————
+Ω Boss Fights - Deus Final Form (& Supports)
+————————————————————————————
+
+Fei
+"What...happened?"
+
+Rico
+"My Gear won't
+budge anymore."
+
+Citan
+"The Zohar Modifier
+has ceased functioning.
+That is probably the
+reason why our Gears
+cannot move anymore. 
+There is only a slight
+energy response coming
+from the core now."
+
+Fei
+"What about Elly?
+What's happening to her
+inside of that thing?
+The Deus system's bind
+on her should have worn
+off now. 
+So why aren't we getting
+any kind of response!?
+You don't think we hurt her
+in that battle too...!?"
+
+Citan
+"Fei, calm down!
+The sensors are picking
+up a response from a
+life form within Deus.
+It is probably Elly.
+So do not worry...
+I believe she is okay!"
+
+Fei
+"Elly!
+Can you hear me, Elly!?
+Deus is no longer active.
+It's all over now...
+So come out of there.
+Show me your face! 
+Elly! Elly!"
+
+Bart
+"W, what the...?
+What's happening...!?"
+
+Fei
+"Doc!?
+What's going on?
+What's wrong?"
+
+Citan
+"I am now detecting a
+tremendous amount of energy
+coming from within Deus.
+It seems as if something
+that was sealed up till now
+has suddenly been freed and
+is growing enormously..."
+
+Fei
+"It couldn't be...
+the 'Wave Existence'!?"
+
+Bart
+"The 'Wave Existence'?"
+
+Fei
+"That's gotta be it.
+The 'Wave Existence' was
+just freed from its 'cage
+of fleshly existence' in
+Zohar...
+It's probably attempting
+to return to the higher
+dimension that it
+originally came from."
+
+Citan
+"Which means...this is
+the aftereffect of the
+dimensional shift!?"
+
+Rico
+"What do you mean...
+'aftereffect'!?"
+
+Citan
+"It is like a shock wave
+that is induced by the
+dimensional displacement.
+But...so much energy!?
+If this much energy is
+unleashed here now..."
+
+Fei
+"...If so much energy is
+unleashed...then what will
+happen, doc!? Tell us!"
+
+Citan
+"...Then this planet
+will be annihilated!
+These numbers indicate
+that it has more than
+enough energy to take
+out a whole planet!"
+
+Chu-Chu
+"Whatchu mean!?"
+
+Bart
+"You can't be serious!?"
+
+Billy
+"We all fought so
+hard...only to see
+this happen...!?"
+
+Fei
+"Isn't there...
+isn't there anything
+we can do?
+Can't we stop the
+aftereffect!?"
+
+Citan
+"Unfortunately, there
+is nothing we can do...
+Almost all machinery,
+including our Gears, are
+out of commission due to
+Zohar having been shutdown.
+This time, there is nothing
+we can do...
+To put it to you straight
+...this is the end for us!"
+
+Bart
+"This is freakin' stupid!
+How the hell could it all
+end like this!?
+What were we all fighting
+for up to now!?"
+
+Billy
+"Th, the vibrations
+are intensifying..."
+
+Rico
+"Hold on a sec...!
+No, these vibrations
+are different!
+It has to be something
+else causing it..."
+
+Maria
+"Look!"
+
+Bart
+"Deus is...!"
+
+Fei
+"Deus is rising!?"
+
+Chu-Chu
+"What is it
+this time!?"
+
+Citan
+"Deus is releasing its
+remaining energy and is
+beginning to accelerate...
+If it continues to
+accelerate at this rate,
+it will soon leave the
+atmosphere..."
+
+Fei
+"You don't think...!?"
+
+Bart
+"Think what!?"
+
+Fei
+"That it's Elly!?
+Elly is moving Deus...!"
+
+Rico
+"Are you sure!?"
+
+Fei
+"I'm sure of it!
+Elly is trying to save
+us by moving Deus away
+from our planet!
+She's going to
+sacrifice herself..."
+
+Maria
+"That can't be...
+Oh, Elly..."
+
+Billy
+"Can't we do anything...?
+We can't just sit here and
+watch this happen, can we?"
+
+Citan
+"..."
+
+Fei
+"Wait...
+There is still
+something I can do!"
+
+Chu-Chu
+"What is it, Fei!?"
+
+Fei
+"My Gear still works.
+Without Zohar, the power
+source for your Gears, the
+only Gear that now remains
+active is mine.
+Just like Deus, my Gear
+and I made contact with
+Zohar. We are the only
+one's who can move now.
+I am going to go save
+Elly!"
+
+Citan
+"That is absurd!
+Even if you were able to
+catch up to Deus, you will
+not have enough energy to
+make it back!"
+
+Fei
+"Even so, I still must go.
+Elly's taking the whole
+burden upon herself!
+If anything happens to
+her...
+I want to be there with
+her..."
+
+Bart
+"Hey!
+Just wait a minute!
+You know I'm not gonna
+stand by and let you commit
+double suicide...if that's
+what you're planning!"
+
+Fei
+"Bart..."
+
+Bart
+"...
+You better come back
+alive, you hear!?
+Promise me!!
+Promise me that you
+will come back...
+Then I'll let you go!!"
+
+Fei
+"...Thanks, Bart.
+I promise.
+I promise you that
+I will return...
+with Elly!"
+
+Bart
+"You better."
+
+Fei
+"Yeah, of course!"
+
+Bart
+"Alright!
+Then get goin'!"
+
+Citan
+"But...!"
+
+Bart
+"Let's let him go, Citan.
+At this point, Fei's the
+only one that'll be able
+to bring Elly back.
+There's nothing we can
+say or do about it."
+
+Citan
+"...You are right. Fei,
+keep your promise..."
+
+Billy
+"No matter what..."
+
+Maria
+"Fei and Elly..."
+
+Emeralda
+"Both of you..."
+
+Rico
+"Come back home..."
+
+Chu-Chu
+"We'll be waiting
+for you chu!"
+
+Fei
+"I appreciate this...
+Bart...
+and the rest of you...
+Well I had better get
+going now...
+But don't worry!
+I will be back soon!"
+
+Fei
+"I guess this will be
+the last journey you
+and I make together...
+I'm counting on you...
+partner!"
+
+————————————————————————————
+Xenogears Flying into Deus - 2042
+————————————————————————————
+
+Elly!!
+
+————————————————————————————
+Inner Consciousness - 2044
+————————————————————————————
+
+Where am I...!?
+
+That's Elly!
+This must mean that
+I am inside of Deus!?
+
+Not exactly.
+Your actual body is but a
+physical object... It has
+merely been absorbed into
+Deus' outer-shell.
+Only your consciousness is
+here.
+Of course, the girl you
+perceive in front of you is
+also not a true being.
+Your consciousness is merely
+creating her image.
+
+!?
+
+The 'Wave Existence'...?
+No...that's not you...!!
+Who are you...?
+
+It can't be...!?
+Is that you Krelian!?
+That's right, isn't it...!?
+Krelian! It was you who did 
+this to Elly!
+
+The 'Path of Sephirot' has
+been connected.
+No one can stop god from
+returning to his world now.
+So what have you come here
+for, Lacan?
+
+I came here to take the
+person I love back with me!
+So set Elly free!
+The Deus' system has been
+destroyed.
+It's all over now!
+So instead I ask you...
+What are you hoping to
+achieve now!?
+
+The time when all things
+started...
+The place where all things
+were one...
+I am going to return there!
+
+What place?
+
+Before the beginning of the
+universe, in the undulating
+waves of the higher dimension,
+all things were one.
+It was the waves spilling out
+from there that created this
+four-dimensional universe of
+ours.
+'Humankind' and the 'Souls of
+Humankind' that were born from
+there, are merely leftovers of
+those spilled waves.
+So...
+
+You're going back there?
+Is that what you desired?
+
+Lacan...
+Why such reluctance to
+become one with the god?
+What attachment could you
+possibly have to this
+wretched old world?
+What meaning can be found
+in living out such a short
+existence...hurting others,
+hurting yourself, grinding
+one another down...only to
+inevitably die and return
+to dust?
+Why, everything we could
+ever desire is here...
+No need to be troubled by
+the need for love...
+For this place is filled
+with the love of god.
+
+I have not lost hope in
+humans as much as you have,
+Krelian...
+Someday humankind will come
+to understand one another!
+I sincerely believe that!
+
+How can you be so sure?
+Humans will never come to
+understand each other.
+You said that she is the
+person you love.
+But can you say that you
+even truly understand
+each other?
+All humans do is place
+themselves at a comfortable
+distance from each other
+and call that 'mutual under-
+standing', 'spiritual unity',
+or 'true love'...
+but it is all lies!
+Man cannot associate with
+others without first
+deceiving themselves.
+That is the way that they
+were created.
+
+But one being's ego can't
+determine everyone's fate!
+People have the right to
+choose their own destiny!
+That is why humans have
+free will!
+
+And what if that 'will'
+itself was predetermined?
+What then?
+Oh, what folly!?!
+Humans are just primitive
+life forms that have no
+such things as free will...
+Mankind has merely been
+allowed to live in an
+imperfect state...
+"as is", "as will be"...
+It is for this very reason...
+because humans have this
+wretched 'will' or whatnot...
+that humans must experience
+sadness and loss.
+For someone to gain something
+means another must lose it...
+It is impossible to make
+humankind share limited
+"things" and "affections"...
+So I came to the conclusion
+that everything must be
+reverted back to where it
+all began.
+To go back to when all was
+one...
+waves, and nothing else...
+It is not my -Human's- ego...
+It is the will of the 'Waves'
+...the will of -god-...
+
+Well that's alright, too...
+We don't have to be perfect.
+Actually, being imperfect
+makes mankind live by
+helping each other...
+That's what being human is...
+That's mutual understanding!
+That's 'unity' and 'love'...
+I'm glad...no, I'm proud...
+to be human!
+
+Elly placed the future,
+-tomorrow-, in our hands,
+based on our choice...
+And she is working to keep
+Deus far from our planet.
+She is also trying to heal
+your heart...
+you, who wants to journey,
+all alone, to be with god...
+Can't you understand Elly's
+feelings!?
+Do you have to become one
+with god before you are able
+to comprehend all of this?
+I understand...
+I know her feelings...
+as if they were my own...
+Yes...she and I are one!
+We don't need god's help!!
+
+Well then, prove it to me...
+Show me this power of humans!
+Show me this -love-,
+that you say can make you
+independent of god...
+
+————————————————————————————
+Ω Boss Fight - Ouroboros
+————————————————————————————
+
+Fei
+"Elly..."
+
+Elly
+"Fei...
+It was Krelian...
+Krelian released me..."
+
+Fei
+"Krelian...?"
+
+Elly
+"Yes. I came to understand
+after becoming one with
+Krelian...
+His heart was so full of
+sadness. That is why he
+desired for he and I to
+become one with god...
+Because that would be the
+return to the beginning of
+everything...
+He told me...
+"You should be with him..."
+That is what he said...
+You see...
+He already knew!
+Yes, he already knew...
+how I felt, how you felt...
+But there was nothing we
+or he could do...
+He had no choice but to go
+forward... even if it meant
+he lost all feelings, lost
+everything that was human!
+For all humankind's sake...
+There was no going back...
+Even looking back held too
+many memories...
+And he would have...
+just wanted to go back...
+Even though he couldn't...
+So please forgive him...
+Krelian loved people more
+than anyone else..."
+
+Fei
+"I... 
+I, somehow...
+knew it all along...
+I just knew he was really
+that kind of person..."
+
+Elly
+"...I am so sorry...
+Please forgive me!
+I was wrong...
+I thought sacrificing
+myself in order to save
+others was the right
+thing to do...
+But my actions only brought
+sadness to all the people
+who I left behind.
+And that sadness gave birth
+to even more sadness.
+As long as 'I' still live
+within you, my life is not
+just mine alone."
+
+Fei
+"Elly...
+That isn't wrong.
+To sacrifice yourself for
+others is a noble thing...
+Even if it were to benefit
+yourself, it's no problem.
+There will always be a
+person healed...
+One or the other...
+Love gains its original
+shine only when there's an
+interrelationship between
+the giver and the receiver.
+It is incomplete when one
+or the other is missing...
+The two are one.
+It was you, Elly, who
+taught me that.
+I believe that is what it
+means to be human...
+I can now understand the
+true importance of it.
+I don't know if it's the
+right answer or not...
+But we have a lot of time
+to think about it...
+What Krelian himself was
+looking for all along...
+We will find the answer to
+it all...ourselves..."
+
+Elly
+"Thank you...
+Fei!"
+
+Fei
+"Elly..."
+
+————————————————————————————
+► Anime Cutscene - Fei and Elly on Astral Plane
+————————————————————————————
+
+Elly
+"That light!"
+
+"It's the point of contact
+with our world, but the
+dimensional shift has 
+already begun! 
+Will we make it in time?"
+
+Fei
+"Can you run?"
+
+Elly
+"If we're together I can..."
+
+————————————————————————————
+
+Fei
+"Elly!!!"
+
+————————————————————————————
+
+Fei
+"Krelian...you?"
+
+Krelian
+"There's no time, this place
+is about to be destroyed."
+
+"Now there is no more God.
+This is no longer their planet.
+
+"This is your home planet,
+that you're now standing on."
+
+Fei
+"Krelian...you aren't going
+are you?"
+
+Krelian
+"No...Since that time,
+I have stopped being human.
+I've committed so many sins,
+that any attempt at living
+like a human...is impossible.
+The only one that could have
+forgiven me...is God."
+
+Fei
+"That's not true!
+I know they would understand.
+There's still plenty of time
+to atone for your sins.
+You, of all people, 
+could do it!"
+
+Krelian
+"Always the peacemaker, hey
+Lacan? Perhaps that's what
+it means to be humans.
+But regardless, I cannot go.
+It's something I've already
+decided. I go to walk with
+God. Even if there's no
+place left for me...upon
+my return."
+
+"I must go now..."
+
+Fei
+"Krelian!"
+
+Krelian
+"Actually...I envy you two."
+
+————————————————————————————
+► CGI Cutscene - Deus exploding above planet
+————————————————————————————
+————————————————————————————
+► Anime Cutscene - Xenogears Returns
+————————————————————————————
+
+Citan
+"Fe~i!!!"
+
+"What happened?"
+
+Crewman
+"Waves from the explosion
+disrupted the ionsphere,
+making it impossible to
+get a visual. They were
+probably caught up in the
+explosion."
+
+Bart
+"That's a lie!"
+
+"He'll come back...
+He promised us he would!
+I know it..."
+
+Chu-Chu
+!
+
+Bart
+"O~i!"
+
+————————————————————————————
+CREDITS SEQUENCE
+————————————————————————————
+————————————————————————————
+THE END - 2044
+————————————————————————————
+
+XENOGEARS
+Episode V 
+THE END
