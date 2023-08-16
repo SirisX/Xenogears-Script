@@ -4,7 +4,8 @@
   font-size: 1.4rem;
   /* opacity: 0.9; */
   font-weight: 600;
-  max-width: 440px;
+  /*max-width: 440px;*/
+  max-width: 100vw;
   margin-bottom: 32px;
 }
 
