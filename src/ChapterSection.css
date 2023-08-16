@@ -116,21 +116,3 @@
 .chapter-visible {
   overflow-x: hidden;
 }
-
-  .chapter-text-intro {
-    font-size: 1.1rem;
-    column-gap: 64px;
-  }
-
-  .chapter-text-centered {
-    font-size: 1.1rem;
-  }
-
-  .chapter-0 {
-    font-size: 1.1rem;
-  }
-
-  .chapter-button {
-    font-size: 1.2rem;
-  }
-}
