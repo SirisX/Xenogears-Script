@@ -192,7 +192,7 @@ export const DefaultChapters: Chapter[] = [
     number: 6,
     text: chap6Text,
     japaneseText: jpChap6Text,
-    japaneseName: "樹海へ・・・・・・",
+    japaneseName: "樹海へ……",
   },
   {
     name: "Girl in Forest",
@@ -389,7 +389,7 @@ export const DefaultChapters: Chapter[] = [
     number: 31,
     text: chap31Text,
     japaneseText: SWAP_ME_OUT,
-    japaneseName: "昨日の友は今日の・・・",
+    japaneseName: "昨日の友は今日の……",
   },
   {
     name: "Betrayal",
@@ -627,7 +627,7 @@ export const DefaultChapters: Chapter[] = [
     number: 65,
     text: chap65Text,
     japaneseText: SWAP_ME_OUT,
-    japaneseName: "夢の形見は・・・・・・",
+    japaneseName: "夢の形見は……",
   },
   {
     name: "Fallen Star",
