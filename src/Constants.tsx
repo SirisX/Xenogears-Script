@@ -648,6 +648,6 @@ export const DefaultChapters: Chapter[] = [
     number: 68,
     text: chap68Text,
     japaneseText: SWAP_ME_OUT,
-    japaneseName: "全ての始まりにして終わりなる者",
+    japaneseName: "最初で最後",
   }
 ];
