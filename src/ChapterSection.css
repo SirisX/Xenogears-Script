@@ -22,17 +22,16 @@
 }
 
 .chapter-text {
-  content-visibility: auto;
   contain-intrinsic-size: 5000px;
-  color: white;
+  content-visibility: auto;
   font-size: 1.1rem;
-  position: relative;
-  white-space: pre-wrap;
   justify-self: center;
   margin-top: 32px;
   max-width: 100vw;
-  width: fit-content;
-  /*width: 320px;*/
+  position: relative;
+  white-space: pre-wrap;
+  /*width: fit-content;*/
+  width: 320px;
 }
 
 .chapter-text-intro {
