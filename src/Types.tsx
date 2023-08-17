@@ -9,6 +9,7 @@ export interface Chapter {
     hideTitle?: boolean;
     isCollapsable?: boolean;
     defaultCollapsed?: boolean;
+    isDiscText?: boolean;
 }
 
 export interface UIChapter {
@@ -20,4 +21,5 @@ export interface UIChapter {
     isExpanded: boolean;
     isCollapsable: boolean;
     hideTitle: boolean;
+    isDiscText: boolean;
 }

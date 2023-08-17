@@ -93,6 +93,9 @@ import SWAP_ME_OUT from "./text/chapters/06_JP_Into_the_Woods.txt";
 export const SIDEBAR_WIDTH = "0";
 // export const SIDEBAR_WIDTH = '340px'
 
+
+
+
 export const DefaultChapters: Chapter[] = [
   {
     name: "Xenogears",
@@ -130,6 +133,13 @@ export const DefaultChapters: Chapter[] = [
     hideInSidebar: true,
     hideInMainContents: true,
     hideTitle: true,
+  },
+  {
+    name: "-----DISC 1-----",
+    number: -2,
+    text: "-----DISC 1-----",
+    japaneseText: "test",
+    isDiscText: true,
   },
   {
     name: "Opening Movie",
@@ -551,6 +561,13 @@ export const DefaultChapters: Chapter[] = [
     text: chap54Text,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: SWAP_ME_OUT,
+  },
+  {
+    name: "-----DISC 2-----",
+    number: 55,
+    text: "-----DISC 2-----",
+    japaneseText: "test",
+    isDiscText: true,
   },
   {
     name: "Broken Ties",

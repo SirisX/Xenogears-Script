@@ -4,7 +4,7 @@ import { DefaultChapters, SIDEBAR_WIDTH } from "./Constants";
 import { Chapter, UIChapter } from "./Types";
 import Sidebar from "./Sidebar";
 import {
-  generateChapterClass,
+  generateChapterClassName,
   generateTableOfContents,
   handleStartDownload,
 } from "./Utils";
@@ -30,7 +30,7 @@ const ChapterSection = ({
 
   return (
     <div
-      className={generateChapterClass(index)}
+      className={generateChapterClassName(index)}
       id={`chapter${DefaultChapters[index].number}`}
     >
       {chapter.isCollapsable && (

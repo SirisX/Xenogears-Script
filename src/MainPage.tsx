@@ -35,6 +35,7 @@ const MainPage = () => {
           japaneseText: jpText,
           isCollapsable: chapter.isCollapsable ?? false,
           hideTitle: chapter.hideTitle ?? false,
+          isDiscText: chapter.isDiscText ?? false,
           isExpanded:
             chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
         };
@@ -54,6 +55,7 @@ const MainPage = () => {
   };
 
   const generateSection = (chapter: UIChapter, index: number) => {
+    if (chapter.isDiscText) return <h1 className="chapter-title-header">{chapter.name}</h1>
     return (
       <ChapterSection
         chapter={chapter}

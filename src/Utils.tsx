@@ -32,7 +32,7 @@ export const generateTableOfContents = (isDarkMode: boolean, showJapanese: boole
         onClick={() => handleGoToSection(chapter)}
       >
         {`${
-          chapter.number > 0 ? `${chapter.number}. ` : ""
+          chapter.number > 0 && !chapter.isDiscText ? `${chapter.number}. ` : ""
         }${generateChapterName(chapter, showJapanese)}`}
       </div>
     );
@@ -55,7 +55,7 @@ export const handleStartDownload = (showJapanese: boolean) => {
   document.body.removeChild(a);
 };
 
-export const generateChapterClass = (index: number) => {
+export const generateChapterClassName = (index: number) => {
   switch (index) {
     case 0:
     case 1:
