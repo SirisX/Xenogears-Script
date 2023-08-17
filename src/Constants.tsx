@@ -135,10 +135,11 @@ export const DefaultChapters: Chapter[] = [
     hideTitle: true,
   },
   {
-    name: "-----DISC 1-----",
+    name: "———DISC 1———",
     number: -2,
-    text: "-----DISC 1-----",
+    text: "———DISC 1———",
     japaneseText: "test",
+    japaneseName: "———DISC 1———",
     isDiscText: true,
   },
   {
@@ -570,10 +571,11 @@ export const DefaultChapters: Chapter[] = [
     japaneseName: "明日なき逃走",
   },
   {
-    name: "-----DISC 2-----",
+    name: "———DISC 2———",
     number: 56,
-    text: "-----DISC 2-----",
+    text: "———DISC 2———",
     japaneseText: "test",
+    japaneseName: "———DISC 2———",
     isDiscText: true,
   },
   {
