@@ -114,9 +114,8 @@
 .x-button {
   cursor: pointer;
   position: absolute;
-  /* padding: 4px; */
   font-weight: 800;
-  font-size: 1.5rem;
+  text-align: center;
   margin: 0px;
   left: 150px;
   height: 35px;
@@ -128,23 +127,19 @@
   color:#890000
 }
 
-/* .x-button:active {
+.x-button:active {
   color: rgba(255, 0, 0, 0.736);
-  right: 20px;
-} */
+}
 
 .quick-jump {
   color: white;
   cursor: pointer;
-  /* padding: 4px; */
-  /* background-color: black; */
   font-weight: 800;
   margin: 0;
   margin-left: 4px;
   user-select: none;
   width: 50px;
   height: 25px;
-  /* padding: 0px 12px 2px 2px; */
   margin-top: 2px;
 }
 
@@ -168,7 +163,6 @@
   cursor: pointer;
   user-select: none;
   z-index: 2;
-  /* background-color: black; */
 }
 
 .switch-language:hover {
@@ -214,7 +208,6 @@
   cursor: pointer;
   user-select: none;
   z-index: 2;
-  /* background-color: black; */
 }
 
 .switch-darkmode:hover {
