@@ -141,6 +141,7 @@ export const DefaultChapters: Chapter[] = [
     japaneseText: "test",
     japaneseName: "———DISC 1———",
     isDiscText: true,
+    hideTitle: true,
   },
   {
     name: "Opening Movie",
