@@ -4,7 +4,8 @@
   font-size: 1.4rem;
   /* opacity: 0.9; */
   font-weight: 600;
-  max-width: 440px;
+  /*max-width: 440px;*/
+  max-width: 100vw;
   margin-bottom: 32px;
 }
 
@@ -23,14 +24,15 @@
 .chapter-text {
   color: white;
   font-size: 1.1rem;
+  position: relative;
   white-space: pre-wrap;
   justify-self: center;
   margin-top: 32px;
-  /* margin-bottom: 32px; */
+  margin-left: 10px;
+  margin-right: 10px;
   max-width: 100vw;
-  /* margin-left: 32px; */
-  position: relative;
-  width: 320px;
+  width: fit-content;
+  /*width: 320px;*/
 }
 
 .chapter-text-intro {
@@ -39,7 +41,7 @@
   white-space: pre-wrap;
   margin-bottom: 32px;
   column-count: 2;
-  column-gap: 16px;
+  column-gap: 25px;
   justify-self: center;
   max-width: 100vw;
   display: grid;
@@ -52,7 +54,8 @@
   color: white;
   font-size: 1.1rem;
   white-space: pre-wrap;
-  max-width: 615px;
+  /*max-width: 615px;*/
+  max-width: 100vw;
   min-width: 339px;
   /* margin-top: 32px; */
   margin-bottom: 32px;
@@ -115,19 +118,17 @@
   overflow-x: hidden;
 }
 
-
 /* Rules for BIG screens only */
 @media (min-width: 540px) {
   .chapter-text {
-    width: 450px;
-    /*width: 426px; */
-    font-size: 1.1rem;
-    /* margin-left: 32px; */
+    /*width: 450px;*/
+    /*width: 426px;*/
+    /*font-size: 1.1rem;*/
+    /* margin-left: 32px;*/
   }
-
-  .chapter-text-intro {
-    font-size: 1.1rem;
-    column-gap: 64px;
+    .chapter-text-intro {
+    column-count: 3;
+    grid-template-rows: repeat(24, 1fr);
   }
 
   .chapter-text-centered {

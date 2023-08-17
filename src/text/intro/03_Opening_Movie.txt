@@ -1,11 +1,11 @@
 ————————————————————————————
-Anime Cutscene - Opening Movie
+► Anime Cutscene - Opening Movie
 ————————————————————————————
 
 System Announcement
 "This is an emergency, Level 1 alert."
 
-Operator1
+Operator 1
 "Omega 1 restarting."
 "Alpha 1 genome restructuring."
 "Confirming exon replacement." 
@@ -29,24 +29,30 @@ Operator 1
 
 Operator 2
 "Omega 1 is invading! We can't stop it!"
+
+Operator 3
 "98% of our weapons have been taken over!"
+
+Operator 2
 "Autopilot System Faust has been accessed."
 "And its phase-space logic is being rewritten..."
+
+Operator 1
 "Ergo areas increasing! An internal plane is forming..."
 "Switching to space displacement mode."
 
-Operator 1
+Operator 3
 "Alpha 1 confirming transfer of coordinate codes!"
-"Coordinate input, coordinate NX128 - EZ061...
-The main planet!!"
+"Coordinate input. 
+ Coordinate NX128 - EZ061...The main planet!!"
 
 Captain
 "Damn, so it's planning on attacking..."
 "Engine Room! Activate the emergency sealing system!!"
 "...Engine Room!? Engine..."
 
-You shall be as gods.
-You shall be as gods.
+You shall be as gods
+You shall be as gods
 You shall be as gods...
 
 Captain
