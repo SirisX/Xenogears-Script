@@ -23,6 +23,7 @@
 
 .chapter-text {
   content-visibility: auto;
+  contain-intrinsic-size: 1000px;
   color: white;
   font-size: 1.1rem;
   position: relative;
