@@ -573,6 +573,14 @@ export const DefaultChapters: Chapter[] = [
     japaneseName: "明日なき逃走",
   },
   {
+    name: "",
+    number: 56,
+    text: "",
+    japaneseText: "test",
+    japaneseName: "",
+    isDiscText: true,
+  },
+  {
     name: "———DISC 2———",
     number: 56,
     text: "———DISC 2———",
