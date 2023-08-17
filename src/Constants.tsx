@@ -563,18 +563,18 @@ export const DefaultChapters: Chapter[] = [
     japaneseName: "忌むべき者よ",
   },
   {
-    name: "-----DISC 2-----",
-    number: 55,
-    text: "-----DISC 2-----",
-    japaneseText: "test",
-    isDiscText: true,
-  },
-  {
     name: "Broken Ties",
     number: 55,
     text: chap55Text,
     japaneseText: SWAP_ME_OUT,
     japaneseName: "明日なき逃走",
+  },
+  {
+    name: "-----DISC 2-----",
+    number: 56,
+    text: "-----DISC 2-----",
+    japaneseText: "test",
+    isDiscText: true,
   },
   {
     name: "Shot Down!",
