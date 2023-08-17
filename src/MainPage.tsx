@@ -14,34 +14,38 @@ const MainPage = () => {
 
   // Load all text files and chapters into state
   useEffect(() => {
-    DefaultChapters.forEach(async (chapter: Chapter, index) => {
-      const englishText = await fetch(chapter.text)
-        .then((r) => r.text())
-        .then((text) => {
-          return text;
-        });
+    Promise.all(
+      DefaultChapters.map(async (chapter: Chapter, index) => {
+        const englishText = await fetch(chapter.text)
+          .then((r) => r.text())
+          .then((text) => {
+            return text;
+          });
 
-      const jpText = await fetch(chapter.japaneseText)
-        .then((r) => r.text())
-        .then((text) => {
-          return text;
-        });
+        const jpText = await fetch(chapter.japaneseText)
+          .then((r) => r.text())
+          .then((text) => {
+            return text;
+          });
 
-      const newUIChapter: UIChapter = {
-        name: chapter.name,
-        japaneseName: chapter.japaneseName ?? chapter.name,
-        number: chapter.number,
-        text: englishText,
-        japaneseText: jpText,
-        isCollapsable: chapter.isCollapsable ?? false,
-        hideTitle: chapter.hideTitle ?? false,
-        isDiscText: chapter.isDiscText ?? false,
-        isExpanded:
-          chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
-      };
+        const newUIChapter: UIChapter = {
+          name: chapter.name,
+          japaneseName: chapter.japaneseName ?? chapter.name,
+          number: chapter.number,
+          text: englishText,
+          japaneseText: jpText,
+          isCollapsable: chapter.isCollapsable ?? false,
+          hideTitle: chapter.hideTitle ?? false,
+          isDiscText: chapter.isDiscText ?? false,
+          isExpanded:
+            chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
+        };
 
-      setChapterText(text => [...text, newUIChapter])
-    })
+        return newUIChapter;
+      })
+    ).then((res) => {
+      setChapterText(res);
+    });
   }, []);
 
   const handleExpandChapter = (index: number) => {
