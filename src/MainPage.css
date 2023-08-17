@@ -6,7 +6,6 @@
 }
 /* CSS for the actual text container */
 .text-container {
-  content-visibility: auto;
   overflow-y: hidden;
   margin-top: 32px;
   line-height: 1.5rem;
