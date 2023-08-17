@@ -10,41 +10,38 @@ const MainPage = () => {
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
+  const [uiChapters, setUiChapters] = useState<{ [name: string]: UIChapter }>()
 
   // Load all text files and chapters into state
   useEffect(() => {
-    Promise.all(
-      DefaultChapters.map(async (chapter: Chapter, index) => {
-        const englishText = await fetch(chapter.text)
-          .then((r) => r.text())
-          .then((text) => {
-            return text;
-          });
+    DefaultChapters.forEach(async (chapter: Chapter, index) => {
+      const englishText = await fetch(chapter.text)
+        .then((r) => r.text())
+        .then((text) => {
+          return text;
+        });
 
-        const jpText = await fetch(chapter.japaneseText)
-          .then((r) => r.text())
-          .then((text) => {
-            return text;
-          });
+      const jpText = await fetch(chapter.japaneseText)
+        .then((r) => r.text())
+        .then((text) => {
+          return text;
+        });
 
-        const newUIChapter: UIChapter = {
-          name: chapter.name,
-          japaneseName: chapter.japaneseName ?? chapter.name,
-          number: chapter.number,
-          text: englishText,
-          japaneseText: jpText,
-          isCollapsable: chapter.isCollapsable ?? false,
-          hideTitle: chapter.hideTitle ?? false,
-          isDiscText: chapter.isDiscText ?? false,
-          isExpanded:
-            chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
-        };
+      const newUIChapter: UIChapter = {
+        name: chapter.name,
+        japaneseName: chapter.japaneseName ?? chapter.name,
+        number: chapter.number,
+        text: englishText,
+        japaneseText: jpText,
+        isCollapsable: chapter.isCollapsable ?? false,
+        hideTitle: chapter.hideTitle ?? false,
+        isDiscText: chapter.isDiscText ?? false,
+        isExpanded:
+          chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
+      };
 
-        return newUIChapter;
-      })
-    ).then((res) => {
-      setChapterText(res);
-    });
+      setChapterText(text => [...text, newUIChapter])
+    })
   }, []);
 
   const handleExpandChapter = (index: number) => {
@@ -55,7 +52,7 @@ const MainPage = () => {
   };
 
   const generateSection = (chapter: UIChapter, index: number) => {
-    if (chapter.isDiscText) return <h1 className="chapter-title-header">{chapter.name}</h1>
+    if (chapter.isDiscText) return;
     return (
       <ChapterSection
         chapter={chapter}
