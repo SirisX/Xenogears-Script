@@ -9,7 +9,6 @@
   left: 0px;
   top: 0;
   border-right: rgba(255, 255, 255, 0.644) 1px solid;
-  /* background-color: black; */
   z-index: 1;
   transition: 0.15s all ease-in;
   overflow-x: hidden;
@@ -124,7 +123,7 @@
 }
 
 .x-button:hover {
-  color: rgba(255, 255, 255, 0.913);
+  color:#890000
 }
 
 /* .x-button:active {
