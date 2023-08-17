@@ -1,7 +1,6 @@
 /* CSS for the sidebar container */
 .sidebar {
   position: fixed;
-  height: 50%;
   height: 100%;
   height: -webkit-fill-available;
   /* width: 180px; */
@@ -18,7 +17,6 @@
 .sidebar-link {
   color: white;
   cursor: pointer;
-  /* font-size: 1rem; */
   margin: 4px;
   /* max-width: 150px; */
 }
@@ -32,14 +30,12 @@
 .sidebar-link:active {
   color: #e70000;
   cursor: pointer;
-  /* font-weight: 600; */
   margin: 4px;
 }
 
 .sidebar-link-light {
   color: black;
   cursor: pointer;
-  /* font-size: 1rem; */
   margin: 4px;
 }
 
@@ -60,9 +56,7 @@
   grid-template-columns: auto 40px;
   cursor: pointer;
   align-items: center;
-  /* margin-bottom: 12px; */
   height: 3px;
-  /* border-bottom: 1px rgba(255, 255, 255, 0.644) solid; */
 }
 
 .sidebar-header p {
@@ -76,7 +70,6 @@
 
 .sidebar-header p:active {
   color: rgba(255, 255, 255, 0.567);
-  /* font-weight: 800; */
   margin: 0;
   margin-left: 6px;
   margin-top: 1px;
@@ -89,7 +82,6 @@
   left: -2px;
   height: 30px;
   border-radius: 1px;
-  /* background-color: black; */
   display: grid;
   justify-items: start;
   z-index: 10;
@@ -115,8 +107,7 @@
   cursor: pointer;
   position: absolute;
   font-weight: 800;
-  text-align: center;
-  margin: 0px;
+  margin: 0;
   left: 150px;
   height: 35px;
   width: 40px;
