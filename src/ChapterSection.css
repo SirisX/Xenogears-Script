@@ -19,7 +19,7 @@
 }
 
 .chapter-text {
-  contain-intrinsic-size: 1000px;
+  contain-intrinsic-height: 1000px;
   content-visibility: auto;
   font-size: 1.0rem;
   justify-self: center;
@@ -119,6 +119,7 @@
 @media (min-width: 540px) {
   .chapter-text {
     margin-left: 0px;
+    margin-right: 0px;
     font-size: 1.1rem;
   }
   .chapter-text-intro {
