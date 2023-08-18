@@ -24,6 +24,7 @@
   font-size: 1.1rem;
   justify-self: center;
   margin-top: 32px;
+  margin-left: 60px;
   max-width: 100vw;
   position: relative;
   white-space: pre-wrap;
@@ -117,7 +118,7 @@
 /* Rules for BIG screens only */
 @media (min-width: 540px) {
   .chapter-text {
-    /*width: 450px;*/
+    margin-left: 0px;
   }
   .chapter-text-intro {
     column-count: 3;
