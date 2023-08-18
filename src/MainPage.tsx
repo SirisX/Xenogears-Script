@@ -23,18 +23,12 @@ const MainPage = () => {
             return text;
           });
 
-        const jpText = await fetch(chapter.japaneseText)
-          .then((r) => r.text())
-          .then((text) => {
-            return text;
-          });
-
         const newUIChapter: UIChapter = {
           name: chapter.name,
           japaneseName: chapter.japaneseName ?? chapter.name,
           number: chapter.number,
           text: englishText,
-          japaneseText: jpText,
+          japaneseText: "",
           isCollapsable: chapter.isCollapsable ?? false,
           hideTitle: chapter.hideTitle ?? false,
           isDiscText: chapter.isDiscText ?? false,
