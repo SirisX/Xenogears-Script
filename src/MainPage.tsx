@@ -10,8 +10,29 @@ const MainPage = () => {
   const [showSidebar, setShowSidebar] = useState<boolean>(false);
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
+  const [shouldDoBabyLoad, setShouldDoBabyLoad] = useState<boolean>(false);
+  const [shouldLoadAllEnglish, setShouldLoadAllEnglish] = useState<boolean>(false);
   const [shouldLoadAllChapters, setShouldLoadAllChapters] = useState<boolean>(false);
   const [uiChapters, setUiChapters] = useState<{ [name: string]: UIChapter }>();
+  const [englishChapters, setEnglishChapters] = useState<UIChapter[]>([]);
+
+  const createUIChapter = (chapter: Chapter, englishText: string, jpText: string): UIChapter => {
+    const newUIChapter: UIChapter = {
+      name: chapter.name,
+      japaneseName: chapter.japaneseName ?? chapter.name,
+      number: chapter.number,
+      text: englishText,
+      japaneseText: jpText,
+      isCollapsable: chapter.isCollapsable ?? false,
+      hideTitle: chapter.hideTitle ?? false,
+      isDiscText: chapter.isDiscText ?? false,
+      isExpanded:
+        chapter.isCollapsable && !!chapter.defaultCollapsed
+          ? false
+          : true,
+    };
+    return newUIChapter;
+  }
 
   //Secret first load
   useEffect(() => {
@@ -22,36 +43,40 @@ const MainPage = () => {
           .then((text) => {
             return text;
           });
-
-        const newUIChapter: UIChapter = {
-          name: chapter.name,
-          japaneseName: chapter.japaneseName ?? chapter.name,
-          number: chapter.number,
-          text: englishText,
-          japaneseText: "",
-          isCollapsable: chapter.isCollapsable ?? false,
-          hideTitle: chapter.hideTitle ?? false,
-          isDiscText: chapter.isDiscText ?? false,
-          isExpanded:
-            chapter.isCollapsable && !!chapter.defaultCollapsed
-              ? false
-              : true,
-        };
-
-        return newUIChapter;
+        return createUIChapter(chapter, englishText, "");
       })
     ).then((res) => {
       setChapterText(res);
-      setTimeout(() => {
-        setShouldLoadAllChapters(true);
-      }, 5);
+      setShouldDoBabyLoad(true);
     });
-  }, [])
+  }, []);
 
-  // Full load
+
+  // Second load, just a few chapters to get them started
   useEffect(() => {
-    if (shouldLoadAllChapters) {
+    if (shouldDoBabyLoad) {
+      Promise.all(
+        DefaultChapters.slice(0, 12).map(async (chapter: Chapter, index) => {
+          const englishText = await fetch(chapter.text)
+            .then((r) => r.text())
+            .then((text) => {
+              return text;
+            });
+            return createUIChapter(chapter, englishText, "");
+          })
+      ).then((res) => {
+        setChapterText(res);
+        setTimeout(() => {
+          setShouldLoadAllEnglish(true);
+        }, 5);
+      });
+    }
+  }, [shouldDoBabyLoad]);
 
+
+  //Load all english chapters
+  useEffect(() => {
+    if (shouldLoadAllEnglish) {
       Promise.all(
         DefaultChapters.map(async (chapter: Chapter, index) => {
           const englishText = await fetch(chapter.text)
@@ -59,6 +84,23 @@ const MainPage = () => {
             .then((text) => {
               return text;
             });
+            return createUIChapter(chapter, englishText, "");
+          })
+      ).then((res) => {
+        setEnglishChapters(res);
+        setChapterText(res);
+        setShouldLoadAllChapters(true);
+      });
+    }
+  }, [shouldLoadAllEnglish])
+
+  // Full load
+  useEffect(() => {
+    if (shouldLoadAllChapters && englishChapters.length) {
+
+      Promise.all(
+        DefaultChapters.map(async (chapter: Chapter, index) => {
+          const englishText = englishChapters[index].text;
 
           const jpText = await fetch(chapter.japaneseText)
             .then((r) => r.text())
@@ -66,28 +108,13 @@ const MainPage = () => {
               return text;
             });
 
-          const newUIChapter: UIChapter = {
-            name: chapter.name,
-            japaneseName: chapter.japaneseName ?? chapter.name,
-            number: chapter.number,
-            text: englishText,
-            japaneseText: jpText,
-            isCollapsable: chapter.isCollapsable ?? false,
-            hideTitle: chapter.hideTitle ?? false,
-            isDiscText: chapter.isDiscText ?? false,
-            isExpanded:
-              chapter.isCollapsable && !!chapter.defaultCollapsed
-                ? false
-                : true,
-          };
-
-          return newUIChapter;
+            return createUIChapter(chapter, englishText, jpText);
         })
       ).then((res) => {
         setChapterText(res);
       });
     }
-  }, [shouldLoadAllChapters]);
+  }, [englishChapters, shouldLoadAllChapters]);
 
   const handleExpandChapter = (index: number) => {
     const newChapters = [...chapterText];
