@@ -96,7 +96,7 @@ export const SIDEBAR_WIDTH = "0";
 
 
 
-export const DefaultChapters: Chapter[] = [
+export const DefaultChapters: readonly Chapter[] = [
   {
     name: "Xenogears",
     number: -4,
