@@ -5,6 +5,7 @@
   height: -webkit-fill-available;
   /* width: 180px; */
   width: fit-content;
+  min-width: 150px;
   left: 0px;
   top: 0;
   border-right: rgba(255, 255, 255, 0.644) 1px solid;
