@@ -26,7 +26,7 @@
   margin-top: 32px;
   margin-left: 60px;
   max-width: 100vw;
-  min-width: 80vw;
+  min-width: auto;
   position: relative;
   white-space: pre-wrap;
   width: fit-content;
