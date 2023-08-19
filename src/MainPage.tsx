@@ -124,7 +124,7 @@ const MainPage = () => {
   };
 
   const generateSection = (chapter: UIChapter, index: number) => {
-    if (chapter.isDiscText) return;
+    if (chapter.isDiscText) return <h1 className="chapter-title-header">{chapter.name}</h1>
     return (
       <ChapterSection
         chapter={chapter}
