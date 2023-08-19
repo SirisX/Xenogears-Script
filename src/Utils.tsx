@@ -66,3 +66,15 @@ export const generateChapterClassName = (index: number) => {
       return "chapter-text";
   }
 };
+
+// THis function controls the sidebar buttons and how far left they appear
+export const getButtonLeft = (showSidebar: boolean, showJapanese: boolean) => {
+  //If the sidebar is open and in japanese...
+  if (showSidebar && showJapanese) return "174px"
+
+  //If the sidebar is open and in English
+  if (showSidebar) return "148px"
+
+  //If the sidebar is closed
+  return "1px"
+}

@@ -1,5 +1,5 @@
 import "./Sidebar.css";
-import { generateTableOfContents } from "./Utils";
+import { generateTableOfContents, getButtonLeft } from "./Utils";
 
 interface SidebarProps {
   showSidebar: boolean;
@@ -47,8 +47,12 @@ const Sidebar = ({
     return (
       <p
         onClick={() => setIsDarkMode()}
-        className={showSidebar ? "switch-darkmode-open" : "switch-darkmode"}
-        style={{ color: isDarkMode ? "white" : "black" }}
+        className={"sidebar-button"}
+        style={{
+          color: isDarkMode ? "white" : "black",
+          left: getButtonLeft(showSidebar, showJapanese),
+          top: "58px",
+        }}
         data-umami-event={isDarkMode ? "Dark Mode Button" : "Light Mode Button"}
       >
         Ω
@@ -60,8 +64,12 @@ const Sidebar = ({
     return (
       <p
         onClick={() => setShowJapanese()}
-        className={showSidebar ? "switch-language-open" : "switch-language"}
-        style={{ color: isDarkMode ? "white" : "black" }}
+        className={"sidebar-button"}
+        style={{
+          color: isDarkMode ? "white" : "black",
+          left: getButtonLeft(showSidebar, showJapanese),
+          top: "32px",
+        }}
         data-umami-event={showJapanese ? "EN Button" : "JP Button"}
       >
         {showJapanese ? "EN" : "JP"}
@@ -72,10 +80,11 @@ const Sidebar = ({
   const generateOpenButton = () => {
     return (
       <p
-        className={showSidebar ? "x-button" : "quick-jump"}
+        className={"sidebar-button"}
         style={{
           color: isDarkMode ? "white" : "black",
           fontSize: "1.5rem",
+          left: getButtonLeft(showSidebar, showJapanese),
         }}
         onClick={() => {
           setShowSidebar();

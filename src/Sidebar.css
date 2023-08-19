@@ -75,18 +75,6 @@
   margin-top: 1px;
 }
 
-/*Button to open nav*/
-.sidebar-openbox {
-  position: fixed;
-  top: -2px;
-  left: -2px;
-  height: 30px;
-  border-radius: 1px;
-  display: grid;
-  justify-items: start;
-  z-index: 10;
-}
-
 .sidebar-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -103,7 +91,7 @@
   background: transparent;
 }
 
-.x-button {
+.sidebar-button {
   cursor: pointer;
   position: absolute;
   font-weight: 800;
@@ -112,120 +100,13 @@
   height: 35px;
   width: 40px;
   z-index: 5;
+  transition: left 0.1s ease;
 }
 
-.x-button:hover {
+.sidebar-button:hover {
   color:#890000
 }
 
-.x-button:active {
+.sidebar-button:active {
   color: rgba(255, 0, 0, 0.736);
-}
-
-.quick-jump {
-  color: white;
-  cursor: pointer;
-  font-weight: 800;
-  margin: 0;
-  margin-left: 4px;
-  user-select: none;
-  width: 50px;
-  height: 25px;
-  margin-top: 2px;
-}
-
-.quick-jump:hover {
-  color:#890000
-}
-
-/*Language switcher*/
-.switch-language {
-  color: white;
-  position: fixed;
-  top: 32px;
-  margin: 0;
-  left: 1px;
-  height: 25px;
-  width: 50px;
-  font-weight: 700;
-  border-radius: 1px;
-  display: grid;
-  justify-items: start;
-  cursor: pointer;
-  user-select: none;
-  z-index: 2;
-}
-
-.switch-language:hover {
-  opacity: 0.8;
-}
-
-.switch-language:active {
-  opacity: 0.5;
-}
-
-.switch-language-open {
-  color: white;
-  position: fixed;
-  top: 36px;
-  margin: 0;
-  left: 148px;
-  height: 25px;
-  width: 25px;
-  font-weight: 700;
-  border-radius: 1px;
-  display: grid;
-  justify-items: start;
-  cursor: pointer;
-  user-select: none;
-}
-
-.switch-language-open:hover {
-  opacity: 0.8;
-}
-
-.switch-darkmode {
-  color: white;
-  position: fixed;
-  top: 58px;
-  margin: 0;
-  left: 3px;
-  height: 25px;
-  width: 50px;
-  border-radius: 1px;
-  display: grid;
-  font-weight: 700;
-  justify-items: start;
-  cursor: pointer;
-  user-select: none;
-  z-index: 2;
-}
-
-.switch-darkmode:hover {
-  opacity: 0.8;
-}
-
-.switch-darkmode:active {
-  opacity: 0.5;
-}
-
-.switch-darkmode-open {
-  color: white;
-  position: fixed;
-  top: 65px;
-  margin: 0;
-  left: 150px;
-  height: 50px;
-  font-weight: 700;
-  width: 25px;
-  border-radius: 1px;
-  display: grid;
-  justify-items: start;
-  cursor: pointer;
-  user-select: none;
-  z-index: 8;
-}
-
-.switch-darkmode-open:hover {
-  opacity: 0.8;
 }
