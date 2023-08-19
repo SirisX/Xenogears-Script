@@ -100,7 +100,7 @@
   height: 35px;
   width: 40px;
   z-index: 5;
-  transition: left 0.1s ease;
+  transition: left 0.2s ease;
 }
 
 .sidebar-button:hover {
@@ -109,4 +109,15 @@
 
 .sidebar-button:active {
   color: rgba(255, 0, 0, 0.736);
+}
+
+.sidebar-openbox {
+  position: fixed;
+  top: -2px;
+  left: -2px;
+  height: 30px;
+  border-radius: 1px;
+  display: grid;
+  justify-items: start;
+  z-index: 10;
 }
