@@ -73,7 +73,7 @@ export const getButtonLeft = (showSidebar: boolean, showJapanese: boolean) => {
   if (showSidebar && showJapanese) return "174px"
 
   //If the sidebar is open and in English
-  if (showSidebar) return "148px"
+  if (showSidebar) return "144px"
 
   //If the sidebar is closed
   return "1px"

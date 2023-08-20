@@ -107,6 +107,7 @@
   align-self: end;
   justify-self: center;
   text-align: left;
+  text-shadow: #890000 1px 2px 1px;
 }
 
 .sidebar-button:hover {
