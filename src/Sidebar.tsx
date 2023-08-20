@@ -43,19 +43,21 @@ const Sidebar = ({
     );
   };
 
-  const generateOmegaButton = () => {
+
+  const generateOpenButton = () => {
     return (
       <p
-        onClick={() => setIsDarkMode()}
         className={"sidebar-button"}
         style={{
           color: isDarkMode ? "white" : "black",
+          fontSize: "2.5rem",
           left: getButtonLeft(showSidebar, showJapanese),
-          top: "58px",
         }}
-        data-umami-event={isDarkMode ? "Dark Mode Button" : "Light Mode Button"}
+        onClick={() => {
+          setShowSidebar();
+        }}
       >
-        Ω
+        {showSidebar ? "«" : "»"}
       </p>
     );
   };
@@ -77,20 +79,19 @@ const Sidebar = ({
     );
   };
 
-  const generateOpenButton = () => {
+  const generateOmegaButton = () => {
     return (
       <p
+        onClick={() => setIsDarkMode()}
         className={"sidebar-button"}
         style={{
           color: isDarkMode ? "white" : "black",
-          fontSize: "1.5rem",
           left: getButtonLeft(showSidebar, showJapanese),
+          top: "64px",
         }}
-        onClick={() => {
-          setShowSidebar();
-        }}
+        data-umami-event={isDarkMode ? "Dark Mode Button" : "Light Mode Button"}
       >
-        {showSidebar ? "«" : "»"}
+        Ω
       </p>
     );
   };

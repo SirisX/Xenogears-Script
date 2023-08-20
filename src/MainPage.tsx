@@ -11,12 +11,18 @@ const MainPage = () => {
   const [showJapanese, setShowJapanese] = useState<boolean>(false);
   const [isDarkMode, setIsDarkMode] = useState<boolean>(true);
   const [shouldDoBabyLoad, setShouldDoBabyLoad] = useState<boolean>(false);
-  const [shouldLoadAllEnglish, setShouldLoadAllEnglish] = useState<boolean>(false);
-  const [shouldLoadAllChapters, setShouldLoadAllChapters] = useState<boolean>(false);
+  const [shouldLoadAllEnglish, setShouldLoadAllEnglish] =
+    useState<boolean>(false);
+  const [shouldLoadAllChapters, setShouldLoadAllChapters] =
+    useState<boolean>(false);
   const [uiChapters, setUiChapters] = useState<{ [name: string]: UIChapter }>();
   const [englishChapters, setEnglishChapters] = useState<UIChapter[]>([]);
 
-  const createUIChapter = (chapter: Chapter, englishText: string, jpText: string): UIChapter => {
+  const createUIChapter = (
+    chapter: Chapter,
+    englishText: string,
+    jpText: string
+  ): UIChapter => {
     const newUIChapter: UIChapter = {
       name: chapter.name,
       japaneseName: chapter.japaneseName ?? chapter.name,
@@ -27,12 +33,10 @@ const MainPage = () => {
       hideTitle: chapter.hideTitle ?? false,
       isDiscText: chapter.isDiscText ?? false,
       isExpanded:
-        chapter.isCollapsable && !!chapter.defaultCollapsed
-          ? false
-          : true,
+        chapter.isCollapsable && !!chapter.defaultCollapsed ? false : true,
     };
     return newUIChapter;
-  }
+  };
 
   //Secret first load
   useEffect(() => {
@@ -51,7 +55,6 @@ const MainPage = () => {
     });
   }, []);
 
-
   // Second load, just a few chapters to get them started
   useEffect(() => {
     if (shouldDoBabyLoad) {
@@ -62,8 +65,8 @@ const MainPage = () => {
             .then((text) => {
               return text;
             });
-            return createUIChapter(chapter, englishText, "");
-          })
+          return createUIChapter(chapter, englishText, "");
+        })
       ).then((res) => {
         setChapterText(res);
         setTimeout(() => {
@@ -72,7 +75,6 @@ const MainPage = () => {
       });
     }
   }, [shouldDoBabyLoad]);
-
 
   //Load all english chapters
   useEffect(() => {
@@ -84,20 +86,19 @@ const MainPage = () => {
             .then((text) => {
               return text;
             });
-            return createUIChapter(chapter, englishText, "");
-          })
+          return createUIChapter(chapter, englishText, "");
+        })
       ).then((res) => {
         setEnglishChapters(res);
         setChapterText(res);
         setShouldLoadAllChapters(true);
       });
     }
-  }, [shouldLoadAllEnglish])
+  }, [shouldLoadAllEnglish]);
 
   // Full load
   useEffect(() => {
     if (shouldLoadAllChapters && englishChapters.length) {
-
       Promise.all(
         DefaultChapters.map(async (chapter: Chapter, index) => {
           const englishText = englishChapters[index].text;
@@ -108,7 +109,7 @@ const MainPage = () => {
               return text;
             });
 
-            return createUIChapter(chapter, englishText, jpText);
+          return createUIChapter(chapter, englishText, jpText);
         })
       ).then((res) => {
         setChapterText(res);
@@ -124,7 +125,9 @@ const MainPage = () => {
   };
 
   const generateSection = (chapter: UIChapter, index: number) => {
-    if (chapter.isDiscText) return <h1 className="chapter-title-header">{chapter.name}</h1>
+    if (chapter.isDiscText && chapter.name === "———DISC 1———") return "";
+    if (chapter.isDiscText)
+      return <h1 className="chapter-title-header">{chapter.name}</h1>;
     return (
       <ChapterSection
         chapter={chapter}
