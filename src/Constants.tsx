@@ -94,8 +94,14 @@ import SWAP_ME_OUT from "./text/chapters/06_JP_Into_the_Woods.txt";
 export const SIDEBAR_WIDTH = "0";
 // export const SIDEBAR_WIDTH = '340px'
 
-
-
+//Properties:
+    // isCollapsable: true
+    // hideInSidebar: true
+    // defaultCollapsed: true
+    // hideInMainContents: true
+    // hideTitle: true,
+    // japaneseName: "緋の鬼神"
+    
 
 export const DefaultChapters: readonly Chapter[] = [
   {
@@ -167,10 +173,6 @@ export const DefaultChapters: readonly Chapter[] = [
     text: chap1Text,
     japaneseText: jpChap1Text,
     japaneseName: "始まり、ラハン",
-    // isCollapsable: true
-    /* hideInSidebar: true, */
-    /* defaultCollapsed: true */
-    /* hideInMainContents: true, */
   },
   {
     name: "Mountain Path",
@@ -311,8 +313,6 @@ export const DefaultChapters: readonly Chapter[] = [
     text: chap20Text,
     hideInSidebar: true,
     hideInMainContents: true,
-    // defaultCollapsed: true,
-    // isCollapsable: true,
     hideTitle: true,
     japaneseText: SWAP_ME_OUT,
     // japaneseName: "緋の鬼神",
