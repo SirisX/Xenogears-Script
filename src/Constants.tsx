@@ -1,5 +1,5 @@
 import { Chapter } from "./Types";
-import headerText from "./text/intro/0_HEADER.txt";
+import headerText from "./text/intro/00_HEADER.txt";
 import contentsText from "./text/intro/01_CONTENTS.txt";
 import quoteText from "./text/intro/02_OPENING_QUOTE.txt";
 import openingMovieText from "./text/intro/03_Opening_Movie.txt";
@@ -75,7 +75,7 @@ import chap66Text from "./text/chapters/66_Fallen_Star.txt";
 import chap67Text from "./text/chapters/67_Xenogears_Wakes.txt";
 import chap68Text from "./text/chapters/68_First_and_Last.txt";
 
-import jpHeaderText from "./text/intro/0_JP_HEADER.txt";
+import jpHeaderText from "./text/intro/00_JP_HEADER.txt";
 import jpContentsText from "./text/intro/01_JP_CONTENTS.txt";
 import jpQuoteText from "./text/intro/02_JP_OPENING_QUOTE.txt";
 import jpMovieText from "./text/intro/03_JP_Opening_Movie.txt";
