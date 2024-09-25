@@ -573,19 +573,19 @@ export const DefaultChapters: readonly Chapter[] = [
     japaneseName: "明日なき逃走",
   },
   {
-    name: "Shot Down!",
-    number: 56,
-    text: chap56Text,
-    japaneseText: SWAP_ME_OUT,
-    japaneseName: "大樹海に消えて",
-  },
-  {
     name: "———DISC 2———",
     number: 56,
     text: "———DISC 2———",
     japaneseText: SWAP_ME_OUT,
     japaneseName: "———DISC 2———",
     isDiscText: true,
+  },
+  {
+    name: "Shot Down!",
+    number: 56,
+    text: chap56Text,
+    japaneseText: SWAP_ME_OUT,
+    japaneseName: "大樹海に消えて",
   },
   {
     name: "Break the Seal",
