@@ -583,7 +583,7 @@ export const DefaultChapters: readonly Chapter[] = [
     name: "———DISC 2———",
     number: 56,
     text: "———DISC 2———",
-    japaneseText: "test",
+    japaneseText: SWAP_ME_OUT,
     japaneseName: "———DISC 2———",
     isDiscText: true,
   },
