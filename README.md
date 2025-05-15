@@ -1,7 +1,6 @@
 # [Xenogears Script](https://xenogears.us/)
 The entire Xenogears script in English & Japanese.  
-Extracted from the game by SadNES cITy Translations.  
-None of it has been altered, save for a few minor error fixes.
+Extracted directly from the original game files.
 
 Xenogears  
 Story by Tetsuya Takahashi and Soraya Saga  
