@@ -57,6 +57,17 @@ const ChapterSection = ({
         )}
         {showJapanese ? chapter.japaneseText : chapter.text}
         {index === 0 && (
+          <p
+            className="download-link"
+            data-umami-event={
+              showJapanese ? "Download Link (JP)" : "Download Link (EN)"
+            }
+            onClick={() => handleStartDownload(showJapanese)}
+          >
+            {showJapanese
+              ? "フルスクリプトをダウンロード"
+              : "Download Full Script"}
+          </p>
         )}
         <div className="chapter-text-intro">
           {index === 1 &&
