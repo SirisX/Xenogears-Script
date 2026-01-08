@@ -1,7 +1,5 @@
 import { DefaultChapters } from "./Constants";
 import { Chapter } from "./Types";
-import fullScript from "./text/FULL_SCRIPT.txt";
-import fullScriptJapanese from "./text/JP_FULL_SCRIPT.txt";
 
 // Jump to certain spot in the page based on chapter number
 export const handleGoToSection = (chapter: Chapter) => {
@@ -37,22 +35,6 @@ export const generateTableOfContents = (isDarkMode: boolean, showJapanese: boole
       </div>
     );
   });
-};
-
-export const handleStartDownload = (showJapanese: boolean) => {
-  let a = document.createElement("a");
-
-  if (showJapanese) {
-    a.href = fullScriptJapanese;
-    a.download = `ゼノギアス`;
-  } else {
-    a.href = fullScript;
-    a.download = `Xenogears_Fullscript_English`;
-  }
-
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
 };
 
 export const generateChapterClassName = (index: number) => {
