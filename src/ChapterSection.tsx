@@ -6,7 +6,6 @@ import Sidebar from "./Sidebar";
 import {
   generateChapterClassName,
   generateTableOfContents,
-  handleStartDownload,
 } from "./Utils";
 
 interface ChapterSectionProps {
@@ -56,19 +55,6 @@ const ChapterSection = ({
           </h1>
         )}
         {showJapanese ? chapter.japaneseText : chapter.text}
-        {index === 0 && (
-          <p
-            className="download-link"
-            data-umami-event={
-              showJapanese ? "Download Link (JP)" : "Download Link (EN)"
-            }
-            onClick={() => handleStartDownload(showJapanese)}
-          >
-            {showJapanese
-              ? "フルスクリプトをダウンロード"
-              : "Download Full Script"}
-          </p>
-        )}
         <div className="chapter-text-intro">
           {index === 1 &&
             generateTableOfContents(isDarkMode, showJapanese, false)}
