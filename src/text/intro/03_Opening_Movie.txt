@@ -3,19 +3,25 @@
 ————————————————————————————
 
 System Announcement
-"This is an emergency, Level 1 alert."
+"This is an emergency level 1 alert."
 
 Operator 1
-"Omega 1 restarting.
+"Omega 1 restarting."
+
+Operator 2
 Alpha 1 genome restructuring.
+
+Operator 3
 Confirming exon replacement.
+
+Operator 1
 Base code 85 million...a hundred million!
 Its speed is overwhelming!"
 
 Operator 2
 "Alpha 1 to Razael Central. Access confirmed!
 Initializing fake net...Disconnected!
-Activating emergency shutdown...Denied!"
+Activating emergency shelter...Denied!"
 
 Operator 1
 "Contamination is spreading widely...Captain!?"
@@ -28,7 +34,7 @@ Operator 1
 Confirming...No good, nothing happened."
 
 Operator 2
-"Omega 1 is invading! We can't stop it!"
+"Omega 1 they are attacking! We can't stop them!"
 
 Operator 3
 "98% of our weapons have been taken over!"
@@ -43,27 +49,29 @@ An internal plane is forming...
 Switching to space displacement mode."
 
 Operator 3
-"Alpha 1 confirming transfer of coordinate codes!
+"Alpha 1 confirming transfer of coordinate codes.
 Coordinate input:
-Coordinate NX128 - EZ061...The main planet!!"
+Coordinate NX128 - EZ061, the main planet!"
 
 Captain
-"Damn, so it's planning on attacking...
-Engine Room! Activate the emergency sealing system!!
-...Engine Room!? Engine-"
+"Damn, so they're planning on attacking...
+Engine room! Activate the emergency sealing system!
+...Engine room!? Engin-"
 
-You shall be as gods
-You shall be as gods
-You shall be as gods...
+Computer Screen Text
+"You shall be as gods
+ You shall be as gods
+ You shall be as gods..."
 
 Captain
 "See that all civilians and passengers 
 are safely transported to the escape shuttles.
 I will send a dispatch after evacuation is complete.
-I am evacuating the ship...all of you...evacuate now."
+I am evacuating the ship. All of you, evacuate now."
 
 System Announcement
 "EVACUATE. EVACUATE.
+Evacuate the ship immediately.
 All passengers, 
 please board the shuttles 
 in a calm and orderly fashion."
